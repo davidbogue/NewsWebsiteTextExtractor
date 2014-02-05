@@ -1,0 +1,15 @@
+// File has condition => text .. more conditions separated by an ampersand
+// conditions are: EQUALS, STARTS_WITH, ENDS_WITH, CONTAINS, DOES_NOT_START_WITH, DOES_NOT_END_WITH, DOES_NOT_CONTAIN, MATCHES_PATTERN
+CONTAINS=>Action Alerts PLUS
+CONTAINS=>To contact the reporter on this story:
+CONTAINS=>To contact the editor responsible for this story:
+CONTAINS=>To contact the writer on the story:
+CONTAINS=>Please enable JavaScript to view
+STARTS_WITH=>Subscribe to WSJ:
+STARTS_WITH=>© 2012
+STARTS_WITH=>Copyright © 2012
+STARTS_WITH=>The material on this site may not be reproduced, 
+STARTS_WITH=>Tags: & CONTAINS=>,
+STARTS_WITH=>To view Zacks’ full report,
+STARTS_WITH=>Keep up with the latest analysts' ratings by subscribing to
+EQUALS=>Ad Choices. 

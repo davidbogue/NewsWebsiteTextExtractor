@@ -1,0 +1,10 @@
+// File has condition => text .. more conditions are separated by an ampersand
+// conditions are: EQUALS, STARTS_WITH, ENDS_WITH, CONTAINS, DOES_NOT_START_WITH, DOES_NOT_END_WITH, DOES_NOT_CONTAIN, MATCHES_PATTERN
+CONTAINS=>content & DOES_NOT_CONTAIN=>left_content & DOES_NOT_CONTAIN=>right_content
+CONTAINS=>fullstory
+CONTAINS=>storytext
+CONTAINS=>body
+CONTAINS=>entry
+CONTAINS=>article
+CONTAINS=>blogtext
+CONTAINS=>article-body

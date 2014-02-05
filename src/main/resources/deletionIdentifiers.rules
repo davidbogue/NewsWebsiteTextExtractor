@@ -1,0 +1,18 @@
+// File has condition => text .. more conditions separated by an ampersand
+// conditions are: EQUALS, STARTS_WITH, ENDS_WITH, CONTAINS, DOES_NOT_START_WITH, DOES_NOT_END_WITH, DOES_NOT_CONTAIN, MATCHES_PATTERN
+CONTAINS=>comment
+EQUALS=>masthead 
+EQUALS=>recModule
+EQUALS=>articleMeta
+EQUALS=>yom-secondary
+EQUALS=>premServ
+CONTAINS=>video
+CONTAINS=>embed
+CONTAINS=>caption
+CONTAINS=>signup
+CONTAINS=>subscribe & DOES_NOT_CONTAIN=>subtype-subscribed
+CONTAINS=>newsletter
+CONTAINS=>related & DOES_NOT_CONTAIN=>with_related
+EQUALS=>BottomFileInfoPanel
+EQUALS=>articlebot_box
+EQUALS=>content_guidelines

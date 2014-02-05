@@ -1,0 +1,54 @@
+// File has condition comma text .. more conditions are separated by an ampersand
+// conditions are: EQUALS, STARTS_WITH, ENDS_WITH, CONTAINS, DOES_NOT_START_WITH, DOES_NOT_END_WITH, DOES_NOT_CONTAIN, MATCHES_PATTERN
+CONTAINS=>header & DOES_NOT_CONTAIN=>storyheader
+CONTAINS=>heading
+CONTAINS=>footer
+CONTAINS=>foot-text
+CONTAINS=>navigation
+CONTAINS=>side-rail
+ENDS_WITH=>ads 
+CONTAINS=>featured
+CONTAINS=>carousel
+CONTAINS=>stories
+CONTAINS=>hidden
+CONTAINS=>dropdown
+CONTAINS=>form & DOES_NOT_CONTAIN=>format & DOES_NOT_CONTAIN=>perform
+CONTAINS=>disclaimer
+CONTAINS=>summary
+CONTAINS=>list
+CONTAINS=>signup
+CONTAINS=>subscribe
+CONTAINS=>error
+CONTAINS=>popup
+CONTAINS=>modal
+CONTAINS=>embed
+CONTAINS=>excerpt
+CONTAINS=>copyright
+CONTAINS=>tags
+CONTAINS=>metadata
+CONTAINS=>sponsor
+CONTAINS=>related
+CONTAINS=>subcol
+CONTAINS=>disclaimer
+CONTAINS=>disclosure
+CONTAINS=>more
+CONTAINS=>adcontainer
+CONTAINS=>promo
+CONTAINS=>sidebar
+CONTAINS=>col_side
+CONTAINS=>rightcolumn
+CONTAINS=>tools
+CONTAINS=>toolbox
+CONTAINS=>referenced
+CONTAINS=>comments
+CONTAINS=>pagination
+CONTAINS=>masthead
+CONTAINS=>weather
+CONTAINS=>image_holder
+CONTAINS=>storyMediaBox
+CONTAINS=>site-reg-link
+CONTAINS=>SignInDialog
+EQUALS=>type_article_head
+EQUALS=>about_module
+EQUALS=>creditline_byline
+EQUALS=>dsSearch
