@@ -1,0 +1,588 @@
+
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" dir="ltr" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+<title>Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High | Property Mentor</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="stylesheet" href="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/css/978.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/style.css" type="text/css" media="screen"/>
+
+<link rel="pingback" href="http://www.propertymentorgroup.com/xmlrpc.php" />
+
+
+<!-- Alt Stylesheet -->
+<link href="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/styles/default.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://www.propertymentorgroup.com/wp-content/themes/arthemia-premium/images/icons/favicon.ico"/>
+
+<!-- CoLabs Shortcodes CSS -->
+<link href="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/custom/custom.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="Property Mentor &raquo; Feed" href="http://www.propertymentorgroup.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Property Mentor &raquo; Comments Feed" href="http://www.propertymentorgroup.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Property Mentor &raquo; Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High Comments Feed" href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/feed/" />
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/layout.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/jquery.sooperfish.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var colabs_settings = {"baseurl":"http:\/\/www.propertymentorgroup.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/jquery.ready.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/modernizr.custom.94731.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/jquery.modernizr.js?ver=3.3.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.propertymentorgroup.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.propertymentorgroup.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Both General Motors (NYSE:GM) And Ford Motor (NYSE:F) Snap Three-Day Rally On New Jobs Plan' href='http://www.propertymentorgroup.com/both-general-motors-nysegm-and-ford-motor-nysef-snap-three-day-rally-on-new-jobs-plan/122464/' />
+<link rel='next' title='The ABS Reported A Decline In Home Loan Approvals: Citigroup Inc. (NYSE:C) Reduces Mortgage Rate – (USB, FITB, STT, RF, STI, KEY)' href='http://www.propertymentorgroup.com/the-abs-reported-a-decline-in-home-loan-approvals-citigroup-inc-nysec-reduces-mortgage-rate-usb-fitb-stt-rf-sti-key/122478/' />
+<meta name="generator" content="WordPress 3.3.2" />
+<link rel='shortlink' href='http://www.propertymentorgroup.com/?p=2459' />
+
+<!-- All in One SEO Pack 1.6.14.5 by Michael Torbert of Semper Fi Web Design[153,290] -->
+<meta name="keywords" content="alpha natural resources,anr,facebook,fb,nasdaq:fb,nasdaq:yhoo,nyse:anr,nyse:vale,vale,yahoo,yhoo" />
+<link rel="canonical" href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" />
+<!-- /all in one seo pack -->
+
+<!-- Theme version -->
+<meta name="generator" content="Blogging News 1.7.1" />
+<meta name="generator" content="CoLabsFramework 1.3.5" />
+		
+		<meta property="og:title" content="Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" />
+	        <meta property="og:image" content="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/facebook1-100x100.jpg"/>
+    	<meta property="og:site_name" content="" />
+	<meta property="fb:admins" content="" />
+	    
+    <meta name="viewport" content="width=1024,maximum-scale=1.0" />
+<!--[if IE 6]>
+<script type="text/javascript" src="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/includes/js/pngfix.js"></script>
+<![endif]-->	
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script src="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/js/common_header-aebfcb81.js"></script>
+</head>
+
+<body class="single single-post postid-2459 single-format-standard chrome two-col-left" id="Body">
+<div id="page">
+<!---Page-->
+<div id="header"> 
+  <!---Header-->
+  
+    
+  <div id="head_bar"> 
+    <!---Headbar-->
+    <div id="navbar"> 
+      <!---Navbar-->
+      <ul class="menu"><li ><a href="http://www.propertymentorgroup.com/" title="Home">Home</a></li><li class="page_item page-item-236"><a href="http://www.propertymentorgroup.com/about-us/">About Us</a></li>
+<li class="page_item page-item-242"><a href="http://www.propertymentorgroup.com/advertising/">Advertising</a></li>
+<li class="page_item page-item-244"><a href="http://www.propertymentorgroup.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-239"><a href="http://www.propertymentorgroup.com/contributors/">Contributors</a></li>
+<li class="page_item page-item-249"><a href="http://www.propertymentorgroup.com/disclaimer/">Disclaimer</a></li>
+<li class="page_item page-item-246"><a href="http://www.propertymentorgroup.com/privacy-policy/">Privacy Policy</a></li>
+</ul>    </div><!---/#Navbar-->
+    
+    <div id="subscription"> 
+      <!---Subscription-->
+      <div class="rss"> <span class="rss_image"><img src="
+http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/rss.png" alt="img"></span>
+        <ul>
+          <li>
+            <h6><a href="http://www.propertymentorgroup.com/feed/">RSS FEED</a></h6>
+          </li>
+        </ul>
+      </div>
+            
+    </div><!---/#Subscription-->
+    
+    <div class="select-menu">
+        <select name="page_id" id="page_id" class="page-dropdown-menu menu select">
+	<option value="-1">Navigate to</option>
+	<option class="level-0" value="236">About Us</option>
+	<option class="level-0" value="242">Advertising</option>
+	<option class="level-0" value="244">Contact Us</option>
+	<option class="level-0" value="239">Contributors</option>
+	<option class="level-0" value="249">Disclaimer</option>
+	<option class="level-0" value="246">Privacy Policy</option>
+</select>
+    </div>
+    
+    <div class="clear"></div>
+  </div><!---/Head_bar-->
+  
+  
+  
+  <div id="tagline" class="row">
+    <div id="logo">
+            <strong>
+      <a href="http://www.propertymentorgroup.com"><img alt="logo" src="http://dev.propertymentorgroup.com/wp-content/uploads/2012/07/logo.png"></a>
+      </strong>
+    <!--  <br />-->
+      	  
+    </div><!---/#logo-->
+   <div style="float:right;margin-right:25px;"> <img src="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/pro.jpg"></div>
+        
+      
+  <div class="clear"></div>
+  </div><!--/#tagline-->
+  
+  <div id="navcat">
+    	<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-832"><a href="http://www.propertymentorgroup.com">Home</a></li>
+<li id="menu-item-317" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-317"><a href="http://www.propertymentorgroup.com/category/financial-news/">Financial News</a></li>
+<li id="menu-item-318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-318"><a href="http://www.propertymentorgroup.com/category/home-loans/">Home Loans</a></li>
+<li id="menu-item-319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319"><a href="http://www.propertymentorgroup.com/category/mortgage/">Mortgage</a></li>
+<li id="menu-item-320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-320"><a href="http://www.propertymentorgroup.com/category/real-estate/">Real Estate</a></li>
+<li id="menu-item-321" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-321"><a href="http://www.propertymentorgroup.com/category/todays-hot-news/">Today&#8217;s Hot News</a></li>
+</ul></div>  </div>
+  
+  <div class="clear"></div>
+  
+</div><!---/Header-->
+  <div id="content" class="clearfloat">
+    
+    <div class="col8" id="main-content">
+        <div class="post-2459 post type-post status-publish format-standard hentry category-financial-news category-todays-hot-news tag-alpha-natural-resources tag-anr tag-facebook tag-fb tag-nasdaqfb tag-nasdaqyhoo tag-nyseanr tag-nysevale tag-vale tag-yahoo tag-yhoo entry">
+    <h1>Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High</h1>        <div id="more">
+    <script src="https://apis.google.com/js/plusone.js" type="text/javascript">
+</script>
+<script type="text/javascript">gapi.plusone.go();</script>
+<p class="date">By <strong><span class="author vcard"><a class="url fn n" href="http://www.propertymentorgroup.com/author/john-beal/" title="View all posts by John Beal">John Beal</a></span></strong> <br> On September 11, 2012 At 12:17 pm </a></p><p class="detail">Category : <a href="http://www.propertymentorgroup.com/category/financial-news/" title="View all posts in Financial News" rel="category tag">Financial News</a>, <a href="http://www.propertymentorgroup.com/category/todays-hot-news/" title="View all posts in Today&#039;s Hot News" rel="category tag">Today's Hot News</a></p><p class="detail">Responses : <strong><a href="#comments"><a href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/#comments">No Comments</a></a></strong></p><div class="clear"></div><div class="detail"><div class="colabs-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" data-via="colorlabs"data-count="horizontal" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+<div class="colabs-fblike fl">
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;colorscheme=light&amp;font=arial" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:150px; height:25px;"></iframe>
+</div>
+	
+<div class="colabs-fbshare left">
+<a name="fb_share" type="button" share_url="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/"></a>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"
+        type="text/javascript">
+</script>
+</div>
+	<div class="shortcode-google-plusone fl"><div class="g-plusone"  data-size="medium" data-href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" data-annotation="none"></div></div><!--/.shortcode-google-plusone-->
+
+</div><div class="clear"></div><div id="related-post" class="widget"><h4 class="widget-title">Related Posts</h4><ul><li><a href="http://www.propertymentorgroup.com/major-movements-apple-inc-nasdaqaapl-as-one-of-the-fantastic-three-record-price-breakers/122440/" rel="bookmark" title="Permanent Link to Major Movements; Apple Inc (NASDAQ:AAPL) As One Of The Fantastic Three Record Price Breakers">Major Movements; Apple Inc (NASDAQ:AAPL) As One Of The Fantastic Three Record Price Breakers</a><span>September 10, 2012</span></li><li><a href="http://www.propertymentorgroup.com/apple-inc-s-nasdaqaapl-expected-music-service-threatens-pandora-media-inc-nysep-anr-lulu-kft/122428/" rel="bookmark" title="Permanent Link to Apple Inc.’s (NASDAQ:AAPL) Expected Music Service Threatens Pandora Media Inc. (NYSE:P) – (ANR, LULU, KFT)">Apple Inc.’s (NASDAQ:AAPL) Expected Music Service Threatens Pandora Media Inc. (NYSE:P) – (ANR, LULU, KFT)</a><span>September 10, 2012</span></li><li><a href="http://www.propertymentorgroup.com/key-indexes-set-record-apple-inc-nasdaqaapl-recovers-well-after-settlement-over-ebooks-yhoo-stx-goog-ibm/122349/" rel="bookmark" title="Permanent Link to Key Indexes Set Record; Apple Inc. (NASDAQ:AAPL) Recovers Well After Settlement Over eBooks – (YHOO, STX, GOOG, IBM)">Key Indexes Set Record; Apple Inc. (NASDAQ:AAPL) Recovers Well After Settlement Over eBooks – (YHOO, STX, GOOG, IBM)</a><span>September 7, 2012</span></li></ul></div><br class="clear" /><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6960617521239541";
+/* PMG_Article Center */
+google_ad_slot = "7336023822";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+    <a href="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/facebook1.jpg" rel="lightbox"title="Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/facebook1.jpg" alt=""  width="440"  height="291"  class="colabs-image wp-post-image " /></a><p>U.S. stocks finished close to their session lows yesterday, weighed by a selloff in tech stocks, and as traders adopted a cautious approach prior to the Federal Reserve’s policy decision due later this week. Wall Street faced its first decline in three sessions, as the market caught its breath after last week&#8217;s climb to multiyear highs. Nearly all the internet information providers finished lower with Google Inc. (NASDAQ:GOOG) and Zynga Inc. (NASDAQ:ZNGA) suffered noteworthy declines.</p>
+<p><strong>Facebook Inc. (NASDAQ:FB)</strong> broke three-day winning streak as its hype looms over startups The stock’s price decreased in the last trading session with a previous 52-week high of $45.00. The stock was trading on below-average volume. The stock traded at a volume of 24.78 million shares at a price loss of -0.90%. The share price is now down -30.36% for the past three months. Latest closing price was 21.07% above its 50-day moving average and 26.19% above its 200-day moving average.</p>
+<p><strong>Yahoo! Inc. (NASDAQ:YHOO)</strong> finished down after an alliance with Affle (a digital media company) for mobile advertising‎. While trading at volume lower than average, the stock fell -0.72% yesterday. Its previous 52-week high was $16.79 and moved up 5.96% over the same period, trading at a volume of 10.52 million. Shares have risen 4.28% over the trailing 6 months. The stock is currently trading -2.27% below its SMA 50 and -1.90% below its SMA 200.</p>
+<p>In the energy sector, <strong>Alpha Natural Resources, Inc. (NYSE:ANR)</strong> continued to close up even after analysts at Dahlman Rose reduced the stock to hold from their buy rating. Over the last 12 months, a return on equity of -43.57 percent was realized due to the financial situation and earnings per share reached a value of -$13.36. Earnings are projected to move up 19.50 percent for the coming five years. The stock closed at $6.92, up 0.02 points or 0.29% from previous close and at a distance of 7.50% from 20-day simple moving average. </p>
+<p><strong><br />
+Vale SA (ADR) (NYSE:VALE) </strong>failed to maintain gains after rising over six percent on China measures. The stock moved down -15.01% in this year and its price history showed most recently beta was at 1.50. Overall the last 12 months, the percentage change in the price was -33.58%, hitting the highest of $27.60 on Sep 15, 2011 while lowest level in that period was $15.77 on Sep 04, 2012.</p>
+</div>
+		<div align="center"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6960617521239541";
+/* PMG_article_bottom */
+google_ad_slot = "7657843338";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+           
+	    
+        
+    </div><!--/.col8-->
+    	
+    <!--RIGHT SIDEBAR WIDGETS-->
+    <div class="col4" id="right-sidebar-widgets">
+	<style>
+	.widget22 div {
+    line-height: 1.4em;
+    margin: 10px 0 0;
+    padding: 0 10px;
+}
+.widget22 p {
+    margin: 0 0 7px;
+}
+#feedform {
+    background: url("http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/ico_email.png") no-repeat scroll left center transparent;
+    display: block;
+    margin: 10px 0 0;
+    padding: 0;
+}
+#feedform input {
+    display: inline;
+    vertical-align: middle;
+}
+#feedbutton {
+    background: url("http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/regular_button.png") no-repeat scroll center top transparent;
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 0.7em;
+    font-weight: bold;
+    height: 35px;
+    margin: 0 0 0 3px;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 67px;
+}
+#feedemail {
+    background: url("http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/field.png") no-repeat scroll center top transparent;
+    border: 0 none;
+    color: #666666;
+    display: block;
+    height: 15px;
+    margin: 0 0 0 22px;
+    padding: 5px 10px;
+    width: 180px !important;
+}
+#feedlink {
+    background: url("http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/images/newsletterIcon.png") no-repeat scroll left center transparent;
+    font-weight: bold;
+    padding: 2px 0 15px 42px;
+	width:32px;
+	height:32px;
+	 font-size: 16px;
+}
+	</style><div class="widget22" style=" width:320px;height:120px; border-bottom:1px solid #ccc;margin-bottom:15px">
+	<div>
+        <p><a id="feedlink" href="http://www.propertymentorgroup.com/feed/">Subscribe by RSS feed</a></p>
+        <form enctype="application/x-www-form-urlencoded" action="http://feedburner.google.com/fb/a/mailverify?uri=propertymentorgroup/NTZB" method="get" id="feedform" style="margin: 0px; padding: 0px;">
+          <fieldset>
+          <input type="text" class="clearfield" value="Enter your e-mail..." name="email" onfocus="if(this.value == 'Enter your e-mail...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Enter your e-mail...'; }" id="feedemail">
+          <input type="hidden" name="uri" value="propertymentorgroup/NTZB">
+          <input type="hidden" value="en_US" name="loc">
+          <input type="submit" value="Sign Up" id="feedbutton">
+          </fieldset>
+        </form>
+      </div>
+	  </div>
+	  	  <div style="margin-bottom:12px; border-bottom:1px solid #ccc;padding-bottom: 12px;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6960617521239541";
+/* PMG_article_bottom */
+google_ad_slot = "7657843338";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+	        <!--.tabwidget-->
+    <div class="start1">&nbsp;</div><div id="colabs_tabs-2" class="widget widget_colabs_tabs">  
+
+ 		<div id="tabs">
+           
+            <ul class="colabsTabs">
+                <li class="latest"><a href="#tab-latest">Latest</a></li>
+                                <li class="popular"><a href="#tab-pop">Popular</a></li>                                <li class="comments"><a href="#tab-comm">Comments</a></li>                            </ul>
+            
+            <div class="clear"></div>
+            
+            <div class="boxes box inside">
+                        
+	                            <ul id="tab-latest" class="list">
+                    	<li>
+		<a href="http://www.propertymentorgroup.com/apple-inc-nasdaqaapls-ipad-could-save-up-to-1-2m-per-year-for-american-airlines/122483/" title="Apple Inc. (NASDAQ:AAPL)’s iPad Could Save Up-to $1.2m Per Year For American Airlines"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/apple1-35x35.gif" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Apple Inc. (NASDAQ:AAPL)’s iPad Could Save Up-to $1.2m Per Year For American Airlines" href="http://www.propertymentorgroup.com/apple-inc-nasdaqaapls-ipad-could-save-up-to-1-2m-per-year-for-american-airlines/122483/">Apple Inc. (NASDAQ:AAPL)’s iPad Could Save Up-to $1.2m Per Year For American Airlines</a>
+		<span class="meta">September 11, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/nokia-corporation-nysenok-seems-back-to-normal-plans-to-sell-bss-unit-hpq-amd-csco-dell-orcl-t/122457/" title="Nokia Corporation (NYSE:NOK) Seems Back To Normal, Plans To Sell BSS Unit – (HPQ, AMD, CSCO, DELL, ORCL, T)"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/Nokia-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Nokia Corporation (NYSE:NOK) Seems Back To Normal, Plans To Sell BSS Unit – (HPQ, AMD, CSCO, DELL, ORCL, T)" href="http://www.propertymentorgroup.com/nokia-corporation-nysenok-seems-back-to-normal-plans-to-sell-bss-unit-hpq-amd-csco-dell-orcl-t/122457/">Nokia Corporation (NYSE:NOK) Seems Back To Normal, Plans To Sell BSS Unit – (HPQ, AMD, CSCO, DELL, ORCL, T)</a>
+		<span class="meta">September 11, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/judgement-day-approaches-for-apple-inc-nasdaqaapl-s-aone-msft-intc/122439/" title="Judgement Day Approaches For Apple Inc. (NASDAQ:AAPL) – (S, AONE, MSFT, INTC)"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/apple1-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Judgement Day Approaches For Apple Inc. (NASDAQ:AAPL) – (S, AONE, MSFT, INTC)" href="http://www.propertymentorgroup.com/judgement-day-approaches-for-apple-inc-nasdaqaapl-s-aone-msft-intc/122439/">Judgement Day Approaches For Apple Inc. (NASDAQ:AAPL) – (S, AONE, MSFT, INTC)</a>
+		<span class="meta">September 11, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/the-abs-reported-a-decline-in-home-loan-approvals-citigroup-inc-nysec-reduces-mortgage-rate-usb-fitb-stt-rf-sti-key/122478/" title="The ABS Reported A Decline In Home Loan Approvals: Citigroup Inc. (NYSE:C) Reduces Mortgage Rate – (USB, FITB, STT, RF, STI, KEY)"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/home-loans-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="The ABS Reported A Decline In Home Loan Approvals: Citigroup Inc. (NYSE:C) Reduces Mortgage Rate – (USB, FITB, STT, RF, STI, KEY)" href="http://www.propertymentorgroup.com/the-abs-reported-a-decline-in-home-loan-approvals-citigroup-inc-nysec-reduces-mortgage-rate-usb-fitb-stt-rf-sti-key/122478/">The ABS Reported A Decline In Home Loan Approvals: Citigroup Inc. (NYSE:C) Reduces Mortgage Rate – (USB, FITB, STT, RF, STI, KEY)</a>
+		<span class="meta">September 11, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" title="Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/09/facebook1-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High" href="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/">Facebook Inc. (NASDAQ:FB) Breaks Three-Day Advancing Streak, Google Inc. (NASDAQ:GOOG) Edges down after New 52-weeks High</a>
+		<span class="meta">September 11, 2012</span>
+		<div class="fix"></div>
+	</li>
+	                    
+                </ul>
+	                            
+                                <ul id="tab-pop" class="list">            
+                    	<li>
+				<a title="Trinity Industries, Inc. Announces Departure of Antonio Carrillo" href="http://www.propertymentorgroup.com/trinity-industries-inc-announces-departure-of-antonio-carrillo/1210/">Trinity Industries, Inc. Announces Departure of Antonio Carrillo</a>
+		<span class="meta">May 21, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/aging-artists-futuristic-vision-of-urban-development-finds-a-home-at-the-university-of-cincinnati/12196/" title="Aging Artist’s Futuristic Vision of Urban Development Finds a Home at the University of Cincinnati"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/06/Victory-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Aging Artist’s Futuristic Vision of Urban Development Finds a Home at the University of Cincinnati" href="http://www.propertymentorgroup.com/aging-artists-futuristic-vision-of-urban-development-finds-a-home-at-the-university-of-cincinnati/12196/">Aging Artist’s Futuristic Vision of Urban Development Finds a Home at the University of Cincinnati</a>
+		<span class="meta">June 5, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/lynda-tollner-joins-bakers-white-plains-new-york-office-as-construction-manager/12214/" title="Lynda Tollner Joins Baker’s White Plains, New York, Office as Construction Manager"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/06/Michael-Baker-Engineering-Inc-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Lynda Tollner Joins Baker’s White Plains, New York, Office as Construction Manager" href="http://www.propertymentorgroup.com/lynda-tollner-joins-bakers-white-plains-new-york-office-as-construction-manager/12214/">Lynda Tollner Joins Baker’s White Plains, New York, Office as Construction Manager</a>
+		<span class="meta">June 9, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/key-tech-earnings-this-week-aapl-txn-stx-wdc-sap-emc-vmw-sndk-aone-rovi/12629/" title="Key Tech Earnings This Week – (AAPL, TXN, STX, WDC, SAP, EMC, VMW, SNDK, AONE, ROVI)"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/07/home-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Key Tech Earnings This Week – (AAPL, TXN, STX, WDC, SAP, EMC, VMW, SNDK, AONE, ROVI)" href="http://www.propertymentorgroup.com/key-tech-earnings-this-week-aapl-txn-stx-wdc-sap-emc-vmw-sndk-aone-rovi/12629/">Key Tech Earnings This Week – (AAPL, TXN, STX, WDC, SAP, EMC, VMW, SNDK, AONE, ROVI)</a>
+		<span class="meta">July 23, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.propertymentorgroup.com/despite-strong-year-over-year-increase-apple-incs-nasdaqaapl-growth-was-lowest-in-over-2-years-csco-msft-s/12732/" title="Despite Strong Year-Over-Year Increase, Apple Inc’s (NASDAQ:AAPL) Growth Was Lowest In Over 2 Years &#8211; (CSCO, MSFT, S)"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/07/highest-dividend-stocks-35x35.jpg" alt=""  width="35"  height="35"  class="colabs-image thumbnail" /></a>		<a title="Despite Strong Year-Over-Year Increase, Apple Inc’s (NASDAQ:AAPL) Growth Was Lowest In Over 2 Years &#8211; (CSCO, MSFT, S)" href="http://www.propertymentorgroup.com/despite-strong-year-over-year-increase-apple-incs-nasdaqaapl-growth-was-lowest-in-over-2-years-csco-msft-s/12732/">Despite Strong Year-Over-Year Increase, Apple Inc’s (NASDAQ:AAPL) Growth Was Lowest In Over 2 Years &#8211; (CSCO, MSFT, S)</a>
+		<span class="meta">July 25, 2012</span>
+		<div class="fix"></div>
+	</li>
+	                    
+                </ul>
+                                                				<ul id="tab-comm" class="list">
+                    		<li>
+			<img alt='' src='http://0.gravatar.com/avatar/672889b4e90861e2fa4619c5e443f5aa?s=35&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D35&amp;r=G' class='avatar avatar-35 photo' height='35' width='35' />		
+			<a href="http://www.propertymentorgroup.com/despite-strong-year-over-year-increase-apple-incs-nasdaqaapl-growth-was-lowest-in-over-2-years-csco-msft-s/12732/#comment-347" title="on  Despite Strong Year-Over-Year Increase, Apple Inc’s (NASDAQ:AAPL) Growth Was Lowest In Over 2 Years - (CSCO, MSFT, S)">
+                <span class="author">RockArt</span></a>: <span class="comment">The pundits or so called experts predicted that Ap...</span>
+			
+			<div class="fix"></div>
+		</li>
+				<li>
+			<img alt='' src='http://0.gravatar.com/avatar/e4177395d7ca424f96276665d478837a?s=35&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D35&amp;r=G' class='avatar avatar-35 photo' height='35' width='35' />		
+			<a href="http://www.propertymentorgroup.com/key-tech-earnings-this-week-aapl-txn-stx-wdc-sap-emc-vmw-sndk-aone-rovi/12629/#comment-171" title="on  Key Tech Earnings This Week – (AAPL, TXN, STX, WDC, SAP, EMC, VMW, SNDK, AONE, ROVI)">
+                <span class="author">Russ Utoft</span></a>: <span class="comment">STX looks like the best bang for the buck out ther...</span>
+			
+			<div class="fix"></div>
+		</li>
+				<li>
+			<img alt='' src='http://1.gravatar.com/avatar/b54857dec54fd3f869b3433baf612cd0?s=35&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D35&amp;r=G' class='avatar avatar-35 photo' height='35' width='35' />		
+			<a href="http://www.propertymentorgroup.com/trinity-industries-inc-announces-departure-of-antonio-carrillo/1210/#comment-10" title="on  Trinity Industries, Inc. Announces Departure of Antonio Carrillo">
+                <span class="author">Sara Hart</span></a>: <span class="comment">Sad to see him go!...</span>
+			
+			<div class="fix"></div>
+		</li>
+				<li>
+			<img alt='' src='http://1.gravatar.com/avatar/b54857dec54fd3f869b3433baf612cd0?s=35&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D35&amp;r=G' class='avatar avatar-35 photo' height='35' width='35' />		
+			<a href="http://www.propertymentorgroup.com/aging-artists-futuristic-vision-of-urban-development-finds-a-home-at-the-university-of-cincinnati/12196/#comment-9" title="on  Aging Artist’s Futuristic Vision of Urban Development Finds a Home at the University of Cincinnati">
+                <span class="author">John Buggy</span></a>: <span class="comment">nice!...</span>
+			
+			<div class="fix"></div>
+		</li>
+				<li>
+			<img alt='' src='http://1.gravatar.com/avatar/b6a0df51cfc20f8535be551a4a954cdd?s=35&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D35&amp;r=G' class='avatar avatar-35 photo' height='35' width='35' />		
+			<a href="http://www.propertymentorgroup.com/lynda-tollner-joins-bakers-white-plains-new-york-office-as-construction-manager/12214/#comment-7" title="on  Lynda Tollner Joins Baker’s White Plains, New York, Office as Construction Manager">
+                <span class="author">money</span></a>: <span class="comment">This is a great post, thanks!...</span>
+			
+			<div class="fix"></div>
+		</li>
+		                    
+                </ul>                
+                                
+            </div><!-- /.boxes -->
+			
+        </div><!-- /colabsTabs -->
+    
+         </div><div style="height:800px;">&nbsp;</div><div id="footer2" style="vertical-align:bottom;">&nbsp;</div>
+    </div><!--/#right-sidebar-widgets-->
+    
+    <!--/RIGHT SIDEBAR WIDGETS-->  </div><!--/#content-->
+  <link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.propertymentorgroup.com/wp-content/plugins/pmg_cust_ptnews/css1/demo.css' type='text/css' media='all' />
+<!--popup content-->
+
+
+	
+<form method="post" class="af-form-wrapper" action="http://www.aweber.com/scripts/addlead.pl"   onsubmit="return verifyRequired3936();">
+
+	<div id="popupContainer" class="hidden" style="background:url('http://www.propertymentorgroup.com/wp-content/plugins/pmg_cust_ptnews/css1/newsletter2.jpg') no-repeat; width:574px; height:378px; top:65px; left:342px;  ">
+		<a id="close" class="hidden" title="close popup"></a>
+
+		<p id="contactArea" style="margin-top: 195px; margin-right:10px;">
+  <!-- <input type="text" id="sub_username" name="name" value="Your first and last name" onblur="if(this.value == '') { this.value = 'Your first and last name'; }" onfocus="if(this.value == 'Your first and last name') { this.value = ''; }" class="username" style="width:200px; height:18px; border:none; border:none;margin-left: 227px;
+  
+    
+    ">--><br />
+	<input type="text" id="sub_email" name="email" onblur="if(this.value == '') { this.value = 'Enter Email Address'; }" onfocus="if(this.value == 'Enter Email Address') { this.value = ''; }" value="Enter Email Address" class="email" style="width:333px; height:50px; border:none; border:none; padding-left:12px; float:left; margin-left:110px;margin-top:-1px; background: url('http://www.propertymentorgroup.com/wp-content/plugins/pmg_cust_ptnews/css1/buttonnews1.png') no-repeat scroll 0 0 transparent;"><br />
+	<input type="submit" value="" class="but1" border="0"  style="margin-top: 35px; padding: 3px;"/>
+		</p><p style="color:red;font-size:11px;margin-left:160px;margin-top:15px;">No Spam: We will not sell or share your information. View our <a href="http://www.propertymentorgroup.com/privacy-policy/">privacy policy</a></p>
+	</div>
+	<div id="overlayEffect">
+
+
+
+
+<input type="hidden" name="meta_web_form_id" value="1989284894" />
+<input type="hidden" name="meta_split_id" value="" />
+<input type="hidden" name="listname" value="12prportymtgp" />
+<input type="hidden" name="redirect" value="http://www.propertymentorgroup.com/facebook-inc-nasdaqfb-breaks-three-day-advancing-streak-google-inc-nasdaqgoog-edges-down-after-new-52-weeks-high/122459/" id="redirect_09aac3989a3db68f3b17c0a4c9d7ec9e" />
+
+<input type="hidden" name="meta_adtracking" value="propertymentorgroup_webform" />
+<input type="hidden" name="meta_message" value="1" />
+<input type="hidden" name="meta_required" value="email" />
+
+<input type="hidden" name="meta_tooltip" value="" />
+
+
+    </div></form>
+	
+	
+	<script type="text/javascript">
+
+var icpForm3936 = document.getElementById('sub_email');
+
+if (document.location.protocol === "https:")icpForm3936.action = "https://app.icontact.com/icp/signup.php";
+function verifyRequired3936() {if (icpForm3936["email"].value == "") {icpForm3936["email"].focus();alert("The Email field is required.");return false;
+}
+
+
+return true;
+}
+</script>
+
+
+
+
+  <!--end popup content--> 
+   
+	<script src="http://www.propertymentorgroup.com/wp-content/plugins/pmg_cust_ptnews/css1/jquery-1.5.js" type="text/javascript"></script>
+	<script src="http://www.propertymentorgroup.com/wp-content/plugins/pmg_cust_ptnews/css1/script.js" type="text/javascript"></script>
+
+  <!--FOOTER WIDGETS-->
+  <div id="footer-widgets" class="row clearfloat">
+    <div class="col3"><div id="text-3" class="widget widget_text"><h4 class="widget-title">About us</h4>			<div class="textwidget"><p><a href="http://www.propertymentorgroup.com/about-us/"><b>Property Mentor Group</b></a> is a web based news journal. We strive to provide the latest housing, economic, and financial news to help our readers better understand the world in which we live.</p>
+<p>PMG was started by entrepreneur Frank Houghton.  Frank is a successful real estate investor who has decided to offer an informative online publication to help share his knowledge.</p>
+</div>
+		</div></div>
+<div class="col3">		<div id="recent-posts-3" class="widget widget_recent_entries">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+				<li><a href="http://www.propertymentorgroup.com/apple-inc-nasdaqaapls-ipad-could-save-up-to-1-2m-per-year-for-american-airlines/122483/" title="Apple Inc. (NASDAQ:AAPL)’s iPad Could Save Up-to $1.2m Per Year For American Airlines">Apple Inc. (NASDAQ:AAPL)’s iPad Could Save Up-to $1.2m Per Year For American Airlines</a></li>
+				<li><a href="http://www.propertymentorgroup.com/nokia-corporation-nysenok-seems-back-to-normal-plans-to-sell-bss-unit-hpq-amd-csco-dell-orcl-t/122457/" title="Nokia Corporation (NYSE:NOK) Seems Back To Normal, Plans To Sell BSS Unit – (HPQ, AMD, CSCO, DELL, ORCL, T)">Nokia Corporation (NYSE:NOK) Seems Back To Normal, Plans To Sell BSS Unit – (HPQ, AMD, CSCO, DELL, ORCL, T)</a></li>
+				<li><a href="http://www.propertymentorgroup.com/judgement-day-approaches-for-apple-inc-nasdaqaapl-s-aone-msft-intc/122439/" title="Judgement Day Approaches For Apple Inc. (NASDAQ:AAPL) – (S, AONE, MSFT, INTC)">Judgement Day Approaches For Apple Inc. (NASDAQ:AAPL) – (S, AONE, MSFT, INTC)</a></li>
+				</ul>
+		</div></div>
+<div class="col2"><div id="categories-3" class="widget widget_categories"><h4 class="widget-title">Categories</h4>		<ul>
+	<li class="cat-item cat-item-216"><a href="http://www.propertymentorgroup.com/category/featured-news/" title="View all posts filed under Featured Stories">Featured Stories</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.propertymentorgroup.com/category/financial-news/" title="Find reliable financial information and latest news on the stock market covering earnings, IPO, acquisitions, mergers and much more.">Financial News</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.propertymentorgroup.com/category/home-loans/" title="Get all the latest news about home loans and also expert opinion to help manage your home loan.
+">Home Loans</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.propertymentorgroup.com/category/mortgage/" title="Visit the mortgage section to find most recent news on mortgages, mortgage brokers, and mortgage rates.">Mortgage</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.propertymentorgroup.com/category/real-estate/" title="This section contains daily real estate industry news covering topics of interest to sellers, buyers, and real estate professionals.">Real Estate</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.propertymentorgroup.com/category/todays-hot-news/" title="Today’s hot news segment delivers the top discussed current events, top stories and trends of the day.">Today&#039;s Hot News</a>
+</li>
+		</ul>
+</div></div>
+    
+        <div class="col4 footer-logo"><img src="http://www.propertymentorgroup.com/wp-content/uploads/2012/07/logo.png" alt="logo"/></div>
+        
+    <div class="clear"></div>
+  </div><!--/#footer-widgets-->
+  
+  <!--/FOOTER WIDGETS-->
+
+  <div id="footer">
+    <select name="page_id" id="page_id" class="page-dropdown-menu menu select">
+	<option value="-1">Navigate to</option>
+	<option class="level-0" value="236">About Us</option>
+	<option class="level-0" value="242">Advertising</option>
+	<option class="level-0" value="244">Contact Us</option>
+	<option class="level-0" value="239">Contributors</option>
+	<option class="level-0" value="249">Disclaimer</option>
+	<option class="level-0" value="246">Privacy Policy</option>
+</select>
+    <!--p id="copyright">Copyright 2012 Property Mentor. All rights reserved.</p-->
+    <p id="copyright">    
+                Copyright&nbsp;2012&nbsp;<a href="http://www.propertymentorgroup.com">Propertymentorgroup</a>.&nbsp;All rights reserved.
+		    </p>
+    
+    <div class="menu-footer-container"><ul><li ><a href="http://www.propertymentorgroup.com/" title="Home">Home</a></li><li class="page_item page-item-236"><a href="http://www.propertymentorgroup.com/about-us/">About Us</a></li><li class="page_item page-item-242"><a href="http://www.propertymentorgroup.com/advertising/">Advertising</a></li><li class="page_item page-item-244"><a href="http://www.propertymentorgroup.com/contact-us/">Contact Us</a></li><li class="page_item page-item-239"><a href="http://www.propertymentorgroup.com/contributors/">Contributors</a></li><li class="page_item page-item-249"><a href="http://www.propertymentorgroup.com/disclaimer/">Disclaimer</a></li><li class="page_item page-item-246"><a href="http://www.propertymentorgroup.com/privacy-policy/">Privacy Policy</a></li></ul></div>
+    
+  </div><!--#footer-->
+  <div class="clear"></div>
+  
+</div><!---/Page-->
+<script src="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/js/common_footer-de9435a8.js"></script>
+<script src="http://www.propertymentorgroup.com/wp-content/themes/bloggingnews/js/article-new-4b6b8f5b.js"></script> 
+<script>
+		if(dmjs.maintenance.dart) {
+			dmjs.addLoadEvent(function() {
+				dartAds.renderAdElements($("[data-dartAdParams]"));
+			});
+		}
+		$(window).load(function() {
+			dmjs.fireEvents();
+		});
+	</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33426502-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- GoSquared Analytics -->
+<script type="text/javascript">
+    var GoSquared={};
+    GoSquared.acct = "GSN-497305-P";
+    (function(w){
+        function gs(){
+            w._gstc_lt=+(new Date); var d=document;
+            var g = d.createElement("script"); g.type = "text/javascript"; g.async = true; g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+            var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);
+        }
+        w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);
+    })(window);
+</script>
+
+<!-- CoLabs Tabs Widget -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	// UL = .colabsTabs
+	// Tab contents = .inside
+	
+	var tag_cloud_class = '#tagcloud'; 
+	
+	//Fix for tag clouds - unexpected height before .hide() 
+	var tag_cloud_height = jQuery('#tagcloud').height();
+	
+	jQuery('.inside ul li:last-child').css('border-bottom','0px'); // remove last border-bottom from list in tab content
+	jQuery('.colabsTabs').each(function(){
+		jQuery(this).children('li').children('a:first').addClass('selected'); // Add .selected class to first tab on load
+	});
+	jQuery('.inside > *').hide();
+	jQuery('.inside > *:first-child').show();
+	
+	jQuery('.colabsTabs li a').click(function(evt){ // Init Click funtion on Tabs
+	
+		var clicked_tab_ref = jQuery(this).attr('href'); // Strore Href value
+		
+		jQuery(this).parent().parent().children('li').children('a').removeClass('selected'); //Remove selected from all tabs
+		jQuery(this).addClass('selected');
+		jQuery(this).parent().parent().parent().children('.inside').children('*').hide();
+		
+		jQuery('.inside ' + clicked_tab_ref).fadeIn(500);
+		 
+		 evt.preventDefault();
+	
+	})
+})
+</script>
+</body>
+</html>

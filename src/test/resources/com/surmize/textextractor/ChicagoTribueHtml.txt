@@ -1,0 +1,4932 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=7"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+	
+	<meta http-equiv="Content-Language" content="en-US" />
+	
+	<meta name="date" content="2012-09-11" />
+	<meta name="last-modified" content="2012-09-11 13:36:20 CDT" />
+	<meta name="author" content="AP Illinois" />
+	<meta name="copyright" content="Copyright (c) 2012 AP Illinois" />
+	<meta name="fb_title" content="Premiums for family health plans hit $15,745" />
+	<meta property="og:title" content="Premiums for family health plans hit $15,745"/>
+
+    
+    
+    <meta property="og:description" content="It sounds like good news: Annual premiums for job-based family health plans went up only 4 percent this year."/>
+
+
+	
+	
+	<meta property="fb:app_id" content="306836229411287" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story"/>
+    <meta property="og:image" content="http://www.trbimg.com/img-504f820e/turbine/chi-premiums-for-family-health-plans-hit-15745-20120911/187/16x9"/>
+    <meta property="og:site_name" content="chicagotribune.com"/>
+	
+
+    <title>Premiums for family health plans hit $15,745 - chicagotribune.com</title>
+	<link rel="start" title="Premiums for family health plans hit $15,745 - chicagotribune.com" type="text/html" href="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story" />
+    
+
+    
+
+
+
+
+
+ 
+
+
+
+
+
+
+  <meta name="Description" content="It sounds like good news: Annual premiums for job-based family health plans went up only 4 percent this year." />
+
+
+<meta name="y_key" content="43959a87935ee9bb">
+<meta name="msvalidate.01" content="AAC9C18F70AC386BC4DCF4DDF9BF1786">
+
+
+
+
+
+
+
+    
+    
+    
+    
+            
+    
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<link rel="canonical" href="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story" />
+	
+		<meta name="syndication-source" content="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story" />
+	
+
+
+
+	
+
+    
+
+
+
+
+
+
+
+
+
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link rel="icon" type="image/ico" href="/favicon.ico"/>
+
+	<link href="/hive/stylesheets/reset.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/content.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/footer.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/header.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/common.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/structure.css" media="all" rel="stylesheet" type="text/css" />
+	
+	
+	
+	
+		<link href="/hive/stylesheets/adv_search.css" media="all" rel="stylesheet" type="text/css">
+		
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	<link href="/hive/stylesheets/ssor.css" media="all" rel="stylesheet" type="text/css" />
+
+  <link href="/hive/stylesheets/registration_signin/registration.css?v=8" media="all" rel="stylesheet" />
+
+
+
+<link href="/stylesheets/market.css" media="all" rel="stylesheet" type="text/css" />
+
+
+
+	
+	
+
+
+<!--[if lte IE 6]>
+<link href="/hive/stylesheets/ie6-styles.css" media="all" rel="stylesheet" type="text/css" />
+<script defer type="text/javascript" src="/hive/javascripts/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link href="/hive/stylesheets/ie7-styles.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="/hive/javascripts/jquery-1.7.2.js"></script>
+<script src="/hive/javascripts/infuse-0.9p19.js"></script>
+<script>
+  var trblib = window.i$;
+  i$.pluginPath = '/hive/javascripts/plugins/';
+</script>
+    <script src="/hive/javascripts/jquery-1.3.2.js"></script>
+    
+    <script>
+      jQuery = $;  //rename $ function
+    </script>
+    <script src="/hive/javascripts/prototype.js"></script>
+   	<script src="/hive/javascripts/scriptaculous.js"></script>
+    
+    <script src="/hive/javascripts/tabinterface.js"></script>
+    <script src="/hive/javascripts/AC_RunActiveContent.js"></script>
+    <script src="/hive/javascripts/cookies.js"></script>
+    <script src="/hive/javascripts/taxonomy-ads.js"></script>
+    <script src="/hive/javascripts/windoid.js"></script>
+    <script src="/hive/javascripts/menu.js"></script>
+
+
+    <script src="/hive/javascripts/adv_global.js"></script>
+
+
+
+
+
+<script>
+trblib.ns('trb').data = {
+  contentId: '72231866',
+  marketCode: 'chinews',
+  section: '/health'
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script src="/hive/javascripts/jquery.cookies.2.1.0.min.js"></script>
+  <script src="/hive/javascripts/xd/xd.core.js"></script>
+  <script src="/hive/javascripts/xd/xd.ajax.js"></script>
+  <script>
+    xd.configure({
+      'https://chicagotribune.signon.trb.com':{ 
+        sender : 'https://chicagotribune.signon.trb.com/registration/xd/xd_sender.htm',
+        receiver : '/hive/common/includes/xd_receiver.html'
+      }
+
+    });
+  </script>
+  <script src="/hive/javascripts/signon/carnival.js?v=2012s1"></script>
+  <script>
+    carnival.init({
+      hostname:"https://chicagotribune.signon.trb.com",
+      apiKey:"",
+      product:"chinews",
+      xd:"1",
+      activateMessages:"true",
+      ssorNavBackgroundColor:"",
+      ssorModalTextColor:"",
+      skipNewsletters:"0",
+
+      wsHostname:"/membership/",
+ 
+      captchaType:"reCaptcha",
+      ssorSignInLinkUrl:"",
+      ssorSignUpLinkUrl:"" 
+    });
+  </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+            
+           ( function(){
+                  var hasCaptcha =  'false' || "true";
+                    carnival.configuration( 'has_captcha', hasCaptcha );
+            })();
+            
+      
+    
+</script>
+
+
+  <script src="/hive/javascripts/signon/tribbit.js?v=2012s1"></script>
+  <script src="/hive/javascripts/signon/ssor.js?v=2012s1"></script>
+
+  <script src="/hive/javascripts/registration_signin/registration-global.js?v=8"></script>
+  <script>
+    registration.manager.config.initialize({
+      productCode: "chinews",
+      brandingSiteName: "chicagotribune.com",
+      assetHostname: "http://www.chicagotribune.com", 
+      registrationHostname: "https://chicagotribune.signon.trb.com",
+      useGigyaCommenting: "",
+      metricsCookieName: "metrics_id",
+      enableTheme: ""
+    });
+    jQuery( function(){
+      jQuery( "#memberLoginInfo" ).html('<div id="ssorNavSignIn"><div id="ssorNavHeader"></div></div>');
+      if ( "/membership/" ){
+        var eventManager = registration.manager.events.getEventManagerInstance();
+        registration.manager.config.setConfig( "signUpListener", "reg-signup-override" );
+        eventManager.addListener( "reg-signup-override", function(){
+          window.document.location.href = "/membership/"; 
+        });
+      }
+      registration.manager.nav = registration.component.navigation.NavigationController.getInstance({
+        navigationContainerSelector: "#ssorNavHeader", 
+        navigationParams: {
+          signUpHandler: function(){
+            if ( "/membership/" ){
+              window.document.location.href = "/membership/"; 
+            } else { 
+              registration.manager.showRegistrationDialog();
+            }
+          },
+          originHost: registration.manager.config.getConfig('assetHostname') || "",
+          navigationBackgroundColor: "",
+          navigationTextColor: "",
+          skipNewsletters: "0",
+          userName: registration.utils.cookies.getValue( "c_unm" ) || ""
+        }
+      });
+    });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  i$.ns('trb.data').dssOverrideLevelCode = '';
+
+  i$.require('http://www.tribdss.com/meter/ctcweb.js', function meteringServiceCallback() {
+    trb.meteringService.modalCloseUrl = document.location.href.split('/').slice(0, 3).join('/') + '/about/site/registration/signin_registration.complete?';
+    trb.meteringService.init = function() {};
+    trb.meteringService.meter(null, trb.data.dssOverrideLevelCode && document.location.href.split('/').slice(0, 3).join('/') + '/override/' + trb.data.dssOverrideLevelCode + '/', function() {
+      var DSS_TEMPLATES = {
+    "premium-content-promo": "<div id=\"premo-leader-promo\" class=\"module blurb premium-content\"><div class=\"premium-content-blurb\" style=\"height:78px;\"> <div class=\"premium-content-blurb-inner\"> <div class=\"actions\"> <a href=\"/about/membership\" class=\"fancy-button large blue\"> <span>Become a Member</span> </a> </div> <p>Access our very best investigative reporting, opinion and commentary.</p> </div> </div></div>"
+}
+
+var check_for_meteringService = function() {
+    if ( typeof trb.meteringService == 'undefined' )
+        return false;
+    else
+        return true;
+}
+
+var setup_register_form = function() {
+    jQuery('.premium-register').submit(function(e) {
+        e.preventDefault();
+
+        var zip_code = jQuery(this).find('input[name="zip_code"]').val();
+
+        jQuery(this).find('input').removeClass('input-error');
+        if ( !/(^\d{5}$)|(^\d{5}-\d{4}$)/.test(zip_code) ) {
+            jQuery(this).find('input').addClass('input-error');
+            return false;
+        }
+
+        var return_url = escape(location.href.split(/[\?#]/)[0]);
+
+        window.location.href = window.trb.meteringService.data.subscribeUrl
+            + '&return=' + return_url
+            + '&z=' + zip_code;
+    });
+}
+
+var setup_register_links = function() {
+    jQuery('a.register-link-accounts').attr(
+        'href', window.trb.meteringService.data.claimSubscriptionUrl);
+    jQuery('a.register-get-started').attr(
+        'href', window.trb.meteringService.data.subscribeUrl);
+}
+
+var setup_plus_page = function() {
+
+}
+
+jQuery(function() {
+    var rule = trb.meteringService.matchedRule;
+    var rail = jQuery('#rail');
+    var leader = jQuery(
+        'div.topLeaderboard, div.slidingbillboard, div.subheader-ad div.ad');
+
+    var children = leader.find('> div, > img, > embed, > object, > iframe');
+    var widest = 0;
+    jQuery.each(children, function(k, v) {
+        if ( jQuery(this).width() > widest )
+            widest = jQuery(this).width();
+    });
+
+    if ( leader.length > 0  && leader.height() > 1 && widest <= 728 ) {
+
+        if ( leader.find('#premo-leader-promo').length < 1 ) {
+            var template = jQuery('<div />').html(
+                DSS_TEMPLATES['premium-content-promo']);
+
+            leader.addClass('premium-content');
+
+            if ( trb.meteringService.storedData.userId ) {
+                trb.meteringService.performStorage();
+
+                trb.meteringService.getUserData(function(user) {
+                    var name = user.getFirstName();
+                    if ( name == '' )
+                        name = user.getUsername();
+
+                    if ( name.length >= 15 )
+                        name = ' back';
+                    else
+                        name = ', ' + name;
+
+                    template.find('.actions').remove();
+                    template.find('p').parent().prepend('<h3>Welcome' + name + '!</h3>');
+                    template.find('p').html('Look for the <span class="plus-icon"></span> icon to access members-only premium content.');
+
+                    leader.prepend( template.html() );
+                });
+            }
+            else if ( rule && ( rule.type == 'register' || rule.type == 'free') ) {
+                leader.prepend( template.html() );
+            }
+            else if ( typeof rule == 'undefined' ) {
+                leader.prepend( template.html() );
+            }
+        }
+    }
+
+    if ( trb.meteringService.storedData.userId ) {
+        // show messages on the plus section
+        jQuery('.hide-for-users').hide();
+    } else {
+        // show messages on the plus section
+        jQuery('.show-for-unregistered').fadeIn('slow');
+    }
+
+    setup_register_form();
+    setup_register_links();
+});
+    });
+  });
+
+  </script>
+
+
+
+  
+<script>
+  trblib.require('/hive/javascripts/loggingService.js', function loggingServiceCallback() {
+    trb.loggingService({
+      sn: trb.data.section == '/' ? '' : trb.data.section,
+      mc: trb.data.marketCode,
+      ref: document.referrer,
+      cid: trb.data.contentId && 'P2P-' + trb.data.contentId,
+      es: window.carnival && carnival.user.profile().masterId
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    <script>
+      var _sf_startpt = (new Date()).getTime();
+    </script>
+
+
+
+	 
+		
+	
+
+    
+  
+	<script src="/hive/javascripts/articletools.js" type="text/javascript"></script>
+    
+	
+	
+	
+	
+	 
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="http://content.dl-rms.com/rms/mother/36043/nodetag.js"></script>
+
+
+ 
+
+
+ 	
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+    <style type='text/css'>
+
+div#container div#header {
+  color: #333333 !important;
+}
+div#navigation ul#root li ul.level2 {
+  background-color: transparent !important;
+}
+div#section {
+  color: #333333 !important;
+  background-color: #FFFFFC !important;
+}
+#container, div#container {
+  background-color: #FCFCFA !important;
+}
+body {
+  background-color: transparent !important;
+}
+</style>
+        
+
+
+
+
+
+
+<script src="http://widget.perfectmarket.com/chicagotribune/load.js"></script>
+
+
+</head>
+<body class=" ">
+
+<div id="container">
+    <div id="branding">
+		<div id="masthead">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="classified-bar" class="clearfix">
+  <div id="classBarNav" > 
+	
+
+	
+
+    
+	<ul class="classBarNavMember">
+      <li id="memberLoginInfo" style="width:220px;"></li>
+    </ul>
+
+    <ul class="classBarNavLink">
+      
+    </ul>
+
+	
+				<script type="text/javascript">
+					(function($) {
+						var CBwidth = $('#classified-bar').outerWidth(true);
+						var $mLI = $('#memberLoginInfo');
+						var mLIwidth = $mLI.outerWidth(true);
+						$('.classBarNavMember').css({'left':(CBwidth - mLIwidth)});
+						$('.classBarNavLink').css({'float':'left'});
+					})(jQuery);
+				</script>
+			
+
+  </div>
+</div>
+ 
+ 
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header" class="clearfix smallLogo">
+    <div id="homepageLink"><a href="/" alt="Home" title="chicagotribune.com">&nbsp;</a></div>
+    <div id="logo" >
+        
+            <a href="/" alt="Home" title="chicagotribune.com">
+        
+        <img src="http://www.chicagotribune.com/images/logoSmall.png" alt="chicagotribune.com" />
+        </a>
+    </div>
+    
+    
+    
+        <span id="sectionBreadcrumb"><a href="/health">Health</a></span>
+    
+    
+</div>
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navigation" class="clearfix">
+  <div id="layerOne">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul id="root">
+        <li class="navLink  first">
+
+                    
+                    
+                        <a href="/#&lid=Home&lpos=Main" class="mainNav" name="&lpos=Main&lid=Home"  ><span>Home</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/news/weather/#&lid=Weather&lpos=Sub" name="&lpos=Sub&lid=Weather"  >Weather</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://touch.chicagotribune.com#&lid=Mobile&lpos=Sub" name="&lpos=Sub&lid=Mobile"  >Mobile</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/plus#&lid=Digital Plus&lpos=Sub" name="&lpos=Sub&lid=Digital Plus"  >Digital Plus</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/newsletters#&lid=Newsletters & Alerts&lpos=Sub" name="&lpos=Sub&lid=Newsletters & Alerts"  >Newsletters & Alerts</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/photo/#&lid=Photos&lpos=Sub" name="&lpos=Sub&lid=Photos"  >Photos</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/videogallery/#&lid=Video&lpos=Sub" name="&lpos=Sub&lid=Video"  >Video</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.legacy.com/obituaries/chicagotribune/#&lid=Death Notices&lpos=Sub" name="&lpos=Sub&lid=Death Notices"  >Death Notices</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="https://myaccount2.chicagotribune.com/subscribe1.aspx?pid=125#&lid=Subscribe&lpos=Sub" name="&lpos=Sub&lid=Subscribe"  >Subscribe</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://advertise.chicagotribune.com/#&lid=Advertising Services&lpos=Sub" name="&lpos=Sub&lid=Advertising Services"  target="_blank">Advertising Services</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://tribunemediagroup.com/#&lid=Media Kit&lpos=Sub" name="&lpos=Sub&lid=Media Kit"  >Media Kit</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/news/#&lid=News&lpos=Main" class="mainNav" name="&lpos=Main&lid=News"  ><span>News</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/local/breaking#&lid=Breaking&lpos=Sub" name="&lpos=Sub&lid=Breaking"  >Breaking</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/local/#&lid=Chicagoland&lpos=Sub" name="&lpos=Sub&lid=Chicagoland"  >Chicagoland</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/news/local/suburbs#&lid=TribLocal&lpos=Sub" name="&lpos=Sub&lid=TribLocal"  >TribLocal</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/nationworld/#&lid=Nation & World&lpos=Sub" name="&lpos=Sub&lid=Nation & World"  >Nation & World</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/watchdog/#&lid=Watchdog&lpos=Sub" name="&lpos=Sub&lid=Watchdog"  >Watchdog</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/news/politics/localelections/#&lid=Elections&lpos=Sub" name="&lpos=Sub&lid=Elections"  >Elections</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/clout#&lid=Local Politics&lpos=Sub" name="&lpos=Sub&lid=Local Politics"  >Local Politics</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/politicsnow#&lid=National Politics&lpos=Sub" name="&lpos=Sub&lid=National Politics"  >National Politics</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/obituaries/#&lid=Obituaries&lpos=Sub" name="&lpos=Sub&lid=Obituaries"  >Obituaries</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/education#&lid=Schools&lpos=Sub" name="&lpos=Sub&lid=Schools"  >Schools</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://crime.chicagotribune.com#&lid=Chicago crime&lpos=Sub" name="&lpos=Sub&lid=Chicago crime"  >Chicago crime</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/news/data/#&lid=Maps & Apps&lpos=Sub" name="&lpos=Sub&lid=Maps & Apps"  >Maps & Apps</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/tribnation#&lid=Trib Nation&lpos=Sub" name="&lpos=Sub&lid=Trib Nation"  >Trib Nation</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/columnists#&lid=Columns&lpos=Sub" name="&lpos=Sub&lid=Columns"  >Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/business/#&lid=Business&lpos=Main" class="mainNav" name="&lpos=Main&lid=Business"  ><span>Business</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/breaking/#&lid=Breaking&lpos=Sub" name="&lpos=Sub&lid=Breaking"  >Breaking</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/technology#&lid=Technology&lpos=Sub" name="&lpos=Sub&lid=Technology"  >Technology</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/yourmoney/#&lid=Money&lpos=Sub" name="&lpos=Sub&lid=Money"  >Money</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/careers#&lid=Work Life&lpos=Sub" name="&lpos=Sub&lid=Work Life"  >Work Life</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://markets.chicagotribune.com/custom/tribune-interactive/localmktscreener/html-localmktscreener-full.asp?siteid=chicagotribune#&lid=Chicago Stocks&lpos=Sub" name="&lpos=Sub&lid=Chicago Stocks"  >Chicago Stocks</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/columnists/#&lid=Columns&lpos=Sub" name="&lpos=Sub&lid=Columns"  >Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/sports/#&lid=Sports&lpos=Main" class="mainNav" name="&lpos=Main&lid=Sports"  ><span>Sports</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/breaking/#&lid=Breaking&lpos=Sub" name="&lpos=Sub&lid=Breaking"  >Breaking</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/football/bears/#&lid=Bears&lpos=Sub" name="&lpos=Sub&lid=Bears"  >Bears</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/basketball/bulls/#&lid=Bulls&lpos=Sub" name="&lpos=Sub&lid=Bulls"  >Bulls</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/hockey/blackhawks/#&lid=Blackhawks&lpos=Sub" name="&lpos=Sub&lid=Blackhawks"  >Blackhawks</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/baseball/cubs/#&lid=Cubs&lpos=Sub" name="&lpos=Sub&lid=Cubs"  >Cubs</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/baseball/whitesox/#&lid=White Sox&lpos=Sub" name="&lpos=Sub&lid=White Sox"  >White Sox</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/college/#&lid=Colleges&lpos=Sub" name="&lpos=Sub&lid=Colleges"  >Colleges</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/highschool/#&lid=High Schools&lpos=Sub" name="&lpos=Sub&lid=High Schools"  >High Schools</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/soccer#&lid=Soccer&lpos=Sub" name="&lpos=Sub&lid=Soccer"  >Soccer</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/golf/#&lid=Golf&lpos=Sub" name="&lpos=Sub&lid=Golf"  >Golf</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/international/#&lid=International&lpos=Sub" name="&lpos=Sub&lid=International"  >International</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/scoresstats/#&lid=Scores&lpos=Sub" name="&lpos=Sub&lid=Scores"  >Scores</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/columnists/#&lid=Columns&lpos=Sub" name="&lpos=Sub&lid=Columns"  >Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/entertainment/#&lid=A&E&lpos=Main" class="mainNav" name="&lpos=Main&lid=A&E"  ><span>A&E</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/breaking#&lid=Breaking&lpos=Sub" name="&lpos=Sub&lid=Breaking"  >Breaking</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/movies#&lid=Movies&lpos=Sub" name="&lpos=Sub&lid=Movies"  >Movies</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/entertainment/theater/theaterloop/#&lid=Theater&lpos=Sub" name="&lpos=Sub&lid=Theater"  >Theater</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/music#&lid=Music&lpos=Sub" name="&lpos=Sub&lid=Music"  >Music</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/tv#&lid=Television&lpos=Sub" name="&lpos=Sub&lid=Television"  >Television</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/celebrity/aboutlastnight/#&lid=Celebrities&lpos=Sub" name="&lpos=Sub&lid=Celebrities"  >Celebrities</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/events/#&lid=Events&lpos=Sub" name="&lpos=Sub&lid=Events"  >Events</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/cityscapes/#&lid=Architecture&lpos=Sub" name="&lpos=Sub&lid=Architecture"  >Architecture</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/art#&lid=Arts&lpos=Sub" name="&lpos=Sub&lid=Arts"  >Arts</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/funstuff/comics/#&lid=Comics&lpos=Sub" name="&lpos=Sub&lid=Comics"  >Comics</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/games/#&lid=Puzzles&lpos=Sub" name="&lpos=Sub&lid=Puzzles"  >Puzzles</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/columnists/#&lid=Columns&lpos=Sub" name="&lpos=Sub&lid=Columns"  >Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/features/#&lid=Lifestyles&lpos=Main" class="mainNav" name="&lpos=Main&lid=Lifestyles"  ><span>Lifestyles</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/travel/#&lid=Travel&lpos=Sub" name="&lpos=Sub&lid=Travel"  >Travel</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/health/#&lid=Health&lpos=Sub" name="&lpos=Sub&lid=Health"  >Health</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/features/food#&lid=Food & Dining&lpos=Sub" name="&lpos=Sub&lid=Food & Dining"  >Food & Dining</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/features/books#&lid=Books&lpos=Sub" name="&lpos=Sub&lid=Books"  >Books</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/news/religion#&lid=Religion&lpos=Sub" name="&lpos=Sub&lid=Religion"  >Religion</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/features/life/#&lid=Life Lessons&lpos=Sub" name="&lpos=Sub&lid=Life Lessons"  >Life Lessons</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/features/tribu/askamy/#&lid=Ask Amy&lpos=Sub" name="&lpos=Sub&lid=Ask Amy"  >Ask Amy</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/features/tribu/events#&lid=TribU Events&lpos=Sub" name="&lpos=Sub&lid=TribU Events"  >TribU Events</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/features/horoscopes/#&lid=Horoscopes&lpos=Sub" name="&lpos=Sub&lid=Horoscopes"  >Horoscopes</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/lottery/#&lid=Lottery&lpos=Sub" name="&lpos=Sub&lid=Lottery"  >Lottery</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagoshopping.com#&lid=Shopping&lpos=Sub" name="&lpos=Sub&lid=Shopping"  >Shopping</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/features/columnists/#&lid=Columns&lpos=Sub" name="&lpos=Sub&lid=Columns"  >Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li class="ccGreen">
+                                            
+                                            <a href="http://www.empowereddoctor.com/chicagotribune/#&lid=Cancer Central&lpos=Sub" name="&lpos=Sub&lid=Cancer Central"  >Cancer Central</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/news/opinion/#&lid=Opinion&lpos=Main" class="mainNav" name="&lpos=Main&lid=Opinion"  ><span>Opinion</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/opinion/editorials/#&lid=Editorials&lpos=Sub" name="&lpos=Sub&lid=Editorials"  >Editorials</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/opinion/commentary/#&lid=Guest Commentary&lpos=Sub" name="&lpos=Sub&lid=Guest Commentary"  >Guest Commentary</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/opinion/letters/#&lid=Letters&lpos=Sub" name="&lpos=Sub&lid=Letters"  >Letters</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/opinion/chi-stantis-cartoongallery,0,2807119.cartoongallery#&lid=Stantis Cartoons&lpos=Sub" name="&lpos=Sub&lid=Stantis Cartoons"  >Stantis Cartoons</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/columnists/today/#&lid=Today's Columns&lpos=Sub" name="&lpos=Sub&lid=Today's Columns"  >Today's Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/columnists/all/#&lid=All Columns&lpos=Sub" name="&lpos=Sub&lid=All Columns"  >All Columns</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/news/columnists#&lid=News&lpos=Sub" name="&lpos=Sub&lid=News"  >News</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/sports/columnists/#&lid=Sports&lpos=Sub" name="&lpos=Sub&lid=Sports"  >Sports</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/business/columnists/#&lid=Business&lpos=Sub" name="&lpos=Sub&lid=Business"  >Business</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/entertainment/columnists/#&lid=A&E &lpos=Sub" name="&lpos=Sub&lid=A&E "  >A&E </a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/features/columnists/#&lid=Lifestyles&lpos=Sub" name="&lpos=Sub&lid=Lifestyles"  >Lifestyles</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/classified/realestate/#&lid=Real Estate&lpos=Main" class="mainNav" name="&lpos=Main&lid=Real Estate"  ><span>Real Estate</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/buy/#&lid=Buy a Home&lpos=Sub" name="&lpos=Sub&lid=Buy a Home"  >Buy a Home</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/advertiser/category/real-estate/#&lid=Sell Your Home&lpos=Sub" name="&lpos=Sub&lid=Sell Your Home"  >Sell Your Home</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/transactions/#&lid=Latest Sales&lpos=Sub" name="&lpos=Sub&lid=Latest Sales" rel="nofollow" target="_blank">Latest Sales</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/home#&lid=Home & Garden&lpos=Sub" name="&lpos=Sub&lid=Home & Garden"  >Home & Garden</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/apartments#&lid=Apartments & Condos&lpos=Sub" name="&lpos=Sub&lid=Apartments & Condos"  >Apartments & Condos</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/communities/#&lid=Neighborhoods & Suburbs&lpos=Sub" name="&lpos=Sub&lid=Neighborhoods & Suburbs"  >Neighborhoods & Suburbs</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/foreclosure#&lid=Foreclosure&lpos=Sub" name="&lpos=Sub&lid=Foreclosure"  >Foreclosure</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/realestate/luxury/#&lid=Luxury Real Estate&lpos=Sub" name="&lpos=Sub&lid=Luxury Real Estate"  >Luxury Real Estate</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/classified/automotive/#&lid=Cars&lpos=Main" class="mainNav" name="&lpos=Main&lid=Cars"  ><span>Cars</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/automotive/dealers/#&lid=Buy a Car&lpos=Sub" name="&lpos=Sub&lid=Buy a Car"  >Buy a Car</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.chicagotribune.com/advertiser/category/auto/#&lid=Sell Your Car&lpos=Sub" name="&lpos=Sub&lid=Sell Your Car"  >Sell Your Car</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/automotive/new/#&lid=Car Reviews&lpos=Sub" name="&lpos=Sub&lid=Car Reviews"  >Car Reviews</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/automotive/used/#&lid=Car Care&lpos=Sub" name="&lpos=Sub&lid=Car Care"  >Car Care</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="http://www.traffic.com/Chicago-Traffic/Chicago-Traffic-Reports.html?AWOPARTNER=CHICAGOTRIBUNE#&lid=Traffic&lpos=Sub" name="&lpos=Sub&lid=Traffic"  >Traffic</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>	
+                
+                
+            
+                
+                    
+                    
+
+                        
+                        <li class="navLink  ">
+
+                    
+                    
+                        <a href="/classified/jobs/#&lid=Jobs&lpos=Main" class="mainNav" name="&lpos=Main&lid=Jobs"  ><span>Jobs</span></a>
+                        <ul class="level2">
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/classified/jobs/search/#&lid=Find a Job&lpos=Sub" name="&lpos=Sub&lid=Find a Job"  >Find a Job</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/advertiser/category/jobs/#&lid=List Your Job&lpos=Sub" name="&lpos=Sub&lid=List Your Job"  >List Your Job</a>
+                                        </li>
+                                        
+                                    
+                                
+                                    
+                                        
+                                        
+                                            
+                                            
+                                                <li>
+                                            
+                                            <a href="/topworkplaces#&lid=Top Workplaces&lpos=Sub" name="&lpos=Sub&lid=Top Workplaces"  >Top Workplaces</a>
+                                        </li>
+                                        
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+       
+        
+    </ul>
+
+
+	
+	
+        
+            <div id="targetWeeklyAd" onclick="window.location.href='/shopping/circular/target';">
+                <div id="targetWeeklyAdLogo"><a href="/shopping/circular/target"><img src="/images/target_weekly_ad_animated.gif"/></a></div>
+            </div>
+        
+	
+    
+  </div> 
+</div>
+<script type="text/javascript">
+
+
+
+
+  eraseCookie("mainPage");
+  createCookie("mainPage","/health","1");
+
+  Event.observe("navigation", 'load', menuFix());
+  Event.observe("navigation", 'load', tribHover());
+
+
+
+</script>
+		</div>
+        
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
+    
+    
+    
+
+    <div id="hotTopic" class="clearfix">
+      <ul class="level1" id="rootTopic">
+        <li class="hot-link-begin" >
+          
+        </li>
+        
+      </ul>
+      
+      
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- null -->
+
+
+<style type="text/css">  /*OVERWRITES*/
+	.adv_search { background-color: #fff; }
+	#adv_search { background-color: #e2ebf3; }
+	#adv_search .adv_search_head,
+	#adv_help .adv_search_head { background-color: #32659b; }
+	#search_overlay { background-color: #e2ebf3; }
+	#search-results ul.advTabs { background-color: #32659b; }
+	#search-results ul.advTabs li a { background-color: #32659b; }
+	#search-results ul.advTabs li.advCurrTab a { background-color: #fff; color: #32659b; }
+	div.panelTab { background: url("/images/adv_search/adv_panel_bg.png") no-repeat; }
+	#adv_keywords_head { background-color: #32659b; }
+	#adv_results .clearfix {display:block;}
+</style>
+
+	<div id="basicsearch">
+		
+		
+			<form class="tribForm" method="get" action="/search/dispatcher.front" onSubmit="javascript:return checkForm(this,'Query')">	
+				<ul>
+				    <li class="horiz">
+					<input type="text" id="searchText" class="adv_search_input" onblur="if (this.value=='') this.value = 'Search'" onfocus="if (this.value=='Search') this.value = ''" name="Query" value="Search" />
+					<input name="target" value="adv_article" type="hidden" />
+					
+					<input type="submit" class="adv_submit" alt="Search" value="" />
+				    </li>
+				</ul>
+			</form>
+		
+	</div>
+<div id="search_overlay">
+    <form class="tribForm" method="get" action="/search/dispatcher.front" onSubmit="javascript:return checkForm(this,'Query')">
+        <ul>
+            <li class="horiz">
+		        <input type="text" id="searchText" maxlength="100" class="adv_search_input" name="Query" />
+		        <input name="target" value="adv_article" type="hidden" />
+		        
+		        <input type="submit" class="adv_submit" alt="Search" value=""/>
+		    </li>
+		</ul>
+    </form>
+    <a id="adv_search_open" href="/">Advanced Search</a>
+</div>
+
+<div id="adv_search">
+    <div class="adv_search_head">
+    	<h3>Advanced Search</h3>
+    	<a href="/" id="adv_search_close">X</a>
+    </div>
+    <form class="tribForm" method="get" name="adv_search_form" action="/search/dispatcher.front" onSubmit="return advSearch.checkAdvForm(this);">
+		<input type="hidden" id="Query" name="Query" value=""/>
+		<input type="hidden" id="date" name="date" value=""/>
+		<input type="hidden" id="target" name="target" value="adv_article"/>
+		<input type="hidden" name="srchType" value="advSearch"/>
+		
+	    <ul>
+	        <li><label for="include_all">include all of these words: <input type="text" id="include_all" maxlength="100"/></label></li>
+	        <li><label for="include_any">include any of these words: <input type="text" id="include_any" maxlength="100"/></label></li>
+	        <li><label for="include_exact">include this exact phrase: <input type="text" id="include_exact" maxlength="100"/></label></li>
+	        <li><label for="exclude">exclude: <input type="text" id="exclude" maxlength="100"/></label></li>
+            
+            <li class="fixed_date">
+            	<label class="inline"><input type="radio" id="top_date_range_pre" name="range" value="pre" checked="checked" /> Select a date range</label>
+				<div id="top_date_range_pre_div">
+	            	<select id="date_range_predefined">
+	                    <option value="">this week</option>
+	                    <option value="" selected="selected">past 30 days</option>
+	                    <option value="">past 3 months</option>
+	                    <option value="">past year</option>
+	                    
+	            	</select>
+            	</div>
+			</li>
+            <li class="custom_date">
+            	<label><input type="radio" id="top_date_range_cust" name="range" value="cust" /> Create a custom date range</label>
+	            <div id="top_date_range_cust_div">
+					<label class="inline custom_from">From: <input type="text" id="date_range_custom_from" disabled="disabled" class="inline disabled" /></label>
+	            	<label class="inline">To: <input type="text" id="date_range_custom_to" disabled="disabled" class="inline disabled" /></label>
+				</div>
+            </li>
+            <li>
+            	<input class="submit" type="submit" value="Search"/>
+            </li>
+        </ul>
+    </form>
+</div>
+
+			
+		
+		    
+
+    </div>
+
+           
+         
+        <img height="1" width="1" src="http://view.atdmt.com/action/MSFT_Tribune_AE_ExtData/v3/atc1.ChicagoTribune/atc2.Health"/>
+		
+   </div>
+
+
+
+   
+	    
+	   <div class="ad centerAd topLeaderboard">
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=T;sz=728x90;tile=1;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" width="728" height="90" border="0" alt=""></a></noscript>
+		</div>
+	   
+   
+
+
+
+
+	
+
+	
+
+   
+   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        <!-- BREAKING NEWS CONTENT GOES BELOW. ALSO, REMOVE THE COMMENT TAGS THAT WRAP THE CONTENT BELOW IN ORDER TO TURN LIVE. -->
+
+<!--
+
+<div id="breakingNewsFull" class="layoutB clearfix">
+
+<div class="label">&nbsp;&nbsp;&nbsp;Breaking news</div>
+
+<div class="contentarea">
+<h4>Verdict reached in Drew Peterson trial</h4>
+<div class="signup-alerts"><a href="http://www.chicagotribune.com/alerts">Sign up for alerts >></a></div>
+</div>
+
+</div>
+
+-->
+
+<!-- DON'T TOUCH. -->
+
+<div id="google-search-box">
+    <form action="/search_results/" method="get">
+        <input type="text" name="q" autocomplete="off" class="placeholder"
+            onfocus="jQuery(this).removeClass('placeholder');"
+            onblur="if ( jQuery(this).val() == '' ) jQuery(this).addClass('placeholder');" />
+        <button type="submit"><span>Search</span></button>
+    </form>
+</div>
+
+<style type="text/css">
+    .todaysForecast .radar_map { width: 100px; }
+    .todaysForecast .weather_behavior { display: none; }
+    #topRightNarrow div.headColumn2 div.headlineItem img.headlineThumb, #rail.narrow div.headColumn2 div.headlineItem img.headlineThumb, .twoColumnSplit td.right div.headColumn2 div.headlineItem img.headlineThumb { max-width: 140px; }
+    *:first-child+html .trb_dss_premiumIcon { background-repeat:no-repeat; }
+    div#section { width:960px; clear:both; }
+    div.slidingbillboard div.blurb.premium-content,
+    div.topLeaderboard div.blurb.premium-content {
+        z-index: 100;
+    }
+    div.topLeaderboard.premium-content img,
+    div.slidingbillboard.premium-content img { margin: 0; }
+
+    div.mezzanine.premium-content .mezzitem h3:after,
+    table.premium-content .headline:after{
+        content: '';
+        width: 0;
+        height: 0;
+    }
+    div#navigation { z-index:99999999; }
+
+    /*Cancer Central */
+    ul#root li.navLink ul.level2 li.ccGreen a { background-color: #ECF6FE; font-weight: bold; text-shadow: none; }
+
+    /*Fixes for video/photo rail module*/
+    #topRightNarrow div.headlines.frontpage-vids .headline,
+    div.headlines.frontpage-vids .headline { clear: both; }
+
+    #topRightNarrow div.headlines.frontpage-vids img.headlineThumb,
+    div.headlines.frontpage-vids img.headlineThumb { max-width: 300px; }
+
+    #topRightNarrow div.headlines.frontpage-vids table.hasContent,
+    div.headlines.frontpage-vids table.hasContent { width: 300px; }
+
+    #topRightNarrow div.headlines.frontpage-galleries table.hasContent,
+    div.headlines.frontpage-galleries table.hasContent { width: 150px; }
+
+
+    /*Breaking news*/
+    #breakingNewsFull { width: 960px; border: solid 1px #a00; margin: 0px 0px 10px 10px; padding: 0px; background-color: #a00; }
+
+    #breakingNewsFull .label { color: #fff; font-size: 16px; position: relative; float: left; width: 190px; padding: 5px; clear: both; margin: 0 0 0 -12px; }
+
+    #breakingNewsFull .contentarea { position: realtive; float: right; background-color: #fff; width: 760px; color: #000; font-size: 20px; padding: 5px; }
+
+    #breakingNewsFull .contentarea h4 { float: left; margin: 3px 3px; }
+
+    #breakingNewsFull .contentarea h4 a { color: #a00; }
+
+    #breakingNewsFull .contentarea div.signup-alerts { color: #000; font-size: 12px; font-weight: normal; float: right; text-align: right; padding: 6px 0px; }
+
+    /*Font fixes*/
+    div.headlines.headColumn3.horiz-photo-strip .headlineItem .headline a { font-size: 18px; }
+    .river ul.relatedHeadline li.bulleted,
+    .river ul.relatedHeadline li,
+    .river ul.relatedHeadline li.bulleted a,
+    .river ul.relatedHeadline li a { font-size: 15px; }
+
+/* photo-strip fix */
+    div.headlines.headColumn3.horiz-photo-strip .headlineItem .headline {
+        float: none;
+        clear: both;
+    }
+    .twoColumnSplit.photo-video-module td.right {
+        max-width: 310px;
+        width: 60%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    #gallery-content-popup #gallery-slideshow .holder { width:100%; }
+
+/* Feed Masher List Updates */
+
+ul.feedMasherList li { font-size: 15px; }
+ul.feedMasherList a { display: block; font-size: 18px; }
+
+div#container {z-index:auto;}
+body {z-index:1;}
+
+/* Partner Mezz updates for home page */
+
+.twoColumnSplit td.right .partner-stories .headlineThumb { max-width: 101px; }
+
+div.headlines.partner-stories .headlineItem p { left: 116px; margin: 5px 0;  }
+
+/* Fix for IMTS expandable leader */
+
+.slidingbillboard div#adx_script_235165, .slidingbillboard div#adx_script_235165 div#adx_al, .slidingbillboard div#adx_script_235165 img#adx_lo0_235165, .slidingbillboard div#adx_script_235165 div#adx_ldi0_235165, .slidingbillboard div#adx_script_235165 div#adx_ldo0_235165 { float: right; z-index: 9999999 !important; }
+
+/* Fix for puppy in FireFox, and other puppy changes */
+
+@-moz-document domain(chicagotribune.com) {
+.twoColumnSplit.puppy.seventy-thirty td.right { width: 34%; }
+.twoColumnSplit.puppy.seventy-thirty td.left { width: 70.5%; }
+}
+.puppy ul.relatedHeadline { clear: none; }
+.puppy p.defaultHeadlinesBrief, .puppy .update-source { float: none; width: auto; }
+.puppy .cutline { clear: none; width: 400px !important; float: left; }
+.puppy div.headlineItem .headline, .puppy div.headlineItem div.headlineTimestamp { margin: 0 0 10px; }
+
+/* Adding reset button styles */
+
+input[type="reset"] { background: -moz-linear-gradient(center top , #999999, #757575) repeat scroll 0 0 #999999; border: 1px solid #757575; border-radius: 4px 4px 4px 4px; box-shadow: 0 1px 1px #555555; display: inline; font-family: 'Helevetica Neue',Arial,sans-serif; font-size: 13px; padding: 5px 4%; text-transform: uppercase; }
+
+</style>
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        loadTriblocalTown();
+    });
+
+    function loadTriblocalTown() {
+        var town_id = readCookie('triblocal_town_id');
+        var frames = jQuery(".triblocal-headline-frame");
+        var qs = "";
+        var $ = jQuery;
+        if(town_id || town_id == -1)
+            qs = '?' + town_id;
+
+        frames.each(function () {
+            $(this).attr('src', $(this).attr('srcx') + qs);
+        });
+    }
+</script>
+
+
+<!-- END OF STUFF YOU SHOUDLN'T TOUCH. -->
+    
+
+
+
+
+   
+
+
+    
+<div id="content-rail-wrapper">
+      
+    <div id="content" class="article">
+        
+        
+            
+                
+                
+                
+                
+        
+                
+                
+                
+
+        
+        
+        
+        
+        
+        
+                
+                
+
+                
+                
+
+                
+
+                
+                
+
+                
+
+
+
+<div>
+ 
+
+
+
+
+
+<div id="breadcrumb">
+    
+
+    
+        
+        
+            
+                <a href="/">Home</a>
+            
+        
+            
+                
+                
+                    
+                    
+                     
+                        &nbsp;&gt;&nbsp;<a href="/health">Health</a> 
+                    
+                
+            
+        
+    
+
+    
+</div>
+ </div>
+ <div class="clear"></div>
+
+                
+                
+            
+                
+            
+                
+            
+                
+                                
+                
+
+                
+                
+                
+
+
+
+
+
+
+
+
+                <div class="story">
+                    
+
+                    <h1>Premiums for family health plans hit $15,745</h1>
+
+                    
+                        <h2>Employees paying more than $4,300 of the tab</h2>
+                    
+                    
+                    
+                    
+                    <div class="shareTop">
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+		
+
+		
+		
+			<div class="nextgen-share-tools">
+			
+				
+					<div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+				
+
+				<ul class="nextgen-left">
+				
+					
+					
+					
+						<li>
+							<a href="/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,7343117,email.story" target="win_72231866" title="email" class="nextGenEmail" onclick="if (window.windoid) windoid('','win_72231866',650,550,'resizable=1,scrollbars=1')">
+								<img src="/hive/images/icons/email_icon.png" alt="Email" class="icon"/>
+							</a>
+						</li>
+					
+						
+							<li>
+								<a href='/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,7010873,print.story' rel="nofollow" title="print" class="nextGenPrint">
+									<img src="/hive/images/icons/print_icon.png" alt="print" class="icon" />
+								</a>
+							</li>
+							
+					
+	
+					
+					
+						
+					
+				
+						
+				</ul>
+			
+				<ul class="nextgen-right">
+				
+					
+					
+					
+					
+						<li class="nextgen-sharethis-container" style="min-width:110px;">
+							<span class="st_sharethis_hcount"></span>
+						
+		                <script>
+		                 i$.$(function() {
+		                  i$.require('http://w.sharethis.com/button/buttons.js', function() {
+		                   stLight.options({
+		                     publisher:'4b7449a5-38e2-462a-a6cd-97326133f123',
+		                     onhover: false,
+		                     newOrZero: 'zero',
+		                     embeds:'true'
+		                   });
+		                  });
+		                });
+		                </script>
+						</li>
+						
+					
+					
+						
+					<li>
+						<g:plusone size="medium"></g:plusone>
+						
+						<script type="text/javascript">
+						  (function() {
+						    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						    po.src = 'https://apis.google.com/js/plusone.js';
+						    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>
+					</li>
+								
+					
+					
+					
+					<li style="width:100px;">
+						<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story&amp;title=Premiums%20for%20family%20health%20plans%20hit%20%2415%2C745&amp;text=Premiums%20for%20family%20health%20plans%20hit%20%2415%2C745" style="width:100px; height:50px;"></iframe>
+					</li>
+				
+					<li>
+						<div class="fb-like" data-href="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story" data-send="false" data-layout="button_count" data-width="135" data-show-faces="false" data-action="recommend"></div>
+					</li>
+				
+				
+				
+				</ul>
+			
+				<div class="clear"></div>
+			</div>
+		
+		
+		
+	
+
+</div>
+                    
+                    
+
+                    <div id="story-body" class="articlebody largeImage">
+                        
+                            
+
+
+
+
+                        
+                        
+                        <div class="thumbnail" style="width: 600px;">
+                                    <div class="holder">
+                                        <table cellspacing="0"><tr><td>
+                                    <img src="http://www.trbimg.com/img-504f8210/turbine/chi-premiums-for-family-health-plans-hit-15745-001/600" alt="Health care premiums" border="0" width="580" height="326" />
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                        <p class="small">
+                                            Annual premiums for employer-sponsored family coverage reached $15,745 this year, a new survey shows. 
+                                                <span class="credit">(<span class="photographer">Los Angeles Times</span> / <span class="dateMonth">September </span><span class="dateDay">11</span><span class="dateYear">, 2012</span>)</span>
+                                        </p>
+                                    
+                                    
+                                        </td></tr></table>
+                                    </div>
+                                </div>
+                        
+                        
+                        
+                        
+                        
+
+                        
+                                <div class="articlerail">
+                                    <div class="articleRelates module">
+    <script type="text/javascript">
+      function showExtras(elm, link, text){
+        var obj = $(elm);
+        var link = $(link);
+        var elmTop = (obj.getHeight() + 10) * (-1);
+        if(obj.style.display == 'none'){
+          obj.style.top = elmTop + "px";
+          link.innerHTML = 'Hide more ' + text + ' &raquo;';
+          new Effect.Parallel([
+            new Effect.Move(obj, { sync: true, x: link.getWidth(), y: (obj.getHeight() + 10) * (-1), mode: 'absolute' }),
+            new Effect.AppearItems(obj, { sync: true, from: 0, to: 1})
+          ], { duration: 1 });
+        } else {
+          new Effect.Parallel([
+            new Effect.Move(obj, { sync: true, x: link.getWidth() * (-1), y: 0, mode: 'absoulte' }),
+            new Effect.FadeItems(obj, { sync: true, from: 1, to: 0 })
+          ], { duration: 1 });
+          link.innerHTML = 'See more ' + text + ' &raquo;';
+        }
+      }
+      // These are customized methods b/c the scriptaculous ones where throwing error. These should be re-evaluated at a later date.
+      Effect.FadeItems = function(element) {
+        element = $(element);
+        var oldOpacity = 0;
+        var options = Object.extend({
+          from: element.getOpacity() || 1.0,
+          to:   0.0,
+          afterFinishInternal: function(effect) {
+            if (effect.options.to!=0) return;
+            effect.element.hide().setStyle({opacity: oldOpacity});
+            }
+        }, arguments[1] || { });
+        return new Effect.Opacity(element,options);
+      };
+      Effect.AppearItems = function(element) {
+        element = $(element);
+        var options = Object.extend({
+          from: (element.getStyle('display') == 'none' ? 0.0 : element.getOpacity() || 0.0),
+          to:   1.0,
+          // force Safari to render floated elements properly
+          afterFinishInternal: function(effect) {
+            if(Prototype.Browser.WebKit) {
+              effect.element.forceRerendering();
+            }
+          },
+          beforeSetup: function(effect) {
+            effect.element.setOpacity(effect.options.from).show();
+        }}, arguments[1] || { });
+        return new Effect.Opacity(element,options);
+      };
+    </script>
+
+    <ul>
+      
+
+      
+
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="relatedTitle" style="float: none;">Related</li>
+				
+			
+			
+			
+			
+				
+					
+					
+					
+						
+              
+
+
+
+
+
+
+
+
+
+
+
+							<li class="newRelatedItem">
+								
+									<a href="/business/breaking/chi-study-half-of-privatesector-workers-dont-have-retirement-savings-plan-20120911,0,5283285.story" target=""><img src="http://www.trbimg.com/img-504f80ae/turbine/chi-study-half-of-privatesector-workers-dont-have-retirement-savings-plan-20120911/187/16x9" alt="Study: Half of private-sector workers don't have retirement savings plan" width="187" height="105" /></a>
+								
+								
+								
+								
+									<a href="/business/breaking/chi-study-half-of-privatesector-workers-dont-have-retirement-savings-plan-20120911,0,5283285.story" target=""><span></span>Study: Half of private-sector workers don't have retirement savings plan</a>
+								
+								
+							</li>
+
+
+
+      
+        
+        
+
+        
+      
+      
+    </ul>
+  </div>
+                                </div>
+                                
+                        
+                        
+                        
+
+                        
+                        
+                            
+                            <span class="toolSet" style="width: 335px;">
+                        
+                                
+                                    <div class="byline">
+                                        
+                                        
+                                        
+                                             
+                                             <span class="byline bordered"></span>
+                                        
+
+                                        
+                                            <span class="titleline">Associated Press</span>
+                                        
+                                        
+                                        
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                    
+                                                    
+                                                
+                                                        
+                                                    
+                                            <p class="date"><span class="timeString">1:22 p.m. CDT</span><span class="dateTimeSeparator">, </span><span class="dateString">September 11, 2012</span></p>
+                                        
+                                        
+                                    </div>
+                                
+                                
+                                <div class="clear"></div>
+                            </span>
+                            
+                            
+                            <div id="story-body-text">
+                                
+                                
+                                
+                                
+                                
+                                    
+                                        
+                                        It sounds like good news: Annual premiums for job-based family health plans went up only 4 percent this year. <br /><br />But hang on to your wallets. Premiums averaged $15,745, with employees paying more than $4,300 of that, a glaring reminder that the nation's problem of unaffordable medical care is anything but solved. <br /><br />
+                                        
+                                        
+                                        
+                                        The annual employer survey released Tuesday by two major research groups also highlighted another disturbing trend: employees at companies with many low-wage workers pay more money for skimpier insurance than what their counterparts at upscale firms get. <br /><br />Overall, "it's historically a very moderate increase in premiums," said Drew Altman, president of the Kaiser Family Foundation, which conducted the survey with the Health Research &amp; Educational Trust. <br /><br />He quickly added: "But even a moderate increase feels really big to workers when their wages are flat or falling." The rise in premiums easily outpaced workers' raises and inflation. <br /><br />Following a 9-percent hike in premiums last year, the 2012 increase quickly became fodder for the political debate. Republicans said President Barack Obama's promises to control health care costs ring hollow in light of the findings. <br /><br />But the most significant cost-control measures in Obama's law have yet to take effect, and the president's big push to cover the uninsured doesn't start until 2014. Those measures include a new tax on the most expensive insurance plans and a powerful board to keep Medicare spending manageable. <br /><br />Trying to head off critics, the administration issued a report estimating that consumers have saved $2 billion as a result of the health care law. That's due to a combination of insurance rebates for employers and individual policy holders, as well as closer state oversight of proposed rate increases, facilitated by Obama's law. <br /><br />Still, the Kaiser survey shows premiums for job-based family coverage rose by nearly $2,400 since 2009 when Obama took office, with a corresponding increase of nearly $800 for employee-only coverage. <br /><br />"We aren't happy to see any increase in health insurance premiums," said Gary Cohen, head of the administration's Center for Consumer Information and Insurance Oversight, adding that officials are "heartened" it was only a modest rise this year and look forward to slowing costs as more provisions of the health care law take effect. <br /><br />Most independent experts say the fact that premiums keep rising faster than overall inflation reflects underlying problems with the health care system that have frustrated policymakers of both parties for years, as well as corporate benefit managers. <br /><br />Indeed, only last week an arm of the National Academy of Sciences estimated that about 30 cents of every dollar spent on health care -- $750 billion a year -- is wasted through unnecessary procedures, cumbersome paperwork, uncoordinated care and fraud. <br /><br />Obama says he's working to make health care more affordable for all by leveraging the power of government programs like Medicare to pay hospitals and doctors for quality results, rather than sheer volume of tests and procedures. But that will take time. <br /><br />Republican Mitt Romney wants to give future retirees a fixed amount of money to pick either private insurance or a government plan modeled on Medicare. He expects the private market will find ways to deliver quality service at lower cost. The GOP approach mirrors the shift away from traditional pensions, which pay a standard benefit, to 401(k) savings plans that limit the employer's exposure. <br /><br />The Kaiser/HRET survey found that employee-only coverage went up 3 percent this year, with annual premiums averaging $5,615. Companies usually pick up a larger share of the cost for employee-only coverage, so workers typically paid about $950 of that. <br /><br />The availability of employer-based coverage, the mainstay for working people and their families, remained stable this year, with 61 percent of all companies offering health benefits. However, only half of companies with 3 to 9 workers offered health insurance, while virtually all large firms with 1,000 or more employees did so. <br /><br />Companies continued shifting costs to their workers, at a somewhat slower pace. A trend toward steering employees into plans with high annual deductibles eased a bit. The deductible is the amount you must pay each year before insurance kicks in. The survey found that 34 percent of workers are in plans with annual deductibles of at least $1,000 for single coverage, up from 31 percent in 2011. <br /><br />"We don't know if it's a timeout, or if it's reached some natural limit," said Altman. "It's really something to watch for in the future because (high deductible plans) have an impact both on people's budgets and on holding down overall costs." <br /><br />The survey's focus on health insurance provided to lower-wage workers highlights one of the major areas of uncertainty around Obama's health care law. <br /><br />If the president is reelected and the law goes into full effect, employers with lots of low-wage workers may be tempted to drop coverage and send their employees into new state-based insurance exchanges, markets that will offer taxpayer-subsidized private insurance. A separate survey this summer by the Mercer benefits consulting firm found that 9 percent of employers in the retail and hospitality industries say it's likely they will drop coverage, even if they have to pay penalties to the government. <br /><br />The survey found that workers in lower-wage companies pay $4,977 toward the cost of family coverage, as compared to an average of $4,316 for all workers. And the policy they get for their money is less generous, typically worth about $1,000 less. <br /><br />"They are really paying more and getting less," said Altman. <br /><br />Although employers and government are doubling down on efforts to keep health care costs manageable, most experts believe the sluggish economy provides the likeliest explanation for the moderate rise in premiums. Last year's spike is blamed on a mistaken bet by insurers that the economy would recover faster. <br /><br />The survey includes more than 2,000 small and large employers. Asked what kind of increase they're expecting for 2013, employers said their best estimate at this point is 7 percent -- sure to prompt more pain. <br />
+                                    
+                                
+                                
+                            </div>
+                            <script type="text/javascript">textSize()</script>
+                        </div>
+
+                         
+                          
+                            
+                        
+
+                        
+
+                         
+                        
+                        <div id="subFooter" class="clearfix">
+                            
+                        
+                            
+                        </div>
+                        
+                        
+                            
+
+
+
+
+                        
+                        
+                        
+                            
+
+
+ 
+
+
+                        
+                        
+                        <div class="shareBtm">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+		
+
+		
+		
+			<div class="nextgen-share-tools">
+			
+				
+
+				<ul class="nextgen-left">
+				
+					
+					
+					
+						<li>
+							<a href="/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,7343117,email.story" target="win_72231866" title="email" class="nextGenEmail" onclick="if (window.windoid) windoid('','win_72231866',650,550,'resizable=1,scrollbars=1')">
+								<img src="/hive/images/icons/email_icon.png" alt="Email" class="icon"/>
+							</a>
+						</li>
+					
+						
+							<li>
+								<a href='/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,7010873,print.story' rel="nofollow" title="print" class="nextGenPrint">
+									<img src="/hive/images/icons/print_icon.png" alt="print" class="icon" />
+								</a>
+							</li>
+							
+					
+	
+					
+					
+						
+					
+				
+						
+				</ul>
+			
+				<ul class="nextgen-right">
+				
+					
+					
+					
+					
+						<li class="nextgen-sharethis-container" style="min-width:110px;">
+							<span class="st_sharethis_hcount"></span>
+						
+		                <script>
+		                 i$.$(function() {
+		                  i$.require('http://w.sharethis.com/button/buttons.js', function() {
+		                   stLight.options({
+		                     publisher:'4b7449a5-38e2-462a-a6cd-97326133f123',
+		                     onhover: false,
+		                     newOrZero: 'zero',
+		                     embeds:'true'
+		                   });
+		                  });
+		                });
+		                </script>
+						</li>
+						
+					
+					
+						
+					<li>
+						<g:plusone size="medium"></g:plusone>
+						
+						<script type="text/javascript">
+						  (function() {
+						    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						    po.src = 'https://apis.google.com/js/plusone.js';
+						    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>
+					</li>
+								
+					
+					
+					
+					<li style="width:100px;">
+						<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story&amp;title=Premiums%20for%20family%20health%20plans%20hit%20%2415%2C745&amp;text=Premiums%20for%20family%20health%20plans%20hit%20%2415%2C745" style="width:100px; height:50px;"></iframe>
+					</li>
+				
+					<li>
+						<div class="fb-like" data-href="http://www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story" data-send="false" data-layout="button_count" data-width="135" data-show-faces="false" data-action="recommend"></div>
+					</li>
+				
+				
+				
+				</ul>
+			
+				<div class="clear"></div>
+			</div>
+		
+		
+		
+	
+
+</div>
+                    
+                        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+  
+
+
+
+
+  
+
+
+
+                        
+                        
+                        
+                       
+                         
+                            
+                            
+                                <img src="http://mv2.trb.com/clear.gif?dname=www.chicagotribune.com&uri=/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story&tag=/health&citype=story&title=Premiums%20for%20family%20health%20plans%20hit%20%2415%2C745&tnurl=http://www.trbimg.com/img-504f820e/turbine/chi-premiums-for-family-health-plans-hit-15745-20120911/187/16x9&hkey=9c29c4c0b8746a9fe9de2e5a5afe84b6" alt="" height="10" width="10" />
+                            
+                        
+
+                        
+                            <div class="outbrainTools">
+
+
+
+
+
+
+ 
+
+ 
+
+	<div>
+	 <script type="text/javascript" language="JavaScript">
+	    var site="";
+		var obt="tribune";
+		var obwid = 'AR_1';
+		var obwidPhoto = 'AR_2'; 
+		
+	
+	
+	site = "chicagotribune";obwid = "AR_3";obwidPhoto = "AR_3"; 
+	
+	
+	
+	
+	
+
+		if(obt=="localtv") {address="http://www.www.chicagotribune.com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story";}
+		else if(site=="") {address=document.location.href;}
+		else {address="http://www."+site+".com/health/chi-premiums-for-family-health-plans-hit-15745-20120911,0,6222197.story";}
+		var OB_permalink= address;
+		var OB_widgetId= obwid;
+		var OB_Template = obt;
+		var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+		if ( typeof(OB_Script)!='undefined' )
+		OutbrainStart();
+		else
+		{
+		var OB_Script = true;
+		var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></"+"script>"
+		document.write(str);
+		}
+	 </script> 
+	</div>
+  
+
+ 
+<div class="fullSpan">&nbsp;</div></div>
+                                           
+                    
+                        
+
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+                    <div id="gallery-subcontent" class="module">
+                        
+                        
+                    </div>
+                  
+                    
+                    
+ 
+
+
+
+
+
+
+                    
+
+
+ 
+
+
+
+                </div>
+                
+            
+        
+
+        
+
+
+
+
+
+
+
+
+
+<div id="content-bottom" class="full">
+	
+		
+			<script src="http://widget.perfectmarket.com/chicagotribune/load.js"></script>
+		
+	
+
+    
+        
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-content-leftbottom" dropzone from 366, /about/sectionrails -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            
+
+            
+
+            
+                <div class="module blurb ">
+                    <style type="text/css">
+    #fb-comments-notice { clear: both; background: #fdfdc4; border: 1px solid #dddddd; padding: 16px 28px; margin: 0 0 25px 0; -moz-box-shadow: 0 1px 8px #eeeeee; -webkit-box-shadow: 0 1px 8px #eeeeee; -o-box-shadow: 0 1px 8px #eeeeee; box-shadow: 0 1px 8px #eeeeee; }
+    #fb-comments-notice a { color: #005495; }
+    #fb-comments-notice p { font-size: 14px; line-height: 20px; margin: 0; }
+</style>
+<script type="text/javascript">
+    window.add_facebook_comments = function() {
+
+    var disclaimer = '<div id="fb-comments-notice"><p>The Tribune is using Facebook comments on stories. To post a comment, log into Facebook and then add your comment. To report spam or abuse, click the "X" in the upper right corner of the comment box. In certain circumstances, we will take down entire comment boards. Our commenting guidelines can be found <a href="http://www.chicagotribune.com/about/chi-discussions-faq,0,980840.htmlstory">here &raquo;</a>.</p> </div>';
+
+    var fbml = disclaimer + '<fb:comments href="'
+        + window.location.protocol
+        + '//'
+        + window.location.host
+        + window.location.pathname
+        + '" num_posts="10" width="620"></fb:comments>';
+
+    var keywords_elem = document.getElementsByName('Keywords')[0];
+    if ( typeof keywords_elem != 'undefined') {
+        if (!keywords_elem.getAttribute('content').match('nocomments'))
+            document.write(fbml);
+    } else { document.write(fbml); }
+}
+
+if ( jQuery('meta[property="fb:app_id"]').length > 0 )
+    window.add_facebook_comments();
+</script>
+
+                </div>
+            
+            
+			
+			
+			
+						
+            
+
+        
+
+
+
+
+
+
+    
+</div>
+
+    </div>
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rail" class="narrow">
+	
+		
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-rightrailtop-abovecube" dropzone from 366, /about/sectionrails -->
+
+
+
+
+	
+	<div class="clear"></div>
+	 
+    <table class="cubeAd">
+        
+    	<tr>
+    		<td vAlign="middle">
+                
+                    <script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=300x250,336x280;tile=2;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=300x250,336x280;tile=2;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=300x250,336x280;tile=2;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" width="336" height="280" border="0" alt=""></a></noscript>
+                
+            </td>
+		</tr>
+    </table>
+	
+    
+        
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-content-rightrailtop" dropzone from 366, /about/sectionrails -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="sectiontitle " style=""><a href="http://widget.newsinc.com/_cfvp/playlist16x9_player.html?CID=12661&WID=13915&freewheel=90921&sitesection=chicagotribune_hom_non_fro" target="_self">Video</a></h2>
+
+
+
+
+
+
+  <div class="clear"></div>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            
+
+            
+
+            
+                <div class="module blurb ">
+                    <iframe src="http://embed.newsinc.com/thumbnail/iframe.html?wid=13915" height="250" width="300" frameborder="no" scrolling="no" noresize marginwidth="0px" marginheight="0px"></iframe>
+                </div>
+            
+            
+			
+			
+			
+						
+            
+
+        
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="sectiontitle " style=""><a href="/news/photo" target="_self">Photo galleries</a></h2>
+
+
+
+
+
+
+  <div class="clear"></div>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+<div class="module headlines defaultHeadlines  headColumn2 frontpage-galleries  noHeadlineBGImage" style=";">
+  <div class="curvedTop">
+  <div class="openCurve"></div>
+  <div class="curvedContent">
+    
+
+    
+
+    
+        <table class="headlineTable twoColumn ">
+    
+  
+                  <tr>
+                      <td class="firstCol">
+                          <div class="headlineItem belowHeadlinePos   briefRight ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="/classified/automotive/la-fi-most-beautiful-cars-pictures,0,2639170.photogallery" target="_top"><img src="http://www.latimes.com/media/thumbnails/photogallery/2012-02/68417070-27114239.jpg" alt="The world's most beautiful cars" width="187" height="105" class="headlineThumb" /></a>
+                                      <h2 class="headline  "><a href="/classified/automotive/la-fi-most-beautiful-cars-pictures,0,2639170.photogallery" target="_top" title="The world's most beautiful cars">The world's most beautiful cars</a></h2>
+                                      
+                                        <span class="update-source">
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                      </td>
+                      <td class="secondCol">
+                          
+                              <div class="headlineItem belowHeadlinePos   briefRight ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="/travel/orl-disney-world-vs-disneyland-pictures,0,1510189.photogallery" target="_top"><img src="http://media.trb.com/media/thumbnails/photogallery/2012-09/72099636-05081757.jpg" alt="Pictures: Disney World vs. Disneyland" width="187" height="105" class="headlineThumb" /></a>
+                                      <h3 class="headline  "><a href="/travel/orl-disney-world-vs-disneyland-pictures,0,1510189.photogallery" target="_top" title="Disney World vs. Disneyland">Disney World vs. Disneyland</a></h3>
+                                      
+                                        <span class="update-source">
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                          
+                      </td>
+                      
+                  </tr>
+              
+                  <tr>
+                      <td class="firstCol">
+                          <div class="headlineItem belowHeadlinePos   briefRight ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="http://galleries.apps.chicagotribune.com/chi-pod-pix" target="_top"><img src="http://www.trbimg.com/img-5053e36f/turbine/chinews-photos-in-the-news-20120522/187/16x9" alt="Photos in the News" width="187" height="105" class="headlineThumb" /></a>
+                                      <h3 class="headline  "><a href="http://galleries.apps.chicagotribune.com/chi-pod-pix" target="_top" title="In the news: Flying high">In the news: Flying high</a></h3>
+                                      
+                                        <span class="update-source">
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                      </td>
+                      <td class="secondCol">
+                          
+                              <div class="headlineItem belowHeadlinePos   briefRight ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="/entertainment/music/chi-20120913-chicago-weekend-events-pictures,0,938417.photogallery" target="_top"><img src="http://www.trbimg.com/img-5051076b/turbine/chi-20120913-chicago-weekend-events-pictures/187/16x9" alt="On The Town: 10 things to do this weekend" width="186" height="105" class="headlineThumb" /></a>
+                                      <h4 class="headline  "><a href="/entertainment/music/chi-20120913-chicago-weekend-events-pictures,0,938417.photogallery" target="_top" title="10 things to do this weekend">10 things to do this weekend</a></h4>
+                                      
+                                        <span class="update-source">
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                          
+                      </td>
+                      
+                  </tr>
+              
+
+
+    </table>
+    
+        <div class="clear"></div>
+       </div>
+  </div>
+    <div class="curvedBottom">
+      <div></div>
+    </div>
+</div>
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+    
+        <table class="cubeAd">
+            
+            <tr>
+                <td valign="middle">
+                    <div class="miscAd cube"><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=10;sz=300x250;tile=3;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=10;sz=300x250;tile=3;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=10;sz=300x250;tile=3;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" width="300" height="250" border="0" alt=""></a></noscript></div>
+                </td>
+            </tr>
+        </table>
+    
+
+
+    
+        
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-rightrailtop" dropzone from 366, /about/sectionrails -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+<div class="module headlines defaultHeadlines  headColumn2 shopping-heds  " style=";">
+  <div class="curvedTop">
+  <div class="openCurve"></div>
+  <div class="curvedContent">
+    
+  <div class="titleContainer"><h2 class="title "><a href="http://www.chicagoshopping.com" target="_top" name="Chicago Shopping">Chicago Shopping</a></h2></div>
+    
+
+    
+
+    
+        <table class="headlineTable twoColumn ">
+    
+  
+                  <tr>
+                      <td class="firstCol">
+                          <div class="headlineItem belowHeadlinePos inLine  briefBelow ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="http://www.chicagoshopping.com/health/chishop-fashion-after-dark-for-sept-7-weekend-20120910,0,6935211.photogallery" target="_top"><img src="http://www.trbimg.com/img-504e00bc/turbine/chishop-fashion-after-dark-for-sept-7-weekend-20120910/187/16x9" alt="Fashion After Dark for Sept. 7 Weekend" width="187" height="105" class="headlineThumb" /></a>
+                                      <h2 class="headline  "><a href="http://www.chicagoshopping.com/health/chishop-fashion-after-dark-for-sept-7-weekend-20120910,0,6935211.photogallery" target="_top" title="Hot Fashion After Dark club looks">Hot Fashion After Dark club looks</a></h2>
+                                      
+                                        <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                      </td>
+                      <td class="secondCol">
+                          
+                              <div class="headlineItem belowHeadlinePos inLine  briefBelow ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="http://www.chicagoshopping.com/health/chishop-fun-fall-activities-for-the-whole-family-20120913,0,3397450.photogallery" target="_top"><img src="http://www.trbimg.com/img-5052238f/turbine/chishop-fun-fall-activities-for-the-whole-family-20120913/187/16x9" alt="Fun fall activities for the whole family" width="187" height="105" class="headlineThumb" /></a>
+                                      <h3 class="headline  "><a href="http://www.chicagoshopping.com/health/chishop-fun-fall-activities-for-the-whole-family-20120913,0,3397450.photogallery" target="_top" title="Chicagoland fall family activities">Chicagoland fall family activities</a></h3>
+                                      
+                                        <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                          
+                      </td>
+                      
+                  </tr>
+              
+                  <tr>
+                      <td class="firstCol">
+                          <div class="headlineItem belowHeadlinePos inLine  briefBelow ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="http://www.chicagoshopping.com/chishop-craigslist-chicago-classics-20110805,0,4476085.photogallery" target="_top"><img src="http://www.trbimg.com/img-5050eb09/turbine/chishop-craigslist-chicago-classics-20110805/187/16x9" alt="Craigslist Chicago classics" width="187" height="105" class="headlineThumb" /></a>
+                                      <h3 class="headline  "><a href="http://www.chicagoshopping.com/chishop-craigslist-chicago-classics-20110805,0,4476085.photogallery" target="_top" title="Our favorite finds on Craigslist">Our favorite finds on Craigslist</a></h3>
+                                      
+                                        <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                      </td>
+                      <td class="secondCol">
+                          
+                              <div class="headlineItem belowHeadlinePos inLine  briefBelow ">
+                              
+                                
+                                <table class="headlineBelow hasContent">
+                                  <tr>
+                                    <td>
+                                      <a href="http://www.chicagoshopping.com/sales/" target="_top"><img src="http://www.trbimg.com/img-50538417/turbine/chishop-shop-septembers-best-sales-20120914/187/16x9" alt="Shop September's best sales" width="186" height="105" class="headlineThumb" /></a>
+                                      <h4 class="headline  "><a href="http://www.chicagoshopping.com/sales/" target="_top" title="Shop September's best sales">Shop September's best sales</a></h4>
+                                      
+                                        <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                                      
+                                    </td>
+                                  </tr>
+                                </table>
+                              
+
+                              
+
+                              
+                                
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+                          
+                      </td>
+                      
+                  </tr>
+              
+
+
+    </table>
+    
+        <div class="clear"></div>
+       </div>
+  </div>
+    <div class="curvedBottom">
+      <div></div>
+    </div>
+</div>
+
+
+
+
+
+    
+    
+    
+   
+	  
+		<div class="skyScraper">
+            		
+                <script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=160x600,300x600;tile=4;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=160x600,300x600;tile=4;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=1;sz=160x600,300x600;tile=4;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" width="300" height="600" border="0" alt=""></a></noscript>
+            		
+    	</div>
+            
+    
+        
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-rightrailbottom" dropzone from 366, /about/sectionrails -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="sectiontitle " style=""><a href="http://www.chicagonow.com" target="_self">ChicagoNow</a></h2>
+
+
+
+
+
+
+  <div class="clear"></div>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+<div class="module headlines defaultHeadlines  headColumn1   noHeadlineBGImage" style=";">
+  <div class="curvedTop">
+  <div class="openCurve"></div>
+  <div class="curvedContent">
+    
+
+    
+
+    
+  
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                <a href="http://www.chicagonow.com/chicago-creepout/2012/09/halloween-creeps-in-with-september-horror-festivals/" target="_blank"><img src="http://www.trbimg.com/img-50532fb3/turbine/chi-chicagonow-news-1/187/16x9" alt="Halloween creeps in with September horror festivals" width="101" height="56" class="headlineThumb" /></a>
+                                <h2 class="headline  "><a href="http://www.chicagonow.com/chicago-creepout/2012/09/halloween-creeps-in-with-september-horror-festivals/" target="_blank" title="Halloween creeps in with September horror festivals">Halloween creeps in with September horror festivals</a></h2>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                <a href="http://www.chicagonow.com/mary-tyler-mom/2012/09/donnas-cancer-story-why-you-should-share-it/" target="_blank"><img src="http://www.trbimg.com/img-50533153/turbine/chi-chicagonow-news-2/187/16x9" alt="Donna's Cancer Story: Why you should share it" width="101" height="57" class="headlineThumb" /></a>
+                                <h4 class="headline  "><a href="http://www.chicagonow.com/mary-tyler-mom/2012/09/donnas-cancer-story-why-you-should-share-it/" target="_blank" title="Donna's Cancer Story: Why you should share it">Donna's Cancer Story: Why you should share it</a></h4>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+
+
+    <div class="clear"></div>
+    <div class="sectionlink-head"><a href="http://www.chicagonow.com" target="_blank"><img src="http://www.chicagotribune.com/media/graphic/2012-05/69991920.png"></a></div>
+        <div class="clear"></div>
+       </div>
+  </div>
+    <div class="curvedBottom">
+      <div></div>
+    </div>
+</div>
+
+
+
+
+
+    
+</div>
+
+
+
+    
+    <div class="clear-extend"></div>
+</div> <!-- closes content-rail-wrapper -->
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+                <div id="contentBottom">
+                    
+                        
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-content-bottom" dropzone from 366, /about/sectionrails -->
+
+
+
+
+                    
+                </div>
+                 
+                     <div class="ad centerAd"> 
+                        
+                            <script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=B;sz=728x91;tile=5;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=B;sz=728x91;tile=5;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/trb.chicagotribune/health;;ptype=s;slug=chi-premiums-for-family-health-plans-hit-15745-20120911;rg=ur;pos=B;sz=728x91;tile=5;ca=HealthandSafetyatWork;en=BarackObama;at=HealthandSafetyatWork;at=LaborLegislation;at=HealthInsuranceCost;at=Elections;at=Family;ord=70171505?" width="728" height="91" border="0" alt=""></a></noscript>    
+                        
+                    </div>  
+
+                 
+                
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+<div id="footer">
+   <div id="siteOverview">
+ <ul class="siteOverview-main">
+     <li>
+      <a href="https://myaccount2.chicagotribune.com/" class="mainNav"  target="_parent">Manage Subscription</a>
+       
+     </li>
+    </ul>
+   
+  
+   
+    <ul class="siteOverview-main">
+     <li>
+      <a href="http://advertise.chicagotribune.com/" class="mainNav"  target="_blank">Advertising Services</a>
+       
+     </li>
+    </ul>
+   
+  
+   
+    <ul class="siteOverview-main">
+     <li>
+      <a href="http://www.chicagotribune.com/services/site/connect" class="mainNav"  target="_parent">Connect With Us</a>
+       
+     </li>
+    </ul>
+   
+  
+   
+    <ul class="siteOverview-main">
+     <li>
+      <a href="http://www.chicagotribune.com/services/site/map" class="mainNav"  target="_parent">Site Index</a>
+       
+     </li>
+    </ul>
+   
+  
+   
+    <ul class="siteOverview-main">
+     <li>
+      <a href="http://touch.chicagotribune.com" class="mainNav"  target="_parent">Mobile</a>
+       
+     </li>
+    </ul>
+ <div class="clear"></div>
+</div>
+   <div id="footerContainer">
+    <div id="footerlogo">
+        
+            <a href="/">
+        
+            <img src="http://www.chicagotribune.com/media/graphic/2010-06/46895467.png" alt="footer graph" width="280" height="43" id="siteFooter" />
+        </a>
+    </div>
+    <div id="footertext">
+        <ul>
+            <li class="nav">
+                    
+                        
+                            
+                                <ul class="links">
+
+                                    
+                                    
+
+                                    
+                                    <li id="footer-item-1" class="firstMenuItem"><a href="http://www.chicagotribune.com/tos/" rel="nofollow" target="_parent">Terms of Service</a></li>
+                                                
+                                                
+                                                            
+                                        
+                                            
+                                                
+                                                
+                                                
+                                                    
+                                                    
+                                                    <li id="footer-item-2" class=""><a href="http://privacy.tribune.com"  target="_blank">Privacy Policy</a></li>
+                                                
+                                                
+                                                            
+                                        
+                                            
+                                                
+                                                
+                                                     
+                                                                                           
+                                                     <li id="footer-item-3" ><a href="/chi-about-our-ads,0,5159738.htmlstory" target="_parent">About Our Ads</a></li>
+                                                
+                                                
+                                                
+                                                            
+                                        
+                                            
+                                                
+                                                
+                                                
+                                                    
+                                                    
+                                                    <li id="footer-item-4" class="lastMenuItem"><a href="http://maps.google.com/maps?q=435+N.+Michigan+Ave.,+Chicago,+IL+60611&hl=en&ll=41.891384,-87.623692&spn=0.008338,0.01929&sll=37.0625,-95.677068&sspn=36.315864,79.013672&vpsrc=1&hnear=435+N+Michigan+Ave,+Chicago,+Illinois+60611&t=h&z=16"  target="_blank">Chicago Tribune, 435 N. Michigan Ave., Chicago, IL 60611</a></li>
+                                </ul>
+                            
+                        
+                    
+                </li>
+            
+            <li>
+                    
+                </li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+    
+        <div class="family">
+            <a href="http://www.tribune.com/" target="_parent">A Tribune Newspaper website</a>
+        </div>
+    
+</div>
+</div>
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+
+    var s_account = "tribglobal";
+</script>
+
+
+    
+		
+
+ 
+     
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+
+<!-- START OMNITURE // hive:metrics-tribune -->
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+ 
+
+
+<script type="text/javascript" src="/hive/javascripts/metrics/s_code_trb.js"></script>
+
+
+<script language="JavaScript">
+
+
+					s.pageName="Premiums for family health plans hit $15,745 - Chicago Tribune / health - story."; 
+				
+				s.prop38="story";
+				s.eVar21="story";
+
+				
+
+			
+		
+		
+		
+		 
+	s.server="www.chicagotribune.com"; 
+	  s.channel="Chicago Tribune:health";
+
+s.prop3="";
+if(!!window.carnival){
+	carnival_username_c_unm = readCookie('c_unm');
+	carnival_masterid_c_mid = carnival.metrics.getMetricsId();
+	if(carnival_username_c_unm!=null && carnival_masterid_c_mid){
+		s.prop28 = carnival_masterid_c_mid;
+	}
+}
+if(s.prop28==null){
+	s.prop28 = "";
+}	
+s.prop32="";
+ 
+s.prop36="Page 1";
+
+
+/* Taxonomy Variables */
+s.prop46="BarackObama";
+
+/* E-commerce Variables */
+s.events=""; 
+
+
+/* P2P blog variables */
+
+	s.prop52=s.pageName;
+
+
+s.eVar20="Chicago Tribune";
+
+	s.hier1="Chicago Tribune:health"; 
+		s.hier2="health";
+		s.hier4="health";
+	
+	
+        
+    s.eVar42="";
+	s.prop44="chi-premiums-for-family-health-plans-hit-15745-20120911";
+
+
+//AD Block Detection
+//Description: 	Check if any IMG, IFRAME, or SCRIPT elements are ad blocked (set to not display).
+//		Also check for the occurance of any Norton installed code to block popups or ads ( ie.)SymError ).
+//		Only need to find 1 occurrance of any of the above to confirm ad blocking is used. 
+//		No need to continue searching through other portions of the page.
+
+var imgArray = document.images;
+var iframeArray = document.getElementsByTagName("iframe");
+var scriptArray = document.getElementsByTagName("script");
+var isAdBlocked = 0;
+
+
+
+if(window.SymError || window.SymWinOpen || window.SymRealWinOpen)
+{
+	s.prop50="pop-up blocking";
+}
+
+var whereBlocked = "";
+if (!isAdBlocked)
+{
+	for (var i=0; i<imgArray.length; i++)
+	{
+		if(imgArray[i].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if (!isAdBlocked)
+{
+	for (var j=0; j<iframeArray.length; j++)
+	{
+		if (iframeArray[j].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if (!isAdBlocked)
+{
+	for (var j=0; j<scriptArray.length; j++)
+	{
+		if (scriptArray[j].style.display == 'none')
+		{
+			isAdBlocked=1;
+			break;
+		}
+	}
+}
+
+if(isAdBlocked)
+{
+	s.prop54="ad blocking";
+}
+
+
+
+
+  
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code) 
+-->  
+</script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- START REVENUE SCIENCE PIXELLING CODE -->
+<script src="http://js.revsci.net/gateway/gw.js?csid=B08725"></script>
+<script>
+DM_addEncToLoc("Site", (s.server));
+DM_addEncToLoc("channel", (s.channel));
+DM_addEncToLoc("keyword", (s.prop3));
+DM_cat(s.hier1);
+DM_tag();
+</script>
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
+
+
+
+
+<script type="text/javascript">
+    (function() { 
+	   var old = s.ot; 
+	   s.ot = function(el) { 
+	       return el.tagUrn ? '' : old(el); 
+	   }; 
+	})(); 
+</script>
+
+
+
+
+<!-- Time: Fri Sep 14 20:38:36 PDT 2012-->
+
+
+
+
+            </div>
+            
+            
+    
+
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+      
+ 
+
+ 
+
+
+
+
+ 
+ 
+<script type="text/javascript">
+var _sf_async_config={uid:3096,domain:"www.chicagotribune.com"};
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); 
+</script>
+
+     
+         
+
+ 
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6459251-3']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+  
+
+
+ 
+    
+    
+    
+    
+    </body>
+</html>
+<!--x-Instance-Name: i9latisrapp03-->

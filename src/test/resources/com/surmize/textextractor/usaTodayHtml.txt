@@ -1,0 +1,801 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+xmlns:pas="http://sitelifestage.usatoday.com/2009/pluckApplicationServer"
+xmlns:og="http://opengraphprotocol.org/schema/"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+>
+<head>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[meta-title] filePath[/money/_common/templates/story/meta-title.xml]-->
+
+<title>T-Mobile launches campaign to lure buyers of used iPhones – USATODAY.com</title>
+
+<!--/template[meta-title]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyMeta] filePath[/money/_common/templates/story/storyMeta.xml]-->
+
+<meta name="description" content="German telecom wants to be ready when used iPhones hit the secondary market."/>
+<meta name="keywords" content=""/>
+<meta name="pubdate" content="2012-09-10"/>
+<link rel="canonical" href="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1" />   
+<meta property="og:title" content="T-Mobile launches campaign to lure used iPhone buyers"/>
+<meta property="og:description" content="German telecom wants to be ready when used iPhones hit the secondary market."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1"/>
+<meta property="og:image" content="http://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/09/10/iphone_hands-x.jpg"/>
+<meta property="og:site_name" content="USATODAY.COM"/>
+<meta property="fb:app_id" content="215046668549694"/>
+
+<!--/template[storyMeta]-->
+<!--container source: name[moneyStoryHeaderIncludes] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[moneyStoryHeaderIncludes] filePath[/money/_common/templates/story/moneyStoryHeaderIncludes.xml]-->
+<link rel="Shortcut Icon" type="image/x-icon" href="http://i.usatoday.net/_common/_images/favicon-money.ico" />
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_common/_styles/_foundation/reset-fonts-grids-usat.css" />
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/story.css?v=20110917" />
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/social_tools.css" />
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/money.css" />
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_common/_styles/_ad/ads.css" />
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/story_ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/story_ie7.css" />
+<style type="text/css">
+.container625 {position:absolute !important;}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://i.usatoday.net/_inside2011/_c/story_ie6.css" />
+<![endif]-->
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/usatv2.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/sniffer.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/_oas/google.js"></script>
+<script src="http://i.usatoday.net/_common/_scripts/jquery.autofill.js" type="text/javascript"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<!--/template[moneyStoryHeaderIncludes]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_scripts] filePath[/money/_common/templates/story/storyWell_inside_scripts.xml]-->
+<script type="text/javascript">
+usat.contentID='57730714.story';
+var tagID = 57730714;
+</script>
+<!--/template[storyWell_inside_scripts]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/common-scripts.ssi]-->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery('#googleSearch').autofill({
+value: 'Google USA TODAY stories, photos and more'
+});
+var popeyeOptions1 = {
+caption: 'permanent',
+navigation: 'permanent',
+direction: 'right',
+fixed: 'false',
+opacity: 1
+}
+jQuery('.ppy1, .ppy2').popeye(popeyeOptions1);
+
+jQuery('a#stories-expand').click(function () {
+jQuery('.addPopularStories').slideToggle();
+return false;
+});
+jQuery('a#videos-expand').click(function () {
+jQuery('.addPopularVideos').slideToggle();
+return false;
+});
+jQuery('a#photos-expand').click(function () {
+jQuery('.addPopularPhotos').slideToggle();
+return false;
+});
+jQuery.ajax({
+url: "/_common/_includes/_community/taboola-async.ssi", 
+success: function (html) {
+jQuery("#Adv4").append(html);
+}
+});
+// series bar dropdown
+function megaHoverOver(){
+jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 1).show();
+}
+function megaHoverOut(){ 
+jQuery(this).find(".sub, .sub-sponsorship").stop().fadeTo('fast', 0, function() {
+jQuery(this).hide(); 
+});
+}
+var config = {    
+sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+interval: 100, // number = milliseconds for onMouseOver polling interval    
+over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+timeout: 500, // number = milliseconds delay before onMouseOut    
+out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+};
+jQuery("ul#topnav li .sub, ul#topnav li .sub-sponsorship").css({'opacity':'0'});
+jQuery("ul#topnav li").hoverIntent(config);
+// overlay
+var overlaySettings = {
+mask: '#000',
+top: 'center'
+};
+var fixedMinHeight = 720; // max height of embed + 120
+if (jQuery(window).height() < fixedMinHeight){
+jQuery.extend(overlaySettings, { fixed: false });
+}
+jQuery(".buttonModal[rel]").overlay(overlaySettings);
+}); // end doc ready
+var partnerID=1660;
+function getClickExpire() {
+if (self.clickExpire) return clickExpire; 
+return "";
+}
+function appendAndEscape(origUrl, appendix){
+if(appendix == "") return escape(origUrl);
+var returnUrl ="";
+var i = origUrl.indexOf(appendix);
+var j = origUrl.indexOf("?");
+if(i == -1){
+if(j == -1){
+returnUrl = origUrl+"?"+appendix;
+}else{
+returnUrl = origUrl+"&"+appendix;
+}
+}else{
+returnUrl = origUrl;
+}
+return escape(returnUrl);
+}
+function getClickURL() {
+if (self.clickURL) return clickURL;
+return document.location.href;
+}
+function getClickTitle() {
+if (self.clickTitle) return clickTitle;
+return document.title;
+}
+function PT () {
+FDCPUrl('http://www.printthis.clickability.com/pt/printThis?clickMap=printThis'+getLocation(),true); 
+}
+function getLocation () {
+var theUrl = escape(getClickURL());
+var theTitle = escape(getClickTitle());
+theUrl = appendAndEscape(getClickURL(),"")
+var theLoc = "&fb=Y&url="+theUrl+"&title="+theTitle+"&random="+Math.random()+"&partnerID="+partnerID+"&expire="+escape(getClickExpire());
+return theLoc;
+}
+function PTMouseOver () {
+window.status='PRINT THIS';
+return true;
+}
+function PTMouseOut () {
+window.status='';
+return true;
+}
+var originalPath= window.location.toString().toLowerCase(); 
+var adfileSsts= (originalPath+'////').split('/');
+function RightslinkPopUp() {
+if (typeof(rightsLink) !== "undefined") {
+/* the xsl, which is needed to define the rightsLink, does not allow html output. 
+* this workaround replaces &amp; with & to get the url to work */ 
+rightsLink = rightsLink.replace(/\&amp;/g,'&');
+PopUp = window.open( rightsLink,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");
+}
+}
+function niceDate(fullDate)
+{
+if(fullDate==""||!fullDate)
+{
+return " ";
+}
+try
+{
+var strNow=new Date();
+var dateParts=fullDate.split(/[\/ :]/);
+var month=parseInt(dateParts[0])-1;
+var hr=dateParts[3];
+if(dateParts[5]=='PM' || (dateParts[6] && dateParts[6]=='PM'))
+{
+if(hr!=12)
+{
+hr=parseInt(hr)+parseInt(12);
+}
+}
+else if(hr==12)
+{
+hr=parseInt(hr)-parseInt(12);
+}
+var strDate=new Date(dateParts[2],month,dateParts[1],hr,dateParts[4]);
+}
+catch(e)
+{
+return fullDate;
+}
+return dateDiff(strNow,strDate,fullDate);
+}
+function dateDiff(date1,date2,fullDate){
+var niceDateStr='';
+var diff=new Date();
+var COMMENT = "the next line must be adjusted for DST: 5 for standard, 4 for DST";
+var tzo=(date1.getTimezoneOffset()/60)-4;
+diff.setTime(Math.abs(date1.getTime()-(date2.getTime()-(tzo*60*60*1000))));
+var timediff=diff.getTime();
+var years=Math.floor(timediff/(1000*60*60*24*365));
+timediff-=years*(1000*60*60*24*365);
+var days=Math.floor(timediff/(1000*60*60*24));
+timediff-=days*(1000*60*60*24);
+var hours=Math.floor(timediff/(1000*60*60));
+timediff-=hours*(1000*60*60);
+var mins=Math.floor(timediff/(1000*60));
+timediff-=mins*(1000*60);
+var secs=Math.floor(timediff/1000);
+timediff-=secs*1000;
+// If older than 7 days, return the full date 
+if(diff.getTime()>(7*24*60*60*1000)) {
+return fullDate;
+}
+if(years>0){
+niceDateStr=years+"y";
+if(days==0){
+niceDateStr+=" ago";}else{
+niceDateStr+=" "+days+"d ago";}}else if(days>0){
+niceDateStr=days+"d";
+if(hours==0||days>=7){
+niceDateStr+=" ago";}else if(days<7){
+niceDateStr+=" "+hours+"h ago";}}else if(hours>0){
+niceDateStr=hours+"h";
+if(mins==0){
+niceDateStr+=" ago";}else{
+niceDateStr+=" "+mins+"m ago";}}else if(mins>0){
+niceDateStr=mins+"m ago";}else{
+niceDateStr="<1m ago";}
+return niceDateStr;}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+window.open(theURL,winName,features);
+}
+</script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/jquery.popeye-2.0.4.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/jquery.tools.expose.min.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_inside2011/_j/video-modal.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/jquery-hover.js"></script>
+<!--<script type="text/javascript" name="cleanprintloader" src="http://cache-01.cleanprint.net/cp/ccg?divId=2625"></script>-->
+<!--/template[~]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<script type="text/javascript">
+var mjx_req = 'www.usatoday.com/money/business';
+
+var storyURL = mjx_req;
+var usat_analytics_url = mjx_req;
+</script><!--/template[storyWell_inside_body]-->
+</head>
+<body id="body">
+<div class="skip"> <a href="#mainstory" title="Skip navigation and go to main content area">Skip to Main Content</a> </div>
+<div id="custom-doc" class="yui-t6">
+
+<div id="hd" class="home" role="banner">
+<div class="usat_masthead">
+<h1><a href="http://www.usatoday.com/">USA TODAY</a></h1>
+<h2><a href="http://www.usatoday.com/money/index">Money</a></h2>
+<ul class="pre-nav">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/masthead-search-marketing.ssi]-->
+<!-- EdSysObj ID="SSI" FRAGMENTID="41223466" appadmin --><ul class="pre-nav">
+<li class="search">
+<form method="get" action="http://www.usatoday.com/search/results" id="searchForm" onclick="s_objectID='usat_insidePage|masthead|logo|search'">
+<input type="text" id="googleSearch" name="q" class="search-enter" />
+<input id="site-search-submit" name="submit" type="image" src="http://i.usatoday.net/_fronts2010/_i/v2/search-go.png" value="Search" />
+</form>
+</li>
+<li class="subscribe"><a href="http://www.usatodaysubscribe.com/usatsubscribe" onclick="s_objectID='usat_insidePage|masthead|logo|subscribe';">Subscribe</a></li>
+<li class="mobile"><a href="http://www.usatoday.com/mobile/index.htm?POE=HEADER" onclick="s_objectID='usat_insidePage|masthead|logo|mobile';">Mobile</a></li>
+</ul><!-- /EdSysObj -->
+<!--/template[~]-->
+</ul>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/usat-uas.ssi]-->
+<!-- EdSysObj ID="SSI" FRAGMENTID="41426978" appadmin --><div id="usat_uas">
+<div id="USATRegister"></div>
+</div><!-- /EdSysObj -->
+<!--/template[~]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/masthead-nav-global.ssi]-->
+<ul class="global-nav" role="navigation">
+<li class="nav-home"><a href="http://www.usatoday.com/" onclick="s_objectID='usat_insidePage|masthead|global-nav|home';">Home</a></li>
+<li class="nav-news"><a href="http://www.usatoday.com/news/" onclick="s_objectID='usat_insidePage|masthead|global-nav|news';">News</a></li>
+<li class="nav-travel"><a href="http://travel.usatoday.com" onclick="s_objectID='usat_insidePage|masthead|global-nav|travel';">Travel</a></li>
+<li class="nav-money"><a href="http://www.usatoday.com/money/" onclick="s_objectID='usat_insidePage|masthead|global-nav|money';">Money</a></li>
+<li class="nav-sports"><a href="http://www.usatoday.com/sports/" onclick="s_objectID='usat_insidePage|masthead|global-nav|sports';">Sports</a></li>
+<li class="nav-life"><a href="http://www.usatoday.com/life/" onclick="s_objectID='usat_insidePage|masthead|global-nav|life';">Life</a></li>
+<li class="nav-yourlife"><a href="http://yourlife.usatoday.com//" onclick="s_objectID='usat_insidePage|masthead|global-nav|yourlife';">Your Life</a></li>
+<li class="nav-tech"><a href="http://www.usatoday.com/tech/" onclick="s_objectID='usat_insidePage|masthead|global-nav|tech';">Tech</a></li>
+<li class="nav-weather"><a href="http://www.usatoday.com/weather/" onclick="s_objectID='usat_insidePage|masthead|global-nav|weather';">Weather</a></li>
+</ul>
+<!--/template[~]-->
+</div>
+<div id="usat_essentials_nav"> 
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/_nav/money.ssi]-->
+<ul id="section-nav">
+<li class="sectionlabel">Money:</li>
+<li class="navItem"><a href="http://markets.usatoday.com/custom/usatoday-com/html-markets.asp" onclick="">Markets</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://markets.usatoday.com/custom/usatoday-com/html-markets.asp"> Markets Home</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-mktscreener.asp"> Most Active Stocks</a></li>
+<li><a href="http://idmanagedsolutions.usatoday.com/stocks/screener.idms"> Stock/Fund/ETF Screener</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-commodities.asp"> Commodities</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-investor-currency.asp"> Currencies</a></li>
+<li><a href="http://www.bankrate.com/ust/ratehm.asp"> Key Interest Rates</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-internet50.asp"> Internet 50</a></li>
+<li><a href="http://www.usatoday.com/money/perfi/columnist/krantz/index.htm"> Stock Market Answers: Ask Matt</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-worldindices.asp"> World Stocks</a></li>
+<li><a href="http://www.orderannualreports.com/?cp_code=A400"> Free Annual Reports</a></li>
+</ul>
+</li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://www.usatoday.com/money/economy/default.htm"> Economy</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/economy/default.htm"> Economy Home</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-calendar.asp?view=economic"> Economic Calendar</a></li>
+<li><a href="http://www.usatoday.com/money/columnist/bartiromo/index"> One on One: Maria Bartiromo</a></li>
+<li> <a href="http://www.usatoday.com/money/companies/default.htm"> Company News</a></li>
+<li><a href="http://markets.usatoday.com/custom/usatoday-com/html-calendar.asp?view=earnings"> Company Calendars</a></li>
+<li><a href="http://www.usatoday.com/money/columnist/kay/index">At Work: Andrea Kay</a></li>
+<li><a href="http://www.usatoday.com/money/columnist/bruzzese/index">On the Job: Anita Bruzzese</a></li>
+<li><a href="http://www.orderannualreports.com/?cp_code=A400"> Annual Reports</a></li>
+<!--<li><a href="http://www.usatoday.com/money/jobcenter/default.htm" onclick="">Jobs</a></li>-->
+</ul>
+</li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://www.usatoday.com/money/perfi/default.htm"> Personal Finance</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/perfi/default.htm"> Personal Finance Home</a></li>
+<li><a href="http://idmanagedsolutions.usatoday.com/funds/overview.idms"> Mutual Funds</a></li>
+<li><a href="http://idmanagedsolutions.usatoday.com/etf/overview.idms"> ETFs</a></li>
+<li><a href="http://www.bankrate.com/ust/rate/rate_center.asp"> Mortgage Rates</a></li>
+<li><a href="http://www.bankrate.com/ust/rate/rate_center_cd.asp"> CD and Savings Rates</a></li>
+<li><a href="http://www.usatoday.com/money/perfi/columnist/block/index.htm"> Your Money</a></li>
+<li><a href="http://www.usatoday.com/money/perfi/columnist/waggon/index.htm"> Investing: John Waggoner</a></li>
+<li><a href="http://portfolio.usatoday.com/custom/usatoday-com/login/splash.asp"> Your Portfolio</a></li>
+<li><a href="http://idmanagedsolutions.usatoday.com/stocks/screener.idms"> Stock/Fund/ETF Screener</a></li>
+<li><a href="http://www.usatoday.com/money/perfi/calculators/calculator.htm"> Calculators</a></li>
+<li><a href="http://www.orderannualreports.com/?cp_code=A400"> Free Annual Reports</a></li>
+</ul>
+</li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://idmanagedsolutions.usatoday.com/stocks/overview.idms"> Stocks</a>
+</li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://idmanagedsolutions.usatoday.com/funds/overview.idms"> Mutual Funds</a> </li> 
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://idmanagedsolutions.usatoday.com/etf/overview.idms"> ETFs</a></li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://www.usatoday.com/money/autos/default.htm"> Cars</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/autos/default.htm"> Cars Home</a></li>
+<li><a href="http://content.usatoday.com/communities/driveon/index"> Drive On community </a></li>
+<li><a href="http://www.usatoday.com/money/autos/reviews/healey/index.htm"> Test Drive: James R. Healey</a></li>
+<li><a href="http://www.usatoday.com/money/autos/car-review-videos.htm"> Video Reviews</a></li>
+<li><a href="http://www.cars.com/go/crp/index.jsp?aff=usatoday"> Research a Car</a></li>
+<li><a href="http://www.cars.com/go/buyIndex.jsp?aff=usatoday"> Buy a Car</a></li>
+<li><a href="http://siy.cars.com/siy/zipEntry.jsp?aff=usatoday"> Sell a Car</a></li>
+<li><a href="http://www.cars.com/go/advice/incentives/index.jsp?aff=usatoday"> Incentives</a></li>
+<li><a href="http://www.cars.com/go/recalls/index.jsp?aff=usatoday"> Recalls</a></li>
+<li><a href="http://research.cars.com/go/crp/consrevwidget.jsp?aff=usatoday"> Other Reviews</a></li>
+</ul>
+</li>
+<span class="divider">|</span>
+<li class="navItem"> <a href="http://www.usatoday.com/money/realestate/default.htm"> Real Estate</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/realestate/default.htm"> Real Estate Home</a></li>
+<li><a href="http://www.homegain.com/client/agents?entryid=8068&ht=bdusatodayAE&mod=1"> Find a Realtor</a></li>
+<li><a href="http://usatoday.forsalebyowner.com/"> Sell It Yourself</a></li>
+<li><a href="http://www.homegain.com/homevalues?entryid=8070&ht=bdusatodayS4S&mod=1"> Home Value</a></li>
+<li><a href="http://www.apartments.com/partner/Index.aspx?who=usatoday&p=usatoday&page=home&state=xx&partner=usatoday"> Apartments</a></li>
+<li><a href="http://usatoday_com.vanlines.com/cb/"> Moving</a></li>
+<li><a href="http://www.servicemagic.com/ext/767004"> Home Improvement</a></li>
+</ul>
+</li>
+<span class="divider">|</span>
+<li class="navItem"><a href="http://www.usatoday.com/money/smallbusiness/default.htm" onclick="">Small Business</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/smallbusiness/default.htm"> Small Business Home</a></li>
+<li><a href="http://www.usatoday.com/money/smallbusiness/columnist/strauss/index.htm"> Ask an Expert: Steve Strauss</a></li>
+<li><a href="http://www.usatoday.com/money/smallbusiness/columnist/edmunds/index.htm"> Entrepreneurial Tightrope: Gladys Edmunds</a></li>
+<li><a href="http://www.usatoday.com/money/smallbusiness/columnist/abrams/index.htm"> Strategies: Rhonda Abrams</a></li>
+<li><a href="http://usatoday.franchisesolutions.com"> Franchises</a></li>
+</ul>
+</li>
+<!--<span class="divider">|</span>
+<li class="navItem"><a href="http://www.usatoday.com/money/jobcenter/default.htm" onclick="">Jobs</a>
+<ul class="dropdown-nav">
+<li class="first"> <a href="http://www.usatoday.com/money/jobcenter/default.htm"> Jobs Home</a></li>
+<li><a href="http://www.usatoday.com/money/jobcenter/job-index.htm"> Job Advice</a></li>
+<li><a href="http://www.usatoday.com/money/jobcenter/jobsearch-index.htm"> Job Hunt Advice</a></li>
+<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobfindadv.aspx?st=a&lr=cbga_usa&siteid=gausa13&cbRecursionCnt=1&cbsid=46f4cc8cdf1649c8b4056f520f660d32-222871382-tb-4"> Job Search</a></li>
+<li><a href="http://www.careerbuilder.com/JobSeeker/Resumes/PostResumeNew/PostYourResume.aspx?lr=cbga_usa"> Post a Resume</a></li>
+<li><a href="http://www.careerbuilder.com/JobPoster/Products/PostJobsInfo.aspx?lr=cbga_usa"> Post a Job</a></li>
+<li><a href="http://usatoday.salary.com/"> Salary Wizard</a></li>
+</ul>
+</li>-->
+</ul>
+<!--/template[~]-->
+</div>
+<div class="leaderboard-ad ad">
+<banner position="Top728x90" size="728x90"></banner>
+</div>
+<div id="breakingNewsCont">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/breaking-news.ssi]-->
+<!--bn container--><!--/template[~]-->
+</div>
+<div id="spanningBar">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/_topbar/money-withautofill.ssi]-->
+<script type="text/javascript"> 
+document.domain='usatoday.com'; 
+</script>
+<script type="text/javascript" src="http://idmanagedsolutions.usatoday.com/www/jsinc_symbol_lookup.idms"></script><!--/template[~]-->
+</div>
+</div>
+<div id="content" role="main">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<style type="text/css">
+body {
+margin: 0px !important;
+padding: 0px !important;
+}
+.afs_header {
+width: 239px;
+}
+#seriesWrap {
+font-size: 16px;
+}
+#seriesWrap a {
+font-weight: normal;
+}
+#seriesWrap p {
+margin-top: 1em;
+margin-bottom: 1em;
+}
+#footer p {
+text-align:center;
+}
+#largeTopper {
+margin: 10px 0;
+}
+</style><!--/template[storyWell_inside_body]-->
+
+<div class="story" id="mainstory">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<h1>T-Mobile launches campaign to lure used iPhone buyers</h1><!--/template[storyWell_inside_body]-->
+<div class="info">
+<div class="byline_timestamp">
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<h3><span id="byLineTag" /></h3><!--/template[storyWell_inside_body]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_timestamp] filePath[/money/_common/templates/story/storyWell_inside_timestamp.xml]-->
+<div id="updated">
+Updated <script type="text/javascript">document.write(niceDate("9/10/2012 1:15 PM"));</script>
+</div>
+<!--/template[storyWell_inside_timestamp]-->
+</div>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_header] filePath[/money/_common/templates/story/storyWell_inside_header.xml]-->
+
+<div class="info-extras rounded">
+<div class="addthis_toolbox addthis_default_style">
+<ul class="info-extras-left">
+<li><div class="usat_comment_wrap">
+<a class="usat_comment btn" href="#uslPageReturn" style="text-indent:-10000px;">Comments</a>
+
+</div></li>
+<li><a class="addthis_button_facebook_like" fb:like:action="recommend" fb:like:width="125"></a></li> 
+<li><a class="addthis_button_tweet" tw:via="USATODAY" tw:url="http://usat.ly/O8PAWi" tw:counturl="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1"></a></li>
+<li><a class="addthis_button_google_plusone" g:plusone:size="medium" g:via"USATODAY" g:url="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1" g:counturl="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1"></a></li>
+</ul>
+<ul class="info-extras-right">
+<li><a class="addthis_button_email"><img src="http://i.usatoday.net/_inside2011/_i/_share/email.png" alt="" /></a></li>
+<li><a class="addthis_button_print"><img src="http://i.usatoday.net/_inside2011/_i/_share/print.png" alt="" /></a></li>
+<li><a class="addthis_button_compact"><img src="http://i.usatoday.net/_inside2011/_i/_share/plus.png" alt="" /></a></li>
+</ul>
+</div>
+</div>
+
+<!--/template[storyWell_inside_header]-->
+</div>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<!--/template[storyWell_inside_body]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_body] filePath[/money/_common/templates/story/storyWell_inside_body.xml]-->
+<!--========= HEADER ======= --><div><div class="inset"><div class="photo-block"><div class="ppy ppy1"><ul class="ppy-imglist"><li><a href="http://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/09/10/iphone_hands-x-large.jpg"><img src="http://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/09/10/iphone_hands-x.jpg" width="245" height="184" border="0" alt="T-Mobile is hoping to educate bargain shoppers that used AT&amp;T iPhones can be switched to the T-Mobile network." /></a><span class="ppy-extcaption"><p class="credit">Andrey Rudakov, Bloomberg</p><p>T-Mobile is hoping to educate bargain shoppers that used AT&amp;T iPhones can be switched to the T-Mobile network.</p></span></li></ul><div class="ppy-outer"><div class="ppy-stage" style="height:184px;"><div class="ppy-nav"><a class="ppy-switch-enlarge" title="Enlarge">Enlarge</a><a class="ppy-switch-compact" title="Close">Close</a></div></div></div><div class="ppy-caption"><span class="ppy-text"><p class="credit">Andrey Rudakov, Bloomberg</p><p>T-Mobile is hoping to educate bargain shoppers that used AT&amp;T iPhones can be switched to the T-Mobile network.</p></span></div></div></div><div class="ads-inarticle"><h2>Sponsored Links</h2><script type="text/javascript">adsonar_placementId=1549621;adsonar_pid=2624768;adsonar_ps=0;adsonar_zw=245;adsonar_zh=250;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"><!----></script></div></div><more><p class="inside-copy">NEW YORK (AP) -- T-Mobile USA, the only "Big 4" phone company that doesn't sell the iPhone, now wants to snag used ones from AT&amp;T.</p><p class="inside-copy">Starting Wednesday, when Apple is expected to reveal a new iPhone model, T-Mobile will start advertising that AT&amp;T iPhone owners who are out of contract can switch to T-Mobile.</p><p class="inside-copy">"We expect that consumers will start trading in older devices," said Harry Thomas, T-Mobile's director of marketing. "For every person waiting in line for the next model, a lot of them have to find a secondary market for that older device."</p><p class="inside-copy">Apple Inc. hasn't said anything about a new iPhone, but it is expected to announce the iPhone 5 at an event it has scheduled in San Francisco on Wednesday. Sales would likely start later this month.</p><p class="inside-copy">Signing an iPhone up for T-Mobile service has been possible for years, and the company says it has more than a million iPhones on its network. But they suffer a big penalty in data speeds, taking about 50 times longer to download files than on AT&amp;T Inc.'s network.</p><p class="inside-copy">This year, T-Mobile is reshuffling the frequencies on its network, which will let it match or even exceed AT&amp;T's data speeds on iPhones. For now, that will be evident only in a few spots here and there in such cities as New York, Seattle, Las Vegas and Washington.</p><p class="inside-copy">Sprint and Verizon iPhones of the "4'' model won't work on T-Mobile's network at all. The later iPhone 4S will work if it's been hacked, but that's not something T-Mobile wants to get into.</p><p class="inside-copy">AT&amp;T iPhones have to be unlocked using codes that AT&amp;T will supply after the customer's contract is up.</p><p class="inside-copy">T-Mobile, the U.S. cellphone business of Deutsche Telekom AG of Germany, has bought 3,000 iPhones and spread them out in its stores, so salespeople can demonstrate the iPhone working.</p><p class="inside-copy">T-Mobile's pitch will center on its unlimited data plan, which it reintroduced last week. AT&amp;T stopped signing up new customers to unlimited plans two years ago, and now slows down service drastically for the rest of the billing cycle once those still on old unlimited plans reach a certain level of data usage.</p><p class="inside-copy">In Atlanta and New York, T-Mobile will be giving away $100 gift cards to customers who sign their iPhones up for two-year contracts.</p></more><div class="clear"><i>Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.<!--comment--></i></div></div><!--/template[storyWell_inside_body]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_footer] filePath[/money/_common/templates/story/storyWell_inside_footer.xml]-->
+<div class="corrections">
+For more information about <a href="http://www.usatoday.com/marketing/questions.htm?POE=FOOTER#contentLicensingTop">reprints &amp; permissions</a>, visit our FAQ's. To report corrections and clarifications, contact Standards Editor <strong>Brent Jones</strong>. For publication consideration in the newspaper, send comments to <a href="mailto:letters@usatoday.com">letters@usatoday.com</a>. Include name, phone number, city and state for verification. To view our corrections, go to <a href="#">corrections.usatoday.com</a>.
+</div>
+<div class="bottom-tools">
+<p>Posted <script type="text/javascript">document.write(niceDate("9/10/2012 12:40 PM"));</script><span class="bottomPubStatus"> | Updated <script type="text/javascript">document.write(niceDate("9/10/2012 1:15 PM"));</script></span></p>
+<span class="right">
+<div class="share-bottom">
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_compact"><img src="http://i.usatoday.net/_inside2011/_i/_share/plus.png" /></a>
+<!--<a href="http://www.addthis.com/bookmark.php?v=250" class="addthis_button_compact">Share</a>-->
+</div>
+</div>
+</span>
+</div>
+<!--<div id="usatRatings">
+<div class="OUTBRAIN" data-src="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1" data-widget-id="AR_1" data-ob-template="gannett"></div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery.getScript("http://widgets.outbrain.com/outbrain.js");
+});
+</script>
+</div>-->
+<style>
+<!--/* Temporary style to hide secondary widget */-->
+#outbrain_widget_1 {display: none;}
+</style>
+<!-- BEGIN OUTBRAIN CODE -->
+<div id="usatRatings">
+<div class="OUTBRAIN" data-src="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1" data-widget-id="AR_1" data-ob-template="usatoday"></div>
+<div class="OUTBRAIN" data-src="http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1" data-widget-id="SB_2" data-ob-template="usatoday"></div>
+</div>
+<script type="text/javascript">
+<!--// Script from USAT to load widget on doc ready - no change-->
+jQuery(document).ready(function () {
+jQuery.getScript("http://widgets.outbrain.com/outbrain.js");
+});
+</script>
+<script type="text/javascript">
+<!--// Script to move Reviewed rec into organic UL
+// Script waits for page load completion to fire, takes first recommendation from second, hidden widget and appends to first widget on page
+// Script should work with any recmode dual widget-->
+jQuery(window).load(function () {
+var holder = jQuery(".OUTBRAIN:eq(1) .odb_li:eq(0)").detach();
+jQuery(".OUTBRAIN:eq(0) .ob_dual_left ul").append(holder);
+});
+</script>
+<!-- END OUTBRAIN CODE -->
+
+<!--/template[storyWell_inside_footer]-->
+
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyWell_inside_comments] filePath[/money/_common/templates/story/storyWell_inside_comments.xml]-->
+<div class="corrections" style="margin: 10px 0 0; padding: 0;">
+USA TODAY is now using Facebook Comments on our stories and blog posts to provide an enhanced user experience. To post a comment, log into Facebook and then "Add" your comment. To report spam or abuse, click the "X" in the upper right corner of the comment box. To find out more, read the <a href="http://www.usatoday.com/news/story/2011-11-28/Facebook-comments-FAQ/51451552/1">FAQ</a> and <a href="http://www.usatoday.com/news/conversation-guidelines">Conversation Guidelines</a>. 
+</div>
+<div id="pluck">
+<a name="uslPageReturn"></a> 
+<div id="uslComments">
+<div>
+ 
+
+<script>
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>           
+<div class='fb-comments' data-href='http://www.usatoday.com/money/business/story/2012/09/10/t-mobile-launches-campaign-to-lure-buyers-of-used-iphones/57730714/1' data-num-posts='10' data-width='624'></div>
+
+</div>
+
+</div>
+</div>
+<!--/template[storyWell_inside_comments]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[storyCommentsSEO] filePath[/money/_common/templates/story/storyCommentsSEO.xml]-->
+<!--/template[storyCommentsSEO]-->
+</div>
+<div id="srrad">
+<banner position="FixedPanel" size="336x700"></banner>
+</div>
+<div id="rightrailNew">
+<div id="Adv4">
+<!-- write out featured video here -->
+</div>
+<div id="adContainer"> 
+<banner position="Poster3" size="300x250"></banner>
+<p>Advertisement</p>
+</div>
+<div class="mostpopular">
+<h3 class="rounded mp-label">Most Popular</h3>
+<h4>Stories<span class="transcript-icon"></span></h4>
+<ul>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_money/most-popular-money-ip.ssi]-->
+<li><a href="http://content.usatoday.com/communities/driveon/post/2012/09/police-bust-ends-free-sex-after-nine-car-washes/1?csp=ip" title="Police end 'free sex after nine car washes'" onclick="s_objectID='usat_rightContent_01|MostPopular|popular-money|1'">Police end 'free sex after nine car washes'</a></li>
+<li><a href="http://www.usatoday.com/money/personalfinance/story/2012/09/11/premiums-for-family-health-plans-hit-15745/57748808/1?csp=ip" title="Premiums for family health plans hit $15,745" onclick="s_objectID='usat_rightContent_01|MostPopular|popular-money|2'">Premiums for family health plans hit $15,745</a></li>
+<li><a href="http://www.usatoday.com/money/markets/story/2012/09/11/stocks-dow-closes-at-highest-level-since-december-2007/57743932/1?csp=ip" title="Stocks: Dow closes at highest level since December 2007" onclick="s_objectID='usat_rightContent_01|MostPopular|popular-money|3'">Stocks: Dow closes at highest level since...</a></li>
+<li><a href="http://www.usatoday.com/money/markets/story/2012/09/11/moodys-to-cut-us-debt-rating-if-budget-talks-fail/57746870/1?csp=ip" title="Moody's to cut U.S. debt rating if budget talks fail" onclick="s_objectID='usat_rightContent_01|MostPopular|popular-money|4'">Moody's to cut U.S. debt rating if budget...</a></li>
+<li><a href="http://www.usatoday.com/money/business/story/2012/09/11/eastman-kodaks-bumpy-ride-into-digital-age/57747986/1?csp=ip" title="Eastman Kodak's bumpy ride into digital age" onclick="s_objectID='usat_rightContent_01|MostPopular|popular-money|5'">Eastman Kodak's bumpy ride into digital age</a></li><!--/template[~]-->
+</ul>
+<h4>Videos<span class="video-icon"></span></h4>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_video/mostpopular.ssi]-->
+<ul><li><a href="http://www.usatoday.com/video/1832748820001" title="iPhone 5: What to expect" onclick="s_objectID='usat_insidePage|MostPopular|popular-videos|1'">iPhone 5: What to expect</a></li><li><a href="http://www.usatoday.com/video/1832825483001" title="Man sings 'God Bless the USA' 911 times" onclick="s_objectID='usat_insidePage|MostPopular|popular-videos|2'">Man sings 'God Bless the USA' 911 times</a></li><li><a href="http://www.usatoday.com/video/1832771474001" title="Romney makes 'pledge' on 'under God'" onclick="s_objectID='usat_insidePage|MostPopular|popular-videos|3'">Romney makes 'pledge' on 'under God'</a></li></ul><ul class="addPopularVideos"><li><a href="http://www.usatoday.com/video/1832884734001" title="Producer Deadmau5 talks about his new album" onclick="s_objectID='usat_insidePage|MostPopular|popular-videos|4'">Producer Deadmau5 talks about his new album</a></li><li><a href="http://www.usatoday.com/video/1833472770001" title="Taylor Swift honors memory of a Phoenix boy" onclick="s_objectID='usat_insidePage|MostPopular|popular-videos|5'">Taylor Swift honors memory of a Phoenix boy</a></li></ul><!--/template[~]-->
+
+<h4>Photos<span class="photo-icon"></span></h4>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_galleries/money-mostpopular.ssi]-->
+<li><a href="http://mediagallery.usatoday.com/Cars+in+the+News/Week+ended+August+29/G2345?csp=ipmpg" title="Cars in the News" onclick="s_objectID='usat_insidePage|MostPopular|popular-photos|1'">Cars in the News</a></li><li><a href="http://mediagallery.usatoday.com/Fawlty+Towers+nude+resort/G4116?csp=ipmpg" title="Fawlty Towers nude resort" onclick="s_objectID='usat_insidePage|MostPopular|popular-photos|2'">Fawlty Towers nude resort</a></li><li><a href="http://mediagallery.usatoday.com/Hot+products+and+marketing+trends+for+2012/G3190?csp=ipmpg" title="Hot products and marketing trends for 2012" onclick="s_objectID='usat_insidePage|MostPopular|popular-photos|3'">Hot products and marketing trends for 2012</a></li></ul><ul class="addPopularPhotos"><li><a href="http://mediagallery.usatoday.com/What's+hot+and+what's+not+in+back-to-school+fashion/G4260?csp=ipmpg" title="What's hot and what's not in back-to-school fashion" onclick="s_objectID='usat_insidePage|MostPopular|popular-photos|4'">What's hot and what's not in back-to-school fashion</a></li><li><a href="http://mediagallery.usatoday.com/Mid-size+Car+Battle/G4205?csp=ipmpg" title="Mid-size Car Battle" onclick="s_objectID='usat_insidePage|MostPopular|popular-photos|5'">Mid-size Car Battle</a></li><!--/template[~]-->
+
+</div>
+
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/sidebar-newsletter.ssi]-->
+<!-- EdSysObj ID="SSI" FRAGMENTID="41223474" rberthol --><div class="promotion">
+<div class="rounded">
+<h3>Most Popular E-mail Newsletter</h3>
+</div>
+<div class="logo"><a href="http://reg.e.usatoday.com?csp=MostPopnotch" onclick="s_objectID='usat_insidePage|emailsignuppromo|logo'"><img src="http://i.usatoday.net/_inside2011/_i/most-pop-logo.gif"></a></div>
+<h4>Sign up to get:</h4>
+<h1>Top viewed stories, photo galleries and community posts of the day</h1>
+<ul>
+<li class="first">Most popular right now:</li>
+<li><script type="text/javascript" src="http://content.usatoday.net/feed/0d488516-1c13-4e53-9651-328b86dead7e"></script></li>
+</ul>
+<a href="http://reg.e.usatoday.com?csp=MostPopnotch" onclick="s_objectID='usat_insidePage|emailsignuppromo|bottom'"><img src="http://i.usatoday.net/_inside2011/_i/most-pop-signup.jpg"></a>
+</div><!-- /EdSysObj -->
+<!--/template[~]-->
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/_promo/money.ssi]-->
+<div class="editorialPromo">
+<h3><a href="http://twitter.com/#!/usatodaymoney">USATODAYMONEY on Twitter</a></h3>
+<a href="http://twitter.com/#!/usatodaymoney"><img src="http://i.usatoday.net/_common/_includes/_inside2011/_promo/promoimages/2011/money/follow-twitter.jpg" alt="Twitter"></a>
+<p>For the latest Money news, follow USATODAYMONEY On Twitter.</p>
+<a class="sectionLink" href="http://www.usatoday.com/money/default.htm"><span class="sectionLinkHead">Money</span></a>
+</div><!--/template[~]-->
+</div>
+<div class="ads-articlebottom">
+<h2>Sponsored Links</h2>
+<script type="text/javascript">adsonar_placementId=1549613;adsonar_pid=2625768;adsonar_ps=0;adsonar_zw=630;adsonar_zh=90;adsonar_jv='ads.adsonar.com';</script>
+<script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+</div>
+<div id="footer"> 
+<div id="usat-footer-01"> 
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/footer-services.ssi]-->
+<!-- EdSysObj ID="SSI" FRAGMENTID="41224830" appadmin --><div class="usat_footer_01">
+<h5>USA TODAY Digital Services</h5>
+<ul>
+<li class="no-border"><a href="http://www.usatoday.com/mobile/index.htm?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav|services|digital|1';">Mobile</a></li>
+<li><a href="http://email.usatoday.com/" onclick="s_objectID='usat_insidePage|footernav|services|digital|2';">E-Newsletters</a></li>
+<li><a href="http://content.usatoday.com/marketing/rss/index.aspx?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav|services|digital|3';">RSS</a></li>
+<li><a href="http://twitter.usatoday.com  " onclick="s_objectID='usat_insidePage|footernav|services|digital|4';">Twitter</a></li>
+<li><a href="http://content.usatoday.com/marketing/rss/index.aspx#podcast" onclick="s_objectID='usat_insidePage|footernav|services|digital|5';">Podcasts</a></li>
+<li><a href="http://www.usatoday.com/community/widgets/index.htm" onclick="s_objectID='usat_insidePage|footernav|services|digital|6';">Widgets</a></li>
+<li><a href="http://www.usatodaysubscribe.com/eeservice" onclick="s_objectID='usat_insidePage|footernav|services|digital|7';">e-Edition</a></li>
+<li><a href="http://www.usatoday.com/ipad" onclick="s_objectID='usat_insidePage|footernav|services|digital|17';"> USA TODAY for iPad</a></li>
+<li><a href="http://www.amazon.com/USA_TODAY/dp/B001KBZ3D2/ref=o_disp_017_129_242_99_035&amp;tag=partnerlink1-20" onclick="s_objectID='usat_insidePage|footernav|services|digital|8';">Kindle Edition</a></li>
+<!--<li><a href="http://www.usatoday.com/printedition/news/index.htm?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav|services|digital|9';">Print Edition</a></li>-->
+<li><a href="http://www.usatodaysubscribe.com/usatsubscribe" onclick="s_objectID='usat_insidePage|footernav|services|digital|10';">Subscribe to Home Delivery</a></li>
+</ul>
+<ul>
+<li class="no-border"><a href="http://www.usatoday.com/marketing/questions.htm?POE=Footer#reprints" onclick="s_objectID='usat_insidePage|footernav|services|digital|11';">Reprints &amp; Permissions</a></li>
+<li><a href="http://content.usatoday.com/topics/index" onclick="s_objectID='usat_insidePage|footernav|services|digital|12';">USA TODAY Topics</a></li>
+<li><a href="http://content.usatoday.com/topics/ReporterList" onclick="s_objectID='usat_insidePage|footernav|services|digital|13';">Reporter Index</a></li>
+<li><a href="http://www.usatoday.com/news/Corrections-and-clarifications.htm" onclick="s_objectID='usat_insidePage|footernav|services|digital|14';">Corrections/Clarifications</a></li>
+<li><a href="http://www.usatoday.com/marketing/feedback.htm?POE=Footer" onclick="s_objectID='usat_insidePage|footernav|services|digital|15';">Contact Us</a></li>
+<li><a href="http://pqasb.pqarchiver.com/USAToday/search.html?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav|services|digital|16';">Archives</a></li>
+</ul>
+</div><!-- /EdSysObj -->
+<!--/template[~]-->
+</div>
+<div id="usat_Bottom728x90" class="footer.ad"><banner position="Bottom728x90" size="728x90"></banner></div>
+<div id="usat-footer-02"> 
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[~] filePath[/_common/_includes/_inside2011/footer-nav.ssi]-->
+<!-- EdSysObj ID="SSI" FRAGMENTID="41223458" appadmin --><div class="float-inner">
+<ul class="usat_footer_02">
+<li class="no-border"><a href="http://www.usatoday.com/default.htm" class="ssts_home" onclick="s_objectID='usat_insidePage|footernav_02|nav|home';">Home</a></li>
+<li><a href="http://www.usatoday.com/news/default.htm" class="ssts_news" onclick="s_objectID='usat_insidePage|footernav_02|nav|news';">News</a></li>
+<li><a href="http://travel.usatoday.com/" class="ssts_travel" onclick="s_objectID='usat_insidePage|footernav_02|nav|travel';">Travel</a></li>
+<li><a href="http://www.usatoday.com/money/default.htm" class="ssts_money" onclick="s_objectID='usat_insidePage|footernav_02|nav|money';">Money</a></li>
+<li><a href="http://www.usatoday.com/sports/default.htm" class="ssts_sports" onclick="s_objectID='usat_insidePage|footernav_02|nav|sports';">Sports</a></li>
+<li><a href="http://www.usatoday.com/life/default.htm"  class="ssts_life" onclick="s_objectID='usat_insidePage|footernav_02|nav|life';">Life</a></li>
+<li><a href="http://www.usatoday.com/tech/default.htm" class="ssts_tech" onclick="s_objectID='usat_insidePage|footernav_02|nav|tech';">Tech</a></li>
+<li class="last"><a href="http://www.usatoday.com/weather/default.htm" class="ssts_weather" onclick="s_objectID='usat_insidePage|footernav_02|nav|weather';">Weather</a></li>
+</ul>
+<ul class="usat_footer_03">
+<li class="no-border"><strong>Visit our Partners:</strong></li>
+<li class="no-border"><a href="http://www.usaweekend.com/usatoday.html?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav_03|partners|1';">USA WEEKEND</a></li>
+<!--<li><a href="http://www.usatoday.com/marketing/media_kit/live/brand.html?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav_03|partners|2';">USA TODAY LIVE</a></li>-->
+<li><a href="http://www.mysportsweekly.com/cs" onclick="s_objectID='usat_insidePage|footernav_03|partners|3';">Sports Weekly</a></li>
+<li><a href="http://www.usatoday.com/educate/homesplash.htm?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav_03|partners|5';">Education</a></li>
+<li><a href="http://www.space.com/?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav_03|partners|6';">Space.com</a></li>
+<li><a href="http://traveltips.usatoday.com" onclick="s_objectID='usat_insidePage|footernav_03|partners|7';">Travel Tips</a></li>
+</ul>
+</div>
+<ul class="usat_footer_04">
+<li class="no-border"><a href="http://www.usatoday.com/marketing/feedback.htm?POE=FOOTER" onclick="s_objectID='usat_insidePage|footernav_04|misc|1';">Contact us</a></li>
+<li><a href="http://www.usatoday.com/marketing/media_kit/index.html" onclick="s_objectID='usat_insidePage|footernav_04|misc|2';">Advertise</a></li>
+<li><a href="http://www.usatoday.com/marketing/media_kit/pressroom/press_releases_home.html" onclick="s_objectID='usat_insidePage|footernav_04|misc|3';">Pressroom</a></li>
+<!--<li><a href="http://www.usatoday.com/marketing/media_lounge/index.html" onclick="s_objectID='usat_insidePage|footernav_04|misc|4';">Media Lounge</a></li>-->
+<li><a href="http://www.careerbuilder.com/csh/search.aspx?csh=cshUSAToday" onclick="s_objectID='usat_insidePage|footernav_04|misc|5';">Jobs</a></li>
+<li><a href="http://www.usatoday.com/marketing/faq.htm" onclick="s_objectID='usat_insidePage|footernav_04|misc|6';">FAQ</a></li>
+<li><a href="http://www.usatoday.com/marketing/questions.htm?POE=FOOTER#contentLicensingTop" onclick="s_objectID='usat_insidePage|footernav_04|misc|7';">Reprints/Permissions</a></li>
+<li><a href="http://www.usatoday.com/marketing/privacy-notice.htm" onclick="s_objectID='usat_insidePage|footernav_04|misc|8';">Privacy Notice/Your California Privacy Rights</a></li>
+<li><a href="http://www.usatoday.com/marketing/privacy-notice.htm#adserving" onclick="s_objectID='usat_insidePage|footernav_04|misc|11';">Ad Choices</a></li>
+<li><a href="http://www.usatoday.com/marketing/tos.htm" onclick="s_objectID='usat_insidePage|footernav_04|misc|9';">Terms of Service</a></li>
+<li><a href="http://www.usatoday.com/howtofind-cat.htm" onclick="s_objectID='usat_insidePage|footernav_04|misc|10';">Site Index</a></li>
+</ul>
+<p class="usat_footer_05">&copy; 2012 USA TODAY, a division of <a href="http://www.gannett.com/" onclick="s_objectID='usat_insidePage|footernav_05|gannett|1';">Gannett Co. Inc.</a></p><!-- /EdSysObj -->
+<!--/template[~]-->
+</div>
+<div id="usat-footer-03"> 
+</div>
+</div>
+</div>
+</div>
+<banner position="PageCount" size="1x1"></banner>
+<!--container source: name[] layout[story] filePath[/money/_common/layouts/story.xml]-->
+<!--template[moneyStoryFooterIncludes] filePath[/money/_common/templates/story/moneyStoryFooterIncludes.xml]-->
+
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/usatv2.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/_omniture/omniturebase.js"></script>
+<script type="text/javascript" src="http://content.usatoday.com/asp/usataj/usataj.js"></script>
+<script type="text/javascript" src="http://www.usatoday.com/asp/uas3/uas.js"></script>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/gel/lib/core/core.js"></script>
+<!--<script type="text/javascript" src="http://i.usatoday.net/_fronts2010/_home/_j/gel-directives-v2.js"></script>-->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+usatAuth.initialSetup(); 
+});
+</script>
+<script type="text/javascript">
+GEL.config.AdPage = mjx_req;
+GEL.config.AdServer = "gannett.gcion.com";
+GEL.config.AdNetworkId = "5111.1";
+GEL.thepage.initializer.addInitRoutine({
+name: "banners",
+namespace: "widget.AdBanner",
+callback: function () {
+var loader = GEL.thepage.bannerLoader = new GEL.widget.AdBanner.Locator();
+loader.findBanners();
+loader.loadBanners(function () { return this.config.loadOnInit; });
+},
+priority: 10
+});
+GEL.thepage.initializer.init();
+</script>
+<script type="text/javascript">
+var addthis_config = 
+{ 
+username: 'usatshare',
+data_track_clickback:true,
+services_expanded: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz',
+services_compact: 'digg,email,facebook,fark,gmail,googlebuzz,linkedin,mixx,posterous,reddit,stumbleupon,tumblr,twitter,buzz'
+};
+var addthis_share = 
+{
+templates: {
+twitter: '{{title}} {{url}} via @USATODAY'
+},
+url_transforms : { 
+shorten: {
+twitter: 'bitly'
+}
+},
+shorteners : {
+bitly : {
+login: 'usatoday',
+apiKey: 'R_fa9e62b61f9dc04aa65ea7c615e5d4f0' 
+}
+}
+};
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+<!--/template[moneyStoryFooterIncludes]-->
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/_pluck/pluck4.js"></script>
+</body>
+</html>

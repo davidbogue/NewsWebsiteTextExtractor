@@ -1,0 +1,2151 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="HeadTag">
+
+<title>
+	Love Or Hate - Wall Street Will Hate A Republican Win (JPM, GS, BAC)
+</title>
+
+	
+
+	<script language="javascript" type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.ba-hashchange_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://www.investopedia.com/services/WebsiteScript.ashx"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/website_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/ajax/json2.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/ajax/serviceProxy.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/ajax/jquery.lazyload-ad-1.4.2-min.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/datejs/date-en-US.js"></script>
+	<script language="javascript" type="text/javascript" src="http://www.investopedia.com/services/VcidScript.ashx?u=22506363797e4d23bb229cc31e90f923"></script>
+	
+	<meta id="VersionMeta" name="AppVersion" content="2.0" />
+	<meta id="Robots" name="robots" content="index,follow" />
+	<meta id="MetaOgUrl" name="og:url" content="http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA" />
+	<meta id="MetaOgSiteName" name="og:site_name" content="Investopedia" />
+	<meta id="MetaOgType" name="og:type" content="article" />
+	<meta id="MetaOgTitle" name="og:title" content="Love Or Hate - Wall Street Will Hate A Republican Win (JPM, GS, BAC)" />
+	<meta id="MetaOgImage" name="og:image" content="http://i.investopedia.com/facebook/investopedia-facebook-image.gif" />
+	<meta id="MetaCategory" name="category" content="Active Trading/" />
+	<meta id="MetaPublishDate" name="publish-date" content="Mon, 05 Nov 2012 10:17:59 GMT" />
+	<meta id="MetaSailthruTitle" name="sailthru.title" content="Love Or Hate - Wall Street Will Hate A Republican Win (JPM, GS, BAC)" />
+	<meta id="MetaSailthruDescription" name="sailthru.description" content="History has shown that Wall Street does best with democrats in power, especially incumbents. Wall Street would sour quickly on a republican president." />
+	<meta id="MetaSailthruTags" name="sailthru.tags" content="jpm,gs,bac,hca,abc,nee,bear market,government and politics,sector - finance and insurance,stock analysis,stocks" />
+	<meta id="MetaSailthruDate" name="sailthru.date" content="2012-11-05" />
+	<meta id="MetaSailthruAuthor" name="sailthru.author" content="Will Ashworth" />
+	<meta id="MetaSailthruImageFull" name="sailthru.image.full" content="http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading16.jpg" />
+	<meta id="MetaSailthruImageThumb" name="sailthru.image.thumb" content="http://i.investopedia.com/facebook/investopedia-facebook-image.gif" />
+	
+	
+	<link rel="canonical" href="http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/css/reset_ver_1_34.css?v=3.014" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/fonts/fontsheet_ver_1_34.css?v=3.014" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/css/global_ver_1_35.css?v=3.014" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/css/interface_ver_1_34.css?v=3.014" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/css/templates_ver_1_34.css?v=3.014" />
+	<link rel="stylesheet" type="text/css" href="http://i.investopedia.com/assets_v2/css/print_ver_1_34.css?v=3.014" />
+	
+
+<!-- TMS -->
+<script>
+  (function(e){var t='313',n=document,r,i,s={http:'http://cdn.mplxtms.com/s/MasterTMS.min.js',https:'https://secure-cdn.mplxtms.com/s/MasterTMS.min.js'},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement('script'),i.type='text/javascript',i.async=!0,i.src=o+'#'+t,r=n.getElementsByTagName('script')[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==='loaded'||i.readyState==='complete')i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});
+</script>
+<!-- End TMS -->
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+	<link id="BHCPH_RssLink" rel="alternate" type="application/rss+xml" title="Investopedia.com Headlines" href="http://feeds.investopedia.com/stockinvesting" />
+	<link id="BHCPH_FaviconLink" rel="shortcut icon" href="http://i.investopedia.com/inv/general/favicon.ico" />
+
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/inv_global_ver_1_34.js?v=1.002"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.ui.core_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.scroller_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.ui.widget_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.ui.position_ver_1_34.js"></script>
+	<script language="javascript" type="text/javascript" src="http://i.investopedia.com/assets_v2/js/jquery.ui.autocomplete_ver_1_34.js"></script>
+
+	
+	<script type="text/javascript" language="JavaScript">
+		<!--
+		OAS_url = 'http://ops.investopedia.com/RealMedia/ads/';
+		OAS_sitepage = 'investopedia.com/trading';
+		OAS_listpos = 'x60,x12,x70,x30,x91,x92,x71,x34,x06,x07';
+		OAS_query = '_RM_HTML_INVKEY_=/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105&IPT=Stocks,Stock_Analysis,Sector_-_Finance_and_Insurance,Bear_Market,Government_and_Politics&IPU=/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105&IPC=StockAnalysisInvestopedia';
+		//-->
+	</script>
+	<script type="text/javascript" language="JavaScript" src="http://i.investopedia.com/assets_v2/js/oas.js"></script>
+
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/83535020/INV-NA_Top_StockAnalysis_AT', [728, 90], 'div-gpt-ad-1342557399970-80').addService(googletag.pubads());
+			googletag.pubads().setTargeting('Tags', ['Bear Market','Government and Politics','Sector - Finance and Insurance','Stock Analysis','Stocks']);
+			googletag.pubads().set('page_url', 'http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA'); 
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+	</script>
+
+
+	
+	<script type="text/javascript" language="JavaScript">
+		<!-- <![CDATA
+		OA_source = 'Active Trading';
+		// ]]> -->
+	</script>
+	<script type="text/javascript" src="http://i.investopedia.com/adx/adx.js"></script>
+
+
+	
+  
+	
+
+ <!-- HCPH:HeadContentPlaceHolder  -->
+
+	
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6319545-2']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackEvent', 'Channel', 'Pageview', 'Markets:Stock Analysis:', 1, true]);
+    _gaq.push(['_trackEvent', 'Advertising', 'Pageview', 'Active Trading:', 1, true]);
+    _gaq.push(['_trackEvent', 'Timelessness', 'Pageview', 'Timely', 1, true]);
+    _gaq.push(['_trackEvent', 'Tags', 'Pageview', 'Bear Market:Government and Politics:Sector - Finance and Insurance:Stock Analysis:Stocks:', 1, true]);
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+
+  $(document).delegate('div[name="PartnerLinks"] a[href^="http"]:not([href*="//' + location.host + '"])', 'mouseup', function (e) {
+    if (e.which == 3) {
+      // Right mouse button pressed.
+      _gaq.push(['_trackEvent', 'Outbound', 'RightClick', this.href]);
+    }
+    else {
+      // Left or Middle mouse button pressed.
+      _gaq.push(['_trackEvent', 'Outbound', 'LeftMidClick', this.href]);
+    }
+  });
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+<!-- Page Taxonomy -->
+<script type="text/javascript">
+//<![CDATA[
+  var _pageTaxonomy = {
+    "Hashkey": "$stock-analysis$2012$love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105",
+    "Channel": "Markets",
+    "SubChannel": "Stock Analysis",
+    "Advertising": "Active Trading",
+    "SubAdvertising": null,
+    "AdTarget": "investopedia.com/trading",
+    "Tags": ["Bear Market", "Government and Politics", "Sector - Finance and Insurance", "Stock Analysis", "Stocks"],
+    "Type": "StockAnalysisInvestopedia",
+    "Lucrativeness": null,
+    "Timelessness": "Timely",
+    "Feature": null,
+    "Design": null,
+    "InterestLevel": null,
+    "Index": "True",
+    "NoIndexParams": "False",
+    "Follow": "True",
+    "Master": "True",
+  };
+//]]>
+</script>
+<!-- End Page Taxonomy -->
+
+
+<!-- Sailthru Horizon -->
+<script type='text/javascript'>
+(function() {
+    function loadHorizon() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = ('https:' === location.protocol?'https://d1gp8joe0evc8s.cloudfront.net':'http://cdn.sail-horizon.com')+'/horizon/v1.js';
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    loadHorizon();
+    var oldOnLoad = window.onload;
+    window.onload = function() {
+        if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+        }
+        Sailthru.setup({
+            domain: 'horizon.investopedia.com', concierge: false
+        });
+    };
+})();
+</script>
+
+
+
+<!-- OnSwipe redirection -->
+<script type="text/javascript" src="http://assets.onswipe.com/synapse/on.js?usr=investopedia" id="onswipe_synapse"></script>
+<!-- End OnSwipe redirection -->
+
+
+
+
+	<script type="text/javascript">
+	//<![CDATA[
+		var ajaxServiceProxy = new ServiceProxy("http://www.investopedia.com/services/AjaxContentService.svc/");
+	//]]>
+	</script>
+<meta name="description" content="History has shown that Wall Street does best with democrats in power, especially incumbents. Wall Street would sour quickly on a republican president." /><meta name="keywords" content="jpm,gs,bac,hca,abc,nee,bear market,government and politics,sector - finance and insurance,stock analysis,stocks" /></head>
+
+<body id="StockAnalysisArticle" class="">
+	
+
+	<form method="post" action="/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA" id="MainForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE0MDYxMDQxOGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFNGN0bDAwJGN0bDAwJGN0bDAwJGN0bDAwJEJCQ1BIJFNlYXJjaEJhciRTZWFyY2hCdXR0b24FOmN0bDAwJGN0bDAwJGN0bDAwJGN0bDAwJEJCQ1BIJFN5bWJvbFNlYXJjaEJhciRTeW1ib2xCdXR0b24FSGN0bDAwJGN0bDAwJGN0bDAwJGN0bDAwJEJCQ1BIJE1DUEgkTUNQSCRQJE9uZVN0ZXBTaWdudXBDb250cm9sJGJ0blNpZ251cLVU7mtjOwaJcbFN9IqCxlauNKmU" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");//]]>
+</script>
+<script type="text/javascript">document.cookie = "Retarget_ActiveTrading=IPContentUser; expires=Sat, 29 Dec 2012 03:01:33; domain=.investopedia.com; path=/";</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALHya2uBAK52Lb6CQL854X1BwLY5t35CwLunNnhCQLQp8WXBgLwjsSVCwKTj9rJBr5xt5DxAEOUYYLxkKBEILYOve3A" />
+</div>
+		
+	<span id="BBCPH_WelcomeAdScript1"><div id="WelcomeAd">
+<div class="top group">
+<div class="left">
+<img src="
+http://i.investopedia.com/assets_v2/img/logo_investopedia_black.png" /></div>
+<div class="right">
+<h3><a href="#" class="welcome-close">Continue to Site &raquo;</a></h3>
+<div class="info"></div>
+</div>
+</div><!-- .top -->
+<div class="mid">
+</div><!-- .mid -->
+<div class="btm">
+<div class="ad">
+<script type="text/javascript" language="javascript">
+<!--
+OAS_AD('x60');
+//-->
+</script>
+</div>
+</div><!-- .btm -->
+</div><!-- #WelcomeAd -->
+<script type="text/javascript" src="
+http://i.investopedia.com/assets_v2/js/invWelcomeAd.js"  ></script>
+<script type="text/javascript" >
+  var cookieDomain = '.investopedia.com';
+  var cookieExpires = new Date();
+  cookieExpires.setTime(cookieExpires.getTime() + 86400000);
+  invWelcomeAd(10);
+</script>
+</span>
+	<div id="Header">
+	<div class="top"></div>
+	<div class="mid">
+
+      <div class="brand group layout-width">
+        <a href="http://www.investopedia.com" class="logo"></a>
+          <div class="member">
+				<div class="sign-ups">
+					
+
+
+
+  <a href="http://www.investopedia.com/accounts/login.aspx?returnurl=http%3a%2f%2fwww.investopedia.com%2fstock-analysis%2f2012%2flove-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx%3fpartner%3dyahoosa">Sign In</a>
+
+  <a href="http://www.investopedia.com/accounts/signupmember?returnurl=http%3a%2f%2fwww.investopedia.com%2fstock-analysis%2f2012%2flove-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx%3fpartner%3dyahoosa" id="BBCPH_Login_aRegisterControl">Register</a>
+
+
+					<a href="http://investopedia.ar.wilink.com/" target="_blank">Free Annual Reports</a>
+					
+							&bull;
+						<a href="http://www.investopedia.com/accounts/signupnewsletter?returnurl=http%3a%2f%2fwww.investopedia.com%2fstock-analysis%2f2012%2flove-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx%3fpartner%3dyahoosa" id="BBCPH_NewsletterSignupLinkControl_AnchorControl">
+  <span class="ttl">Free Newsletters</span>
+</a>
+				</div>
+				<div class="search-bars">
+					
+
+  <div id="BBCPH_SearchBarSearchbar" class="search generic-search group">
+    <input id="BBCPH_SearchBarSearchValue" type="text" class="SearchValue input-text" />
+	<input type="image" name="ctl00$ctl00$ctl00$ctl00$BBCPH$SearchBar$SearchButton" id="BBCPH_SearchBar_SearchButton" class="SearchButton icon" src="http://i.investopedia.com/assets_v2/img/search_button.png" />  
+  </div>
+
+<script language="javascript" type="text/javascript">//<![CDATA[
+
+	$('#BBCPH_SearchBarSearchValue').helptext({ msg:'Search Investopedia' });
+
+	function performBBCPH_SearchBarSearch() {
+		var rawValue = $.trim($('#BBCPH_SearchBarSearchValue').val());
+		var searchValue = encodeURIComponent(rawValue);
+
+		if (searchValue && rawValue !== 'Search Investopedia' && $.trim(rawValue) !== '' && searchValue.length > 0) {
+			var url = toWebSiteUrl('/default.aspx', 'Search') + '?q=' + searchValue;
+			window.location = url;
+		}
+		else {
+			$('#BBCPH_SearchBarSearchValue').addClass('warning');
+		}
+	}
+
+	$('#BBCPH_SearchBar_SearchButton').bind('click', function() {
+		performBBCPH_SearchBarSearch();
+	});
+
+	$('#BBCPH_SearchBarSearchValue').bind('keypress', function(e) {
+		var code = (e.keyCode ? e.keyCode : e.which);
+		$('#SearchValue').removeClass('warning');
+
+		if(code == 13) {
+			performBBCPH_SearchBarSearch();
+			return false;
+		};
+	});
+
+	$('#BBCPH_SearchBar_SearchButton').bind('click', function() {
+		performBBCPH_SearchBarSearch();
+		return false;
+});
+
+ //]]></script>
+
+					
+
+<div id="BBCPH_SymbolSearchBarSymbolSearch" class="search symbol-search group">
+	<input id="BBCPH_SymbolSearchBarSymbolInput" type="text" class="SymbolValue input-text" />
+	<input type="image" name="ctl00$ctl00$ctl00$ctl00$BBCPH$SymbolSearchBar$SymbolButton" id="BBCPH_SymbolSearchBar_SymbolButton" class="symbol-button icon" src="http://i.investopedia.com/assets_v2/img/quote_button.png" />
+</div>
+
+
+<script language="javascript" type="text/javascript">//<![CDATA[
+
+$('#BBCPH_SymbolSearchBarSymbolInput').helptext({ msg: 'Enter Symbol' });
+
+function performBBCPH_SymbolSearchBarSearch() {
+	var rawValue = $.trim($('#BBCPH_SymbolSearchBarSymbolInput').val());
+	var searchValue = encodeURIComponent(rawValue);
+
+	if (searchValue && rawValue !== 'Enter Symbol' && $.trim(rawValue) !== '' && searchValue.length > 0) {
+		var url = toWebSiteUrl('/symbolsearch.aspx', 'Search') + '?q=' + searchValue;
+		window.location = url;
+	}
+	else {
+		$('#BBCPH_SymbolSearchBarSymbolInput').addClass('warning');
+	}
+}
+
+$('#BBCPH_SymbolSearchBar_SymbolButton').bind('click', function() {
+	performBBCPH_SymbolSearchBarSearch();
+});
+
+$('#BBCPH_SymbolSearchBarSymbolInput').bind('keypress', function(e) {
+	var code = (e.keyCode ? e.keyCode : e.which);
+	$('#SearchValue').removeClass('warning');
+
+	if(code == 13) {
+		performBBCPH_SymbolSearchBarSearch();
+		return false;
+	};
+});
+
+$('#BBCPH_SymbolSearchBar_SymbolButton').bind('click', function() {
+	performBBCPH_SymbolSearchBarSearch();
+	return false;
+});
+	
+
+$.widget("custom.catcomplete", $.ui.autocomplete, {
+  _renderMenu: function (ul, items) {
+    var self = this,
+				currentCategory = "";
+    $.each(items, function (index, item) {
+      if (item.category != currentCategory) {
+        ul.append("<li class='ui-autocomplete-category'>" + item.category + "</li>");
+        currentCategory = item.category;
+      }
+      self._renderItem(ul, item);
+    });
+  }
+});
+
+$(function () {
+
+	$("#BBCPH_SymbolSearchBarSymbolInput").catcomplete({
+    source: toWebSiteUrl('/AutoComplete.ashx', 'Search'),
+    minLength: 1,
+    select: function (event, ui) {
+      if ((ui.item != null) && (ui.item.value != "")) {
+        window.location = ui.item.value;
+      }
+      return false;
+    },
+    focus: function (event, ui) {
+    	$("#BBCPH_SymbolSearchBarSymbolInput").val(ui.item.label);
+      return false;
+    }
+  });
+});
+
+ //]]></script>
+
+				</div>
+        </div>
+      </div><!-- .brand -->
+
+       <!-- MNavCPH:MainNavContentPlaceHolder  -->
+        <div class="mainnav">
+					<ul class="hlist">
+<li class="first"><a class="MenuDictionary" href="http://www.investopedia.com/dictionary/">Dictionary</a></li>
+<li><a class="MenuInvesting" href="http://www.investopedia.com/investing/">Investing</a></li>
+<li class="selected"><a class="MenuMarkets" href="http://www.investopedia.com/markets/">Markets</a></li>
+<li><a class="MenuPersonalFinance" href="http://www.investopedia.com/personal-finance/">Personal Finance</a></li>
+<li><a class="MenuActiveTrading" href="http://www.investopedia.com/active-trading/">Active Trading</a></li>
+<li><a class="MenuForex" href="http://www.investopedia.com/forex/">Forex</a></li>
+<li><a class="MenuProfessionals" href="http://www.investopedia.com/professionals/">Professionals</a></li>
+<li><a href="http://www.investopedia.com/university/">Tutorials</a></li>
+<li><a href="http://www.investopedia.com/video/">Video</a></li>
+<li><a href="http://www.investopedia.com/simulator">Simulator</a></li>
+<li class="last"><a href="http://www.investopedia.com/free/">Free Tools</a></li>
+<li class="dummy">&nbsp;</li><!-- do not edit -->
+</ul><!-- .hlist -->
+					
+
+<div id="MenuDictionary" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:34%;">
+				<img src="http://i.investopedia.com/assets_v2/img/icon_book.png" style="width:60px; vertical-align:middle; margin-right:10px;" />
+				<h3 style="font-size:14px; display:inline;">Term Of The Day</h3>
+				<div class="box">
+					<div class="separator"></div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/terms/a/armmargin.asp"> 
+ARM Margin						</a>
+				</h3>
+				<div class="item-description">A fixed percentage rate that is added to an index value to determine the fully indexed...</div>
+				<a href="http://www.investopedia.com/terms/a/armmargin.asp" class="item-link"> Learn More »</a>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:22%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/dictionary/"><strong>Dictionary</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/categories/tradingterms.asp">Active Trading</a></li>
+					<li><a href="http://www.investopedia.com/categories/forex.asp">Forex</a></li>
+					<li><a href="http://www.investopedia.com/categories/technicalanalysis.asp">Technical Analysis</a></li>
+					<li><a href="http://www.investopedia.com/categories/brokers.asp">Brokers</a></li>
+					<li><a href="http://www.investopedia.com/categories/optionsandfutures.asp">Options</a></li>
+					<li><a href="http://www.investopedia.com/categories/futures.asp">Futures</a></li>
+					<li><a href="http://www.investopedia.com/categories/personalfinance.asp">Personal Finance</a></li>
+					<li><a href="http://www.investopedia.com/categories/retirementplanning.asp">Retirement</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:22%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/categories/acronyms.asp">Acronyms</a></li>
+					<li><a href="http://www.investopedia.com/categories/accounting.asp">Accounting</a></li>
+					<!--<li><a href="http://www.investopedia.com/categories/banking.asp">Banking</a></li>-->
+					<li><a href="http://www.investopedia.com/categories/bonds.asp">Bonds</a></li>
+					<li><a href="http://www.investopedia.com/categories/buzzwords.asp">Buzzwords</a></li>
+					<li><a href="http://www.investopedia.com/categories/currencies.asp">Currencies</a></li>
+					<li><a href="http://www.investopedia.com/categories/economics.asp">Economics</a></li>
+					<li><a href="http://www.investopedia.com/categories/theory.asp">Financial Theory</a></li>
+					<li><a href="http://www.investopedia.com/categories/formulas.asp">Formulas</a></li>
+					<li><a href="http://www.investopedia.com/categories/hedgefunds.asp">Hedge Funds</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:22%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/categories/insurance.asp">Insurance</a></li>
+					<li><a href="http://www.investopedia.com/categories/ir.asp">Investor Relations</a></li>
+					<li><a href="http://www.investopedia.com/categories/lawsreg.asp">Laws & Regulations</a></li>
+					<li><a href="http://www.investopedia.com/categories/mutualfunds.asp">Mutual Funds</a></li>
+					<li><a href="http://www.investopedia.com/categories/realestate.asp">Real Estate</a></li>
+					<li><a href="http://www.investopedia.com/categories/statistics.asp">Statistics</a></li>
+					<li><a href="http://www.investopedia.com/categories/stocks.asp">Stocks</a></li>
+					<li><a href="http://www.investopedia.com/categories/taxes.asp">Taxes</a></li>
+					<li><a href="http://www.investopedia.com/categories/ipos.asp">Venture Capital</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuInvesting" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:60%">
+				<div class="smenu">
+					<div class="group">
+						<div class="title"><h3>More News &raquo;</h3></div>
+					</div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/financial-edge/1112/3-of-the-best-traders-alive.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/articles/financialedge/john_paulson.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/financial-edge/1112/3-of-the-best-traders-alive.aspx"> 
+3 Of The Best Traders Alive						</a>
+				</h3>
+				<div class="item-description">Traders frequently lose large chunks of money, however, there are a handful ...</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/stock-analysis/2012/recent-scandals-show-wall-street-still-needs-a-lot-of-watching-c-fb-cri-gs1127.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading14.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/2012/recent-scandals-show-wall-street-still-needs-a-lot-of-watching-c-fb-cri-gs1127.aspx"> 
+Recent Scandals Show Wall Street Still Needs A Lot ...						</a>
+				</h3>
+				<div class="item-description">Recent news shows that misdeeds at Wall Street and public companies continue.</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/stock-analysis/2012/what-the-iphone-means-for-apple-stock-aapl1126.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading17.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/2012/what-the-iphone-means-for-apple-stock-aapl1126.aspx"> 
+What The iPhone Means For Apple Stock (AAPL)						</a>
+				</h3>
+				<div class="item-description">Apple's reliance on the iPhone as a profit-driver is far more extensive than ...</div>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/investing/"><strong>Investing</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/investing/investing-basics/"> Investing Basics</a></li>
+					<li><a href="http://www.investopedia.com/investing/bonds-and-fixed-income/">Bonds & Fixed Income</a></li>
+					<li><a href="http://www.investopedia.com/investing/fundamental-analysis/">Fundamental Analysis</a></li>
+					<li><a href="http://www.investopedia.com/investing/mutual-funds-and-ETFs/">Mutual Funds & ETFs</a></li>
+					<li><a href="http://www.investopedia.com/investing/economics/">Economics</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/dictionary/">Definitions</a></li>
+					<li><a href="http://www.investopedia.com/articles/basics/">Articles</a></li>
+					<li><a href="http://www.investopedia.com/video/basics/">Videos</a></li>
+					<li><a href="http://www.investopedia.com/slide-show/basics/">Slideshows</a></li>
+					<li><a href="http://www.investopedia.com/university/all/basics/">Tutorials</a></li>
+					<li><a href="http://www.investopedia.com/calculator/">Calculators</a></li>
+					<li><a href="http://www.investopedia.com/ask/basics/">FAQs</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuMarkets" class="richmenu">
+<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:50%;">
+				<div class="smenu">
+					<div class="group">
+						<div class="title"><h3>More Analysis &raquo;</h3></div>
+					</div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/stock-analysis/Zacks/WEXAllieswithHigherOne-AnalystBlog.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading1.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/Zacks/WEXAllieswithHigherOne-AnalystBlog.aspx"> 
+WEX Allies with Higher One - Analyst Blog						</a>
+				</h3>
+				<div class="item-description">Formerly known as Wright Express Corp, WEX Inc. (WXS) ...</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/stock-analysis/Zacks/USBancorpUnitBuyingFSV-AnalystBlog.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading12.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/Zacks/USBancorpUnitBuyingFSV-AnalystBlog.aspx"> 
+U.S. Bancorp Unit Buying FSV - Analyst Blog						</a>
+				</h3>
+				<div class="item-description">U.S. Bancorp's (USB) lead bank, U.S. Bank, is buying FSV ...</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/stock-analysis/Zacks/OclarotoSellAssets-AnalystBlog.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading17.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/Zacks/OclarotoSellAssets-AnalystBlog.aspx"> 
+Oclaro to Sell Assets	 - Analyst Blog						</a>
+				</h3>
+				<div class="item-description">Oclaro, Inc. (OCLR) recently signed a definitive ...</div>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:25%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/markets/"><strong>Markets</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/markets/stock-analysis/">Analysis & Opinions</a></li>
+					<li><a href="http://www.investopedia.com/markets/etfs/">ETF Center</a></li>
+					<li><a href="http://www.investopedia.com/markets/sectors/">Sectors</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/chartadvisor/">Chart Advisor</a></li>
+					<li><a href="http://www.investopedia.com/free/">Free Tools</a></li>
+					<li><a href="http://investopedia.ar.wilink.com/">Free Annual Reports
+						<img src="http://i.investopedia.com/assets_v2/img/precision-ir-nav-icon.gif" style="width:14px; height:14px; margin-left:10px; vertical-align:bottom;" />
+					</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:25%; text-align:left">
+				<ul>
+					<li><a href="/markets/sectors/Mining">Mining</a></li>
+					<li><a href="/markets/sectors/Public%20Administration">Public Administration</a></li>
+					<li><a href="/markets/sectors/Utilities">Utilities</a></li>
+					<li><a href="/markets/sectors/Manufacturing">Manufacturing</a></li>
+					<li><a href="/markets/sectors/Education">Education</a></li>
+					<li><a href="/markets/sectors/Transportation">Transportation</a></li>
+					<li><a href="/markets/sectors/Agriculture%20and%20Forestry">Agriculture & Forestry</a></li>
+					<li><a href="/markets/sectors/Real%20Estate">Real Estate</a></li>
+					<li><a href="/markets/sectors/Wholesale%20Trade">Wholesale Trade</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuPersonalFinance" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:60%">
+				<div class="smenu">
+					<div class="group">
+						<div class="title"><h3>More Features &raquo;</h3></div>
+					</div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/financial-edge/1112/The-Finances-Of-The-Global-Middle-Class.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/articles/financialedge/middleclasssave.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/financial-edge/1112/The-Finances-Of-The-Global-Middle-Class.aspx"> 
+The Finances Of The Global Middle Class						</a>
+				</h3>
+				<div class="item-description">Here's a look at the salaries and expenses of the middle class around the world.</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/financial-edge/1112/How-New-Offshore-Bank-Rules-Will-Affect-Americans.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/articles/financialedge/offshorebankingpicnew.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/financial-edge/1112/How-New-Offshore-Bank-Rules-Will-Affect-Americans.aspx"> 
+How New Offshore Bank Rules Will Affect Americans						</a>
+				</h3>
+				<div class="item-description">FATCA is being implemented in 2013. Here is how it will affect the personal banking and taxes of Americans ...</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/financial-edge/1112/Overlooked-Tax-Deductions-For-2012.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/articles/financialedge/taxdeductions.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/financial-edge/1112/Overlooked-Tax-Deductions-For-2012.aspx"> 
+Overlooked Tax Deductions For 2012						</a>
+				</h3>
+				<div class="item-description">From jury duty to student loan interest, here are some deductions for 2012 that people may overlook.</div>
+			</li>
+			<li class="item nth">
+					<a href="http://www.investopedia.com/financial-edge/1112/How-To-Succeed-In-Your-Next-Performance-Review.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/articles/financialedge/reviewjob.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/financial-edge/1112/How-To-Succeed-In-Your-Next-Performance-Review.aspx"> 
+How To Succeed In Your Next Performance Review						</a>
+				</h3>
+				<div class="item-description">From being prepared to self evaluating, here are some tips to help you succeed in your next performance ...</div>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/personal-finance/"><strong>Personal Finance</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/life-stages/">Life Stages
+						<img src="http://i.investopedia.com/assets_v2/img/icon_new.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/credit-and-loans/">Credit & Loans</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/insurance/">Insurance</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/retirement/">Retirement</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/home-and-auto/">Home & Auto</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/savings/">Savings</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/budgeting/">Budgeting</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/entrepreneurship/">Entrepreneurship</a></li>
+					<li><a href="http://www.investopedia.com/personal-finance/taxes/">Taxes</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/personal-finance/compare/credit-cards.aspx">Credit Cards
+						<img src="http://i.investopedia.com/assets_v2/img/icon_new.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/categories/personalfinance.asp">Definitions</a></li>
+					<li><a href="http://www.investopedia.com/articles/pf/">Articles</a></li>
+					<li><a href="http://www.investopedia.com/video/pf/">Videos</a></li>
+					<li><a href="http://www.investopedia.com/slide-show/pf/">Slideshows</a></li>
+					<li><a href="http://www.investopedia.com/university/all/pf/">Tutorials</a></li>
+					<li><a href="http://www.investopedia.com/calculator/">Calculators</a></li>
+					<li><a href="http://www.investopedia.com/ask/pf/">FAQs</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuActiveTrading" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:60%">
+				<div class="smenu">
+					<div class="group">
+						<div class="title"><h3>More News &raquo;</h3></div>
+					</div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/university/important-ratios-for-analyzing-oil-and-gas-stocks/" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading15.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/university/important-ratios-for-analyzing-oil-and-gas-stocks/"> 
+Key Ratios For Analyzing Oil And Gas Stocks						</a>
+				</h3>
+				<div class="item-description">Oil and gas investors need to focus on a different subset of ratios to ...</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/stock-analysis/cotd/PEG20121121.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/chartadvisor/charts/chartoftheday/peg-nov27.png) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/cotd/PEG20121121.aspx"> 
+Stocks With A Recurring December Pattern						</a>
+				</h3>
+				<div class="item-description">While the reason is not always evident, some stocks have very consistent ...</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/articles/optioninvestor/08/mini-futures.asp" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/topics/images/options-lrg.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/articles/optioninvestor/08/mini-futures.asp"> 
+Minis Provide Low-Cost Entry To Futures Market						</a>
+				</h3>
+				<div class="item-description">These contracts provide access to commodities without a huge capital commitment.</div>
+			</li>
+			<li class="item nth">
+					<a href="http://www.investopedia.com/ask/answers/12/bad-time-to-invest-in-gold.asp" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/investing/investing15.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/ask/answers/12/bad-time-to-invest-in-gold.asp"> 
+Is there ever a bad time to invest in gold?						</a>
+				</h3>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/active-trading/"><strong>Active Trading</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/fundamentals/">Fundamentals</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/charts-and-patterns/">Charts & Patterns</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/technical-indicators/">Technical Indicators</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/trading-strategies/">Trading Strategies</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/brokers-and-reviews/">Brokers</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/trading-systems-and-software/">Software</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/options-and-futures/">Options & Futures</a></li>
+					<li><a href="http://www.investopedia.com/active-trading/chartadvisor/">Chart Advisor</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/active-trading/compare/discount-brokers.aspx">Discount Brokers
+						<img src="http://i.investopedia.com/assets_v2/img/icon_new.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/categories/tradingterms.asp">Definitions</a></li>
+					<li><a href="http://www.investopedia.com/articles/trading/">Articles</a></li>
+					<li><a href="http://www.investopedia.com/video/trading/">Videos</a></li>
+					<li><a href="http://www.investopedia.com/slide-show/trading/">Slideshows</a></li>
+					<li><a href="http://www.investopedia.com/university/all/trading/">Tutorials</a></li>
+					<li><a href="http://www.investopedia.com/calculator/">Calculators</a></li>
+					<li><a href="http://www.investopedia.com/ask/trading/">FAQs</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuForex" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width:34%; border:none">
+				<div class="smenu">
+					<div class="group">
+						<div class="title"><h3>More News &raquo;</h3></div>
+					</div>
+					
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/forex/news/fxstreet/ForexAUDNZDloweronRBAcutfears.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/forex/news/fxstreet/ForexAUDNZDloweronRBAcutfears.aspx"> 
+Forex AUD/NZD lower on RBA cut fears						</a>
+				</h3>
+				<div class="item-description">FXstreet.com (Barcelona) - AUDNZD is currently dipping to fresh session lows at 1.2689 ...</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/forex/news/fxstreet/ForexAussiesoldafterCapexrelease.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/forex/forex12.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/forex/news/fxstreet/ForexAussiesoldafterCapexrelease.aspx"> 
+Forex: Aussie sold after Capex release						</a>
+				</h3>
+				<div class="item-description">FXstreet.com (Barcelona) - Following a push north towards 1.0475, the AUD has badly ...</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/forex/news/fxstreet/ForexEURUSDsitsaround12950afterparingdrop.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/forex/forex5.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/forex/news/fxstreet/ForexEURUSDsitsaround12950afterparingdrop.aspx"> 
+Forex: EUR/USD sits around 1.2950 after paring drop						</a>
+				</h3>
+				<div class="item-description">FXstreet.com (San Francisco) - Before finishing virtually unchanged on the day at ...</div>
+			</li>
+			<li class="item nth">
+					<a href="http://www.investopedia.com/forex/news/fxstreet/ForexEuromarginallyweakeronMoodyscomments.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/forex/forex14.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/forex/news/fxstreet/ForexEuromarginallyweakeronMoodyscomments.aspx"> 
+Forex: Euro marginally weaker on Moody's comments						</a>
+				</h3>
+				<div class="item-description">FXstreet.com (Barcelona) - Euro is a tad lower after comments from Moody's. The agency ...</div>
+			</li>
+</ol>
+
+
+
+				</div>
+			</td>
+			<td class="quicklinks" style="width:20%">
+				<ul>
+					<li><a href="http://www.investopedia.com/forex/"><strong>Forex</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/forex/news/">Forex News</a></li>
+						<li><a href="http://www.investopedia.com/forex/calendar/">Economic Calendar</a></li>
+					<li><a href="http://www.investopedia.com/forex/fundamentals">Forex Fundamentals</a></li>
+					<li><a href="http://www.investopedia.com/walkthrough/forex">Forex Walkthrough</a></li>
+				<li><a href="http://www.investopedia.com/forex/strategies/">Forex Strategies</a></li>
+					<li><a href="http://www.investopedia.com/forex/compare/brokers.aspx">Brokers
+						<img src="http://i.investopedia.com/assets_v2/img/icon_new.png" style="vertical-align:bottom;" />
+						</a></li>
+					<li><a href="http://www.investopedia.com/forex/compare/platforms.aspx">Platforms
+						<img src="http://i.investopedia.com/assets_v2/img/icon_new.png" style="vertical-align:bottom;" />
+						</a></li>
+					<li><a href="http://www.investopedia.com/fxtrader">FX Trader
+						<img src="http://i.investopedia.com/assets_v2/img/icon_fxtrader.png" style="vertical-align:bottom;" />
+						</a></li>
+					<li><a href="http://www.investopedia.com/free/">Free Resources</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:20%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/categories/forex.asp">Definitions</a></li>
+					<li><a href="http://www.investopedia.com/articles/forex/">Articles</a></li>
+					<li><a href="http://www.investopedia.com/video/forex/">Videos</a></li>
+					<li><a href="http://www.investopedia.com/slide-show/forex/">Slideshows</a></li>
+					<li><a href="http://www.investopedia.com/university/all/forex/">Tutorials</a></li>
+					<li><a href="http://www.investopedia.com/calculator/">Calculators</a></li>
+					<li><a href="http://www.investopedia.com/ask/forex/">FAQs</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="MenuProfessionals" class="richmenu">
+	<table class="richmenu-layout" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="quicklinks" style="width:34%; border:none">
+				<ul>
+					<li><a href="http://www.investopedia.com/professionals/"><strong>Professionals</strong>
+						<img src="http://i.investopedia.com/assets_v2/img/icon_home.png" style="vertical-align:bottom;" />
+					</a></li>
+					<li><a href="http://www.investopedia.com/professionals/globalarchive.asp">Global Professional Exams</a></li>
+					<li><a href="http://www.investopedia.com/professionals/usarchive.asp">FINRA Exams</a></li>
+					<li><a href="http://www.investopedia.com/professionals/canarchive.asp">Canadian Professional Exams</a></li>
+					<li><a href="http://www.investopedia.com/professionals/careers/">Careers</a></li>
+					<li><a href="http://www.investopedia.com/professionals/continuing-education/">Continuing Education</a></li>
+					<li><a href="http://www.investopedia.com/exam-prep-quizzes/">Exam Prep Quizzer</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:22%">
+				<ul>
+					<li><a href="http://www.investopedia.com/professionals/series3/">Series 3</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series6/">Series 6</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series7/">Series 7</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series910/">Series 9/10</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series22/">Series 22</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series24/">Series 24</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series26/">Series 26</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series55/">Series 55</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series63/">Series 63</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:22%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/professionals/series65/">Series 65</a></li>
+					<li><a href="http://www.investopedia.com/professionals/series66/">Series 66</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cfa/">CFA Level I</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cfa/default2.asp">CFA Level II</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cfa/default3.asp">CFA Level III</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cfp/">CFP</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cmt/">CMT Level I</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cmt/default2.asp">CMT Level II</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cmt/default3.asp">CMT Level III</a></li>
+				</ul>
+			</td>
+			<td class="quicklinks" style="width:22%;">
+				<ul>
+					<li><a href="http://www.investopedia.com/professionals/FRM/">FRM Part I</a></li>
+					<li><a href="http://www.investopedia.com/professionals/FRM/default2.asp">FRM Part II</a></li>
+					<li><a href="http://www.investopedia.com/professionals/erp/">ERP</a></li>
+					<li><a href="http://www.investopedia.com/professionals/LIFA/">LIFA Level I</a></li>
+					<li><a href="http://www.investopedia.com/professionals/csc/">CSC</a></li>
+					<li><a href="http://www.investopedia.com/professionals/cph/">CPH</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+
+					<script language="javascript" type="text/javascript">
+						$('.mainnav').richmenu();
+					</script>
+				</div><!-- .mainnav -->
+			
+
+       <!-- SNavCPH:SubNavContentPlaceHolder -->
+        <div class="subnav">
+        	<span id="BBCPH_SNavCPH_SubNavigationControl">
+<ul class="hlist-fixed layout-width group">
+  <li class="first"><a href="/markets/stock-analysis/">Analysis & Opinions</a></li>
+  <li><a href="/markets/etfs/">ETF Center</a></li>
+  <li><a href="/markets/sectors/">Sectors</a></li>
+  <li><a href="/active-trading/chartadvisor/">Chart Advisor</a></li>
+  <li><a href="/free/">Free Tools</a></li>
+  <li class="last"><a href="http://www.companyspotlight.com"><img src="http://i.investopedia.com/assets_v2/img/precision-ir-nav-icon.gif" style="margin:-2px 0;" alt="Free Annual Reports Logo" width="14" height="14" /> Free Annual Reports</a></li>
+  <li class="dummy">&nbsp;</li><!-- do not edit -->
+  </ul><!-- .hlist -->
+</span>
+        </div><!-- .subnav -->
+      
+
+    </div><!-- .mid -->
+
+    <div class="btm">
+      
+  <div class="ad-leaderboard">
+	
+
+<script type="text/javascript" language="JavaScript">
+  <!--
+    OAS_AD('x12');
+  -->
+</script>
+
+
+    
+
+<script type="text/javascript" language="JavaScript">
+  <!--
+    OAS_AD('x70');
+  -->
+</script>
+
+
+  </div>
+
+    </div><!-- .btm -->
+
+  </div><!-- #Header -->
+
+  
+
+  <div id="Content" class="layout-width group">
+    
+  
+
+	<div class="layout-page">
+		<div class="layout-page-content">
+			<div id="SharingFloat"></div>
+
+			
+	<div class="box first">
+		<div class="group">
+			<div class="content-title title">
+				<div class="info">
+					<div id="SharingBtn" class="ui1 share-btn">
+						<img class="share-icon" src="http://i.investopedia.com/assets_v2/img/icon_share.png" />
+						<a class="area main-share-btn" style="width:54px;">
+							Share
+						</a>
+						
+
+<div id="fb-root"></div>
+<script>
+	(function (d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	} (document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="SharingContent" class="social-wrapper">
+	<div class="border-social-arrow social-arrow"></div>
+	<div class="social-arrow"></div>
+	<div class="social">
+		<div class="facebook popup">
+			<div class="fb-like" data-send="false" data-layout="box_count" data-show-faces="true" data-font="verdana"></div>
+		</div>
+		<div class="twitter popup">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="investopedia">Tweet</a>
+		</div>
+		<div class="google popup">
+			<g:plusone size="tall"></g:plusone>
+		</div>
+		<div class="linkedin popup">
+			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/Share" data-counter="top"></script>
+		</div>
+		<div class="comments-control">
+			
+
+<div id="CommentsBtn" class="comments-control comments ui1">
+		<div class="comments-bubble">
+			<a href="#commentsControlPosition">
+				<img class="comment-arrow" src="http://i.investopedia.com/assets_v2/img/btn_comment_arrow.png" />
+				<div class="comments-counter">0</div>
+				<div class="border-comments-arrow2 comments-arrow2"></div>
+				<div class="comments-arrow2"></div>
+			</a>
+		</div>
+		<div class="comments-btn">
+		<a class="area" href="#commentsControlPosition">
+			Disqus
+		</a>
+		</div>
+</div><!-- .comments-control -->
+		</div>
+	</div>
+
+	<div class="actions">
+			
+			<div class="ui1 action">
+				<a id="ShareEmail" class="area" target="_blank" style="width:55px;" href="http://www.investopedia.com/shareemail.aspx?subject=Love+Or+Hate+-+Wall+Street+Will+Hate+A+Republican+Win+(JPM%2c+GS%2c+BAC)&url=http%3a%2f%2fwww.investopedia.com%2fstock-analysis%2f2012%2flove-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx%3fpartner%3dYahooSA">
+				Email
+				</a>
+			</div>
+		<div id="BBCPH_MCPH_MCPH_P_BottomSocialSharingBar_divPrint" class="ui1 action">
+			<a id="PrintDefinition" class="area" target="_blank" style="width:55px;" href="http://www.investopedia.com/articles/ViewArticlePrintable.aspx?url=%2fstock-analysis%2f2012%2fLove-Or-Hate---Wall-Street-Will-Hate-A-Republican-Win-JPM-GS-BAC1105.aspx" onClick="window.print();return false">
+				Print
+			</a>
+		</div>
+		<div id="BBCPH_MCPH_MCPH_P_BottomSocialSharingBar_divReprints" class="ui1 action">
+			<a id="OrderReprints" class="area" target="_blank" style="width:55px;" href="http://www.investopedia.com/contact.aspx?type=ReprintsRequest&Title=Love+Or+Hate+-+Wall+Street+Will+Hate+A+Republican+Win+(JPM%2c+GS%2c+BAC)&URL=http%3a%2f%2fwww.investopedia.com%2fstock-analysis%2f2012%2fLove-Or-Hate---Wall-Street-Will-Hate-A-Republican-Win-JPM-GS-BAC1105.aspx">
+				Reprints
+			</a>
+		</div>
+		<div class="ui1 action">
+			<a class="area" style="width:55px;" href="http://www.investopedia.com/contact.aspx">
+				Feedback
+			</a>
+		</div>
+		<div class="clear"></div>
+	</div><!-- .sharing -->
+</div>
+
+<script language="javascript">
+
+	$(document).ready(function () {
+		if ($('.wallpaper').size() == 0) {
+			displaySharingBar();
+			$(window).resize(displaySharingBar);
+		}
+	});
+
+	$('#SharingBtn').bind('click', function () {
+		var panel = $('#SharingContent');
+		if (panel.css('display') == 'block') {
+			panel.hide();
+		} else {
+			panel.show();
+		}
+	});
+
+	function displaySharingBar() {
+
+		var pginfo = $('.content-title .info');
+
+		if ($(window).width() > ($('#Content').width() + 200)) {
+			$('#SharingContent').show();
+			$('#SharingFloat').append($('#SharingContent'));
+			pginfo.hide();
+		} else {
+			$('#SharingContent').hide();
+			$('#SharingBtn').append($('#SharingContent'));
+			pginfo.show();
+		}
+	}
+</script>
+					</div><!-- .share-btn -->
+					
+
+<div id="CommentsBtn" class="comments-control comments ui1">
+		<div class="comments-bubble">
+			<a href="#commentsControlPosition">
+				<img class="comment-arrow" src="http://i.investopedia.com/assets_v2/img/btn_comment_arrow.png" />
+				<div class="comments-counter">0</div>
+				<div class="border-comments-arrow2 comments-arrow2"></div>
+				<div class="comments-arrow2"></div>
+			</a>
+		</div>
+		<div class="comments-btn">
+		<a class="area" href="#commentsControlPosition">
+			Disqus
+		</a>
+		</div>
+</div><!-- .comments-control -->
+				</div><!-- .info -->
+				<h1>
+					Love Or Hate - Wall Street Will Hate A Republican Win
+				</h1>
+			</div>
+			<!-- .title -->
+		</div>
+		<!-- .group -->
+		<div class="separator">
+		</div>
+		<div class="tags">
+			November 05, 2012
+			| Filed Under »
+					<a title="Markets have cycles, ups are known as bulls and downs are known as bears. You better know which is in control of the market and how to react to each." href="/tags/Bear_Market" rel="tag">Bear Market</a>, 
+		<a title="This can be anything to do with government regulations, taxes, policies, spending, etc." href="/tags/Government_and_Politics" rel="tag">Government and Politics</a>, 
+		<a title="Analysts often provide insights regarding how well a stock will perform in the near future." href="/tags/Stock_Analysis" rel="tag">Stock Analysis</a>, 
+		<a title="Learn about timeless, accessible financial information that will help you spot significant research trends and developments influencing the stocks in your portfolio." href="/tags/Stocks" rel="tag">Stocks</a>
+
+		</div>
+		<div class="tickers">
+			Tickers in this Article »
+					<a href="http://www.investopedia.com/markets/stocks/jpm/" rel="tag">JPM</a>, 
+		<a href="http://www.investopedia.com/markets/stocks/gs/" rel="tag">GS</a>, 
+		<a href="http://www.investopedia.com/markets/stocks/bac/" rel="tag">BAC</a>, 
+		<a href="http://www.investopedia.com/markets/stocks/hca/" rel="tag">HCA</a>, 
+		<a href="http://www.investopedia.com/markets/stocks/abc/" rel="tag">ABC</a>, 
+		<a href="http://www.investopedia.com/markets/stocks/nee/" rel="tag">NEE</a>
+
+		</div>
+		
+		<br />
+	<div class="group" style="float:left;">
+		
+			
+	</div>
+			
+		<div class="content-body  box">
+			<div id="ContentContainer" class="box">
+				<div class="content-section one">
+					<div dir="ltr" id="imcontent">Question: <em>Would Wall Street love or hate a republican president?<br></em><br><strong>Hate Side<br></strong>Mitt Romney and Barack Obama are neck and neck in the polls with a day to go until the November 6 presidential election. One area where Obama appears to have a clear advantage is with early voters who favor the president almost two to one. That's great news for Wall Street. An Obama victory should produce additional gains for stocks whereas a republican win would lead to losses. I'll explain why.<br><br><a href="/active-trading/compare/discount-brokers.aspx">Discount Brokers Comparison</a>: Your one-stop shop for finding the perfect broker for your investments.<br><br><strong>Be Careful What You Wish for<br></strong>Wall Street's love affair with Obama in 2008 has all but disappeared. Four years ago, it gave $15.8 million to Obama's campaign. In this year's campaign, the amount has dropped to $4 million, compared to $16 million for Romney. Case in point, <strong>Goldman Sachs </strong>(NYSE:<a href="/markets/stocks/gs/">GS</a>) employees chipped in a little more than $1 million to Obama's 2008 campaign. This year, that's declined to $136,000, while Romney's campaign has received$900,000.<br><br>Investment bankers are unhappy with Obama, despite the fact that he saved their bacon four years ago. You would think Wall Street would be ecstatic that the S&amp;P 500 has gained 68% since Barack Obama took office on Jan. 20, 2009, but that's not the case. The reasons for its displeasure are two-fold - bonuses have declined for the second straight year and increased regulation, including the implementation of the Volker Rule, is making it more difficult for the banks to generate profits.<br><br>Since the Dodd-Frank legislation was passed in 2010, Wall Street has spent $330 million lobbying Washington. It seems that Jamie Dimon and company are more concerned about their personal fiefdoms disappearing than investors making money.<br><br>SEE: <a href="/financial-edge/0912/who-does-wall-street-want-for-president.aspx">Who Does Wall Street Want For President?</a><strong><br><br>Historical Performance<br></strong>While republicans talk the language of free enterprise, the democrats historically deliver the goods when it comes to creating jobs and helping stock prices to rise. According to Bloomberg, democratic presidents have created 150,000 new private-sector jobs on a monthly basis since 1961, compared to 71,000 for the republicans. Those stats were so compelling that Bill Clinton used them in his speech at this year's democratic convention.<br><br>Rick Newman of <em>U.S. News &amp; World Report</em> found that if you include public sector jobs in the calculation, the democrats since 1961 have created 48 million new jobs, compared to 31 million for the republicans. Furthermore, extrapolating these figures with those of Bloomberg, republicans and democrats created an equal number of government jobs over the last 51 years. While it's not always easy determining whose policies are responsible for what, it's clear that democrats do more than tax and spend.<br><br>In terms of the economy, the <a href="/terms/g/gdp.asp">GDP</a> has grown 4.2% annually under the democrats since 1949, compared to 2.6% for the republicans; corporate profits under the democrats fare better, with profits growing 10.5% versus 8.9% for the GOP. All of this leads to democrat presidents delivering better returns for the <a href="/terms/s/sp500.asp">S&amp;P 500</a>. Since 1900, according to S&amp;P Capital IQ, the index has averaged 12.1% annually under democrat presidents versus 5.1% for republican presidents. Under Obama, GDP has grown 1% per year, corporate profits by 52% and the S&amp;P 500 by 12.3% annually. Pulling all three stats together, it's obvious that a greater percentage of Americans benefit under democrat presidents than under republican ones.<br><br>SEE: <a href="/financial-edge/0812/gop-vs.-democrats-whos-best-for-americas-economy.aspx">GOP Vs. democrats: Who's Best For America's Economy?</a><strong><br><br>Stocks to Benefit<br></strong>Corporate profits and economic growth generally are the two leading factors in rising stock prices. While Wall Street views Mitt Romney's talk of repealing parts of the <a href="/terms/d/dodd-frank-financial-regulatory-reform-bill.asp">Dodd-Frank financial reform</a> as beneficial, when all is said and done, Americans of every stripe benefit the most when jobs are created, GDP grows and corporations generate profits. Dodd-Frank does little to impede any of that. For this reason, Wall Street should put aside its self-interest and instead focus on the big picture.<br><br>You might think Mitt Romney's your friend, but he's not. Jamie Dimon, CEO of <strong>JPMorgan Chase </strong>(NYSE:<a href="/markets/stocks/jpm/">JPM</a>), has the audacity to complain about mortgage underwriting being too tight, yet his bank just delivered record third quarter profits of $5.7 billion. Obama's administration has made it tougher for people to get mortgages and that's how it should be. Yet Dimon whines about it.<br><br>President Obama has made banks stronger by restricting what they can and cannot do. The country is better off as a result. The truth is: Banks aren't being prevented from lending, it's just that they don't make much money doing so in this low-interest environment. Wall Street will hate the election of Romney because it will ultimately result in higher bank failures due to relaxed regulations. It didn't go too well the first time.<br><br>SEE: <a href="/financial-edge/0212/dodd-franks-consequences.aspx">Dodd-Frank's Consequences</a><strong><br><br>The Bottom Line<br></strong>Although Wall Street has changed its tune when it comes to campaign contributions, ultimately it will be better off with an Obama administration in the White House because history has shown that Wall Street does best with democrats in power, especially incumbents.<br><br><strong>Bank of America </strong>(NYSE:<a href="/markets/stocks/bac/">BAC</a>) analysts suggest in their <em>Election 2012</em> report that companies to benefit from an Obama win include hospital operators such as <strong>HCA Holdings </strong>(NYSE:<a href="/markets/stocks/hca/">HCA</a>), pharmaceutical distributors like <strong>Amerisource </strong>(NYSE:<a href="/markets/stocks/abc/">ABC</a>) and alternative energy businesses such as <strong>NextEra Energy </strong>(NYSE:<a href="/markets/stocks/nee/">NEE</a>).<br><br>Whichever candidate wins the presidency, it's important to keep in mind that the markets are unpredictable at the best of times. Wall Street thinks the republicans are a better choice, but the bailout is evidence to the contrary. Be careful what you wish for America; you just might get it.<br><br>At the time of writing, Will Ashworth did not own any shares in any company mentioned in this article.<br><br><strong>Don't forget to read the </strong><strong><a href="/stock-analysis/2012/bull-vs.-bear---wall-street-may-like-a-republican-president-1015.aspx"><strong>other</strong></a> </strong><strong>side of this debate and weigh in with your opinion below.</strong></div>
+				</div>
+
+				<!-- .box -->
+
+				<div class="content-section two">
+					
+				</div>
+
+				<!-- .box -->
+
+				<div class="content-section three">
+					
+				</div>
+
+				
+
+				<div class="content-section four">
+					
+				</div><!-- .content-section four -->
+			</div><!-- #ContentContainer -->
+			
+			<div class="sailthruThreshold"></div>
+
+			<div class="two-col group">
+				<div id="BBCPH_MCPH_MCPH_P_divOneStepControl" class="col">
+
+<script language="javascript" type="text/javascript">
+	
+
+		$('#divPromo').bind('keypress', function (e) {
+			if (e.keyCode == 13) {
+				$("#btnSignup").click();
+			}
+		});
+
+		function isValid() {
+			var falses = [];
+			var rule_email = [];
+
+			rule_email.push({ type: 'notempty', msg: 'Please provide your email address.' });
+			rule_email.push({ type: 'email' });
+			rule_email.push({ type: 'emaillength' });
+			$('#BBCPH_MCPH_MCPH_P_OneStepSignupControl_Email').validate({ rules: rule_email, onComplete: showResult });
+
+			function showResult(result, elm) {
+				if (result == false) {
+					falses.push(elm);
+				}
+			}
+
+			if (falses.length == 0) {
+				return true;
+			} else {
+				return false;
+			}
+		}
+
+		$('#MainForm').submit(function (e) {
+			if (!isValid()) {
+				e.preventDefault();
+			}
+		});
+	
+</script>
+
+<style type="text/css">
+	.icon-alert 
+	{
+		margin-left: -30px;	
+	}
+</style>
+
+<div id="divPromo" class="box ui-canvas banner-button promo-control">
+	<div class="promoTitle">
+		<img class="icon" src="http://i.investopedia.com/assets_v2/img/icon_TODsignup.png" />
+		<h3><span id="BBCPH_MCPH_MCPH_P_OneStepSignupControl_lblTitle">Sign Up For Chart Advisor!</span></h3>
+	</div>
+
+	<div class="promoForm">
+		<table style="width:100%;" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="width:50px;"></td>
+				<td><input name="ctl00$ctl00$ctl00$ctl00$BBCPH$MCPH$MCPH$P$OneStepSignupControl$Email" type="text" id="BBCPH_MCPH_MCPH_P_OneStepSignupControl_Email" class="promoSignup input-text input-promo" /></td>
+				<td style="width:90px; text-align:right;">
+					<input type="image" name="ctl00$ctl00$ctl00$ctl00$BBCPH$MCPH$MCPH$P$OneStepSignupControl$btnSignup" id="btnSignup" src="http://i.investopedia.com/assets_v2/img/newsletters/promoSignUpBtn.png" />
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+<!--ViewState would not work so had to save each field seperately in a hiddenfield -->
+<input type="hidden" name="ctl00$ctl00$ctl00$ctl00$BBCPH$MCPH$MCPH$P$OneStepSignupControl$promotionURL" id="BBCPH_MCPH_MCPH_P_OneStepSignupControl_promotionURL" value="onestep-news?newsletter=chartadvisor-free&amp;&amp;utm_campaign=CAonestep&amp;utm_medium=website&amp;utm_source=[channel]:[subchannel]&amp;content=belowcontent" />
+<input type="hidden" name="ctl00$ctl00$ctl00$ctl00$BBCPH$MCPH$MCPH$P$OneStepSignupControl$promotionList" id="BBCPH_MCPH_MCPH_P_OneStepSignupControl_promotionList" value="chartadvisor-free" />
+<input type="hidden" name="ctl00$ctl00$ctl00$ctl00$BBCPH$MCPH$MCPH$P$OneStepSignupControl$promotionID" id="BBCPH_MCPH_MCPH_P_OneStepSignupControl_promotionID" value="4" />
+
+<script language="javascript" type="text/javascript">
+	$('.promoSignup').helptext({ msg: 'Enter your email here...' });
+</script></div>
+				<div id="BBCPH_MCPH_MCPH_P_divAppPromoControl" class="col">
+
+
+
+<div id="BBCPH_MCPH_MCPH_P_AppPromoControl_DivStockSimulator" class="box ui-canvas banner-button">
+	<img class="simulator-icon" src="http://i.investopedia.com/assets_v2/img/button-simulator.png" />
+		<div class="button-appPromo"><a href="http://www.investopedia.com/simulator?utm_source=markets:stock analysis&utm_medium=website&utm_campaign=simpromolink" id="BBCPH_MCPH_MCPH_P_AppPromoControl_SimulatorLink" target="_blank">Try Our Stock Simulator!</a>
+		<h4>Test your trading skills!</h4></div>
+</div>
+	
+</div>
+			</div>
+		</div><!-- .article-body -->
+		
+		<div class="box group center ads">
+			<!--Begin AdBlade Widget-->
+<script type="text/javascript"><!--
+  adblade_cid="1833-1031181530";
+  adblade_ad_width=600;
+  adblade_ad_height=250;
+  adblade_ad_host="web.adblade.com";
+//--></script>
+<script type="text/javascript" src="http://web.adblade.com/js/ads/show.js"></script>
+<!--End AdBlade Widget-->
+
+		</div>
+
+		<div id="BBCPH_MCPH_MCPH_P_authorDiv" class="article-author">
+				 by <h2 class="inline"><a href="http://www.investopedia.com/contributors/220">Will Ashworth</a></h2>
+	<hr />
+	<div class="profile-pic"><a href="http://www.investopedia.com/contributors/220"><img src="http://i.investopedia.com/assets_v2/img/icon_nophoto.png" alt="Will Ashworth"/></a></div>
+	 	<div class="profile-text">Will Ashworth lives and works in Toronto, Canada. He's worked in and around the financial services industry for much of his adult life. He loves investing and is passionate about helping others learn how to put their money to work.</div>
+<div class="clear"></div>
+		</div>
+	</div><!-- #Article -->
+
+
+			
+
+
+			
+			<div id="BBCPH_MCPH_MCPH_Comments" class="box" style="margin-top:40px;">
+				
+
+<a name="commentsControlPosition"></a>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	var disqus_config = function() {
+		this.page.remote_auth_s3 = "";
+		this.page.api_key = "YAmzo2aG2shicoymYHgzvtyOlaN7YkrM7tI2xMZ9WYeXuXkOQbSOLgua9VRYXdGu";
+			
+		this.sso = {
+			name: "Investopedia",
+			button: "http://i.investopedia.com/assets_v2/img/btn_disqus.png",
+			icon: "http://i.investopedia.com/inv/general/favicon.ico",
+			url: "http://www.investopedia.com/accounts/LoginPopup.aspx",
+			logout: "http://www.investopedia.com/accounts/Logout.aspx",
+			width: "600px",
+			height: "400px",
+			resize: "false"
+		};
+	};
+	var disqus_shortname = 'investopedia';
+	var disqus_identifier = '/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA';
+	var disqus_url = 'http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA';
+	var disqus_developer = 0;
+	(function () {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+			</div>
+			
+			<div class="clear"></div>
+			
+			<div id="FloatEnd"></div>
+			
+		</div><!--layout-page-content-->
+    </div><!-- .layout-page -->
+
+	<div class="layout-side">
+			
+		
+
+<div class="social group">
+	<div class="left">Follow Us:</div>
+  <a target="_blank" title="Go to the Investopedia Facebook Page." href="http://www.facebook.com/Investopedia">
+    <img id="BBCPH_MCPH_MCPH_Sharing_IconFacebook" class="icon" src="http://i.investopedia.com/assets_v2/img/icon_facebook.png" style="height:26px;width:27px;" />
+  </a>
+  <a target="_blank" title="Go to the Investopedia Twitter Page." href="http://twitter.com/#!/investopedia">
+    <img id="BBCPH_MCPH_MCPH_Sharing_IconTwitter" class="icon" src="http://i.investopedia.com/assets_v2/img/icon_twitter.png" style="height:26px;width:27px;" />
+  </a>
+  <a target="_blank" title="Go to the Investopedia Google Page." href="https://plus.google.com/117058237613563836556/posts">
+    <img id="BBCPH_MCPH_MCPH_Sharing_IconGoogle" class="icon" src="http://i.investopedia.com/assets_v2/img/icon_googleplus.png" style="height:26px;width:27px;" />
+  </a>
+  <a title="Subscribe to Investopedia RSS news feeds here." href="http://www.investopedia.com/rss/">
+    <img id="BBCPH_MCPH_MCPH_Sharing_IconRss" class="icon" src="http://i.investopedia.com/assets_v2/img/icon_rss.png" style="height:26px;width:27px;" />
+  </a>
+  <a title="Get Investopedia on Flipboard here." href="http://www.investopedia.com/flipboard.aspx">
+    <img id="BBCPH_MCPH_MCPH_Sharing_IconFlipboard" class="icon flipboard-icon" src="http://i.investopedia.com/assets_v2/img/icon_flipboard.png" style="height:24px;width:25px;" />
+  </a>
+</div><!-- .social -->
+
+
+		
+			
+		
+
+		<div class="box center">
+			
+
+<script type="text/javascript" language="JavaScript">
+  <!--
+    OAS_AD('x30');
+  -->
+</script>
+
+
+		</div><!-- .box -->
+
+		<div class="box buttonlist marketplace" id="Marketplace">
+			<span class="title">Marketplace</span>
+			<div class="separator"></div>
+			
+
+<script type="text/javascript" language="JavaScript">
+  <!-- <![CDATA
+    OA_show('Marketplace');
+  // ]]> -->
+</script>
+
+
+		</div><!-- .marketplace -->
+
+		
+	<div id="BBCPH_MCPH_MCPH_SB2_RelatedContent1_RelatedContentBox" class="box buttonlist">
+	<div class="group">
+		<div class="title">
+			Related Analysis
+		</div>
+	</div>
+	<div class="separator"></div>
+	
+	
+              
+
+<ol class="list">
+			<li class="item first">
+					<a href="http://www.investopedia.com/stock-analysis/2012/Recent-Scandals-Show-Wall-Street-Still-Needs-A-Lot-Of-Watching-C-FB-CRI-GS1127.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading20.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/2012/Recent-Scandals-Show-Wall-Street-Still-Needs-A-Lot-Of-Watching-C-FB-CRI-GS1127.aspx"> 
+Recent Scandals Show Wall Street Still Needs A Lot Of Watching (C, FB, CRI, GS)						</a>
+				</h3>
+				<div class="item-description">Recent news shows that misdeeds at Wall Street and public companies continue.</div>
+			</li>
+			<li class="item second">
+					<a href="http://www.investopedia.com/stock-analysis/SectorSummary/FinancialStocksIncludingGoldmanSachsMakingBigMovesonNovember232012.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading4.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/SectorSummary/FinancialStocksIncludingGoldmanSachsMakingBigMovesonNovember232012.aspx"> 
+Financial Stocks, Including Goldman Sachs, Making Big Moves on November 23, 2012						</a>
+				</h3>
+				<div class="item-description">The market has been doing well after the morning's trading. The Nasdaq is trading up ...</div>
+			</li>
+			<li class="item third">
+					<a href="http://www.investopedia.com/stock-analysis/SectorSummary/GoldmanSachsAmongFinancialsBiggestMoversonNovember192012.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading9.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/SectorSummary/GoldmanSachsAmongFinancialsBiggestMoversonNovember192012.aspx"> 
+Goldman Sachs Among Financial's Biggest Movers on November 19, 2012						</a>
+				</h3>
+				<div class="item-description">The Nasdaq has moved up 1.7%, the S&P 500 is trading up 1.5% and the Dow has increased ...</div>
+			</li>
+			<li class="item nth">
+					<a href="http://www.investopedia.com/stock-analysis/SectorSummary/HCAandOtherHealthcareStocksMakingBigMovesonNovember82012.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading17.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/SectorSummary/HCAandOtherHealthcareStocksMakingBigMovesonNovember82012.aspx"> 
+HCA and Other Healthcare Stocks Making Big Moves on November 8, 2012						</a>
+				</h3>
+				<div class="item-description">This morning's trading has marked a bad day for the market so far. The Nasdaq has ...</div>
+			</li>
+			<li class="item nth">
+					<a href="http://www.investopedia.com/stock-analysis/SectorSummary/HCAandOtherHealthcareStocksMakingBigMovesonNovember72012.aspx" class="item-image">
+						<div class="item-image-src" style="background: url(http://i.investopedia.com/inv/genericcontentimages/activetrading/activetrading6.jpg) center center no-repeat;">
+						</div>
+					</a>
+				<h3 class="item-title">
+							<a href="http://www.investopedia.com/stock-analysis/SectorSummary/HCAandOtherHealthcareStocksMakingBigMovesonNovember72012.aspx"> 
+HCA and Other Healthcare Stocks Making Big Moves on November 7, 2012						</a>
+				</h3>
+				<div class="item-description">On a bad day for the market, the Nasdaq has slipped 2.7%, the S&P 500 is trading down ...</div>
+			</li>
+</ol>
+
+
+
+</div>
+
+
+		
+	<br/>
+	
+	<div id="ETFAlternativesContent" class="box">
+		<div class="title">
+			<h3>
+				ETF Alternatives
+				<span style="font-size: 12px; font-family: SlingLight,Georgia,Times New Roman,Times,Serif; color: #555555">sponsored by</span>
+				<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/420914342/direct;at.denisa00000809;ct.1/01/">
+					<img id="BBCPH_MCPH_MCPH_SB2_Image1" src="http://i.investopedia.com/assets_v2/img/ishares_logo_alternatives.png" />
+				</a>
+				<img src="http://view.atdmt.com/DEN/view/420914342/direct;at.denisa00000809/01" width="1" height="1" alt=""/>
+			</h3>
+		</div><!-- .title -->
+
+			
+
+	<div class="">
+
+		<div class="">
+			<table class="table-data ">
+
+					<tr class="odd">
+							<th class="even txt">
+Name							</th>
+							<th class="odd num">
+% Change							</th>
+					</tr>
+				
+
+					<tr class="even">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES DOW JONES US FINANCIAL (IYG)</a>
+										<img src="http://view.atdmt.com/DEN/view/419551620/direct;at.denisa00000818/01/" width="1" height="1" alt=""/>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.61%								</span>
+							</td>
+					</tr>
+					<tr class="odd">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES DOW JONES US FINANCIAL (IYF)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.43%								</span>
+							</td>
+					</tr>
+					<tr class="even">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES MORNINGSTAR LARGE VALU (JKF)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.86%								</span>
+							</td>
+					</tr>
+					<tr class="odd">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES S&P GLOBAL FINANCIALS (IXG)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.26%								</span>
+							</td>
+					</tr>
+					<tr class="even">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES RUSSELL TOP 200 VALUE (IWX)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.82%								</span>
+							</td>
+					</tr>
+					<tr class="odd">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES S&P 500 VALUE INDEX (IVE)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.77%								</span>
+							</td>
+					</tr>
+					<tr class="even">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES NYSE 100 INDEX (NY)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="down">
+-0.55%								</span>
+							</td>
+					</tr>
+					<tr class="odd">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES RUSSELL 1000 VALUE IND (IWD)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.72%								</span>
+							</td>
+					</tr>
+					<tr class="even">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES S&P GLOBAL 100 INDEX (IOO)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.96%								</span>
+							</td>
+					</tr>
+					<tr class="odd">
+							<td class="even txt">
+								<span class="">
+											<a rel="nofollow" target="_blank" href="http://clk.atdmt.com/DEN/go/419551620/direct;at.denisa00000818;ct.1/01/">ISHARES RUSSELL 3000 VALUE IND (IWW)</a>
+								</span>
+							</td>
+							<td class="odd num">
+								<span class="up">
++0.69%								</span>
+							</td>
+					</tr>
+
+			</table>
+		</div>
+	</div>
+
+	</div><!-- #ETFAlternativesContent -->
+
+
+
+		<div class="box buttonlist">
+		  <div class="title">Trading Center</div>
+		  <div class="separator"></div>
+		  <ul class="ad-buttons group">
+			<li>
+
+<script type="text/javascript" language="JavaScript">
+  <!--
+    OAS_AD('x91');
+  -->
+</script>
+
+</li>
+			<li>
+
+<script type="text/javascript" language="JavaScript">
+  <!--
+    OAS_AD('x92');
+  -->
+</script>
+
+</li>
+		  </ul>
+  		</div>
+
+		 
+
+<div id="BBCPH_MCPH_MCPH_ConditionalControl_pnlPartnerLinks">
+	
+	<div class="box openxbuttons">
+		<div class="title">Partner Links</div>
+		<div class="separator"></div>
+		
+
+<script type="text/javascript" language="JavaScript">
+	  <!-- <![CDATA
+	    OA_show('Below_3_Center');
+	  // ]]> -->
+	</script>
+
+	
+	</div><!-- .box openxbuttons -->
+
+</div>
+
+		
+			<!--Sidebar Content 3 -->
+		
+		
+		
+
+	</div><!-- .layout-side -->
+
+
+  </div><!-- #Content -->
+
+  <div id="Footer">
+
+    <div class="top"><div class="bar"></div>
+      <!-- FTBCPH:FooterTopBarContentPlaceHolder -->
+        <div class="bar"></div><!-- .bar -->
+      
+    </div><!-- .top -->
+
+    <div class="mid layout-width">
+      <div class="mainnav layout-width">
+        <ul class="hlist">
+<li class="first"><a class="MenuDictionary" href="http://www.investopedia.com/dictionary/">Dictionary</a></li>
+<li><a class="MenuInvesting" href="http://www.investopedia.com/investing/">Investing</a></li>
+<li><a class="MenuMarkets" href="http://www.investopedia.com/markets/">Markets</a></li>
+<li><a class="MenuPersonalFinance" href="http://www.investopedia.com/personal-finance/">Personal Finance</a></li>
+<li><a class="MenuActiveTrading" href="http://www.investopedia.com/active-trading/">Active Trading</a></li>
+<li><a class="MenuForex" href="http://www.investopedia.com/forex/">Forex</a></li>
+<li><a class="MenuProfessionals" href="http://www.investopedia.com/professionals/">Professionals</a></li>
+<li><a href="http://www.investopedia.com/university/">Tutorials</a></li>
+<li><a href="http://www.investopedia.com/video/">Video</a></li>
+<li><a href="http://www.investopedia.com/simulator">Simulator</a></li>
+<li class="last"><a href="http://www.investopedia.com/free/">Free Tools</a></li>
+<li class="dummy">&nbsp;</li><!-- do not edit -->
+</ul><!-- .hlist -->
+      </div><!-- .mainnav -->
+
+      <hr />
+	  
+      <div id="BBCPH_pnlLeaderboard">
+	
+        <div class="ad-leaderboard" style="text-align:center; width:728px; margin:0 auto;">
+          
+
+<script type="text/javascript" language="JavaScript">
+	  <!--
+	    OAS_AD('x71');
+	  -->
+	</script>
+
+	
+        </div>
+        <hr />
+      
+</div>
+	  
+
+      <div class="sfooter-brand">&nbsp;</div>
+      <div class="sfooter">
+        <table cellpadding="0" cellspacing="0" border="0">
+	        <tr>
+		        <td rowspan="2">
+		        	<div id="BBCPH_pnlOASAd">
+	
+						<div style="width:310px; height:271px; padding:30px 0 0 10px;">
+							
+
+<script type="text/javascript" language="JavaScript">
+	  <!--
+	    OAS_AD('x34');
+	  -->
+	</script>
+
+	
+						</div>
+					
+</div>
+		
+				
+            </td>
+		        <td colspan="2">
+              <div id="pic2" class="pane">
+                <a href="http://www.investopedia.com/financial-edge/0912/the-cost-of-making-an-iphone.aspx" style="width:275px; height:147px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>The Cost Of Making An iPhone </h2>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+            </td>
+            <td>
+              <div id="pic3" class="pane">
+                <a href="http://www.investopedia.com/financial-edge/0912/what-does-q3-mean-for-the-market.aspx" style="width:134px; height:147px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>What Does Q3 Mean For The Market?</h2>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+            </td>
+		        <td rowspan="2">
+              <div id="pic4" class="pane">
+                <a href="http://www.investopedia.com/financial-edge/0812/billionaires-who-dont-mix-business-with-the-bible.aspx" style="width:229px; height:301px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>Billionaires Who Don't Mix Business With The Bible</h2>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+              
+            </td>
+	        </tr>
+	        <tr>
+            <td>
+              <div id="pic5" class="pane">
+                <a href="http://www.investopedia.com/financial-edge/0812/4-misconceptions-about-the-eurozone-crisis.aspx" style="width:134px; height:146px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>4 Misconceptions About The Eurozone Crisis</h2>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+            </td>
+		        <td>
+              <div id="pic6" class="pane">
+                <a href="/financial-edge/0812/the-most-financially-irresponsible-presidents-of-all-time.aspx" style="width:134px; height:146px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>The Most Financially Irresponsible Presidents Of All Time</h2>
+                      <p></p>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+            </td>
+            <td>
+              <div id="pic7" class="pane">
+                <a href="/financial-edge/0812/3-ways-to-indirectly-invest-in-apple.aspx" style="width:134px; height:146px;">
+                  <div class="cover">
+                    <div class="content">
+                      <h2>3 Ways To Indirectly Invest In Apple </h2>
+                      <p></p>
+                    </div><!-- .content -->
+                  </div><!-- .cover -->
+                </a>
+              </div>
+            </td>
+	        </tr>
+        </table>
+      </div>
+
+      <script language="javascript" type="text/javascript">
+
+      	$('.sfooter .pane').bind('mouseenter', showSxSlide);
+      	$('.sfooter .pane').bind('mouseleave', hideSxSlide);
+
+      	function showSxSlide() {
+      		$(this).find('.cover').stop().animate({ opacity: 1 }, 400);
+      	}
+
+      	function hideSxSlide() {
+      		$(this).find('.cover').stop().animate({ opacity: 0 }, 400);
+      	}
+
+      </script>
+
+     
+
+	  <br />
+      
+      <table class="table-nav">
+        <tr>
+          <td class="col">
+            <ul>
+              <li>Content Library</li>
+              <li><a href="http://www.investopedia.com/articles/">Articles</a></li>
+              <li><a href="http://www.investopedia.com/university/">Tutorials</a></li>
+              <li><a href="http://www.investopedia.com/slide-show/">Slideshows</a></li>
+              <li><a href="http://www.investopedia.com/ask/">FAQs</a></li>
+              <li><a href="http://www.investopedia.com/calculator/">Calculators</a></li>
+              <li><a href="http://www.investopedia.com/active-trading/chartadvisor/">Chart Advisor</a></li>
+              <li><a href="http://www.investopedia.com/markets/stock-analysis/">Stock Analysis</a></li>
+            </ul>
+          </td>
+          <td class="col">
+            <ul>
+              <li>Work With Investopedia</li>
+              <li><a href="http://www.investopedia.com/licensing/Dictionary.aspx">License Our Dictionary</a></li>
+              <li><a href="http://www.investopedia.com/corp/advertise.asp">Advertise With Us</a></li>
+              <li><a href="http://www.investopedia.com/EmailCampaign.aspx">Email Campaign Deployment</a></li>
+              <li><a href="http://www.investopedia.com/corp/writers/">About Our Writers</a></li>
+              <li><a href="http://www.investopedia.com/WriteForUs.aspx">Write For Us</a></li>
+              <li><a href="http://www.investopedia.com/contact.aspx">Contact Us</a></li>
+              <li><a href="http://www.investopedia.com/careers/">Careers</a></li>
+            </ul>
+          </td>
+          <td class="col">
+            <ul>
+              <li>Sponsors &amp; Partners</li>
+              <li>
+                <a href="http://investopedia.ar.wilink.com/">
+                 <img class="logo" Border="0" src="http://i.investopedia.com/assets_v2/img/logo_precision.png" style="margin-left:-24px; vertical-align:middle;" />
+                 Free Annual Reports</a>
+               </li>
+              <li><a href="http://www.smarter.com/">Smarter</a></li>
+              <li><a href="http://www.pricerunner.co.uk/">PriceRunner</a></li>
+              <li><a href="http://www.candofinance.com/">CanDoFinance</a></li>
+              <li><a href="http://www.symptomfind.com/">SymptomFind</a></li>
+              <li><a href="http://www.discount.co.uk/">Discount.co.uk</a></li>
+            </ul>
+          </td>
+        </tr>
+      </table><!-- .table-nav -->
+
+      <hr />
+
+    </div><!-- .mid -->
+
+    <div class="btm layout-width">
+      &copy; 2012, Investopedia US, A Division of ValueClick, Inc.<br />
+      <a href="http://www.investopedia.com/corp/copyright.asp">All Rights Reserved</a> |
+      <a href="http://www.investopedia.com/TermsOfUse.aspx">Terms Of Use</a> |
+      <a href="http://www.investopedia.com/corp/privacy.asp">Privacy Policy</a>
+    </div><!-- .btm -->
+
+  </div><!-- #Footer -->
+
+	
+	
+
+<!-- Vibrant -->
+<script type="text/javascript" src="http://investopedia.us.intellitxt.com/intellitxt/front.asp?ipid=26233"></script>
+<!-- End Vibrant -->
+
+
+	
+	
+		
+	
+
+
+
+	
+
+<!-- Tynt -->
+<script type="text/javascript">
+  if (document.location.protocol == "http:") {
+    var Tynt = Tynt || []; Tynt.push("arwjQmCEqr4l6Cadbi-bnq"); Tynt.i = { "b": true, "ap": "Read more:" };
+    (function () { var s = document.createElement("script"); s.async = "async"; s.type = "text/javascript"; s.src = "http://tcr.tynt.com/ti.js"; var h = document.getElementsByTagName("script")[0]; h.parentNode.insertBefore(s, h); })();
+  }
+</script>
+<script type="text/javascript" src="http://i.investopedia.com/inv/js/tynt.js"></script>
+<!-- End Tynt -->
+
+
+	<!-- InfoLinks disabled because OXS or iShares web bar -->
+
+
+<!-- BBCPH:BaseBodyContentPlaceHolder -->
+	</form>
+
+	
+
+<!-- Pixel Targeting -->
+<img height="1" width="1" border="0" src="http://sp.fastclick.net/ad/tr/10858-64082-15546-0?mpt=7853e5a637a34f51abb06670465b2cc8&spb=139&spg=1&spsg=1"></img>
+<!-- End Pixel Targeting -->
+
+
+
+	
+
+<!-- Quantcast -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+  _qevents.push({
+    qacct:"p-beb8ihwvsEJkM"
+  });
+</script>
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-beb8ihwvsEJkM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+<!-- End Quantcast -->
+
+
+	
+
+<!-- comScore -->
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6034722", c4: "http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034722&c4=http://www.investopedia.com/stock-analysis/2012/love-or-hate---wall-street-will-hate-a-republican-win-jpm-gs-bac1105.aspx?partner=YahooSA&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore -->
+
+
+	<!--Begin Dotomi (Abandon) -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?" + 
+	"dtm_com=28&dtm_fid=101&dtm_cid=2458&dtm_cmagic=54b2b2&dtm_format=5";
+
+var dtmTag = new Array();
+dtmTag.cli_promo_id = "4";
+dtmTag.dtmc_customer_type = "new";
+dtmTag.dtmc_category = "Markets";
+dtmTag.dtmc_sub_category = "Stock Analysis";
+dtmTag.dtmc_advertising_category = "Active Trading";
+dtmTag.dtmc_filed_under = "Bear Market; Government and Politics; Sector - Finance and Insurance; Stock Analysis; Stocks";
+dtmTag.dtmc_source = "";
+dtmTag.dtmc_content_type = "StockAnalysisInvestopedia";
+dtmTag.dtmc_timelessness = "Timely";
+
+dtmTag.dtmc_ref = document.referrer;
+dtmTag.dtmc_loc = document.location.href;
+for (var item in dtmTag) {
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}
+setTimeout('timeOutDotomi()', 2000);
+document.write('<div id="dtmdiv" style="display:none;">' + 
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!--End Dotomi (Abandon) -->
+
+	
+
+<!-- OxsWebBar -->
+  <script type="text/javascript" src="http://altfarm.mediaplex.com/ad/js/22096-162928-15546-0?mpt=2ebd0dabe57a448984790ea97e307bc5&amp;mpvc="></script>
+  <noscript>
+    <a href="http://altfarm.mediaplex.com/ad/nc/22096-162928-15546-0?mpt=2ebd0dabe57a448984790ea97e307bc5">
+      <img src="http://altfarm.mediaplex.com/ad/nb/22096-162928-15546-0?mpt=2ebd0dabe57a448984790ea97e307bc5" alt="Click Here" border="0" />
+    </a>
+  </noscript>
+<!-- End OxsWebBar -->
+
+
+
+	
+
+<!-- iSharesWebBar DISABLED (Disabled when OXS web bar is displayed) -->
+
+
+
+	
+
+<!-- TMS Tracking Pixel -->
+<img src='http://media.fastclick.net/w/tre?ad_id=14806;evt=20929;cat1=27895;cat2=27896;rand=d3dd08f9430c49f49be8ea293ee590f2' width='1' height='1' border='0'>
+<!-- End TMS Tracking Pixel -->
+
+
+
+</body>
+</html>
+<!-- Page Indicator D101 -->

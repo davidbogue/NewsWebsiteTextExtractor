@@ -1,0 +1,1047 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+  <head>
+    <title>Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income - The Source - Latest news and updates from Boston.com</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="Keywords"
+      content="latest news, news, update, blog, boston globe, boston.com, story, article, photos, videos">
+<meta name="Description"
+      content="Mitt Romney filed his 2011 tax returns today -- capping a difficult week by returning to the campaign a topic that has dogged the candidacy of the Republican presidential nominee – and is also releasing a 20-year snapshot of his tax returns.">
+<meta property="og:title" content="Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income - The Source - Latest news and updates from Boston.com" />
+<meta property="og:image" content="http://cache.boston.com/universal/site_graphics/icons/share/bcom_og_source.gif" />
+<meta property="og:site_name" content="Boston.com" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Mitt Romney filed his 2011 tax returns today -- capping a difficult week by returning to the campaign a topic that has dogged the candidacy of the Republican presidential nominee – and is also releasing a 20-year snapshot of his tax returns." />
+<meta property="fb:app_id" content="117378991625799" />
+<meta property="fb:admins" content="100001044693856,507486035" /> <link rel="canonical" href="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html" /> 
+
+<link rel="stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_global_styles.css" /><link rel="search" type="application/opensearchdescription+xml" title="Boston.com Local Search" href="http://cache.boston.com/search/files/bostonsearch.xml" />
+
+<link rel="stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_blog_styles.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<!--[if IE]><link rel="stylesheet" href="http://cache.boston.com/universal/css/bcom_global_styles_ie.css" type="text/css" /><![endif]-->
+
+<script language="Javascript"><!--
+metatags = document.getElementsByTagName("meta");for (cnt = 0; cnt < metatags.length; cnt++) var dttext = metatags[2].getAttribute("content");
+
+//--></script>
+
+
+<script type="text/javascript" src="http://cache.boston.com/universal/js/jquery-1.7.1.min.js"></script>
+
+<script type="text/javascript" src="http://cache.boston.com/universal/js/bcom_global_scripts.js"></script>
+
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<!-- Printer styles -->
+<link rel="stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_print_styles.css" media="print" />
+
+  <link rel="stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_textsize_default.css" title="default" />
+  <link rel="alternate stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_textsize_large.css" title="A++" />
+  <link rel="alternate stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_textsize_medium.css" title="A+" />
+  <link rel="alternate stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_textsize_small.css" title="A" />
+  <link rel="alternate stylesheet" type="text/css" href="http://cache.boston.com/universal/css/bcom_textsize_x-small.css" title="A-" />
+<script language="JavaScript" type="text/javascript" src="http://cache.boston.com/universal/js/bcom_article_tools.js"></script><script language="JavaScript" type="text/javascript" src="http://cache.boston.com/universal/js/bcom_textsize_supersizeMe.js"></script>
+
+<!-- Share Tools by ShareThis.com -->
+<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<!--<script type="text/javascript">stLight.options({
+        publisher:'f4e524da-6618-45aa-87e1-ac7fc4ea555e'
+});</script>-->
+
+<!-- Shareify Counters -->
+<script src="http://cache.boston.com/universal/js/jquery.shareify.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(function(){
+		$(".share_button").shareify({
+		'image_dir': 'img/'
+		});
+	});
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="http://syndication.boston.com/news/source/index.xml" title="The Source" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+ 
+
+<script>ifSafari();</script>
+
+<link rel="stylesheet" href="http://cache.boston.com/universal/css/bcom_sports_styles.css" type="text/css" />
+
+
+<!-- Begin Pluck Comments -->
+<script>var comments_global = 1;</script>
+<script type="text/javascript">
+        if(document.location.search.indexOf("comments=all")!=-1){document.domain = "boston.com"}
+	var serverUrl = "http://sitelife.boston.com/ver1.0/Direct/Process";
+</script>
+<script type="text/javascript" src="http://sitelife.boston.com/ver1.0/Direct/DirectProxy"></script>
+<script type="text/javascript" src="http://sitelife.boston.com/ver1.0/SiteLifeProxy"></script>
+<script type="text/javascript" src="http://cache.boston.com/jobs/i/pComments3.js"></script>
+<script type="text/javascript" src="http://cache.boston.com/universal/js/bcom_pluckCom_blogs.js"></script>
+
+<!-- Call pluck plugin -->
+<script id="pluckData" type="text/Javascript" language="JavaScript">
+var pluckID = '206_532_250987';
+var pluckCats = 'MT Blog';
+var pluckSection = 'The Source';
+var pluckTitle = 'Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income';
+var pluckAccess = 0;
+</script>
+
+<!-- /Call pluck plugin -->
+<!-- End Pluck Comments -->
+
+
+<!--Begin OAS MJX setup tag--><script language="JavaScript"><!--
+//configuration
+
+var site=document.URL.toLowerCase().match(/s_campaign=(\w+)/); 
+if (!(site)) {campaign="0000"} else {campaign=site[1]};
+
+OAS_sitepage='www.boston.com/news/source';
+OAS_listpos='TOP,BOTTOM,POPUP,POPUN,EXTRA,ARTICLE,RIGHT1';
+oasquery='pagetype=section_folder&RM_Exclude=exclude_section_folder&s_campaign='+campaign;if(typeof OAS_query=='undefined'||!OAS_query)OAS_query=oasquery;else OAS_query+='&'+oasquery;
+OAS_url='http://rmedia.boston.com/RealMedia/ads/';OAS_target='_top';OAS_version=10;OAS_rn='001234567890';OAS_rns='1234567890';OAS_rn=new String(Math.random());OAS_rns=OAS_rn.substring(2, 11);
+//--></script><script language="JavaScript1.2"><!--
+var rerefer=/referrer=(\w+)/,urefer=document.URL.match(rerefer);if(urefer){if(OAS_query){var reexclude=/RM_Exclude=[\w,*]+/,OAS_query=OAS_query.replace(reexclude,OAS_query.match(reexclude)[0]+',exclude_referrer_'+urefer[1].toLowerCase());OAS_query+='&';}OAS_query+=urefer[0];}
+//--></script><script language="JavaScript"><!--
+function OAS_NORMAL(pos){document.writeln('<A HREF="'+OAS_url+'click_nx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'!'+ pos+'?'+OAS_query+'" TARGET='+OAS_target+'>');document.writeln('<IMG SRC="'+OAS_url+'adstream_nx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'!'+pos+'?'+OAS_query+'" BORDER=0></A>');}
+//--></script><script language="JavaScript1.1"><!--
+OAS_version=11;if((navigator.userAgent.indexOf('Mozilla/3')!=-1)||navigator.userAgent.indexOf('Mozilla/4.0 WebTV')!=-1){OAS_version=10;}if(OAS_version >= 11)document.writeln('<SCR'+'IPT LANGUAGE=JavaScript1.1 SRC="'+OAS_url+'adstream_mjx.ads/'+OAS_sitepage+'/1'+OAS_rns+'@'+OAS_listpos+'?'+OAS_query+'"> <\/SCRIPT>');
+//--></script><script language="JavaScript"><!--
+document.writeln('');
+function OAS_AD(pos){if(OAS_version >= 11)OAS_RICH(pos);else OAS_NORMAL(pos);}
+//--></script><!--End OAS MJX setup tag-->
+  
+<style type="text/css">#Col1, #Col2 {margin:0pt 0px;}body#blog #content {padding-bottom:0px;}</style>
+</head>
+  <body id="blog" onload="blogEntryCheckComm();">
+
+    <div id="container">
+	
+      <div id="containerBorder">
+        <style>
+#middleLeft .globeTrial a {color:#D2232A;}
+#MastheadAug2011 .bgicontext a span {text-transform:none;}
+</style>
+<div id="MastheadAug2011">
+<div id="mastHead">
+  <div id="mastHeadTop">
+    <div id="signIn">
+      <span id="login">
+        <script language="JavaScript"><!--
+        try{showLoginRRD(147);}catch(e){document.writeln('&nbsp;');}
+        //-->
+        </script>
+        <noscript>&nbsp;</noscript>
+      </span>
+    </div>
+    <div id="headerRight" class="radioBDC">
+      <!--passthru-->  <style>
+    #mastHeadTop #headerRight.radioBDC {
+      position: relative;
+      left:-40px;
+    }
+
+    #headerRight.radioBDC {
+      float:right;
+      font-size:14px;
+      font-weight:bold;
+      padding-bottom:5px;
+      width:324px;
+      overflow:hidden;
+    }
+
+    #now-playing-header {
+      overflow:hidden;
+      height:14px;
+      float:right;
+      width: 220px;
+      position: relative;
+      margin-top:5px;
+    }
+    
+    #now-playing-header .scrollMeAway {
+      position:absolute;
+      white-space:nowrap;
+      width:auto
+    }
+    a.listen-live {
+      color:#c33;
+    }
+  </style>
+<!--[if IE]>
+<style>
+#headerRight.radioBDC {width:323px}
+</style>
+<![endif]-->
+
+  <a href="http://www.boston.com/ae/radio/" class="radio-name"><img src="http://cache.boston.com/universal/site_graphics/player_iconlogo.png" alt="RadioBDC Logo" /></a>
+  <div id="now-playing-header">
+    <div class="scrollMeAway">
+      <!--passthru--><span class="np-song-title">Cousins</span> | <span class="np-song-artist">Vampire Weekend</span>
+
+      <a class="listen-live imageLink"
+	 href="http://www.boston.com/ae/radio/player/"
+         onclick="openWindow('http://www.boston.com/ae/radio/player/','radioBDC','width=742,height=388,resizable=no,scrollbars=no,toolbar=no,location=no,menubar=no,status=no'); return false; var s=s_gi('nytbglobe');
+s.linkTrackVars='eVar29,events';
+s.linkTrackEvents='event24';
+s.eVar29='Bcom Header';
+s.events='event24';
+s.tl(this,'o','RadioBDC Player Launch - Header');">
+	Listen Live</a>
+    </div>
+  </div>
+
+    </div>
+&nbsp;</div>
+  <div id="middleLeft">
+    <a href="http://www.boston.com?mastheadLogo" class="imageLink" id="mastBcomLogo">Boston.com</a>
+    <!--[if lte IE 7]><div id="moveup10px" style="margin-top:-15px"><![endif]--> <!-- Yes this is a terrible implementation -->
+    <div id="mastSearch">
+      <script>otherTab = document.getElementById('searchLocal');</script>
+      <form action="http://search.boston.com/local/Search.do"> 
+        <input type="text" name="s.sm.query" value="Search" onclick="if(this.value=='Search'){this.value=''}" id="mastSearch">
+	 <input type="hidden" value="ssearch" name="s.tab" /> 
+        <input type="submit" value="&nbsp;" class="mastSearch" /> 
+      </form>
+    </div>
+    <!--[if lte IE 7]></div><![endif]-->
+  </div>
+  <div id="middleRight">
+<div align="center" cellpadding="0"
+                     cellspacing="0" border="0"><div
+    class="bannerAd" align="center"><!--OAS MJX Ad Tag--><script language="JavaScript"><!--
+OAS_AD('TOP');
+//--></script><!--End Ad Tag--></div>
+  </div>
+</div></div><!-- end of masthead -->
+        <div id="globalNavRedux">
+<ul class="gnavContainer"><div id="nav">
+<li id="ghome"><a
+    href="http://www.boston.com/">Home</a></li><li
+    id="gglobe"><a href="http://www.boston.com/news/globe/">Today's Globe</a></li><li
+    id="gnews" class="active"><a href="http://www.boston.com/news/">News</a></li><li
+    id="gbusiness"><a href="http://www.boston.com/business/">Business</a></li><li
+    id="gsports"><a href="http://www.boston.com/sports/">Sports</a></li><li
+    id="glifestyle"><a href="http://www.boston.com/lifestyle/">Lifestyle</a></li><li
+    id="gae"><a href="http://www.boston.com/ae/">A&amp;E</a></li><li
+    id="gthings"><a href="http://www.boston.com/thingstodo">Things To Do</a></li><li
+    id="gtravel"><a href="http://www.boston.com/travel/">Travel</a></li><li
+    id="gcars"><a href="http://www.boston.com/cars/">Cars</a></li><li
+    id="gjobs"><a href="http://www.boston.com/jobs/">Jobs</a></li><li
+    id="gre"><a href="http://www.boston.com/realestate/">Homes</a></li><li
+    id="gsearch"><a href="http://search.boston.com/">Local Search</a></li></div></ul>
+         <ul id="sNav">
+            <li><a href="http://www.boston.com/news/local/">Local</a></li>
+            <li><a href="http://www.boston.com/news/nation/">National</a></li>
+            <li><a href="http://www.boston.com/news/world/">World</a></li>
+            <li><a href="http://www.boston.com/news/politics/">Politics</a></li>
+            <li><a href="http://www.boston.com/business/">Business</a></li>
+            <li><a href="http://www.boston.com/news/education/">Education</a></li>
+            <li><a href="http://www.boston.com/news/health/">Health</a></li>
+            <li><a href="http://www.boston.com/news/science">Science</a></li>
+            <li><a href="http://www.boston.com/news/necn">NECN</a></li>
+            <li><a href="http://www.legacy.com/obituaries/bostonglobe/">Obituaries</a></li>
+            <li><a href="http://www.boston.com/news/specials/">Special Reports</a></li>
+			<li><a href="http://www.boston.com/news/traffic/">Traffic</a></li>
+            <li><a href="http://weather.boston.com/">Weather</a></li>
+            <span class="cf"></span>
+          </ul>
+
+        </div>
+<div class="hideMe">
+<!--
+    <headline>Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income</headline>
+    <source>Boston.com</source>
+    <teasetext>By Matt Viser, Globe Staff WASHINGTON – Mitt Romney filed his 2011 tax returns today -- capping a difficult week...</teasetext>
+    <byline>dastewart</byline>
+    <date>September 21, 2012</date>
+-->
+</div>
+
+        <div id="content" class="blog">
+	<div id="curveBorder">&nbsp;</div>
+          <div id="Col1" style="background-color:white;">
+
+<div id="blogHeader">
+<a href="http://www.boston.com/news/source/">
+<img src="http://cache.boston.com/universal/site_graphics/blogs/thesource/sourceHeader.png">
+</a>
+
+<div class="adContainer">
+    <script language="JavaScript">OAS_AD('BILLBOARD');</script>
+  </div>
+
+
+<div class="dotted4px"></div>
+</div>
+
+<div id="blogheadTools" class="utility" style="border:none;">				
+
+<span class="topFrontPage"><a href="http://www.boston.com/news/source/">&lt; Back to front page</a></span><span id="tools">
+
+    Text size
+    <span class="minus"><span onclick="javascript:fontsizedown();" class="imageLink">&ndash;</span></span>
+    <span class="plus"><span onclick="javascript:fontsizeup();" class="imageLink">+</span></span>
+  </span>				
+
+</div><div class="cf"></div>
+
+
+
+
+
+<div id="blogEntry"> 
+
+
+<h1><a href="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html">Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income</a></h1>
+
+<div class="utility" id="blogheadTools">
+  <span class="emailLinks">
+    <!--<a class="etaf blog" href="javascript:void(0)" >E-mail</a>
+    <span class="pipe">|</span>-->
+    <a id="blogPrint" href="#">Print</a>
+    <span class="pipe">|</span>
+    <a href="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html?comments=all#comments">Comments (<span id="cmBlogCount"></span>)</a>
+  </span>
+  <span id="byline">Posted by David Stewart</span>
+ 
+&nbsp;<span id="dateline">September 21, 2012 02:15 PM
+<!-- Share tools -->
+<div id="sharetoolContainer">
+    <ul>
+	
+	<li id="shareFacebook">
+		<div class="share_button" share_type="facebook"></div>
+	</li>
+	<li id="shareTwitter">
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="BostonDotCom" data-related="BostonGlobe">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	</li>
+	<li id="shareLinkedIn">
+		<span class='st_linkedin_hcount' st_url='http://www.boston.com/news/source/2012/09/mitt_romney_rel.html' displayText='LinkedIn'></span>
+	</li>
+	<li id="shareGPlus" style="width:60px; margin-right:7px;">
+		<div id="st_gPlus" st_url='http://www.boston.com/news/source/2012/09/mitt_romney_rel.html' class='st_plusone_hcount'></div>
+    </li>
+	<li id="shareShareThis">
+		<span class='st_sharethis_hcount' displayText='ShareThis'></span>
+	</li>
+	
+	<!--ETAF-->
+    <li id="shareEmail">
+      <a class="etaf" href="javascript:void(0)">E-mail</a>
+    </li>
+
+        <!-- Email to a Friend , this is a hidden form revealed via click listener   -->
+        <!-- e-mail widget -->
+        <div id="bdc_emailWidget" class="hide">
+                <div id="bdc_EMTOF_form" class="innerContainer">
+                        <img id="pointer_top" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_top_Backup.gif" alt="">
+
+                        <div class="titleBar">
+                                <h3>E-mail this article</h3>
+                                <a id="closeWindow_etaf" onclick="document.getElementById('bdc_emailWidget').style.display='none';"></a>
+                                <div class="cf"></div>
+                        </div> <!-- titleBar -->
+
+                                <form action="" method="post" id="theEMTOFForm" autocomplete="off">
+                                <input name="sender_name" id="sender_name" value="" type="hidden">
+
+                                <input name="story_url" id="story_url" value="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html" type="hidden">
+                                <label for="recipient_email">To:</label>
+                                <div id="emailt_to_error" class="errorMessage hide">Invalid E-mail address</div>
+                                <input id="recipient_email" name="recipient_email" class="noerr" value="Separate multiple addresses with a comma" onfocus="this.style.color='#000';" type="text">
+                                <label for="personalMessage">Add a personal message:<em>(80 character limit)</em></label>
+                                        <textarea type="text" id="message" name="message" onchange="this.value=this.value.substring(0,80)" onkeyup="this.value=this.value.substring(0,80)"></textarea>
+
+                                <label for="sender_email">Your E-mail:</label>
+                                <div id="emailt_from_error" class="errorMessage hide">Invalid E-mail address</div>
+                                        <input id="sender_email" name="sender_email" class="noerr" type="text">
+                                <input class="form-button" value="Send" type="submit">
+                                <div class="cf"></div>
+                        </form>
+
+                        <div id="bdc_EMTOF_sending" class="sendingArticle">
+                                <img src="http://cache.boston.com/universal/site_graphics/etaf/loading_icon.gif">
+                                <h4>Sending your article</h4>
+                        </div> <!-- sendingArticle -->
+                        <div id="bdc_EMTOF_sent" class="sendingArticle">
+
+                                <h4>Your article has been sent.</h4>
+
+                        </div> <!-- sendingArticle -->
+                        <div class="cf"></div>
+
+                </div> <!-- innerContainer -->
+
+        <img id="pointer_bottom" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_bottom.gif" alt="">
+        </div> <!-- bdc_emailWidget -->
+	</ul>
+                <!-- end ETAF -->
+   
+
+</div>
+</span>	
+</div>
+
+<!-- e-mail widget -->
+
+<div id="bdc_emailWidget" class="hide">
+	<div id="bdc_EMTOF_form" class="innerContainer">
+		<img id="pointer_top" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_top.gif" alt="" />
+		<div class="titleBar">
+			<h3>E-mail this article</h3>
+				<a id="closeWindow_etaf" onClick="document.getElementById('bdc_emailWidget').style.display='none';"></a>
+				<div class="cf" ></div>
+		</div> <!-- titleBar -->
+		<form action="" method="post" id="theEMTOFForm" autocomplete="off">
+			<input type="hidden" name="sender_name" id="sender_name" value="" />
+			<input type="hidden" name="story_url" id="story_url" value="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html" />
+			<label for="recipient_email">To:</label>
+			
+			<div id="emailt_to_error" class="errorMessage hide">Invalid email address</div>
+			<input type="text" id="recipient_email" name="recipient_email" class="noerr" value="(Friend&#39;s e-mail - separate multiple addresses by comma)"  onfocus="this.style.color='#000';">
+			
+			<label for="personalMessage">Add a personal message:</label>
+			<textarea type="text" id="message" name="message" onChange="this.value=this.value.substring(0,80)" onKeyUp="this.value=this.value.substring(0,80)"></textarea>
+			
+			
+			<label for="sender_email">Your e-mail:</label>
+			<div id="emailt_from_error" class="errorMessage hide">Invalid email address</div>
+			<input type="text" id="sender_email" name="sender_email" class="noerr">
+			
+			<input class="form-button" type="submit" value="Send">
+			
+			<div class="cf" ></div>
+		</form>
+
+
+
+
+
+
+
+
+		<div id="bdc_EMTOF_sending" class="sendingArticle">
+			<img src="http://cache.boston.com/universal/site_graphics/etaf/loading_icon.gif" />
+			<h4>Sending your article</h4>
+		</div> <!-- sendingArticle -->
+		<div id="bdc_EMTOF_sent" class="sendingArticle">
+
+			<h4>Your article has been sent.</h4>
+			</div> <!-- sendingArticle -->
+			<div class="cf" ></div>
+		</div> <!-- #bdc_EMTOF_form .innerContainer -->
+		<img id="pointer_bottom" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_bottom.gif" alt="" />
+</div> <!-- bdc_emailWidget --> 
+<script src="http://cache.boston.com/universal/js/bcom_etaf_scripts.js" ></script>
+
+<div class="blogText">
+<div class="firstGraph"><p><span class="byline">By Matt Viser, Globe Staff</span></p>
+
+<p>WASHINGTON – Mitt Romney filed his 2011 tax returns today -- capping a difficult week by returning to the campaign a topic that has dogged the candidacy of the Republican presidential nominee – and is also releasing a 20-year snapshot of his tax returns.</p>
+
+<p>Romney’s updated tax returns, which will be posted online in full at 3 p.m. on Friday, show that he paid $1.9 million in taxes on $13.7 million in income, most of which came from his investments. It means his effective tax rate for 2011 was 14.1 percent, which is slightly higher than it was in 2010 but still far lower than the rate most Americans pay. </p>
+
+<p>The Romneys donated $4 million to charity, according to a summary of the returns released early by his campaign. Romney claimed a deduction of $2.25 million from those charitable contributions. He claimed less than he otherwise could have, his campaign said, so that he could still abide by a pledge made in August that he paid at least 13 percent in income taxes in each of the last 10 years. </p>
+
+<p>Perhaps more significantly, Romney this afternoon is also releasing a summary of his tax returns over a 20-year period, covering the years from 1990 to 2009. That summary, which was done by PricewaterhouseCoopers, says that in each of the last 20 years he owed both federal and state income taxes. </p>
+
+<p>Over that period, the summary says, the average annual effective federal tax rate was 20.2 percent. The lowest annual effective federal tax rate he paid was 13.7 percent. The Romney’s also donated an average of 13.45 percent to charity over that 20 year period.</p>
+
+<p>Romney is still not releasing the actual tax forms from that period, however, meaning he will have released two years worth of tax returns total.<br />
+</p></div>
+<div class="articlePluckHidden"></div>
+</div>
+
+
+
+</div>
+<!-- Share tools -->
+<div id="sharetoolContainer">
+    <ul>
+	
+	<li id="shareFacebook">
+		<div class="share_button" share_type="facebook"></div>
+	</li>
+	<li id="shareTwitter">
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="BostonDotCom" data-related="BostonGlobe">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	</li>
+	<li id="shareLinkedIn">
+		<span class='st_linkedin_hcount' st_url='http://www.boston.com/news/source/2012/09/mitt_romney_rel.html' displayText='LinkedIn'></span>
+	</li>
+	<li id="shareGPlus" style="width:60px; margin-right:7px;">
+		<div id="st_gPlus" st_url='http://www.boston.com/news/source/2012/09/mitt_romney_rel.html' class='st_plusone_hcount'></div>
+    </li>
+	<li id="shareShareThis">
+		<span class='st_sharethis_hcount' displayText='ShareThis'></span>
+	</li>
+	
+	<!--ETAF-->
+    <li id="shareEmail">
+      <a class="etaf" href="javascript:void(0)">E-mail</a>
+    </li>
+
+        <!-- Email to a Friend , this is a hidden form revealed via click listener   -->
+        <!-- e-mail widget -->
+        <div id="bdc_emailWidget" class="hide">
+                <div id="bdc_EMTOF_form" class="innerContainer">
+                        <img id="pointer_top" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_top_Backup.gif" alt="">
+
+                        <div class="titleBar">
+                                <h3>E-mail this article</h3>
+                                <a id="closeWindow_etaf" onclick="document.getElementById('bdc_emailWidget').style.display='none';"></a>
+                                <div class="cf"></div>
+                        </div> <!-- titleBar -->
+
+                                <form action="" method="post" id="theEMTOFForm" autocomplete="off">
+                                <input name="sender_name" id="sender_name" value="" type="hidden">
+
+                                <input name="story_url" id="story_url" value="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html" type="hidden">
+                                <label for="recipient_email">To:</label>
+                                <div id="emailt_to_error" class="errorMessage hide">Invalid E-mail address</div>
+                                <input id="recipient_email" name="recipient_email" class="noerr" value="Separate multiple addresses with a comma" onfocus="this.style.color='#000';" type="text">
+                                <label for="personalMessage">Add a personal message:<em>(80 character limit)</em></label>
+                                        <textarea type="text" id="message" name="message" onchange="this.value=this.value.substring(0,80)" onkeyup="this.value=this.value.substring(0,80)"></textarea>
+
+                                <label for="sender_email">Your E-mail:</label>
+                                <div id="emailt_from_error" class="errorMessage hide">Invalid E-mail address</div>
+                                        <input id="sender_email" name="sender_email" class="noerr" type="text">
+                                <input class="form-button" value="Send" type="submit">
+                                <div class="cf"></div>
+                        </form>
+
+                        <div id="bdc_EMTOF_sending" class="sendingArticle">
+                                <img src="http://cache.boston.com/universal/site_graphics/etaf/loading_icon.gif">
+                                <h4>Sending your article</h4>
+                        </div> <!-- sendingArticle -->
+                        <div id="bdc_EMTOF_sent" class="sendingArticle">
+
+                                <h4>Your article has been sent.</h4>
+
+                        </div> <!-- sendingArticle -->
+                        <div class="cf"></div>
+
+                </div> <!-- innerContainer -->
+
+        <img id="pointer_bottom" src="http://cache.boston.com/universal/site_graphics/etaf/pointer_bottom.gif" alt="">
+        </div> <!-- bdc_emailWidget -->
+	</ul>
+                <!-- end ETAF -->
+   
+
+</div>
+
+<div class="blogBottom" >
+	<div class="blogFrontPage"><a href="http://www.boston.com/news/source/">&laquo; Back to front page</a></div>
+	<ul id="blogentryPrevNext">
+		
+		<li class="prevNext"><span class="arrowLeft">&nbsp;</span><a href="http://www.boston.com/news/source/2012/09/youtube_sensati.html">Previous entry</a></li>
+		
+		
+	</ul>
+	<div class="cf"></div>
+</div>
+<div id="outBrain">
+  <div class="padTop10"></div>
+<script language="JavaScript"><!--
+ var OutbrainPermaLink='http://www.boston.com/news/source/2012/09/mitt_romney_rel.html';
+ runOutBrain();
+--></script>
+</div>
+<!-- Begin Pluck Comments -->
+<div id="articleComments">
+  <div id="aComments">
+    <script type="text/javascript" src="http://cache.boston.com/universal/js/bcom_pluckCom_blogs2.js"></script>
+  </div>
+</div>
+
+<div style="background-color:#ecf4ff;display:none" id="commLoginForm">
+
+<div style="color: darkred;"><span id="comErrMsg"></span></div>
+<form id="lgForm" onsubmit="return false">
+<table cellspacing="0" style="margin: 5px; width: 98%;height:200px" id="logtable">
+<tbody><tr><td colspan="2"></td></tr>
+<tr>
+<td colspan="2">
+<h3 id="unameTrMsg">LOG IN TO COMMENT</h3>
+
+<div id="snameRetry" style="font-size:11px;color:darkred;display:none;text-align:center;">Sorry, we
+could not find your e-mail or password.<br />Please try again, or click <a href="http://members.boston.com/reg/forgetPwd.do?dispatch=view">here</a> to
+retrieve your password.</div>
+
+</td>
+
+</tr>
+<tr valign="top">
+<td style="padding: 4px; width: 250px;">
+
+<div>
+<b>Existing users</b><br />
+<table><tbody>
+<tr>
+
+<td><span id="unameS1" style="display:none;color:darkred">*</span>E-mail:</td>
+<td><input type="text" style="" maxlength="50" name="userName" id="userName" /></td>
+</tr>
+<tr>
+
+<td><span id="unameS2" style="display:none;color:darkred">*</span>Password:</td>
+<td><input type="password" style="" maxlength="50" name="pass" id="pass" /></td>
+</tr>
+<tr valign="top" id="unameTr" style="display:none;">
+<td><span style="color:darkred">*</span>Screen name:</td>
+<td><input type="text" style="" maxlength="50" name="sname" id="sname" /><br /><div id="snameMsg" style="font-size:11px;color:darkred;">(*
+fields are required)</div></td>
+
+</tr>
+<tr><td></td>
+<td>
+<div class="bluBtn" style="float: right; width: 100px; margin-left: 4px;
+margin-top: 12px;">
+<a style="color: White;" href="javascript:bcSubmitLogin();" name="btnlogin" id="btnlogin">Login</a>
+
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="font-size: 8pt; line-height: 1.5em;">
+<a style="color: rgb(0, 0, 254);" href="http://members.boston.com/reg/forgetPwd.do?dispatch=view">Forgot your
+password?</a>
+
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</td>
+
+<td style="padding: 4px;">
+
+<b>New users</b><br />
+Please take a minute to register. After you register and pick a screen name,
+you can publish your comments everywhere on the site. <a href="http://www.boston.com/community/forums/rules" onclick="window.open('http://www.boston.com/community/forums/rules','policy','width=400,height=500');return
+false">Posting Policy</a>.<br />
+
+<br />
+<div class="bluBtn" style="float: right; width: 100px; margin-left: 4px;">
+<a href="http://members.boston.com/reg/login.do?dispatch=loginpage" style="color: rgb(255, 255, 255);">Register</a>
+</div><br /><br />
+<div align="center">
+<a href="http://www.truste.org/ivalidate.php?url=www.boston.com&sealid=101"><img height="47" width="171" src="http://graphics.boston.com/images/registration/truste2007/TRUSTe_Certified_Privacy.gif" alt="TRUSTe Certified Privacy" /></a>
+
+</div>
+</td>
+
+</tr>
+</tbody>
+
+</table>
+</form>
+
+<hr />
+
+</div>
+<a name="addComm"></a>
+<div id="Comments_Container1wrap" style="background-color:#ecf4ff;">
+<div id="notYou" style="display:none;font-size:11px;"></div>
+<div id="Comments_Container1"></div>
+<div style="text-align:right;display:none" id="pPolicy">Your comment is
+subject to the rules of our <a href="http://www.boston.com/community/forums/rules" onclick="window.open('http://www.boston.com/community/forums/rules','policy','width=400,height=500');return
+false">Posting Policy</a> <br />This comment may appear on your public
+profile. <a href="http://www.boston.com/help/public_profile_faq">Public
+Profile FAQ</a> </div>
+
+</div>
+<div id="wait" style="display:none;position:absolute;margin-left:240px;margin-top:120px;"><center><img src="http://cache.boston.com/jobs/i/waiting.gif"></center></div>
+<!-- End Pluck Comments -->
+ 
+
+
+
+</div>
+<div id="Col2" class="INDblogRightRail" style="width:348px;padding-top:0;">
+
+  <div id="aboutBlog">
+ 
+
+<h3 class="breakingNewsHed">About The Source</h3>
+<div class="padTop4"></div>
+
+
+<div class="tt">The Source is your destination for must-read news. Compiled by Boston.com staff, it offers compelling stories, photos, videos, and links from Boston and around the globe. The latest story making headlines? That viral video you heard about? The stunning picture you'll forward to your friends? They're all here. </div>
+<div class="padTop6"></div>
+<div class="dotted1px"><img src="http://cache.boston.com/universal/site_graphics/spcr.gif"
+                            class="spcrGif" alt="" /></div>
+<div class="padTop6"></div>
+<h3 class="breakingNewsHed">Submit to The Source</h3>
+<div class="padTop4"></div>
+<div class="tt">Have a link you want to share? Use the form below to send it to us for consideration. </div>
+<div class="padTop4"></div>
+<div width="320">
+<link rel="stylesheet" href="http://cache.boston.com/universal/newsprojects/express/styles/express.form.sidebar.css" type="text/css" /> <script type="text/javascript" src="http://www.boston.com/universal/newsprojects/express/scripts/express.form.video.js"></script> <form id="express" class="exp_form " action="http://www.boston.com/newsprojects/express/submit.php" method="POST" enctype="multipart/form-data"> <input type="file" class="hidden" style="display:none" name="dummy" value="0" /> <div class="exp_form_body"> <div id="exp_custom_100" class="exp_field clearfix"> <label class="">Link</label> <div class="exp_input_wrap"> <input type="text" class="exp_input" id="expf_custom_100" name="custom_100" value="http://" /> </div> </div> <div id="exp_text" class="exp_field clearfix"> <div class="clearfix" id="charactersLeft"><span id="charCount">120</span> characters left</div> <label class="">Share</label> <div class="exp_input_wrap"> <textarea id="expf_text" class="exp_input" name="text">Give us some background about your submission.</textarea> </div> </div> <div id="exp_name" class="exp_field clearfix"> <label class="">Name</label> <div class="exp_input_wrap"> <input type="text" class="exp_input" id="expf_name" name="name" value="Enter your name" /> </div> </div> <div id="exp_location" class="exp_field clearfix"> <label class="">Location</label> <div class="exp_input_wrap"> <input type="text" class="exp_input" id="expf_location" name="location" value="Enter your city and state" /> </div> </div> <div id="exp_submit" class="clearfix"> <input id="expf_submit" type="submit" value="Submit" onclick="javascript: return false;" class="disabled"> </div> <div id="exp_status" class="exp_status exp_hidden"></div> </div> </form> <div id="msg_thankYou"> <h3>Thanks for your submission!</h3>  </div> <script type="text/javascript"> var express_map = {"text":{"name":"text","defaultValue":"Share your story here","attachment":"0","required":"true"},"name":{"name":"name","defaultValue":"Enter your name","attachment":"0"},"location":{"name":"location","defaultValue":"Enter your city and state","attachment":"0"},"custom_100":{"name":"custom_100","defaultValue":"http:\/\/","attachment":"0"}}; var express_form = new ExpressForm({"project_id":"147","text_max_length":"120","text_max_type":"characters","single_attachment":0,"default_attachment":1}, express_map); </script>
+</div>
+<div class="padTop10"></div>
+</div>
+
+  <div class="blogBigAd">
+  <!--OAS MJX Ad Tag-->
+  <script language="JavaScript">
+  <!--
+  OAS_AD('ARTICLE');
+  //-->
+  </script>
+  <!--End Ad Tag-->
+</div>
+	<div class="email-signup-widget-container">
+		<div class="email-signup-widget">
+			<h3 class="sectionHeader">
+				<a href="http://boston.com/eom/SysConfig/WebPortal/Boston/Framework/regi/register_action_email_list_param.jsp?listid=19">Daily Headlines</a>
+			</h3>
+			<div class="widget-content">
+				<p class="message">
+					Today's Boston.com headlines sent to your inbox every morning.
+				</p>
+				<div class="signup">
+					<a href="http://www.boston.com/news/daily_headlines/">See a sample</a>
+					<a href="http://boston.com/eom/SysConfig/WebPortal/Boston/Framework/regi/register_action_email_list_param.jsp?listid=19" class="widget-button-blue">Sign Up Now</a>
+				</div><!-- / .signup -->
+			</div><!-- / .widget-content -->
+		</div><!-- / .email-signup-widget -->
+	</div><!-- / .email-signup-widget-container -->
+
+  <div style="padding:10px;">
+ 
+</div>
+
+  <div class="dotted1px">
+    <img src="http://cache.boston.com/universal/site_graphics/spcr.gif" class="spcrGif" alt="" />
+  </div>
+
+  <div class="blogTease" style="padding:10px 0 0 10px;">
+  <h3>Recent stories from The Source</h3>
+  <ul class="linklist">
+    
+    <li><a href="http://www.boston.com/news/source/2012/09/mitt_romney_rel.html">Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income</a></li>
+    
+    <li><a href="http://www.boston.com/news/source/2012/09/youtube_sensati.html">YouTube sensation belts out karaoke ballads in mall</a></li>
+    
+    <li><a href="http://www.boston.com/news/source/2012/09/us_sen_john_mcc.html">US Sen. John McCain endorses Scott Brown</a></li>
+    
+    <li><a href="http://www.boston.com/news/source/2012/09/black_smoke_see.html">Black smoke seen rising above US embassy in Tunis </a></li>
+    
+    <li><a href="http://www.boston.com/news/source/2012/09/cnn_poll_obama.html">CNN Poll: Obama up six points over Romney</a></li>
+    
+  </ul>
+</div>
+
+
+  <div class="dotted1px">
+    <img src="http://cache.boston.com/universal/site_graphics/spcr.gif" class="spcrGif" alt="" />
+  </div>
+
+  <div id="Col2L" class="linkRail">
+    <div id="updates">
+              <span id="title">get updates</span>
+			  <div class="updateLink2"><a href="http://add.my.yahoo.com/rss?url=http://syndication.boston.com/news/source/index.xml">My Yahoo</a></div>
+
+			  <div class="updateLink"><a href="http://syndication.boston.com/news/source/index.xml">RSS Feed</a></div>
+			  <div style="padding-bottom: 10px;"><a href="http://www.boston.com/help/rss_faqs/"><ul><li>Learn about RSS</a></li></ul></div>
+			  </div>
+
+    <div class="dotted4px"></div>
+			
+    <div id="archive">
+			<span id="title">archives</span>
+			 
+			
+	<div>
+
+<SCRIPT LANGUAGE="JavaScript">function selecturl(s) 
+{
+  var gourl = s.options[s.selectedIndex].value;
+  if ((gourl != null) && (gourl != "") )
+  {
+   window.top.location.href = gourl;
+  }
+}
+</SCRIPT>
+
+<form style="display:inline;">
+<select name="destination" onchange="selecturl(destination)"><option>Select a month</option>
+<option value="http://www.boston.com/news/source/2012/09/">September 2012</option>
+<option value="http://www.boston.com/news/source/2012/08/">August 2012</option>
+<option value="http://www.boston.com/news/source/2012/07/">July 2012</option>
+<option value="http://www.boston.com/news/source/2012/06/">June 2012</option>
+<option value="http://www.boston.com/news/source/2012/05/">May 2012</option>
+<option value="http://www.boston.com/news/source/2012/04/">April 2012</option>
+<option value="http://www.boston.com/news/source/2012/03/">March 2012</option>
+<option value="http://www.boston.com/news/source/2012/02/">February 2012</option>
+<option value="http://www.boston.com/news/source/2012/01/">January 2012</option>
+<option value="http://www.boston.com/news/source/2011/12/">December 2011</option>
+<option value="http://www.boston.com/news/source/2011/11/">November 2011</option>
+<option value="http://www.boston.com/news/source/2011/10/">October 2011</option>
+
+</select></form>
+</div>
+</div>
+
+    <div class="dotted4px"></div>
+	
+    <div id="browse">
+<h3>browse this blog</h3>
+<span class="type">by category</span>
+
+<div>
+
+
+
+   
+
+
+</div>
+
+
+  </div>
+		
+	  	
+  <div class="dotted4px"></div>
+
+  <div style="padding: 10px;">
+ 
+</div>	
+
+  </div>	  		
+
+  <div id="Col2R">
+    <!--OAS MJX Ad Tag-->
+    <script language="JavaScript">
+    <!--
+    OAS_AD('RIGHT1');
+    //-->
+    </script>
+    <!--End Ad Tag-->
+  </div>
+									  
+  <div class="cf"></div>
+
+  <div style="padding: 10px;">
+ 
+</div>
+			
+
+</div>
+
+<div class="cf"></div>
+
+<div id="Col3"></div>
+
+<div class="cf"></div>
+
+</div>
+
+<!-- SiteCatalyst code version: H.19.3 Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://cache.boston.com/omniture/hcode/s_code.js"></script>
+<script language="JavaScript"><!--
+
+s.pageName='News | Specials | The Source | Mitt Romney releases 2011 tax returns, paid $1.9m in taxes on $13.7m in income | Blog';
+s.channel='News',s.prop1='News | Specials';
+s.server='',s.pageType='',s.prop2='',s.prop3='',s.prop4='',s.prop5='',s.prop6='Blog',s.prop7='',s.prop8='',s.prop9='',s.prop10='',s.prop14='News | Specials | The Source | Blog',s.prop41='Boston.com';
+
+if(document.location.search.indexOf('comments=all')!=-1) { s.prop6 += ' | Comments view'; }
+/* E-commerce Variables */
+s.campaign='',s.state='',s.zip='',s.events='',s.products='',s.purchaseID='',s.eVar1='',s.eVar2='',s.eVar3='',s.eVar4='',s.eVar5='',s.eVar6='',s.eVar7='',s.eVar8='',s.eVar9='',s.eVar10='',s.eVar41="Boston.com" ;
+
+
+
+var isFacebook = getCookie('fbsr_135637993114591'), isBCom_PA = getCookie('pathAuth'), isBCom_PAS = getCookie('pathAuthSess');
+    if(isFacebook != null) { s.prop35 = 'logged in', s.eVar20 = 'logged in', s.prop42 = 
+'facebook', s.eVar42 = 'facebook';
+}
+
+else { 
+    if((isBCom_PA != null) || ((isBCom_PA != null) && (isBCom_PAS != null))) {
+        s.prop35 = 'logged in', s.eVar20 = 'logged in', s.prop42 = 'Boston.com', s.eVar42 = 'Boston.com';
+} 
+    else { s.prop35 = 'logged out', s.eVar20='logged out', s.prop42 = 'n/a', s.eVar42 = 'n/a'; } 
+} 
+
+
+
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://nytbglobe.112.2O7.net/b/ss/nytbglobe/1/H.19.3--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+
+<!-- Gravity Product Integration -->
+<script type="text/javascript">
+	var gravityInsightsParams = {type:'content', site_guid:'fe6d5479cc3242c2b7ef253225b4bfcc'};
+	document.write(unescape("%3Cscript src='http://cdn.insights.gravity.com/moth-min.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<div id="footer">
+  <div id="insideBcom">
+
+
+
+
+
+<div id="insideBcom"><h3 class="sectionHeader">INside Boston.com</h3><ul class="insideBcomList"><li
+    class="insideContent" id="ic1"><a class="insideTease"
+   href="http://www.boston.com/thingstodo/2012/06/04/spotted-boston-out-and-about-the-city/iZnTwCitkSwBTTwV2Q41AI/pictures.html?pg=1&amp;t=150&amp;cp=1"><span
+    class="leadIn">Spotted in Boston </span>
+      <div class="insideImg"><img src="http://cache.boston.com/bonzai-fba/Third_Party_Photo/2012/09/21/spotted__1348222476_9951-2.jpg" width="178" alt="Spotted in Boston" title="Spotted in Boston" border="0" height="105" /></div>
+      <div class="caption">BOND Restaurant and Lounge is looking for a new face</div></a>
+</li><li class="insideContent" id="ic2"><a class="insideTease"
+   href="http://www.boston.com/sports/football/patriots/2012/09/21/ravens-patriots-game-changers/5dMxwiIuLjaYG5yTPe4LCK/pictures.html?pg=1&amp;t=150&amp;cp=1"><span
+    class="leadIn">Ravens-Patriots preview  </span>
+      <div class="insideImg"><img src="http://cache.boston.com/bonzai-fba/Third_Party_Photo/2012/09/21/patsravens__1348223435_8854-1.jpg" width="178" alt="Ravens-Patriots preview" title="Ravens-Patriots preview" border="0" height="105" /></div>
+      <div class="caption">Here are five potential game changers </div></a>
+</li><li class="insideContent" id="ic3"><a class="insideTease"
+   href="http://www.boston.com/business/technology/2012/09/21/scenes-from-the-release-iphone/hP3dBH7ur1jASPUtuvYGaO/pictures.html"><span
+    class="leadIn">iPhone 5 release </span>
+      <div class="insideImg"><img src="http://cache.boston.com/bonzai-fba/Third_Party_Photo/2012/09/21/IMG_8496_e__1348223461_7349-2.jpg" width="179" alt="iPhone 5 release" title="iPhone 5 release" border="0" height="100" /></div>
+      <div class="caption">A big day for diehard Apple customers all around the world</div></a>
+</li><li class="insideContent" id="ic4"><a class="insideTease"
+   href="http://www.boston.com/lifestyle/fashion/gallery/most_stylish_boston_2012/"><span
+    class="leadIn">25 most stylish Bostonians </span>
+      <div class="insideImg"><img src="http://cache.boston.com/bonzai-fba/Third_Party_Photo/2012/09/21/most-stylish-composite-2012__1347634031_3313__1348223493_3293-1.jpg" width="178" alt="25 most stylish Bostonians" title="25 most stylish Bostonians" border="0" height="105" /></div>
+      <div class="caption">We celebrate the locals that are classic, cool, and creative</div></a>
+</li><li class="insideContent" id="ic5"></li><li
+    class="plusLI">
+
+<div class="leadIn">Plus...</div><ul class="plusLinks"><li><a href="http://www.boston.com/news/blogs/?p1=Bottom_Plus_Crossword"
+   class="bold">Blogs</a>
+</li><li class="listPipe">|</li><li><a href="http://www.boston.com/ae/puzzles/?p1=Bottom_Plus_Crossword"
+   class="bold">Crossword</a>
+</li><li class="listPipe">|</li><li><a href="http://www.boston.com/ae/comics/?p1=Bottom_Plus_Comics"
+   class="bold">Comics</a>
+</li><li class="listPipe">|</li><li><a href="http://www.uclick.com/client/bos/el/?p1=Bottom_Plus_Horoscopes"
+   class="bold">Horoscopes</a>
+</li><li class="listPipe">|</li><li><a href="http://games.boston.com/?p1=Bottom_Plus_Games"
+   class="bold">Games</a>
+</li><li class="listPipe">|</li><li><a href="http://www.boston.com/bostonglobe/numbers/lottery.html?p1=Bottom_Plus_Lottery"
+   class="bold">Lottery</a>
+</li><li class="listPipe">|</li><li><a href="http://www.boston.com/bostonglobe/toons/?p1=Bottom_Plus_CaptionContest"
+   class="bold">Caption contest</a>
+</li><li class="listPipe">|</li><li><a href="http://www.boston.com/news/history/?p1=Bottom_Plus_TodayinHistory"
+   class="bold">Today in history</a>
+</li></ul>
+</li></ul></div></div>
+    <div id="bottomLinks">
+    <ul class="gnavContainer">
+      <li><a rel="nofollow" href="http://www.boston.com/">Home</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/news/globe/">Today's Globe</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/news/">News</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/business/">Business</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/sports/">Sports</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/lifestyle/">Lifestyle</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/ae/">A&amp;E</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/thingstodo/">Things to Do</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/travel/">Travel</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/cars/" class="cfied">Cars</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/jobs/" class="cfied">Jobs</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/realestate/" class="cfied">Real Estate</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/search/" class="cfied">Local Search</a></li>
+    </ul>
+    <ul id="bcomLinks">
+      <li class="first"><a rel="nofollow" href="http://www.boston.com/help/bostoncom_info/">Contact Boston.com</a></li> <li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/">Help</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://services.bostonglobe.com/advertiser/online/online.aspx?id=13052">Advertise</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://jobs.nytco.com/content/the-new-england-media-group/">Work here</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/privacy_policy/">Privacy Policy</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/help/privacy_policy/#adchoice">Your Ad Choices</a></li><li class="listPipe">|</li>
+      <li><script language="JavaScript"><!--
+          signupLink();
+          //--></script><noscript><a href="http://www.boston.com/help/email">Newsletters</a></noscript></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/tools/mobile/">Mobile</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://www.boston.com/tools/rss/">RSS feeds</a></li><li class="listPipe">|</li>
+      <li><a href="http://spiderbites.boston.com/sitemap-service/Home.xml">Sitemap</a></li>
+    </ul>
+    <ul id="bglobeLinks">
+      <li class="first"><a rel="nofollow" href="http://bostonglobe.com/aboutus/contact_us/default.aspx">Contact The Boston Globe</a></li><li class="listPipe">|</li>
+      <li><a href="http://services.bostonglobe.com/order/zip.aspx?rc=WW049774&od=372">Subscribe</a></li><li class="listPipe">|</li>
+      <li><a rel="nofollow" href="http://services.bostonglobe.com/subscribers/custserv.aspx?id=5274">Manage your subscription</a></li><li class="listPipe">|</li>
+      <li><a href="http://services.bostonglobe.com/advertiser/default.aspx">Advertise</a></li><li class="listPipe">|</li>
+      <li><a rel-"nofollow" href="http://bostonglobe.com/insiders">Boston Globe Insiders</a></li><li class="listPipe">|</li> 
+      <li><a rel="nofollow" href="http://www.doriancolor.com/page3.html">The Boston Globe Gallery</a></li><li class="listPipe">|</li>
+      <li>&copy; <script> var crYear = new Date(); document.write(crYear.getFullYear());</script> NY Times Co.</li>
+    </ul>
+  </div>
+<script id="commentData" type="text/Javascript" language="JavaScript">
+  function blogEntryCheckComm(){
+    return;
+  }
+  function blogIndexCheckComm(){
+    return;
+  }
+  if (typeof pluckCats != 'undefined' && pluckCats == 'MT Blog')
+     {
+       uuid = pluckID;
+       if (typeof pluckIdIsUuid == 'undefined')
+       {
+         uuid = 'pluck-'+uuid;
+       }
+       var stylesheet = document.createElement("link");
+       stylesheet.type = "text/css";
+       stylesheet.href = "http://www.boston.com/css/ugc-comments.css"
+       stylesheet.rel = "stylesheet";
+       document.body.appendChild(stylesheet);
+       var script   = document.createElement("script");
+       script.type  = "text/javascript";
+       script.src   = "http://www.boston.com/js/ugc-comments.js?v=1";
+       document.body.appendChild(script);
+    }
+  else if(pluckEntries.length>0){
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "http://www.boston.com/js/ugc-blog-index.js";
+    document.body.appendChild(script);
+  }
+
+
+</script>
+
+  <div id="bottomBanner"></div>
+        </div>
+      </div>
+    </div>
+  <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-604060h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-604060h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 --> </body>
+</html>
+
+

@@ -1,0 +1,1231 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 no-js light_layout" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 no-js light_layout" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 no-js light_layout" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js light_layout' lang='en'>
+<!--<![endif]-->
+<head>
+<meta content="L7zxW9ChzqzPwbLIMzRbGzhn-Mly9AIDiF64J6DgQl0" name="google-site-verification"></meta>
+<meta content="dEHOKZR1s6GmOfGrPHHJFrXJwDoZXW6BjpnhmxPzRCE" name="google-site-verification"></meta>
+<meta content="L7zxW9ChzqzPwbLIMzRbGzhn-Mly9AIDiF64J6DgQl0" name="google-site-verification"></meta>
+<meta content="dEHOKZR1s6GmOfGrPHHJFrXJwDoZXW6BjpnhmxPzRCE" name="google-site-verification"></meta>
+<meta content="L7zxW9ChzqzPwbLIMzRbGzhn-Mly9AIDiF64J6DgQl0" name="google-site-verification"></meta>
+<meta content="dEHOKZR1s6GmOfGrPHHJFrXJwDoZXW6BjpnhmxPzRCE" name="google-site-verification"></meta>
+<script>
+  //<![CDATA[
+    var AVAILABLE_BUCKETS = [{"active":true,"created_at":"2012-05-22T16:43:34-04:00","end_date":"2012-06-24T00:01:00-04:00","id":4,"name":"Global Navigation","percentage_of_users":10,"updated_at":"2012-05-22T16:43:34-04:00","bucket_groups":[{"bucket_id":4,"created_at":"2012-05-22T16:43:34-04:00","custom_css":"","custom_js":"","id":6,"is_control":null,"name":"Control","percentage_of_users":null,"tracking":null,"updated_at":"2012-05-22T16:43:34-04:00"},{"bucket_id":4,"created_at":"2012-05-22T16:43:34-04:00","custom_css":"body.scrolling_menu_active .top_banner_ad{ margin-top:0px !important;} .scrolled{position:static !important; }","custom_js":"window.onload = function () {\r\n\r\n\t$('ul.navigation li.has_sub_menu').live('mouseenter', function(event) {\r\n\r\n            $(this).addClass('show_arrow');\r\n\t    \r\n\t    if (!$(this).hasClass('open')) {\r\n\t\tevent.preventDefault();\r\n\t\tif ( $.browser.msie ) $('.inline_player_no_iframe:first').hide().next().show();\r\n\t\tvar this_width  = $(this).outerWidth();\r\n\t\tvar num_prev = $(this).prevAll().size();\r\n\r\n\t\tvar new_left    = '-'+($(this).prevAll().size() * this_width+num_prev)+'px';\r\n\t\t$(this).addClass('open');\r\n\t\t$(this).find('.sub_menu').css('left',new_left);\r\n\t\t\r\n\t\tvar tallest = 0;\r\n\t\t$(this).find('.sub_menu > li').each(function() {\r\n\t\t    if ($(this).height() > tallest)\r\n\t\t\ttallest = $(this).height();\r\n\t\t}).css('height', tallest + 'px');\r\n\t    } \r\n        });\r\n\t\r\n\t$('ul.navigation li.has_sub_menu').live('mouseleave', function(event) {\r\n\r\n            $(this).removeClass('open');\r\n            $(this).removeClass('show_arrow');\r\n        });\r\n\t\r\n}","id":8,"is_control":null,"name":"Experiment","percentage_of_users":null,"tracking":null,"updated_at":"2012-05-22T16:43:34-04:00"}]}]
+  //]]>
+</script>
+
+<script src="http://static.btrd.net/assets/buckets-71f32f07549b94a83e995455b634b3bf.js" type="text/javascript"></script>
+<meta charset='utf-8'>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<title>Trina Seeks Partners in Shift Away From Solar-Panel Production - Businessweek</title>
+<meta content='BN' name='source'>
+<meta content='article' name='content_type'>
+<meta content='Bloomberg News' name='author'>
+<meta content='2012-09-11T08:51:44-04:00' name='pub_date'>
+
+<meta content='Trina Solar Ltd. (TSL), the solar-panel&#x000A;maker that reported a fourth quarterly loss last month, is&#x000A;seeking partners to diversify as a global glut of panels and&#x000A;slowing demand in Europe spur a shakeup of the industry. ' name='description'>
+
+<link href="http://www.businessweek.com/news/2012-09-11/trina-seeks-partners-in-shift-away-from-solar-panel-production" rel="canonical"></link>
+
+<meta content="Businessweek.com" property="og:site_name"></meta>
+<meta content="article" property="og:type"></meta>
+<meta content="Trina Seeks Partners in Shift Away From Solar-Panel Production" property="og:title"></meta>
+<meta content="Trina Solar Ltd., the solar-panel
+maker that reported a fourth quarterly loss last month, is
+seeking partners to diversify as a global glut of panels and
+slowing demand in Europe spur a shakeup of the industry." property="og:description"></meta>
+
+
+<meta content='width=1000px' name='viewport'>
+<!-- * font definitions */ -->
+<style>
+  /*<![CDATA[*/
+    @font-face {
+      font-family: 'BloombergLBold';
+        src: url("/assets/type/bloombergl_heavy.eot?#iefix") format('embedded-opentype'),
+             url('/assets/type/bloombergl_heavy.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+    }
+    @font-face {
+      font-family:'BWHaasHead';
+      src: url('/assets/type/hinted/haas/bwhaasgroteskhead-95black.eot?#iefix') format('eot'),
+           url('/assets/type/hinted/haas/bwhaasgroteskhead-95black.woff') format('woff'),
+           url('/assets/type/haas/bwhaasgroteskhead-95black.ttf') format('truetype');
+    
+      font-style: normal;
+      font-weight: 700;
+      font-stretch: normal;
+    }
+    @font-face {
+      font-family:'BWHaasHead75Bold';
+      src: url('/assets/type/hinted/haas75/bwhaasgroteskhead-75bold.eot?#iefix') format('eot'),
+           url('/assets/type/hinted/haas75/bwhaasgroteskhead-75bold.woff') format('woff'),
+           url('/assets/type/haas75/bwhaasgrotesktext-75bold.ttf') format('truetype');
+      font-style: normal;
+      font-weight: 700;
+      font-stretch: normal;
+    }
+  /*]]>*/
+</style>
+<link href="http://static.btrd.net/assets/application-08013cf0cc582986844a6c6d89634530.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://static.btrd.net/assets/printer_friendly-8dca6e4223c4e785617ad6675c7c8cff.css" media="print" rel="stylesheet" type="text/css" />
+
+
+
+
+<script src="http://static.btrd.net/assets/audience_science-76663863291e2162ac7c5ab033f1a547.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    var ROOT_URL = "http://www.businessweek.com/";
+    var STICKY_NEWS_ENGINE= "elastic";
+    var VIDEO_AD_PREFIX   = "http://ad.doubleclick.net/pfadx/";
+    var VIDEO_SITE        = "mgh.bw.video";
+    var VIDEO_SUB_SITE    = "/general";
+    var AD_SITE           = "mgh.bw";
+    var AD_LAYOUT_DESC    = "article_bloomberg channel bloomberg_news";
+    var AD_SUB_SITE       = ".top_news/bloomberg";
+    if (AD_LAYOUT_DESC.indexOf("video") >= 0){
+        AD_SITE           = VIDEO_SITE;
+        AD_SUB_SITE       = VIDEO_SUB_SITE;
+    }
+    var AD_ZONE           = ""; // TODO: this is used to tag "department" pages
+    var AD_KEYWORD        = ""; //TODO: This is used on article and department index pages
+    var AD_URL            = (window.location.pathname == undefined) ? "/" : window.location.pathname.replace(/\/?$/, '/');
+    var YIELDEX           = true;
+    var AD_INTERVAL_TO    = 450;
+    var AD_DEPT_TRACKING  = false; //Temporary flag to be removed when the time is right
+    var VIDEO_AD_YIELD_EX = (YIELDEX) ? '"u=sz=1x7|'+segQS.replace(/rsi=/g, "").split(';').join(',') +';' : '';
+    var RANDOM_NUMBER     = ("1"+(""+Math.random()).substring(2,11));
+    var VIDEO_AD_SUFFIX   = ";sz=1x7;tile=15;tp_video=null;dcmt=text/html;"+encodeURIComponent(VIDEO_AD_YIELD_EX)+"ord="+RANDOM_NUMBER+";";
+    var TILE_NUMBER       = 1;
+    var URL_HASH          = window.location.hash.replace(/#video=/, '');
+    var google_ad_channel = "6537084077 3231123392";
+    var discus_car, lead_module_interval;
+    
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      gads.src = 'http://www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+       node.parentNode.insertBefore(gads, node);
+    })();
+    
+    var COMPANION_AD_SITE = AD_SITE + AD_SUB_SITE; //these create the video companion ads
+    googletag.cmd.push(function() {
+      googletag.defineSlot(COMPANION_AD_SITE, [728,  90], 'header-companion-ad').addService(googletag.companionAds()).addService(googletag.pubads());
+      googletag.defineSlot(COMPANION_AD_SITE, [300, 250], 'right-companion-ad').addService(googletag.companionAds()).addService(googletag.pubads());
+      googletag.defineSlot(COMPANION_AD_SITE, [728,  90], 'bottom-companion-ad').addService(googletag.companionAds()).addService(googletag.pubads());
+      googletag.companionAds().setRefreshUnfilledSlots(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+
+
+<link href="http://www.businessweek.com/feeds/homepage.rss" rel="alternate" title="Businessweek.com Top News RSS" type="application/rss+xml" />
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body class='article_bloomberg channel bloomberg_news'>
+<script src="http://static.btrd.net/assets/interstitial-fb00a8df9ee82c04cf25df161899e848.js" type="text/javascript"></script>
+<div id='showInterstitial'>
+<div id='backgroundInterstitial'></div>
+<div id='intro_ad_header'>
+<div id='small_logo'>
+<span>Bloomberg Businessweek</span>
+</div>
+<div id='skip_ad'>
+<a class='skip-ad' onclick='disableInterstitial(); return false;'>Go To Businessweek.com</a>
+</div>
+</div>
+<div id='intro_ad'>
+<div id='ad-interstitial'>
+<script>
+  //<![CDATA[
+    var site = AD_SITE+AD_SUB_SITE+AD_ZONE+";";
+    var noad = 0;
+    var size = "sz=640x480;"; // comma seperated list of possible sizes :-)
+    var url  = (window.location.pathname == undefined) ? "url=/;" : "url="+window.location.pathname+";"; //path url
+    var ran  = "ord="+RANDOM_NUMBER+"?"; //a random number that is applied to all ad tags on the page for targeting and cache-busting purposes
+    var tile = "tile=1;"; //ensure interstitial always is 0 tile
+    var ist  = (parseInt(tile) == 1) ? "dcopt=ist;" : ""; //enables interstital ads on pages and should only be applied to a single ad (the first) on a page
+    var keyword = (AD_KEYWORD != "") ? "keyword="+AD_KEYWORD+";" : ""; //keyword or issue should only be set on article pages
+    var tz = "t7=interstitial;";
+    var pt = "page=t7;";
+    var segQS = (segQS == null)? "" : segQS;
+    TILE_NUMBER++; // iterate through tile numbers on the parent window
+    
+    var rsi_y_string = "";
+    if (parent.rsi_segs.length > 0){
+       rsi_y_string = segQS.replace(/rsi=/g, "").split(';');
+       rsi_y_string.pop();
+       rsi_y_string = rsi_y_string.join(',')+"|";
+       rsi_y_string = "rsi="+rsi_y_string;
+    }
+    var issue_key = '';
+    var yield_ex_string = (parent.YIELDEX) ? ("u="+size+"|"+rsi_y_string+pt+"|"+tz+"|"+keyword).replace(/;/g, "")+";" : "";
+    
+    src = "http://ad.doubleclick.net/adj/"+site+url+segQS+size+pt+tz+tile+keyword+ist+yield_ex_string+ran;
+    document.write('<scr'+'ipt type="text/javascript" src="'+src+'"></scr'+'ipt>');
+  //]]>
+</script>
+
+</div>
+</div>
+</div>
+<script>
+  //<![CDATA[
+    var interstitialStatus = 0;
+    hideIntroAd();
+    if ( (noad !=1) && show_interstitial_ad() ) {
+      displayInterstitialAd();
+    }
+  //]]>
+</script>
+
+<div class='clearfix' id='container'>
+<div class='clearfix' id='sign_in'>
+<div class='sign_in_frame'>
+<span class='login facebook'>
+Sign in with Facebook
+<span class='facebook_button'>
+<a href="#"><img alt="Connect_with_facebook" height="34" src="http://static.btrd.net/assets/connect_with_facebook.png" width="200" /></a>
+</span>
+
+</span>
+<span class='login'>Or use your Businessweek account</span>
+<form accept-charset="UTF-8" action="https://secure.businessweek.com/login" class="new_user_form" id="new_user_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9qnmAoW2SEjjqhyU2gWfGR8QYCJtFTR/CwLzUSEHIqA=" /></div>
+<label class="for_email" for="user_form_email">Email</label>
+<input class="" id="user_form_email" name="user_form[email]" size="30" type="text" />
+<label class="password" for="user_form_password">Password</label>
+<a href="http://www.businessweek.com/password/forgot" class="forgot_password">Forgot  password</a>
+<input class="" id="user_form_password" name="user_form[password]" size="30" type="password" />
+<input name="user_form[remember_me]" type="hidden" value="0" /><input id="user_form_remember_me" name="user_form[remember_me]" type="checkbox" value="1" />
+<label class="checkbox_label" for="user_form_remember_me">Remember me</label>
+<input class="button" name="commit" type="submit" value="Sign In" />
+<span class='other_options'>
+Not registered?
+<a href="http://www.businessweek.com/register">Sign up.</a>
+</span>
+</form>
+
+</div>
+</div>
+<div class='branding_hat'></div>
+
+<div class='clearfix' id='header'>
+<div class='inner_wrapper'>
+<div id='logo'>
+<a href="http://www.businessweek.com/" class="ir" id="home_link">Bloomberg Businessweek</a>
+<h1 id='channel_name'>
+<a href="http://www.bloomberg.com">News From Bloomberg</a>
+</h1>
+</div>
+<div id='promo'>
+<span class='house_ad'>
+<iframe allowTransparency='true' class='ad_frame' data-position='circ_header' data-pt='t7' data-size='200x92,1x1' data-tile='2' data-tz='circ_header' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</span>
+</div>
+<div id='search'>
+<form action='http://www.businessweek.com/search' method='get'>
+<input class='toggle_text' id='search_input' name='q' title='Search' type='text' value='Search'>
+<input name='resultsPerPage' type='hidden' value='20'>
+</form>
+</div>
+</div>
+</div>
+<div id='global_nav'>
+<div class='inner_wrapper'>
+<ul class='navigation clearfix'>
+<li class='global_economics has_sub_menu tracked'>
+<a href="http://www.businessweek.com/global-economics">Global Economics</a>
+</li>
+<li class='companies_and_industries has_sub_menu tracked'>
+<a href="http://www.businessweek.com/companies-and-industries">Companies &amp; Industries</a>
+</li>
+<li class='politics_and_policy has_sub_menu tracked'>
+<a href="http://www.businessweek.com/politics-and-policy">Politics &amp; Policy</a>
+</li>
+<li class='technology has_sub_menu tracked'>
+<a href="http://www.businessweek.com/technology">Technology</a>
+</li>
+<li class='markets_and_finance has_sub_menu tracked'>
+<a href="http://www.businessweek.com/markets-and-finance">Markets &amp; Finance</a>
+</li>
+<li class='innovation has_sub_menu tracked'>
+<a href="http://www.businessweek.com/innovation">Innovation</a>
+</li>
+<li class='lifestyle has_sub_menu tracked'>
+<a href="http://www.businessweek.com/lifestyle">Lifestyle</a>
+</li>
+<li class='business_schools has_sub_menu tracked'>
+<a href="http://www.businessweek.com/business-schools">Business Schools</a>
+</li>
+<li class='small_business has_sub_menu tracked'>
+<a href="http://www.businessweek.com/small-business">Small Business</a>
+</li>
+<li class='media has_sub_menu tracked'>
+<a href="http://www.businessweek.com/media">Video &amp; Multimedia</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class='companion_ad top_banner_ad'>
+<div class='advertisement' id='header-companion-ad'>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() { googletag.display('header-companion-ad'); });
+  //]]>
+</script>
+</div>
+</div>
+<div class='banner_ad top_banner_ad companion_replace'>
+<iframe allowTransparency='true' class='ad_frame' data-position='top' data-pt='t7' data-size='728x90,970x66,1x1' data-tile='3' data-tz='top' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+<div id='flash'>
+</div>
+
+<div class='column_container clearfix'>
+<div class='column primary'>
+
+<div id="lead_graphic"></div>
+<div id='article_body_container'>
+<h3>Bloomberg News</h3>
+<h1 id="article_headline">Trina Seeks Partners in Shift Away From Solar-Panel Production</h1>
+<div class='author_and_social clearfix'>
+<div class='attributor'>
+
+By  Bloomberg News on September 11, 2012
+</div>
+<ul class='social' data-headline='Trina Seeks Partners in Shift Away From Solar-Panel Production' data-host='http://analytics.bloomberg.com/images/analytics-bw/dot1.gif' data-id='MA67FC6TTDTY01' data-ping-uri='/,/bloomberg-news,/authors/-bloomberg-news' data-pub-date='2012-09-11 08:51:44 -0400' data-type='bloomberg' data-uri='http://www.businessweek.com/news/2012-09-11/trina-seeks-partners-in-shift-away-from-solar-panel-production'>
+<li class='twitter ir' title='Share on Twitter'>
+Tweet
+</li>
+<li class='facebook ir' title='Share on Facebook'>
+Facebook
+</li>
+<li class='linked_in ir' title='Share on LinkedIn'>
+LinkedIn
+</li>
+<li class='plus ir' title='Share on Google Plus'>
+Google Plus
+</li>
+<li class='comments'>
+<a href="http://www.businessweek.com/news/2012-09-11/trina-seeks-partners-in-shift-away-from-solar-panel-production#disqus_thread" class="disqus-count-text" data-disqus-identifier="MA67FC6TTDTY01">Comments</a>
+</li>
+<li class='email' title='Email this Article'>
+<a href="mailto:?body=Trina%20Solar%20Ltd.%2C%20the%20solar-panel%0Amaker%20that%20reported%20a%20fourth%20quarterly%20loss%20last%20month%2C%20is%0Aseeking%20partners%20to%20diversify%20as%20a%20global%20glut%20of%20panels%20and%0Aslowing%20demand%20in%20Europe%20spur%20a%20shakeup%20of%20...%0A%0ARead%20the%20story%20on%20Businessweek.com%3A%20http%3A%2F%2Fwww.businessweek.com%2Fnews%2F2012-09-11%2Ftrina-seeks-partners-in-shift-away-from-solar-panel-production&amp;subject=Businessweek.com%3A%20Trina%20Seeks%20Partners%20in%20Shift%20Away%20From%20Solar-Panel%20Production">Email</a>
+</li>
+<li class='print' title='Print'>
+<a href="http://www.businessweek.com/printer/articles/323282?type=bloomberg" rel="nofollow">Print</a>
+</li>
+</ul>
+
+
+</div>
+
+<div class='left_rail'>
+
+<div class='module' id='daily_me_related_stories'>
+<h3>More from Businessweek</h3>
+<ul>
+<li class='clearfix'>
+<h4><a href="http://www.businessweek.com/articles/2012-09-10/chevy-adopts-bring-your-own-maps-approach-to-navigation#r=lr-dm">Chevy Adopts Bring-Your-Own-Maps Approach to Navigation</a></h4>
+</li>
+<li class='clearfix'>
+<h4><a href="http://www.businessweek.com/articles/2012-09-11/one-big-go-to-cash#r=lr-dm">One Big 'Go to Cash'</a></h4>
+</li>
+<li class='clearfix'>
+<h4><a href="http://www.businessweek.com/articles/2012-09-11/could-private-equity-solve-pro-hockey-s-problems#r=lr-dm">Could Private Equity Solve Pro Hockey's Problems?</a></h4>
+</li>
+<li class='clearfix'>
+<h4><a href="http://www.businessweek.com/articles/2012-09-11/obamas-pizza-stop-creates-least-helpful-yelp-profile-ever#r=lr-dm">Obama's Pizza Stop Creates Least Helpful Yelp Profile Ever</a></h4>
+</li>
+<li class='clearfix'>
+<h4><a href="http://www.businessweek.com/articles/2012-09-11/five-companies-with-a-huge-stake-in-the-iphone-5#r=lr-dm">Five Companies With a Huge Stake in the iPhone 5</a></h4>
+</li>
+</ul>
+</div>
+
+<ul class='images'>
+</ul>
+
+<div class='module companies_mentioned'>
+<h3>
+Companies Mentioned
+</h3>
+<ul>
+<li class='companies_listings'>
+<h5>
+<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=TSL:US" title="Trina Solar Ltd">TSL</a>
+</h5>
+<p class='full_company_name'>
+Trina Solar Ltd
+</p>
+<ul class='company_value'>
+<li class='price'>
+$4.23 USD
+</li>
+<li class='change pos'>
+0.13
+</li>
+<li class='percent_change pos'>
+3.07%
+</li>
+</ul>
+<div class='graph' data-diff='25.652173913043494' data-max='13.043478260869579' data-points='["0.000", "4.130", "1.739", "2.609", "4.783", "5.217", "12.609", "13.043", "11.522", "5.435", "3.696", "6.957", "3.261", "-3.261", "-1.957", "-8.478", "-8.913", "-12.391", "-12.609", "-10.870", "-8.043"]'></div>
+</li>
+<li class='companies_listings'>
+<h5>
+<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=FSLR:US" title="First Solar Inc">FSLR</a>
+</h5>
+<p class='full_company_name'>
+First Solar Inc
+</p>
+<ul class='company_value'>
+<li class='price'>
+$21.8 USD
+</li>
+<li class='change pos'>
+1.01
+</li>
+<li class='percent_change pos'>
+4.63%
+</li>
+</ul>
+<div class='graph' data-diff='34.40702781844803' data-max='25.427037579306983' data-points='["0.000", "-2.221", "2.977", "4.880", "3.758", "9.614", "17.814", "16.789", "20.107", "20.888", "24.646", "25.427", "18.106", "-3.992", "-2.440", "-7.662", "-8.980", "-2.245", "-0.244", "1.464", "6.393"]'></div>
+</li>
+<li class='companies_listings'>
+<h5>
+<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=NEE:US" title="NextEra Energy Inc">NEE</a>
+</h5>
+<p class='full_company_name'>
+NextEra Energy Inc
+</p>
+<ul class='company_value'>
+<li class='price'>
+$67.74 USD
+</li>
+<li class='change neg'>
+-0.20
+</li>
+<li class='neg percent_change'>
+-0.3%
+</li>
+</ul>
+<div class='graph' data-diff='3.5358637610044577' data-max='3.088468754510031' data-points='["0.000", "0.433", "-0.087", "0.419", "0.447", "-0.375", "-1.054", "-1.559", "-2.713", "-2.093", "-1.429", "-1.299", "-2.223", "-2.757", "-2.858", "-3.031", "-3.088", "-2.713", "-2.367", "-1.948", "-2.237"]'></div>
+</li>
+</ul>
+<div class='market_delay_disclaimer'>Market data is delayed at least 15 minutes.</div>
+
+<div class='module' id='company_search'>
+<h4>
+<a href="http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp#r=cmp-lkp">Company Lookup</a>
+</h4>
+<form action='http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp' id='cic_form_companies_mentioned' method='get'>
+<input class='cic-company-search-input toggle_text' name='symbol' title='Ticker Symbol or Company' type='text'>
+<button class='lookup_go' name='lookup'>Go</button>
+</input>
+</form>
+</div>
+
+</div>
+
+
+<div class='module advertisement circ_left'>
+<iframe allowTransparency='true' class='ad_frame' data-position='circ_left' data-pt='t2' data-size='190x127,1x1' data-tile='11' data-tz='circ_left' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+</div>
+<div id='middle_rail'>
+<div id='story_body'>
+
+<p><span class="ticker_wrap">Trina Solar Ltd. (<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=TSL:US" class="ticker" data-symbol="TSL:US">TSL</a>)</span>, the solar-panel
+maker that reported a fourth quarterly loss last month, is
+seeking partners to diversify as a global glut of panels and
+slowing demand in Europe spur a shakeup of the industry. </p>
+<p>“We’re actively looking for targets,” Chief Executive
+Officer Jifan Gao said in an interview in Tianjin, China.
+“Companies like Siemens may be a rival, but I also see them as
+partners for cooperation.” </p>
+<p>Demand for panels has weakened as Chinese producers flood
+the market, economies stagnate and governments curb subsidies
+for renewable energy. The oversupply has dragged down prices,
+contributing to losses for Trina and triggering a move into
+power-plant development, a strategy implemented by competitors
+including <span class="ticker_wrap">First Solar Inc. (<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=FSLR:US" class="ticker" data-symbol="FSLR:US">FSLR</a>)</span>, the largest U.S. solar company. </p>
+<p>“Trina is facing widespread impact from the global
+economic slowdown,” Gao said. “Current leading companies may
+not remain so in the future. By 2015 or 2020, if these companies
+want to continue to maintain their positions, they’ll need to
+change their business models.” </p>
+<p>Last month, Changzhou, China-based Trina said it will
+develop power projects to boost revenue after posting a second-
+quarter net loss of $92.1 million. The company is focusing on
+moving to other parts of the supply chain, such as solar power
+generation units, electricity distribution and energy storage
+systems, Gao said. </p>
+<h2>Trade Disputes </h2>
+<p>That may help Trina withstand the slump in panel prices,
+which has already tipped more than a dozen companies into
+bankruptcy and ignited trade tensions between the U.S., China
+and the European Union, with each side saying their rivals are
+unfairly supported. </p>
+<p>“This industry needs a reshuffling of cards,” Gao said.
+“The industry may need two to three years to complete a process
+of reshuffling, restructuring and consolidation.” </p>
+<p>Chinese solar manufacturers face an EU probe into whether
+they’ve sold products in the 27-nation bloc below cost, a
+practice known as dumping. The inquiry covers 21 billion euros
+($27 billion) of imports of crystalline silicon photovoltaic
+modules or panels, as well as cells and wafers. </p>
+<p>“I believe the two sides can cooperate and settle the
+anti-dumping case,” Gao said. “The pressure now is coming from
+the uncertainty of the verdict.” </p>
+<h2>ADRs Gain </h2>
+<p>Trina’s American depositary receipts rose 2 percent to
+$4.10 in New York yesterday, trimming their decline this year to
+39 percent. One ADR is equivalent to 50 ordinary shares. </p>
+<p>Shares in Wuxi, China-based Suntech Power Holdings Co., the
+world’s biggest solar manufacturer, have tumbled 66 percent
+since Jan. 1 in New York. </p>
+<p>Trina’s sales extend from China to Germany, Spain and the
+U.S. In August, the company reduced its forecast for 2012
+shipments by as much as 17 percent as its inventories and short-
+term debt both doubled. </p>
+<p>The company expects to ship 1.75 gigawatts to 1.8 gigawatts
+in photovoltaic panels this year, compared with a May forecast
+of 2 gigawatts to 2.1 gigawatts. Second-quarter shipments were
+419 megawatts, in line with its estimates. </p>
+<p>Trina’s move toward power-plant development follows the
+example of Tempe, Arizona-based First Solar, which has chosen to
+sell power stations to the likes of Warren Buffett and <span class="ticker_wrap">NextEra
+Energy Inc. (<a href="http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=NEE:US" class="ticker" data-symbol="NEE:US">NEE</a>)</span>, instead of competing with China on panel sales. </p>
+<p>To contact the reporter on this story:
+Chua Baizhen in Beijing at 
+bchua14@bloomberg.net </p>
+<p>To contact the editor responsible for this story:
+Reed Landberg at 
+landberg@bloomberg.net </p>
+
+</div>
+<div class='author_short_bio'></div>
+<div id='story_share_after'>
+<ul class='social' data-headline='Trina Seeks Partners in Shift Away From Solar-Panel Production' data-host='http://analytics.bloomberg.com/images/analytics-bw/dot1.gif' data-id='MA67FC6TTDTY01' data-ping-uri='/,/bloomberg-news,/authors/-bloomberg-news' data-pub-date='2012-09-11 08:51:44 -0400' data-type='bloomberg' data-uri='http://www.businessweek.com/news/2012-09-11/trina-seeks-partners-in-shift-away-from-solar-panel-production'>
+<li class='twitter ir' title='Share on Twitter'>
+Tweet
+</li>
+<li class='facebook ir' title='Share on Facebook'>
+Facebook
+</li>
+<li class='linked_in ir' title='Share on LinkedIn'>
+LinkedIn
+</li>
+<li class='plus ir' title='Share on Google Plus'>
+Google Plus
+</li>
+<li class='comments'>
+<a href="http://www.businessweek.com/news/2012-09-11/trina-seeks-partners-in-shift-away-from-solar-panel-production#disqus_thread" class="disqus-count-text" data-disqus-identifier="MA67FC6TTDTY01">Comments</a>
+</li>
+<li class='email' title='Email this Article'>
+<a href="mailto:?body=Trina%20Solar%20Ltd.%2C%20the%20solar-panel%0Amaker%20that%20reported%20a%20fourth%20quarterly%20loss%20last%20month%2C%20is%0Aseeking%20partners%20to%20diversify%20as%20a%20global%20glut%20of%20panels%20and%0Aslowing%20demand%20in%20Europe%20spur%20a%20shakeup%20of%20...%0A%0ARead%20the%20story%20on%20Businessweek.com%3A%20http%3A%2F%2Fwww.businessweek.com%2Fnews%2F2012-09-11%2Ftrina-seeks-partners-in-shift-away-from-solar-panel-production&amp;subject=Businessweek.com%3A%20Trina%20Seeks%20Partners%20in%20Shift%20Away%20From%20Solar-Panel%20Production">Email</a>
+</li>
+<li class='print' title='Print'>
+<a href="http://www.businessweek.com/printer/articles/323282?type=bloomberg" rel="nofollow">Print</a>
+</li>
+</ul>
+
+</div>
+<div class='module advertisement circ_bottom'>
+<iframe allowTransparency='true' class='ad_frame' data-position='circ_bottom' data-pt='t2' data-size='300x15,1x1' data-tile='12' data-tz='circ_bottom' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+<div id='disqus_thread'></div>
+
+
+<div class='bx_callout'>
+<a href="http://bx.businessweek.com"><img alt="Business Exchange: What your peers are reading." height="55" src="http://static.btrd.net/assets/bx_banner-6cd826cbe86387b346da831c1fc9ad26.png" width="427" /></a>
+</div>
+
+</div>
+</div>
+</div>
+<div class='column rail'>
+
+<div class='module clearfix tabbed headlines '>
+<h3>
+<span class='timestamp'>
+Last Update 10:30 pm
+</span>
+Most Popular
+</h3>
+<ul class='tabs_controller'>
+<li class='active'>
+<a class='active' href="#Read-Tab">
+Read
+</a>
+</li>
+<li class='not_last'>
+<a href="#Shared-Tab">
+Shared
+</a>
+</li>
+<li class='last'>
+<a href="#Discussed-Tab">
+Discussed
+</a>
+</li>
+</ul>
+<div class='active tab_panel'>
+<a name='Read-Tab'></a>
+<ul>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/new-york-post-runs-boldest-anti-obama-ad-yet#r=read">'New York Post' Runs Boldest Anti-Obama Ad Yet</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/obamas-pizza-stop-creates-least-helpful-yelp-profile-ever#r=read">Obama's Pizza Stop Creates Least Helpful Yelp Profile Ever</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-10/how-iphone-5-sales-could-prop-up-the-entire-u-dot-s-dot-economy#r=read">How iPhone 5 Sales Could Prop Up the Entire U.S. Economy</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/iphone-will-appear-in-t-mobile-stores-but-its-not-for-sale#r=read">IPhone Will Appear in T-Mobile Stores—but It's Not for Sale</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-07/at-top-business-schools-an-mba-application-drought#r=read">At Top Business Schools, an MBA Application Drought</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/five-companies-with-a-huge-stake-in-the-iphone-5#r=read">Five Companies With a Huge Stake in the iPhone 5</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-10/why-is-the-yangtze-running-so-red#r=read">Why Is the Yangtze Running So Red?</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-06/the-startups-on-san-franciscos-billionaires-row#r=read">The Startups on San Francisco's Billionaire's Row</a>
+</li>
+</ul>
+</div>
+<div class='tab_panel'>
+<a name='Shared-Tab'></a>
+<ul>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-10/how-iphone-5-sales-could-prop-up-the-entire-u-dot-s-dot-economy#r=shared">How iPhone 5 Sales Could Prop Up the Entire U.S. Economy</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/new-york-post-runs-boldest-anti-obama-ad-yet#r=shared">'New York Post' Runs Boldest Anti-Obama Ad Yet</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-06/the-startups-on-san-franciscos-billionaires-row#r=shared">The Startups on San Francisco's Billionaire's Row</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/videos/2012-09-11/philips-plans-to-cut-another-2-200-jobs#r=shared">Philips Plans to Cut Another 2,200 Jobs</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/could-private-equity-solve-pro-hockey-s-problems#r=shared">Could Private Equity Solve Pro Hockey's Problems?</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-06/student-loans-debt-for-life#r=shared">Student Loans: Debt for Life</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-07/at-top-business-schools-an-mba-application-drought#r=shared">At Top Business Schools, an MBA Application Drought</a>
+</li>
+</ul>
+</div>
+<div class='tab_panel'>
+<a name='Discussed-Tab'></a>
+<ul>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-07/weak-jobs-report-shows-obamas-long-road-ahead#r=discussed">U.S. Jobless Rate Drops for the Worst of All Reasons</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-06/student-loans-debt-for-life#r=discussed">Student Loans: Debt for Life</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/ap/2012-09-04/talk-show-host-beck-vows-to-boycott-american#r=discussed">Talk show host Beck vows to boycott American</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-10/obama-gets-post-convention-bounce-over-romney-in-cnn-poll#r=discussed">Obama Gets Post-Convention Bounce Over Romney in CNN Poll</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-09/pre-existing-conditions-coverage-to-stay-in-romney-s-health-plan#r=discussed">Pre-Existing Conditions Coverage to Stay in Romney’s Health Plan</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-04/five-products-apple-should-stop-making#r=discussed">Five Products Apple Should Stop Making</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/articles/2012-09-11/new-york-post-runs-boldest-anti-obama-ad-yet#r=discussed">'New York Post' Runs Boldest Anti-Obama Ad Yet</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/ap/2012-09-06/fact-check-clinton-claims-of-compromise-a-stretch#r=discussed">FACT CHECK: Clinton claims of compromise a stretch</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class='module advertisement rectangle'>
+<iframe allowTransparency='true' class='ad_frame' data-position='right2' data-pt='t2' data-size='300x250,300x600,1x1' data-tile='4' data-tz='right2' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+<div class='module' id='bloomberg_news'>
+<h3>
+<span class='timestamp'>
+Last Update 10:35 pm
+</span>
+<a href="http://www.businessweek.com/archive/bbg.html" title="News From Bloomberg">News from Bloomberg</a>
+</h3>
+<ul>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/wen-says-china-confident-it-will-maintain-stable-economic-growth">Wen Signals China Has Ample Policy Room to Meet Growth Goal</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/skip-college-is-top-advice-for-world-beating-south-koreans-jobs">Skip College is Advice for World-Beating Koreans</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/lion-air-takes-fight-to-airasia-s-malaysian-home-southeast-asia">Lion Air Challenges AirAsia in Home Market Malaysia</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/asian-stocks-rise-on-bets-china-u-dot-s-dot-to-stimulate-growth">Asian Stocks Rise on Bets China, U.S. to Stimulate Growth</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/gold-nears-six-month-high-before-fed-meeting-platinum-advances">Gold Nears Six-Month High Before Fed Meeting; Platinum Advances</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/nintendo-recovery-against-phone-led-by-mario-s-super-wii-u-tech">Nintendo Recovery Against Phone Led by Mario’s Wii U</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/haier-to-buy-rest-of-f-and-p-appliances-for-564-million">Haier to Buy Rest of F&amp;P Appliances for $564 Million</a>
+</li>
+<li>
+<a href="http://www.businessweek.com/news/2012-09-11/coca-cola-masala-gets-5-billion-to-catch-pepsi-in-india-retail">Coca-Cola Masala Gets $5 Billion to Catch Pepsi in India: Retail</a>
+</li>
+</ul>
+</div>
+
+<div class='module advertisement rectangle'>
+<iframe allowTransparency='true' class='ad_frame' data-position='circ_right' data-pt='t2' data-size='300x123' data-tile='5' data-tz='circ_right' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+<div class='module clearfix' id='google_ads'>
+<h3>Ads by Google</h3>
+<ul></ul>
+</div>
+
+<div class='module' id='taboola-div'></div>
+
+<div class='module advertisement rectangle'>
+<iframe allowTransparency='true' class='ad_frame' data-position='right3' data-pt='t2' data-size='300x250,1x1' data-tile='6' data-tz='right3' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+
+
+
+
+<div id='bottom_ads'>
+<div class='bottom_ad1'>
+<iframe allowTransparency='true' class='ad_frame' data-position='bottom1' data-pt='t2' data-size='120x60' data-tile='7' data-tz='bottom1' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+<div class='bottom_ad2'>
+<iframe allowTransparency='true' class='ad_frame' data-position='bottom2' data-pt='t2' data-size='120x60' data-tile='8' data-tz='bottom2' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+</div>
+<div id='text_bottom_ad'>
+<iframe allowTransparency='true' class='ad_frame' data-position='bottom' data-pt='t2' data-size='150x1,10x1' data-tile='9' data-tz='bottom' data-uri='/dynamic_frames/ads.html' frameBorder='0' scrolling='no'></iframe>
+
+</div>
+</div>
+</div>
+
+<div class='clearfix' id='super_footer'>
+<div class='editable module elsewhere super_footer' data-cell-name='Elsewhere on Businessweek.com' data-is-curated='true' data-is-draft='false' data-is-master='false' data-page-id='' data-page-position='Elsewhere' data-page='All'>
+<h3>Elsewhere on Businessweek.com</h3>
+<ul>
+<li class=''>
+<a href="http://www.businessweek.com/reports/innovation/fix-this-cyber-security#r=else-fst" class="thumbnail" title="Fix This/Cyber Security"><img alt="Fix This/Cyber Security" height="82" src="http://images.businessweek.com/cms/2012-08-01/fixthis32__01__145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/reports/innovation/fix-this-cyber-security#r=else-fs">Fix This/Cyber Security</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/videos/2012-09-11/u-dot-s-dot-military-medics-struggle-in-job-market#r=else-fst" class="thumbnail" title="U.S. Military Medics  Struggle in Job Market"><img alt="U.S. Military Medics  Struggle in Job Market" height="113" src="http://www.bloomberg.com/apps/data?pid=avimage&amp;iid=ikM2h9udL6ww" width="200" /></a><h4><a href="http://www.businessweek.com/videos/2012-09-11/u-dot-s-dot-military-medics-struggle-in-job-market#r=else-fs">U.S. Military Medics  Struggle in Job Market</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/articles/2012-09-10/from-credit-suisse-to-jerky-one-mans-dried-beef-odyssey#r=else-fst" class="thumbnail" title="From Credit Suisse to Jerky: One Man's Dried Beef Odyssey"><img alt="From Credit Suisse to Jerky: One Man's Dried Beef Odyssey" height="82" src="http://images.businessweek.com/cms/2012-09-10/0910_jerky_145.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/articles/2012-09-10/from-credit-suisse-to-jerky-one-mans-dried-beef-odyssey#r=else-fs">From Credit Suisse to Jerky: One Man's Dried Beef Odyssey</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/videos/2012-09-10/simon-callow-brings-dickens-back-to-london-stage#r=else-fst" class="thumbnail" title="Simon Callow Brings Dickens Back to London Stage"><img alt="Simon Callow Brings Dickens Back to London Stage" height="113" src="http://www.bloomberg.com/apps/data?pid=avimage&amp;iid=irgj35JZJUFw" width="200" /></a><h4><a href="http://www.businessweek.com/videos/2012-09-10/simon-callow-brings-dickens-back-to-london-stage#r=else-fs">Simon Callow Brings Dickens Back to London Stage</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/articles/2012-09-10/why-another-obama-term-might-be-better-than-you-think#r=else-fst" class="thumbnail" title="Why a New Obama Term Might Be Better Than You Think"><img alt="Why a New Obama Term Might Be Better Than You Think" height="82" src="http://images.businessweek.com/cms/2012-09-10/0910_obama_145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/articles/2012-09-10/why-another-obama-term-might-be-better-than-you-think#r=else-fs">Why a New Obama Term Might Be Better Than You Think</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/videos/2012-09-10/what-the-49ers-new-stadium-will-look-like#r=else-fst" class="thumbnail" title="An Early Peek at the 49ers New Tech-Heavy Stadium"><img alt="An Early Peek at the 49ers New Tech-Heavy Stadium" height="80" src="http://cdn.videos.bloomberg.com/h3Ymt1NTrKeSDW-zw46tTlh378FMPxPo/FFYNRYr9GWLFRpBn5iMDoxOmg0O9j0gt" width="145" /></a><h4><a href="http://www.businessweek.com/videos/2012-09-10/what-the-49ers-new-stadium-will-look-like#r=else-fs">An Early Peek at the 49ers New Tech-Heavy Stadium</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/articles/2012-09-10/how-iphone-5-sales-could-prop-up-the-entire-u-dot-s-dot-economy#r=else-fst" class="thumbnail" title="How iPhone 5 Sales Could Prop Up the Entire U.S. Economy"><img alt="How iPhone 5 Sales Could Prop Up the Entire U.S. Economy" height="82" src="http://images.businessweek.com/cms/2012-09-10/0910_iphone_145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/articles/2012-09-10/how-iphone-5-sales-could-prop-up-the-entire-u-dot-s-dot-economy#r=else-fs">How iPhone 5 Sales Could Prop Up the Entire U.S. Economy</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/videos/2012-09-10/tony-blair-got-1m-for-three-hours-of-xstrata-talks#r=else-fst" class="thumbnail" title="Tony Blair Got $1M for Three Hours of Xstrata Talks"><img alt="Tony Blair Got $1M for Three Hours of Xstrata Talks" height="81" src="http://cdn.videos.bloomberg.com/02OWF1NToPQcJSNQ97ULbP-W8RIxJshg/PpGCvS8TSl3X91fH5iMDoxOmg0O9j0gt" width="145" /></a><h4><a href="http://www.businessweek.com/videos/2012-09-10/tony-blair-got-1m-for-three-hours-of-xstrata-talks#r=else-fs">Tony Blair Got $1M for Three Hours of Xstrata Talks</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/articles/2012-09-10/as-taxes-rise-frances-richest-man-eyes-belgium#r=else-fst" class="thumbnail" title="As Taxes Rise, France’s Richest Man Eyes Belgium"><img alt="As Taxes Rise, France’s Richest Man Eyes Belgium" height="82" src="http://images.businessweek.com/cms/2012-09-10/0910_arnault_145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/articles/2012-09-10/as-taxes-rise-frances-richest-man-eyes-belgium#r=else-fs">As Taxes Rise, France’s Richest Man Eyes Belgium</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/videos/2012-09-10/why-london-is-the-home-of-banking-scandals#r=else-fst" class="thumbnail" title="London: the Home of Banking Scandals"><img alt="London: the Home of Banking Scandals" height="112" src="http://www.bloomberg.com/apps/data?pid=avimage&amp;iid=iywL1K7KTXpM" width="200" /></a><h4><a href="http://www.businessweek.com/videos/2012-09-10/why-london-is-the-home-of-banking-scandals#r=else-fs">London: the Home of Banking Scandals</a></h4>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/reports/technology/ceo-guide-to-virtual-offices#r=else-fst" class="thumbnail" title="CEO Guide to Virtual Offices"><img alt="CEO Guide to Virtual Offices" height="82" src="http://images.businessweek.com/cms/2012-09-04/0904_CEO_LandingPage_145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/reports/technology/ceo-guide-to-virtual-offices#r=else-fs">CEO Guide to Virtual Offices</a></h4>
+</li>
+<li class='last'>
+<a href="http://www.businessweek.com/articles/2012-07-10/how-the-mormons-make-money#r=else-fst" class="thumbnail" title="How the Mormons Make Money"><img alt="How the Mormons Make Money" height="82" src="http://images.businessweek.com/cms/2012-07-12/feature_mormon29__01__145x82.jpg" width="145" /></a><h4><a href="http://www.businessweek.com/articles/2012-07-10/how-the-mormons-make-money#r=else-fs">How the Mormons Make Money</a></h4>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class='clearfix' id='footer'>
+<div class='social module'>
+<h3>Social</h3>
+<ul>
+<li class='twitter'>
+<a href="http://twitter.com/BW">Follow us on Twitter</a>
+</li>
+<li class='fb'>
+<a href="http://facebook.com/Bloombergbusinessweek/">Join us on Facebook</a>
+</li>
+<li class='linked_in'>
+<a href="http://www.linkedin.com/company/businessweek">Connect with us on LinkedIn</a>
+</li>
+<li class='subscribe last'>
+<a href="https://subscribe.businessweek.com/pubs/BW/BWK/BWK_July_free_iPad.jsp? cds_page_id=102543&amp;cds_mag_code=BWK&amp;cds_response_key=I1203HI01">Subscribe to Bloomberg Businessweek</a>
+</li>
+<li class='bloomberg_logo last ir'>
+<a href="http://www.bloomberg.com" target="_blank">Bloomberg</a>
+</li>
+</ul>
+</div>
+<div class='links module clearfix'>
+<h3>Links</h3>
+<ul>
+<li><a href="http://bloomberg.com/company">Our Company</a></li>
+<li><a href="http://bloombergmedia.com">Advertising</a></li>
+<li><a href="http://bloomberg.com/careers">Careers</a></li>
+<li><a href="http://www.businessweek.com/contact">Feedback</a></li>
+<li><a href="http://www.businessweek.com/adsections/">Custom Publishing</a></li>
+<li><a href="http://www.businessweek.com/manage-subscription">Manage Subscription</a></li>
+</ul>
+<ul class='last'>
+<li><a href="http://www.businessweek.com/mobile">Mobile</a></li>
+<li><a href="http://newsletters.businessweek.com/bwn/ns.asp">Newsletters</a></li>
+<li><a href="http://www.businessweek.com/privacy">Privacy Policy</a></li>
+<li><a href="http://reprints.ygsgroup.com/m/bloombergbusinessweek">Reprints &amp; Permissions</a></li>
+<li><a href="http://www.businessweek.com/sitemap.htm">Sitemap</a></li>
+<li><a href="http://www.businessweek.com/terms">Terms of Use</a></li>
+<li><a href="javascript:void(0)" class="opinion-lab">[+] Rate This Page</a></li>
+</ul>
+</div>
+<div class='current_issue module clearfix'>
+<h3>Get Businessweek Delivered</h3>
+<a href="https://subscribe.businessweek.com/pubs/BW/BWK/BWK_July_free_iPad.jsp?cds_page_id=102543&amp;cds_mag_code=BWK&amp;cds_response_key=I1202HI06" id='cover_image_thumbnail'>
+<img alt="The Truth About Student Loans" height="155" src="http://images.businessweek.com/cms/2012-09-06/1237cov_110x155.jpg" width="110" />
+</a>
+<h6>
+<a href="https://subscribe.businessweek.com/pubs/BW/BWK/BWK_July_free_iPad.jsp?cds_page_id=102543&amp;cds_mag_code=BWK&amp;cds_response_key=I1202HI06">The Truth About Student Loans</a>
+</h6>
+<a class='subscribe_button' href="https://subscribe.businessweek.com/pubs/BW/BWK/BWK_July_free_iPad.jsp?cds_page_id=102543&amp;cds_mag_code=BWK&amp;cds_response_key=I1202HI06">Subscribe</a>
+</div>
+<div class='copyright'>
+<p>
+<span>@2012 Bloomberg L.P. All Rights Reserved. Made in NYC</span>
+<span class='ad_choice'>
+<a href="http://www.businessweek.com/privacy#advertisements">Ad Choices
+<span class='icons-ad_choice'></span>
+</a></span>
+</p>
+</div>
+</div>
+<script src="http://js.revsci.net/gateway/gw.js?csid=K05539&amp;auto=t" type="text/javascript"></script>
+<link href="http://www.businessweek.com/onlineopinionV5/oo_style.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="http://www.businessweek.com/onlineopinionV5/oo_engine.min.js" type="text/javascript"></script>
+<script src="http://www.businessweek.com/onlineopinionV5/oo_conf_invite.js" type="text/javascript"></script>
+
+
+
+</div>
+
+<script src="http://static.btrd.net/assets/application-8ae388733f6204517044140dd5f55f16.js" type="text/javascript"></script>
+<script src="http://static.btrd.net/assets/jquery.bloomberg_hat-7b99c3a90e64feaf80e5f8c4d0f2156b.js" type="text/javascript"></script>
+
+
+
+
+<script>
+  //<![CDATA[
+    var _gaq=[["_setAccount","UA-11413116-6"],["_trackPageview"],["_trackPageLoadTime"]];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+    s.parentNode.insertBefore(g,s)}(document,"script"));
+    
+    try {
+      var tracking_code = window.location.hash.match(/#r=[a-zA-Z_-]*/);
+      if (tracking_code != null && tracking_code != "" && tracking_code.length > 0)
+        _gaq.push(['_trackEvent', tracking_code[0], document.referrer, location.href]);
+        } catch(err){}
+    
+    $('#global_nav').ready(function() {
+      var params = window.location.href.split('?');
+      if (params.length == 2) {
+        pass_along_params = "?" + params[1];
+      } else {
+        pass_along_params = "";
+      }
+      $.ajax({
+        url: '/layout/navigation'+pass_along_params,
+        dataType: "html",
+        success: function(data) {
+          $('#global_nav').replaceWith(data);
+          BLOOMBERG.event_track.linkTrack();
+        }
+      });
+    });
+  //]]>
+</script>
+
+<script src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+<script>
+  //<![CDATA[
+      $(document).ready(function() {
+        function rboxReady(evnt) {
+    
+        TRC.loadRBox({mode:'grid-2x2-vertical',container:'taboola-div'});
+    
+        }
+    
+        var taboolaLoader = document.createElement('script');
+    
+        document.getElementsByTagName('head')[0].appendChild(taboolaLoader);
+    
+        if (taboolaLoader.attachEvent) {// support Internet Explorer
+    
+                taboolaLoader.attachEvent("onactivate", rboxReady);
+    
+        }else{
+    
+                taboolaLoader.addEventListener("activate", rboxReady, false);
+    
+        }
+    
+        taboolaLoader.type="text/javascript";
+    
+        taboolaLoader.src="http://cdn.taboolasyndication.com/libtrc/businessweek/rbox.js?article";
+      });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    var all_decorators = [];
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    var _CHANNEL_CLASS_NAME = "";
+    $(document).ready(function() {
+      $.each(all_decorators, function(){
+    
+        var decorator_div   = '<span class="article_decorator loading" data-type="chart" data-decorator-id="'+this.decorator_id+'" data-decorator-position="'+this.position+'"></span>';
+        if (this.position == 1){
+          $("#lead_decorator").html(decorator_div);
+        }
+        else if(this.position == 2){
+          $("#related_stories h3").after(decorator_div);
+        }
+        else{
+          var pos = (parseFloat(this.position)-3);
+          $('#story_body p:eq('+pos+')').after(decorator_div);
+        }
+      });
+      BLOOMBERG.article_decorators.render_decorators(_CHANNEL_CLASS_NAME);
+      BLOOMBERG.sparklines.render();
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+     var DAILY_ME_API_KEY = "708a031806218aefcd946114978646ec";
+     var DAILY_ME_RECOMMENDER;
+     var drJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://");
+     document.write(unescape("%3Cscript src='" + drJsHost + "static.newstogram.com/rmv2/js/recommenderv2-h2.js' type='text/javascript'%3E%3C/script%3E"));
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    $(document).ready(function() {
+      if ( $('#daily_me_related_stories').size() > 0 ){
+        try{
+          DAILY_ME_RECOMMENDER = new _rec({
+            apiKey: DAILY_ME_API_KEY,
+            limit: '10',
+            truncate: '48',
+            section: '0000'
+          });
+          var base_url = "http://api.newstogram.com/";
+          var standard_options = {
+                output: "json",
+                service: "bloomberg",
+                source: "BW",
+                call: "recommender",
+                channel: "",
+                mediatype: "news",
+                apikey: DAILY_ME_API_KEY,
+                uuid: DAILY_ME_RECOMMENDER.getUidFromCookie(),
+                limit: 10
+            };
+          var url = base_url+"?"+$.param(standard_options);
+          $.ajax({
+            url: url,
+            dataType: 'jsonp',
+            success: BLOOMBERG.bw_core.daily_me_success,
+            timeout: 2500,
+            error: BLOOMBERG.bw_core.daily_me_error
+          });
+        }
+        catch(err) {
+        };
+      }
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    $(document).ready(function() {
+      $.getScript('http://static.newstogram.com/BusinessWeek/js/histogram.js',function(){
+        Newstogram.init('708a031806218aefcd946114978646ec');
+        Newstogram.pageView();
+        });
+        $('.old_related_items a.colorbox').colorbox();
+    });
+  //]]>
+</script>
+<!-- BEGIN DISQUS -->
+<script>
+  //<![CDATA[
+    var disqus_shortname  = "bwbeta";
+    var disqus_identifier = "MA67FC6TTDTY01";
+    var disqus_title      = "Trina Seeks Partners in Shift Away From Solar-Panel Production";
+    var disqus_developer  = 0;
+    
+     /* * * DON'T EDIT BELOW THIS LINE * * */
+     (function() {
+         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+     })();
+  //]]>
+</script>
+
+<a class='dsq-brlink' href="http://disqus.com" title='blog comments powered by'>
+blog comments powered by
+<span class='logo-disqus'>
+Disqus
+</span>
+</a>
+<!-- END DISQUS -->
+
+
+<script>
+  //<![CDATA[
+    (function(d){
+      var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js";
+      ref.parentNode.insertBefore(js, ref);
+    }(document));
+    
+    window.fbAsyncInit = function() {
+      FB.init({appId: "381515401910729", status: true, cookie: true, xfbml: true, oauth: true});
+    
+        FB.Event.subscribe('auth.login', function(response) {
+          if (response.authResponse) {
+            $("#facebook_wall").hide();
+            $('.protected_content').removeClass('protected_content');
+            if ( $('body').hasClass('article_old_article')){
+              $('body.article_old_article #story_body div.unprotected_content').remove();
+              $('body.article_old_article #story_body p.sign_in').remove();
+            }
+          }
+      });
+    
+      FB.getLoginStatus(function(response) {
+        if(response && response.status == 'connected' ) {
+           // Hide the login button
+            $("#facebook_wall").hide();
+            $('.protected_content').removeClass('protected_content');
+            if ( $('body').hasClass('article_old_article')){
+              $('body.article_old_article #story_body div.unprotected_content').remove();
+              $('body.article_old_article #story_body p.sign_in').remove();
+            }
+          }
+      });
+    };
+    
+    $(".facebook_button").bind('click', function(e) {
+      e.preventDefault();
+      FB.login(function(response) {
+        if(response && response.status == 'connected' ){
+          login_with_facebook();
+        }
+       }, {scope: 'email'});
+    });
+    
+    $(".facebook_link_button").bind('click', function(e) {
+      e.preventDefault();
+      FB.login(function(response) {
+        FB.api('/me', function(response) {
+          link_account(response);
+        });
+       }, {scope: 'email'});
+    });
+    
+    
+    function login_with_facebook() {
+      $.ajax({
+        type: "GET",
+        cache: false,
+        dataType: "json",
+        url: "https://secure.businessweek.com/auth/facebook/callback",
+        xhrFields: {
+          withCredentials: true
+        },
+        success: function(response) {
+          $('.sign_in_frame').html('<span class="success">Success!</span>');
+          $('#sign_in a.opened').removeClass('opened');
+          $('.sign_in_frame').fadeOut("fast", function() {BLOOMBERG.bw_user.replace_with_username('#sign_in')});
+          if ($('body').hasClass('registration')){
+            window.location = "https://secure.businessweek.com/account";
+          }
+        },
+        error: function(){
+        }
+      });
+    }
+    
+    function link_account(facebook_user) {
+      $.ajax({
+        type: "POST",
+        data: facebook_user,
+        dataType: "json",
+        url: "https://secure.businessweek.com/users/link-account",
+        success: function(response) {
+          $('.facebook_account').html('<a href="http://www.businessweek.com/users/unlink-account" class="unlink_facebook"> Unlink your facebook account</a>');
+          $(".unlink_facebook").bind('click', function(e) {
+            e.preventDefault();
+            BLOOMBERG.bw_user.unlink_account(e);
+          });
+        },
+        error: function(response){
+          $('.errors').append(response.responseText);
+        }
+      });
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    $(window).load(function(){
+       if(false == true){
+          BLOOMBERG.bw_user.show_reg();
+       }
+    });
+  //]]>
+</script>
+
+
+<!-- BEGIN DISQUS COMMENTS COUNT -->
+<script>
+  //<![CDATA[
+    var disqus_shortname  = "bwbeta";
+    var disqus_developer  = 0;
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  //]]>
+</script>
+
+<!-- END DISQUS COMMENTS COUNT -->
+
+
+<!-- BEGIN COMSCORE -->
+<script>
+  //<![CDATA[
+    BBBW_comScore.params = {"bb_groupid":"MA67FC6TTDTY01","bb_c_type":"bloomberg stories","bb_attributor":"","bb_pub_d":"20120911","bb_cg_1":"Bloomberg News","bb_cg_2":"","bb_cg_3":"Trina Seeks Partners in Shift Away From Solar-Panel Production","bb_author":"Bloomberg News"};
+    if (_BUCKET != "" && _BUCKET_GROUP != ""){
+      BBBW_comScore.params['bb_bucket']       = _BUCKET;
+      BBBW_comScore.params['bb_bucket_group'] = _BUCKET_GROUP;
+    }
+    BBBW_comScore.params['name'] = AD_SITE;
+    BBBW_comScore.track();
+    BBBW_comScore.write_cookie(comScore_track_key,"",-1);
+  //]]>
+</script>
+
+<noscript>
+<p>
+<img alt='*' height='1' src='http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=3005059' width='1'>
+</p>
+</noscript>
+<!-- END COMSCORE -->
+
+<!-- Chartbeat Monitoring -->
+<script>
+  //<![CDATA[
+    var _sf_async_config= {uid: 15087, domain: "www.businessweek.com"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+          (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  //]]>
+</script>
+
+
+
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","b220098848",138689,"c1hbFURcXFsGRRYDRkReVg1TQB9EC1hO",0,752,new Date().getTime(),"","","","",""])</script></body>
+</html>
+

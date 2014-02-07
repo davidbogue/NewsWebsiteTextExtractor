@@ -1,0 +1,914 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en">
+<!--
+	generated 126 seconds ago
+	generated in 0.474 seconds
+	served from batcache in 0.003 seconds
+	expires in 174 seconds
+-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+	<title>   Citi to lose $2.9 billion on Smith Barney sale  - The Buzz  - Investment and Stock Market News</title>
+										<meta name="description" content="Since 2009, Morgan Stanley and Citigroup have operated the brokerage firm Smith Barney as a joint venture.
+
+Citigroup said it expects to book an after-tax loss of $2.9 billion from the sale of its remaining 49%" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="alternate" type="application/rss+xml" title="The Buzz  - Investment and Stock Market News RSS Feed" href="http://rss.cnn.com/cnnmoneybuzzblog" />
+<meta property="fb:app_id" content="80401312489"/>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="shortcut icon" href="http://money.cnn.com/favicon.ico" />
+<link rel="pingback" href="http://buzz.money.cnn.com/xmlrpc.php" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/ssi/css/2.0/pkg/cnnmoney.blog/latest.js"></script>
+<style type="text/css">
+/** SUBNAV **/
+.txtHeaderSubnav h1{margin-bottom: 0 !important;}
+.txtHeaderSubnav .subnav {height: 31px;	padding-left:5px; /*not sure if we want a little padding on the left of the menu*/	}
+.txtHeaderSubnav .subnav li {border-right: 1px solid #999;display: block;margin-right: 10px;margin-top: 8px;padding-right: 10px;float: left;}
+/*styles taken from .breadcrumb*/
+.txtHeaderSubnav .subnav li a {color: #3399CC;font-size: 11px;font-weight: bold;line-height: 1em;margin-bottom: 5px;position: relative;    text-transform: uppercase;}
+.txtHeaderSubnav .subnav li.last-child {border-right: none; margin-right: 0; padding-right: 0;}
+.txtHeaderSubnav .sponsorAd88x36 {float:right;margin-top:20px;margin-bottom:10px;}
+.txtHeaderSubnav .presentedByAdText {float:right;margin-top:20px;margin-bottom:10px;color:#666;font-size:10px;text-align:right;	}
+
+.cnnCol_main #storytext {border-top: 1px solid #DDD; font-size:14px; line-height:19px; margin-top: 15px; padding-top: 15px;}
+
+#storytext blockquote {margin:20px;}
+#storytext ul {list-style-type:disc;list-style-position:outside; margin:0 20px 20px 20px;}
+#storytext ol {margin:0 20px 20px 20px;}
+#storytext ul li,  
+#storytext ol li {margin-bottom:10px;}
+
+/** old code ******/
+.mod-author .authorname {color:#999; font-size:16px; font-weight: bold; line-height:1.0em; margin-bottom:10px; }
+.mod-author .authorimg { margin:0 15px 10px 0; float:left; }
+
+/** VCARD **************************************/
+.mod-author .photo { margin:0 15px 10px 0; float:left; }
+.mod-author .fn {color:#999; font-size:16px; font-weight: bold; line-height:1.0em; margin-bottom:5px; }
+.mod-author .position { color: #999; font-size: 10px; margin-bottom: 6px; text-transform:uppercase;}
+
+.mod-author .vcard-second {margin-top: 23px;}
+/************************************** /VCARD **/
+</style>
+
+<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/script/2.0/pkg/cnnmoney.main/latest.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/script/jquery/1.5.1/jquery.js"></script>
+<!--<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/script/5.0/main.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/script/csi.manager/4.0/csiManager.js"></script>-->
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/vip/cnnmoneybasic2/style.css?m=1307565625g" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<script type="text/javascript">
+document.adoffset = 0;
+</script>
+<script type="text/javascript">
+var alreadySwappedDETargetImage = false; var cnnDEadDEonCookie = false;
+function WM_readCookie( name ) {
+	if ( document.cookie == '' ) { // there's no cookie, so go no further
+	    return false;
+	} else { // there is a cookie
+	    var firstChar, lastChar;
+		var theBigCookie = document.cookie;
+		firstChar = theBigCookie.indexOf(name);	// find the start of 'name'
+		var NN2Hack = firstChar + name.length;
+		if ( (firstChar != -1) && (theBigCookie.charAt(NN2Hack) == '=') ) { // if you found the cookie
+			firstChar += name.length + 1; // skip 'name' and '='
+			lastChar = theBigCookie.indexOf(';', firstChar); // Find the end of the value string (i.e. the next ';').
+			if (lastChar == -1) lastChar = theBigCookie.length;
+			return unescape( theBigCookie.substring(firstChar, lastChar) );
+		} else { // If there was no cookie of that name, return false.
+			return false;
+		}
+	}	
+} // WM_readCookie
+
+function getDEAdHeadCookie( imageRef ) {
+	if (typeof(WM_readCookie) != "undefined") {
+		cnnDEadDEonCookie = WM_readCookie( 'adDEon' );
+	}
+	var newSrc = "http://gdyn.cnn.com/1.1/1.gif?" + new Date().getTime();
+	if ( !alreadySwappedDETargetImage && !cnnDEadDEonCookie) {
+		imageRef.src = newSrc;
+		alreadySwappedDETargetImage = true;
+	}
+}
+</script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/fn_adspaces/cnn_adspaces.js"></script>
+<script> 
+cnnad_newTileIDGroup(new Array('970x418_top', '475x900_rgt')); 
+</script> 
+		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=buzz.money.cnn.com&amp;id=35362264&amp;t=1347412819&amp;back=buzz.money.cnn.com%2F2012%2F09%2F11%2Fmorgan-stanley-citi-smithbarney%2F%3Fiid%3DHP_River' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="The Buzz  - Investment and Stock Market News &raquo; Citi to lose $2.9 billion on Smith Barney sale Comments Feed" href="http://buzz.money.cnn.com/2012/09/11/morgan-stanley-citi-smithbarney/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??/wp-content/mu-plugins/post-flair/style.css,/wp-content/mu-plugins/post-flair/sharing/sharing.css,/wp-content/themes/h4/global.css?m=1345177132j' type='text/css' media='all' />
+<script type='text/javascript' src='http://s1.wp.com/wp-includes/js/jquery/jquery.js?m=1333391137g'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cnnmoneybuzzblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cnnmoneybuzzblog.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Apple needs more than a new iPhone' href='http://buzz.money.cnn.com/2012/09/11/apple-iphone5-stock/' />
+<link rel='next' title='Euro hits 4-month high' href='http://buzz.money.cnn.com/2012/09/11/euro-four-month-high/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://buzz.money.cnn.com/2012/09/11/morgan-stanley-citi-smithbarney/' />
+<link rel='shortlink' href='http://wp.me/p2onl6-1aG' />
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbuzz.money.cnn.com%2F2012%2F09%2F11%2Fmorgan-stanley-citi-smithbarney%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbuzz.money.cnn.com%2F2012%2F09%2F11%2Fmorgan-stanley-citi-smithbarney%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='http://cnnmoneybuzzblog.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://cnnmoneybuzzblog.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://buzz.money.cnn.com/osd.xml" title="The Buzz  - Investment and Stock Market News" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style>
+		/* <![CDATA[ */
+		/* Block: reblog */
+		
+		.reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+		.reblogger-note img.avatar         { float: left; padding: 0; border: 0; }
+		.reblogger-note-content            { margin: 0 0 20px; }
+		.reblog-post .wpcom-enhanced-excerpt-content { border-left: 3px solid #eee; padding-left: 15px; }
+		.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; }
+		.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; }
+		.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; }
+		.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; }
+		
+		.reblog-post .wpcom-enhanced-excerpt { clear: both; }
+		
+		.reblog-post .wpcom-enhanced-excerpt address,
+		.reblog-post .wpcom-enhanced-excerpt li,
+		.reblog-post .wpcom-enhanced-excerpt h1,
+		.reblog-post .wpcom-enhanced-excerpt h2,
+		.reblog-post .wpcom-enhanced-excerpt h3,
+		.reblog-post .wpcom-enhanced-excerpt h4,
+		.reblog-post .wpcom-enhanced-excerpt h5,
+		.reblog-post .wpcom-enhanced-excerpt h6,
+		.reblog-post .wpcom-enhanced-excerpt p { font-size: 100% !important; }
+		
+		.reblog-post .wpcom-enhanced-excerpt blockquote,
+		.reblog-post .wpcom-enhanced-excerpt pre,
+		.reblog-post .wpcom-enhanced-excerpt code,
+		.reblog-post .wpcom-enhanced-excerpt q { font-size: 98% !important; }
+		
+
+		/* ]]> */		
+		</style>
+		<meta name="application-name" content="The Buzz  - Investment and Stock Market News" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="All Markets and Investing News all the time" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://buzz.money.cnn.com/feed/;icon-uri=http://0.gravatar.com/blavatar/27b7aee7e1341218a628467f29470b41?s=16" /></head>
+<body class="single single-post postid-4506 single-format-standard" class="cnn-blog">
+	<div id="cnnHeader" class="moneyInvestingNav">
+		<script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/banner/5.0/banner_cnnmoney.container.js"></script>
+		<div class="subnav">
+  <div class="inner">
+    <ul>
+      <li><a href="http://buzz.money.cnn.com">The Buzz</a></li>
+      <li><a href="http://money.cnn.com/termsheet/">Term Sheet</a></li>
+      <li><a href="http://money.cnn.com/data/fear-and-greed/">Fear &amp; Greed</a></li>
+      <li><a href="http://money.cnn.com/data/dow30/">Dow 30</a></li>
+      <li><a href="http://money.cnn.com/data/etf/">ETFs</a></li>
+      <li><a href="http://money.cnn.com/data/funds/">Mutual Funds</a></li>
+      <li><a href="http://money.cnn.com/video/investing/">Video</a></li>
+    </ul>
+  </div>
+</div>
+	</div>
+	<div id="cnnBody">
+		<div id="adbanner"><!-- ADSPACE: investing/the_buzz/blog/top.728x90 --><div id="ad-68314" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("68314","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=blog&cnn_money_position=728x90_top&cnn_money_rollup=investing&cnn_money_section=the_buzz&page.allowcompete=no&params.styles=fs","90","728");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div><div class="cnnsectionhed txtHeaderSubnav"> 
+			<h2><a href="http://buzz.money.cnn.com/">The Buzz</a></h2>
+            <div class="subtitle">All markets and investing news all the time</div> 
+	<div class="clearFloat"></div> 
+</div>
+<div class="clearFloat"></div> 
+<div class="cnnCol_main">		
+		<div id="storycontent" id="post-4506" class="post-4506 post type-post status-publish format-standard hentry category-investing category-markets tag-citigroup tag-james-gorman tag-morgan-stanley tag-sandy-weill tag-smith-barney tag-vikram-pandit">
+			<div class="hed_side">
+				<div class="source "></div>
+				<div class="cmmtcount">
+			    	<a href="http://buzz.money.cnn.com/2012/09/11/morgan-stanley-citi-smithbarney/" class="money-social money-get-comments"></a>&nbsp;<a href="#comments">comments</a>
+			    </div>
+			</div>
+			<article>
+				<h1>Citi to lose $2.9 billion on Smith Barney sale</h1>					<span class="byline">By <a href="/author/maureenmfarrell/" rel="author">Maureen Farrell</a></span>				<span class="cnnDateStamp">September 11, 2012: 12:37 PM ET</span>
+				<div class="clearFloat"></div>
+				<div id="storytext"><div id="attachment_4531" class="wp-caption aligncenter" style="width: 624px"><a href="http://cnnmoneybuzzblog.files.wordpress.com/2012/09/120911022217-smith-barney-blog.jpg"><img class="size-full wp-image-4531" title="120911022217-smith-barney-blog" src="http://cnnmoneybuzzblog.files.wordpress.com/2012/09/120911022217-smith-barney-blog.jpg" alt="" width="614" height="400" /></a><p class="wp-caption-text">Since 2009, Morgan Stanley and Citigroup have operated the brokerage firm Smith Barney as a joint venture.</p></div>
+<p>Citigroup said it expects to book an after-tax loss of $2.9 billion from the sale of its remaining 49% stake in Smith Barney to Morgan Stanley.</p>
+<p>The disclosure, made in an SEC filing Tuesday afternoon, came after Morgan Stanley and Citigroup disclosed the value of Morgan Stanley Smith Barney, the wealth brokerage unit they had shared since 2009.</p>
+<p>At $13.5 billion, the valuation represents a big win for Morgan Stanley, which had valued the business at $9 billion. Citigroup (<a href="http://money.cnn.com/quote/quote.html?symb=C">C</a>) had said it was worth $23 billion. Morgan Stanley (<a href="http://money.cnn.com/quote/quote.html?symb=MS">MS</a>) already owned 51% of the joint venture, which will be renamed Morgan Stanley Wealth Management as the firm phases out the Smith Barney brand.</p>
+<p>Investment bank Perella Weinberg was called in to mediate and offer its own appraisal, which is what the two firms used to reach a compromise. The valuation paves the way for Morgan Stanley to snap up the remainder of the 17,000 person strong brokerage at favorable pricing.</p>
+<p><a href="http://buzz.money.cnn.com/2012/05/31/hey-citigroup-morgan-stanley-wants-more-of-smith-barney/">Morgan Stanley can now move forward</a> with the first phase by buying an additional 14% stake, bringing its total ownership to 65%. The firm plans to acquire the remaining 35% it doesn't own by mid-2015, at the latest.</p>
+<p>Citigroup plans to book the $2.9 billion loss ($4.7 billion pre tax), in its third-quarter results, according to the SEC filing.</p>
+<p><a href="http://buzz.money.cnn.com/2012/06/12/morgan-stanley-all-grown-up/"><strong>Related: Morgan Stanley: All grown up</strong></a></p>
+<p>Citigroup tapped Morgan Stanley to buy a stake in Smith Barney in 2009 as it rushed to sell assets to shore up its shaky balance sheet.</p>
+<p>Even at a discounted value to what Citi thought the business was worth, the sale of Smith Barney allows CEO Vikram Pandit to rid one item from his "for sale" box. Since the financial crisis, Citigroup has compiled a list of so-called non-core assets that it planned to sell. "Establishing certainty regarding the divestiture of this business is in the best interests of our shareholders," Pandit said in a statement.</p>
+<p>Pandit discussed the continuing slim-down of Citigroup, including the Smith Barney sale, during a presentation at a Barclays investor conference Monday. He dubbed the new look of Citigroup: "Simpler, safer, safer and stronger." While the motto doesn't exactly roll off the tongue, the strategy is a clear reversal from Citigroup's pre-crisis ambitions. Smith Barney was one part of what Citigroup's former CEO, Sandy Weill, pieced together to form the largest bank in the world.</p>
+<p>Recently, as U.S. government policymakers and bank executives wrestle with defining what constitutes too big to fail, along with a slew of regulatory measures, <a href="http://money.cnn.com/2012/07/25/news/economy/sandy-weill-banks/index.htm">Weill</a> appeared to change his tune. During a recent CNBC interview, he said large banks should be broken up.</p>
+<p>While the acquisition of Smith Barney makes Morgan Stanley look bigger, CEO James Gorman said it also makes it safer and stronger -- a sharp departure from some of the bank's risky lending habits during the pre-financial crisis era. With Smith Barney, Morgan Stanley will gain access to $48 billion of deposits, helping build up its capital ratios to comply with international rules.</p>
+<p>Both Citigroup and Morgan Stanley's shares rose more than 2% Tuesday.</p>
+<div id="jp-post-flair" class="sharedaddy sd-sharing-enabled"></div>		<div class="taglist">Posted in: <a href="http://buzz.money.cnn.com/tag/citigroup/" rel="tag">citigroup</a>, <a href="http://buzz.money.cnn.com/tag/james-gorman/" rel="tag">James Gorman</a>, <a href="http://buzz.money.cnn.com/tag/morgan-stanley/" rel="tag">Morgan Stanley</a>, <a href="http://buzz.money.cnn.com/tag/sandy-weill/" rel="tag">Sandy Weill</a>, <a href="http://buzz.money.cnn.com/tag/smith-barney/" rel="tag">smith barney</a>, <a href="http://buzz.money.cnn.com/tag/vikram-pandit/" rel="tag">Vikram Pandit</a>		</div>				</div>
+			</article>			<div class="clearFloat"></div>
+		</div><div id="quigo628"><!-- ADSPACE: markets_and_stocks/blogs/quigo/bot.628x215 --><div id="ad-243178" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("243178","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=blog&cnn_money_position=628x215_bot&cnn_money_rollup=markets_and_stocks&cnn_money_section=blogs&cnn_money_subsection=quigo&page.allowcompete=no&params.styles=fs&page.allowcompete=yes","215","628");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>	
+<div id="OB_div"></div>	<a name="comments"></a>
+	<div class="mod-disqus">
+		<div class="boxHeading">Join the Conversation</div>
+		<div id="adComments"></div>
+		<div id="disqus_thread"></div>
+	</div>
+
+</div><div class="cnnCol_side">
+
+<div id="mod-social" class="mod-social"><div class="boxHeading"><a href="http://twitter.com/CNNMoneyInvest " target="new">Follow CNNMoneyInvest</a></div></div><div id="mod-feargreed" class="contentBox">
+  <div class="boxHeading"><span>Fear &amp; Greed</span><div class="fg_presentedBy"><div class="fg_Ad">
+
+<!-- ADSPACE: investing/fear_and_greed/spon.88x31 --><div id="ad-524933" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("524933","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=88x31_spon&cnn_money_rollup=investing&cnn_money_section=fear_and_greed&page.allowcompete=no&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div>
+
+</div><span>Sponsored by</span></div><div class="clearFloat"></div> </div>
+  <a href="http://money.cnn.com/data/fear-and-greed/"><img src="http://i.cdn.turner.com/money/.e1m/img/5.0/data/feargreed/scale.316x95.png" width="316" height="95" /></a>
+  <div class="clearFloat"></div>
+</div>
+<div id="adsquare"><!-- ADSPACE: investing/the_buzz/blog/rgt.336x600 --><div id="ad-691903" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("691903","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=blog&cnn_money_position=336x600_rgt&cnn_money_rollup=investing&cnn_money_section=the_buzz&page.allowcompete=no&params.styles=fs","600","336");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div><div class="mod-author">
+	<div class="boxHeading">About This Author</div>
+
+	<div class="vcard">
+		<img src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/maureen_farrell_130.jpg" border="0" height="130" width="130" alt="Maureen Farrell" class="photo" />
+		<div class="fn">Maureen Farrell</div>
+		<div class="position"><span class="title">Staff writer</span>, <span class="org">CNNMoney</span></div>
+		<div class="cnnBlurbTxt">
+			<p>Maureen Farrell is a staff writer at CNNMoney and covers Wall Street, banking, mergers and the stock and bond markets. Prior to joining CNNMoney, she covered venture capital and entrepreneurs for Forbes, and mergers and bankruptcy for Mergermarket and Debtwire, both divisions of the Financial Times.   </p>
+		</div>
+	</div>
+</div>
+
+<div class="mod-blogs" id="mod-contributors">
+<div class="boxHeading">Contributors</div>
+<ul>
+
+		<li>
+			<a class="summaryImg" href="http://buzz.money.cnn.com//author/ctymkiw/"><img width="65" height="49" alt="" src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/catherine_tymkiw.02.jpg"></a>
+			<div class="cnnEyebrow"><a href="http://buzz.money.cnn.com//author/ctymkiw/"><a href="http://buzz.money.cnn.com/author/ctymkiw/">Catherine Tymkiw</a></a></div>
+			<div class="cnnHeadline"><a href="http://buzz.money.cnn.com/2012/09/11/fed-qe3-poll/">Hedging QE3 bets, 52% say Fed won't act after all</a></div>
+		</li>
+	
+		<li>
+			<a class="summaryImg" href="http://buzz.money.cnn.com/author/isles73/"><img width="65" height="49" alt="" src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/paul_lamonica.02.jpg"></a>
+			<div class="cnnEyebrow"><a href="http://buzz.money.cnn.com/author/isles73/"><a href="http://buzz.money.cnn.com/author/isles73/">Paul R. La Monica</a></a></div>
+			<div class="cnnHeadline"><a href="http://buzz.money.cnn.com/2012/09/11/apple-iphone5-stock/">Apple needs more than a new iPhone</a></div>
+		</li>
+	
+		<li>
+			<a class="summaryImg" href="http://buzz.money.cnn.com//author/hibahyousuf/"><img width="65" height="49" alt="" src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/hibah_yousuf.02.jpg"></a>
+			<div class="cnnEyebrow"><a href="http://buzz.money.cnn.com//author/hibahyousuf/"><a href="http://buzz.money.cnn.com/author/hibahyousuf/">Hibah Yousuf</a></a></div>
+			<div class="cnnHeadline"><a href="http://buzz.money.cnn.com/2012/09/06/stocks-bonds-inflows-outflows/">Investors yank $3.7 billion out of stocks</a></div>
+		</li>
+	
+		<li>
+			<a class="summaryImg" href="http://buzz.money.cnn.com/author/maureenmfarrell/"><img width="65" height="49" alt="" src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/maureen_farrell.02.jpg"></a>
+			<div class="cnnEyebrow"><a href="http://buzz.money.cnn.com/author/maureenmfarrell/"><a href="http://buzz.money.cnn.com/author/maureenmfarrell/">Maureen Farrell</a></a></div>
+			<div class="cnnHeadline"><a href="http://buzz.money.cnn.com/2012/09/11/aig-treasury-2/">Cashing out of AIG may be a boon for investors</a></div>
+		</li>
+	
+		<li>
+			<a class="summaryImg" href="http://buzz.money.cnn.com/author/brooneycnn/"><img width="65" height="49" alt="" src="http://i2.cdn.turner.com/money/.element/img/5.0/sections/contributors/ben_rooney.02.jpg"></a>
+			<div class="cnnEyebrow"><a href="http://buzz.money.cnn.com/author/brooneycnn/"><a href="http://buzz.money.cnn.com/author/brooneycnn/">Ben Rooney</a></a></div>
+			<div class="cnnHeadline"><a href="http://buzz.money.cnn.com/2012/09/11/euro-four-month-high/">Euro hits 4-month high</a></div>
+		</li>
+	</ul>
+</div>
+<div class="mod-sideCol buzzVideos">
+<div class="boxHeading">
+<span class="cnnDateStamp"></span> Latest Buzz Videos</div>
+<ul>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/11/investing-burberry.cnnmoney">No Duchess Kate bump for Burberry</a><span class="cnnVideoTrt">(1:35)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/10/investing-michael-kors.cnnmoney">Kors: Still in fashion with investors</a><span class="cnnVideoTrt">(1:11)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/07/investing-intel.cnnmoney">Intel not feeling chipper</a><span class="cnnVideoTrt">(1:30)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/06/invesing-mens-wearhouse.cnnmoney">Men's Wearhouse earnings looking sharp</a><span class="cnnVideoTrt">(1:31)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/news/2012/09/05/n-el-erian-nfl-jets-giants.cnnmoney">El-Erian: 'Miserable season' for Jets</a><span class="cnnVideoTrt">(0:41)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/05/investing-buzz-facebook-zuckerberg-stock.cnnmoney">Finally! Some good news for Facebook stock</a><span class="cnnVideoTrt">(1:42)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/09/04/investing-buzz-campells-soup.cnnmoney">Campbell Soup hot. Economy not.</a><span class="cnnVideoTrt">(1:10)</span>
+</li>
+<li>
+<a href="http://money.cnn.com/video/investing/2012/08/31/investing-buzz-cloud-splunk.cnnmoney">Cloud stocks lighting up the market</a><span class="cnnVideoTrt">(0:58)</span>
+</li>
+</ul>
+<div class="seeMore">
+<a href="http://money.cnn.com/video/series/thebuzz/">See all videos</a>
+</div>
+</div>
+<div class="mod-sideCol buzzTwitter">
+<div class="boxHeading">Stupid Stock Move of the Day</div>
+<div id="buzzTweet"> 
+	<div class="buzzTweetTxt">#StupidStock Move of the Day! $FB up 3% before Zuckerberg speech at TechCrunch? What can he say that will change valuation or fundamentals?</div>
+    <div class="buzzTweetBtm"></div>
+</div>
+<div class="twitter">
+		<iframe src="http://platform.twitter.com/widgets/follow_button.html?screen_name=LaMonicaBuzz&show_screen_name=true&show_count=false" allowtransparency="true" frameborder="0" scrolling="no" style="width:314px; height:20px;"></iframe>
+	</div>
+</div>
+<div id="mod-myinvestments" class="Tab0Visible">
+	<div class="NaviTabs">
+		<ul>
+			<li class="tabnum0"><a href="javascript:showNavTab('mod-myinvestments',0)">Last 5 Quotes</a></li>
+			<li class="tabnum1"><a href="javascript:showNavTab('mod-myinvestments',1)">My Watch List</a></li>
+		</ul>
+	</div>
+	<div class="ssi0">
+		<iframe name="myInvestments" class="myInvestments" src="http://markets.money.cnn.com/common/modules/iframe/myInvestments.asp?myStocksTab=last5" scrolling="no" width="315" height="282" frameborder="0"></iframe>
+	</div>
+	<div class="ssi1" id="cnnWatchListConnect">
+		<h3>To view my watchlist</h3>
+		<a href="javascript:void(0)" class="loginimg cnnLogin"><img src="http://i.cdn.turner.com/money/.element/img/4.0/services/button_login.gif" alt=""></a>
+		<p>Not a member yet?</p>
+		<a href="javascript:void(0)" class="cnnSignup">Sign up now for a free account</a>
+	</div>
+</div>
+<div class="mod-mostpop">
+	<div class="boxHeading">Most Popular</div>
+	<div class="sponsor_ad"><!-- ADSPACE: business_news/social_media/most_popular/spon.314x30 --><div id="ad-514441" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("514441","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=314x30_spon&cnn_money_rollup=business_news&cnn_money_section=social_media&cnn_money_subsection=most_popular&page.allowcompete=no&params.styles=fs&page.allowcompete=yes","30","314");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>
+	<table cellpadding="0" cellspacing="0" border="0">
+<tr >
+	<td class="cnnHeadline"><a href="http://money.cnn.com/2012/09/11/technology/zuckerberg-techcrunch-disrupt/index.html">Facebook's stock dive is 'disappointing,' CEO Mark Zuckerberg says</a></td>
+	<td class="scale"><div class="bars pct100">&nbsp;</div></td>
+	<td class="count"><a href="/2012/09/11/technology/zuckerberg-techcrunch-disrupt/index.html" class="money-social money-get-comments"></a></td>
+</tr>
+<tr >
+	<td class="cnnHeadline"><a href="http://money.cnn.com/2012/09/11/technology/iphone-5-sales/index.html">The iPhone 5 is coming ... will there be an iPhone 10?</a></td>
+	<td class="scale"><div class="bars pct50">&nbsp;</div></td>
+	<td class="count"><a href="/2012/09/11/technology/iphone-5-sales/index.html" class="money-social money-get-comments"></a></td>
+</tr>
+<tr >
+	<td class="cnnHeadline"><a href="http://money.cnn.com/2012/09/11/news/companies/ubs-whistleblower-reward/index.html">UBS whistleblower nets $104 million reward</a></td>
+	<td class="scale"><div class="bars pct40">&nbsp;</div></td>
+	<td class="count"><a href="/2012/09/11/news/companies/ubs-whistleblower-reward/index.html" class="money-social money-get-comments"></a></td>
+</tr>
+<tr >
+	<td class="cnnHeadline"><a href="http://money.cnn.com/2012/09/11/news/economy/wealth-net-worth/index.html">The wealthy are 288 times richer than you</a></td>
+	<td class="scale"><div class="bars pct30">&nbsp;</div></td>
+	<td class="count"><a href="/2012/09/11/news/economy/wealth-net-worth/index.html" class="money-social money-get-comments"></a></td>
+</tr>
+<tr class="lastItem">
+	<td class="cnnHeadline"><a href="http://money.cnn.com/2012/09/11/investing/stocks-markets/index.html">Dow closes at 5-year high</a></td>
+	<td class="scale"><div class="bars pct20">&nbsp;</div></td>
+	<td class="count"><a href="/2012/09/11/investing/stocks-markets/index.html" class="money-social money-get-comments"></a></td>
+</tr>
+</table>
+
+</div><div id="quigo336"><!-- ADSPACE: markets_and_stocks/blogs/quigo/quigo.336x280 --><div id="ad-912355" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+cnnad_createAd("912355","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_pagetype=blog&cnn_money_position=336x280_quigo&cnn_money_rollup=markets_and_stocks&cnn_money_section=blogs&cnn_money_subsection=quigo&page.allowcompete=no&params.styles=fs&page.allowcompete=yes","280","336");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>	
+	</div>
+		<div class="clearFloat"></div>
+	</div>
+	
+			<script language="javascript">
+		/* <![CDATA[ */
+		var cnnSource = "CNN";
+		var cnnBlogCat = "BuzzBlog";
+		var cnnBlogSec= "BuzzBlog";
+		var cnnAuthor = "Maureen Farrell";
+		var cnnBrandingValue = "morningbuzz";
+		/* ]]> */
+		</script>
+	
+	<div id="cnnFooter">
+		<script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/footer/5.0/fortune.footer.container.js"></script>	<script language="JavaScript" src="http://z.cdn.turner.com/money/.element/script/4.0/omniture/jsmd.js?20120801900"></script>
+<script language="JavaScript"><!--
+if (window.location.pathname.indexOf(".element") == -1 && window.location.href.indexOf("?fb_xd_fragment#?=&") == -1) {
+    var jsmd=_jsmd.init();
+    jsmd.send();
+}
+//--></script>
+ 
+
+	<!--include virtual="/.element/ssi/chartbeat/chartbeat.html"-->
+<script type="text/javascript" src="http://z.cdn.turner.com/money/.e/script/5.0/newsbeat/newsbeat.js"></script>
+	<!--BIZO Page TAG-->
+	<img src="http://www.bizographics.com/collect/?fmt=gif&pid=311" width="1" height="1" border="0" alt="">
+	<!--/BIZO Page TAG-->
+	<script language="JavaScript">
+		var R = new String(document.referrer);
+		var serveAd=1;
+		if(R.length > 0)
+		{
+			if (R.indexOf("yahoo.com") >= 0)
+				serveAd=0;
+		}
+		if(serveAd)
+		{
+			// dynamic logic
+			document.write('<scr'+'ipt src="http://content.dl-rms.com/rms/mother/8101/nodetag.js"></scr'+'ipt>');
+			<!--ADSPACE: ros/popunders/bot.1x1-->
+			cnnad_createAd("229469","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=1x1_bot&params.styles=fs","1","1");
+			try { selectSurvey(); }	catch(e){}
+		}
+	</script>
+	<!-- Start Quantcast Delivery Tag : Publisher Specific -->
+	<script type="text/javascript">
+	_qoptions = {qacct:"p-5dyPa639IrgIw"};
+	document.write( '<scr'+'ipt src="http://pixel.quantserve.com/seg/'+_qoptions.qacct+'.js;fpa='+_quantgc('__qca')+'" type="text/javascript"></scr'+'ipt>');
+	</script>
+	<!-- End Quantcast Delivery Tag -->
+	<!-- Start Quantcast Measurement tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-5dyPa639IrgIw";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-5dyPa639IrgIw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast Measurement tag -->
+	<!-- START REVENUE SCIENCE PIXELLING CODE -->
+	<script src="http://js.revsci.net/gateway/gw.js?csid=H07710"></script>
+	<script type="text/javascript" language="JavaScript" charset="utf-8">
+	<!--	
+	var cnnMetaCategory,cnnMetaSection;
+	if (typeof jsmd!='undefined')
+	{
+		var cnnMeta=jsmd.mdata.business.mny.section;
+		cnnMetaCategory=cnnMeta[0];
+		cnnMetaSection=cnnMeta[1];
+	}
+	DM_cat('CNNMoney > ' + cnnMetaCategory + ' > ' + cnnMetaSection);
+	DM_tag();
+	//-->
+	</script>
+	<!-- END REVENUE SCIENCE PIXELLING CODE -->
+	<script type="text/javascript">
+	   (function() {
+	       var cs = document.createElement('script'); cs.type = 'text/javascript';
+	           cs.async = true;
+	           cs.src = ('https:' == document.location.protocol ?  'https://' : 'http://') +
+	           'static.crowdscience.com/start-4c8235243e.js'
+	          var s = document.getElementsByTagName('script')[0];
+	          s.parentNode.insertBefore(cs,s);
+	    })();
+	</script>
+	<script type="text/javascript">
+	var gravityInsightsParams = {type:'content', site_guid:'b8ebc160de219b92cdb6904014ace282'};
+	document.write(unescape("%3Cscript src='http://cdn.insights.gravity.com/moth-min.js' type='text/javascript'%3E%3C/script%3E"));
+	</script> 
+<!-- Begin: www.iperceptions.com --><script src="http://ips-invite.iperceptions.com/webValidator.aspx?sdfc=8903e7fe-104983-4d96497c-d068-4528-a4f9-0dbb51a45963&lID=1&loc=STUDY&cD=90&rF=False&iType=1&domainname=0" type="text/javascript" defer="defer" ></script><!-- End: www.iperceptions.com -->
+
+
+
+<script>
+	//check for or create a namespace
+	if (typeof CNN === 'undefined') {
+		var CNN = {};
+	}
+	if (typeof CNN.tracking === 'undefined') { CNN.tracking = {} }
+	
+	/** Adds an image ping beacon to the end of the HTML page. */
+	CNN.tracking.cnn_wpBlogPing = function() {
+		var loc = window.location.href;
+		var img = '<img src="http://money.cnn.com/images/tracking/wpblog.gif?loc=' + encodeURIComponent(loc) + '" class="cnn-tracking-img" width="1" height="1">';
+		$('body').append(img);
+	};
+	
+	$(document).ready(function() {
+		CNN.tracking.cnn_wpBlogPing();
+	});
+</script>
+
+<script language="javascript">
+// toggle tabs
+function showNavTab(tabId,tabNo) {
+	var tabCollection = document.getElementById(tabId);
+	tabCollection.className='Tab'+tabNo+'Visible';
+}
+</script>
+<script type="text/javascript"> 
+	// needs to be defined before data/common.js
+	var urlPre="http://markets.money.cnn.com/";
+	var cnnDomain="http://money.cnn.com/";
+	var cookieDomain="cnn.com";
+	var tzOffset= -240;
+	//var tzOffset= -300;
+</script> 
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/script/2.0/pkg/cnnmoney.blog/latest.js"></script>	</div>
+	<img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" alt="" id="TargetImageDE" name="TargetImageDE" width="1" height="1" onLoad="getDEAdHeadCookie(this)">
+<script>
+	//cnnad_ugsync();
+</script>
+	
+<div class="wpcopyright">Powered by <a href="http://wordpress.com/vip-hosting/" rel="generator">WordPress.com VIP</a>.</div>
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom,posttag.citigroup,posttag.james-gorman,posttag.morgan-stanley,posttag.sandy-weill,posttag.smith-barney,posttag.vikram-pandit,vip.cnnmoneybuzzblog"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom%2Cposttag.citigroup%2Cposttag.james-gorman%2Cposttag.morgan-stanley%2Cposttag.sandy-weill%2Cposttag.smith-barney%2Cposttag.vikram-pandit%2Cvip.cnnmoneybuzzblog" height="1" width="1" alt="" /></div></noscript>
+
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=201237aa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1318621548g'></script>
+<script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script>	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/js/devicepx.js?m=1346791564g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'35362264','v':'wpcom','user_id':'0','post':'4506','subd':'cnnmoneybuzzblog'});
+function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=35362264&v=wpcomvt&user_id=0&post=4506&subd=cnnmoneybuzzblog&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdoRllHR2F4UUh4UUU9czNNcFR0b3pROFtEU0NTOHxoOU9QT0xbME1BUTEtUnEmfE5YLW82JnNWMU5HWX5RNVJuUHJ2SkNIaX4uc19CendabD1yZCxUenVRVGRYVWtaJVI9OHhDVy1WQ3Erc2w4ZixbLStjTFgyeVZvLlJtT3JuR1N6WXUsamFNZU1qbF1DXVhqXS5QbktCYVNMW3lDdGdlcmYwWUMsZCtjaHo='});
+addLoadEvent(function(){linktracker_init('35362264',4506);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+
+</body>
+</html>

@@ -1,0 +1,926 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+ <head> 
+  <title>ALTR Stock | Altera Corp. Stock Buy Recommendation Reiterated (ALTR) - TheStreet</title> 
+  <script type="text/javascript">
+    window.universal_variable = {   
+        page: {
+                category: "global",
+                subcategory: "story"
+            }
+    };
+    window.universal_variable.page.environment = "production";
+    window.universal_variable.page.storyTypeName  ="";
+    window.universal_variable.page.authorName="";
+	window.universal_variable.page.storyId  ="";
+    window.universal_variable.page.storyTypeDirName="";
+    window.universal_variable.page.hasEmbeddedVideo=false;
+</script> 
+  <script>
+    window.fbAsyncInit = function() {
+    FB.init({
+      status     : false, // check login status
+      cookie     : false, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+     // Add a script element as a child of the body
+    function downloadFBAtOnload() {
+        var fbelement = document.createElement("script");
+        fbelement.id="facebook-jssdk";
+        fbelement.src = "//connect.facebook.net/en_US/all.js";
+        document.body.appendChild(fbelement);
+
+        
+    }
+
+    // Check for browser support of event handling capability
+    if (window.addEventListener)
+        window.addEventListener("load", downloadFBAtOnload, false);
+    else if (window.attachEvent)
+        window.attachEvent("onload", downloadFBAtOnload);
+    else window.onload = downloadFBAtOnload;
+
+</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <!-- origin:1 Dec 2012 03:55:12 GMT --> 
+  <link rel="stylesheet" media="screen" type="text/css" href="http://i.thestreet-static.com/files/tsc/v2008/css/_1354137780100/min/new-combined.css" /> 
+  <script type="text/javascript" src="http://i.thestreet-static.com/files/tsc/v2008/js/_1354137780100/min/new-combined-lazy.js"></script> 
+  <script type="text/javascript">
+        document.domain="thestreet.com";
+        TSCM.cfg.imagesBaseUrl = "http://i.thestreet-static.com/files/tsc/v2008";
+        TSCM.cfg.cssBaseUrl = "http://i.thestreet-static.com/files/tsc/v2008/css/_1354137780100/min";
+        TSCM.cfg.jsBaseUrl = "http://i.thestreet-static.com/files/tsc/v2008/js/_1354137780100/min";
+        TSCM.cfg.staticFilePath = "http://www.thestreet.com/files/tsc/v2008";
+        TSCM.cfg.useStageDART = "false";
+        TSCM.cfg.commerceBaseUrl = "https://secure2.thestreet.com";
+        TSCM.cfg.thestreetBaseUrl = "http://www.thestreet.com";
+        TSCM.cfg.contextRoot = "http://www.thestreet.com";
+
+    </script> 
+  <meta name="DATE" content="2012-11-26 09:01:32.0" /> 
+  <meta name="searchDATE" content="20121126" /> 
+  <meta name="DESCRIPTION" content="Altera (Nasdaq:ALTR) has been reiterated by TheStreet Ratings as a buy with a ratings score of B." /> 
+  <meta name="KEYWORDS" content="" /> 
+  <meta name="AUTHOR" content="By TheStreet Wire  " /> 
+  <meta name="SECTION" content="StreetWire" /> 
+  <meta name="contentType" content="article" /> 
+  <link rel="canonical" href="http://www.thestreet.com/story/11775068/1/altera-corp-stock-buy-recommendation-reiterated-altr.html" /> 
+  <link rel="stylesheet" type="text/css" href="http://i.thestreet-static.com/files/tsc/v2008/css/_1354137780100/min/story-new.css" /> 
+  <link rel="stylesheet" type="text/css" href="http://i.thestreet-static.com/files/tsc/v2008/css/_1354137780100/min/thestreetwire.css" /> 
+  <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> 
+  <script type="text/javascript">stLight.options({publisher:'2091bd2c-7db4-4aeb-b41d-54efb2f944ee'});</script> 
+  <script type="text/javascript">
+    //* Global Functions *//
+    function metadataRegisterNS(ns){
+        var nsParts = ns.split(".");
+        var root = window;
+
+        for(var i=0; i<nsParts.length; i++){
+            if(typeof root[nsParts[i]] == "undefined"){
+                root[nsParts[i]] = new Object();
+            }
+        root = root[nsParts[i]];
+        }
+    }
+    metadataRegisterNS("TSCM.metadata.Page");
+	metadataRegisterNS("TSCM.metadata.Ads");
+	TSCM.metadata.Page.template = "";
+	TSCM.metadata.Page.contentType = "Article_StreetWire";
+	TSCM.metadata.Page.sectionFront = "headlines-and-perspectives";
+	TSCM.metadata.Page.subsection = "stock-market";
+	TSCM.metadata.Page.channel= "";
+    TSCM.metadata.Page.products="";
+    TSCM.metadata.Page.events="";
+    TSCM.metadata.Page.override= "false";
+	TSCM.metadata.Page.searchResults= "";
+	TSCM.metadata.Page.searchTerm= "";
+	TSCM.metadata.Page.advancedSearch= "";
+	TSCM.metadata.Page.searchType= "";
+	TSCM.metadata.Page.pageType= "";
+	TSCM.metadata.Page.pageName = "";
+	TSCM.metadata.Page.pageURL = document.URL;
+	TSCM.metadata.Page.omOrig ="";
+	TSCM.metadata.Ads.site = "tsc-headlines-and-perspectives/stock-market";
+	TSCM.metadata.Ads.contextualLinks = "";
+    TSCM.metadata.Page.searchPagination = "";
+	// reporting hierarchies
+	TSCM.metadata.Page.contentCat = ["tsc"];
+	TSCM.metadata.Page.contentCat.push("article");TSCM.metadata.Page.contentCat.push("streetwire");
+	TSCM.metadata.Ads.targeting = "";
+	
+		metadataRegisterNS("TSCM.metadata.Story");
+		TSCM.metadata.template = "";
+		TSCM.metadata.Story.storyid = "11775068";
+		TSCM.metadata.Story.authors = [ "TheStreet Wire " ];
+		TSCM.metadata.Story.authorIds = [ "1190833" ];
+      TSCM.metadata.Story.headline="Altera_Corp_Stock_Buy_Recommendation_Reiterated_ALTR";
+      
+        TSCM.metadata.Story.callout=""; 
+ 		TSCM.metadata.Story.image  = "http://i.thestreet.com/files/tsc/v2008/photos/all-pics/101812_streetwire9_large.jpg";
+    
+    TSCM.metadata.Story.keywords = [  "Ratings", "Reiteration" ];
+    TSCM.metadata.Story.stockPositions  = "{}";
+    TSCM.metadata.Story.type  = {name:"StreetWire",id:"1190669",dirname:"StreetWire"};
+    
+    TSCM.metadata.Story.tickers  = "";
+    TSCM.metadata.Story.updateTickers  = "";
+    TSCM.metadata.Story.version  = "";
+    TSCM.metadata.Story.relatedVideo  = "";
+    
+ 		TSCM.metadata.Story.hasMedia  = "1";
+ 		TSCM.metadata.Story.hasRelatedStories  = "0";
+        TSCM.metadata.Story.leadTickers = "ALTR";
+        TSCM.metadata.Story.primaryTickers  = "ALTR";
+ 		TSCM.metadata.Story.bearishTickers  = "";
+ 		TSCM.metadata.Story.bullishTickers  = "";
+ 		TSCM.metadata.Story.isPrint  = "";
+ 		TSCM.metadata.Story.pubDate = "11/26/12 - 09:01 AM EST";
+		TSCM.metadata.Story.site =  "TSC";
+		TSCM.metadata.Story.emailStory= "false";
+		TSCM.metadata.Story.ignoreStory= "false";
+        TSCM.metadata.Story.pageOfTotal= "1 of 1";
+        TSCM.metadata.Story.pagination="1";</script> 
+  <script type="text/javascript">
+      window.universal_variable.page.authorName = "TheStreet Wire  ";
+      window.universal_variable.page.storyTypeName  = "TheStreet Wire";
+      window.universal_variable.page.storyTypeDirName  = "StreetWire";
+	  window.universal_variable.page.storyId  = "11775068";
+    </script> 
+  <meta name="robots" content="NOODP" /> 
+  <!-- for google --> 
+  <meta name="robots" content="NOYDIR" /> 
+  <!-- for yahoo --> 
+  <script src="//d3c3cq33003psk.cloudfront.net/opentag-56600-293678.js" async="" defer=""></script>
+ </head> 
+ <body id="tst_story" class="newskin"> 
+  <div title="hostname" class="textHide" style="display:none;">
+   pjava02.dc.thestreet.com
+  </div> 
+  <div id="fb-root"></div> 
+  <div id="wrapper"> 
+   <div id="topElementsWrapper"></div>
+   <!-- end of topElementsWrapper --> 
+   <div id="tst_shell"> 
+    <div id="tst_header" class="paddingbox"> 
+     <div id="tst_logo" class="borderBtm"> 
+      <table> 
+       <tbody>
+        <tr>
+         <td> 
+          <div id="logo">
+           <a href="http://www.thestreet.com/"></a>
+          </div> </td>
+         <td> 
+          <div id="ad728x90" class="robots-nocontent"> 
+           <script type="text/javascript">
+    TSCAdPlacer.sz = "728x90";
+    TSCAdPlacer.resetTargets();
+
+    
+
+    TSCAdPlacer.calltype = "adj";
+    
+    TSCAdPlacer.includeDcopt = true;
+     TSCAdPlacer.autotile = true;TSCAdPlacer.tileGroup = 'default'; TSCAdPlacer.useIframe = false;
+   TSCAdPlacer.additionalTargeting = ";;storytype=StreetWire;kval=StreetWire";
+   TSCAdPlacer.writeTag();
+</script> 
+          </div></td>
+        </tr>
+       </tbody>
+      </table>
+     </div> 
+     <div id="tst_subHdr"> 
+      <div id="searchDiv"> 
+       <div class="searchsubDiv" style="margin-right: 10px; *margin-right: 0; "> 
+        <form method="get" action="http://www.thestreet.com/find/results/index.html" name="topicSearchForm"> 
+         <input type="text" onfocus="this.value='';tsc_SearchInputBox()" name="q" id="topicSearch" /> 
+         <input type="hidden" value="header" name="omorig" /> 
+         <button type="submit" id="topicSearchBtn"></button> 
+        </form> 
+       </div> 
+       <div class="searchsubDiv"> 
+        <input id="quoteSearch" type="text" /> 
+        <button id="quoteSearchBtn" type="input"></button> 
+        <div id="quoteContainer"></div> 
+       </div> 
+      </div> 
+      <div class="subHdrLink"> 
+       <script type="text/javascript">
+if (location.href == "http://www.thestreet.com/" || location.href == "http://tscstage.thestreet.com/"){
+document.write('<div style="text-align:center;"><a href="https://landing.thestreet.com/web_dividend_ratingsreport_110712?OID=020246"><img src="http://i.thestreet-static.com/files/tsc/common/images/2012/tst/tst_1-div-stock_325x31.png" width="325" height="31" alt="FREE REPORT: #1 Dividend Stock" border="0"></a></div>');
+} else {
+document.write('<div style="text-align:center;"><a href="http://secure2.thestreet.com/cap/prm.do?OID=020433"><img src="http://i.thestreet-static.com/files/tsc/common/images/2012/tst/aap_ul_holiday_325x31.png" width="325" height="31" alt="Holiday Sepcial - Trade with Cramer for 14-days FREE" border="0"></a></div>');}
+</script> 
+      </div> 
+      <div class="medVertLine"></div> 
+      <div id="subHdrAd" class="searchSponsorContainer"> 
+       <div id="subHdrAd" class="searchSponsorContainer"> 
+        <script type="text/javascript">
+    TSCAdPlacer.sz = "120x30";
+    TSCAdPlacer.resetTargets();
+
+    
+
+    TSCAdPlacer.calltype = "adi";
+     TSCAdPlacer.autotile = true;
+                 TSCAdPlacer.tileGroup= 'buttons';
+        
+       TSCAdPlacer.server = "ad.doubleclick.net";
+     TSCAdPlacer.useIframe = false;
+   TSCAdPlacer.additionalTargeting = ";ptn=search;;storytype=StreetWire;kval=StreetWire";
+   TSCAdPlacer.writeTag();
+</script> 
+       </div>
+      </div> 
+      <div class="medVertLine"></div> 
+      <div id="subHdrAd2"> 
+       <a href="http://www.thestreet.com/story/11779808/1/jim-cramers-stock-market-predictions-for-2013.html" style="color: #09447a; margin-top: -3px; text-transform: uppercase; font-size: 12px; font-family: Arial; font-weight: bold; color: #09447a;">JIM CRAMER'S 2013 M&amp;A PREDICTIONS<img src="http://i.thestreet-static.com/files/tsc/v2008/ads/images/arrow.png" width="5" height="8" style="border: 0; padding: 3px 0 0 2px;" /></a>
+      </div> 
+      <div class="medVertLine"></div> 
+      <div id="tst_nav" class="shadow"> 
+       <ul class="tst_topnav"> 
+        <li id="home" class="liTop"> <a class="open" href="/">Home</a></li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="stockmarkettoday" class="liTop"> <a class="open" href="/markets/index.html?cm_ven_int=navmarkets">Stock Market Today</a> 
+         <ul class="drop"> 
+          <li> <a href="/event-calendar/index.html?tab=economic_events&amp;cm_ven_int=navmarkets">Economic Calendar</a> </li> 
+          <li> <a href="/event-calendar/index.html?cm_ven_int=navmarkets">Earnings Calendar</a> </li> 
+          <li> <a href="/dividends/index.html?cm_ven_int=navmarkets">Dividend Calendar</a> </li> 
+          <li> <a href="/headlines-and-perspectives/analyst-upgrades-downgrades/index.html?cm_ven_int=navmarkets">Stock Upgrades</a> </li> 
+          <li> <a href="/topic/1563/forex.html?cm_ven_int=navmarkets">FOREX Rates</a> </li> 
+          <li> <a href="/topic/43441/gold-price.html?cm_ven_int=navmarkets">Gold Price Today</a> </li> 
+          <li> <a href="/topic/44141/silver.html?cm_ven_int=navmarkets">Silver Price Today</a> </li> 
+          <li> <a href="/topic/44921/initial-public-offerings.html?cm_ven_int=navmarkets">Initial Public Offerings</a> </li> 
+          <li> <a href="/thestreet-wire/index.html?cm_ven_int=navmarkets">Stock Alerts</a> </li> 
+          <li> <a href="/stock-market-news/11771386/market-holidays-2013.html">2013 Market Holidays</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="businessnews" class="liTop"> <a class="open" href="/now/index.html?cm_ven_int=navnews">Business News</a> 
+         <ul class="drop"> 
+          <li> <a href="/now/index.html?cm_ven_int=navnews">Latest News</a> </li> 
+          <li> <a href="/headlines-and-perspectives/biotech/index.html?cm_ven_int=navnews">Biotech News</a> </li> 
+          <li> <a href="/topic/47561/technology-news.html?cm_ven_int=navnews">Technology News</a> </li> 
+          <li> <a href="/headlines-and-perspectives/financial-services/index.html?cm_ven_int=navnews">Financial News</a> </li> 
+          <li> <a href="/thestreet-picks/mergers-and-acquisitions/index.html?cm_ven_int=navnews">Mergers &amp; Acquisitions</a> </li> 
+          <li> <a href="/topic/47521/airline-news.html?cm_ven_int=navnews">Airline News</a> </li> 
+          <li> <a href="/topic/47522/auto-news.html?cm_ven_int=navnews">Automotive News</a> </li> 
+          <li> <a href="/life-and-money/small-business/index.html?cm_ven_int=navnews">Small Business News</a> </li> 
+          <li> <a href="/headlines-and-perspectives/political-pulse/index.html?cm_ven_int=navnews">Political News</a> </li> 
+          <li> <a href="/headlines-and-perspectives/opinion/index.html?cm_ven_int=navnews">Opinion</a> </li> 
+          <li> <a href="http://www.thestreet.com/topic/47641/fiscal-cliff-2013.html">Fiscal Cliff 2013</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="howtoinvest" class="liTop"> <a class="open" href="/topic/47481/how-to-invest.html?cm_ven_int=navhowtoinvest">How to Invest</a> 
+         <ul class="drop"> 
+          <li> <a href="/topic/46001/financial-glossary.html?cm_ven_int=navhowtoinvest">Financial Dictionary</a> </li> 
+          <li> <a href="/topic/45201/bond-investing-101.html?cm_ven_int=navhowtoinvest">Investing in Bonds</a> </li> 
+          <li> <a href="/life-and-money/mutual-fund-center/index.html?cm_ven_int=navhowtoinvest">Investing in Mutual Funds</a> </li> 
+          <li> <a href="/life-and-money/etf-center/index.html?cm_ven_int=navhowtoinvest">Investing in ETFs</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="investmentresearch" class="liTop"> <a class="open" href="/investment-research/index.html?cm_ven_int=navresearch">Investment Research</a> 
+         <ul class="drop"> 
+          <li> <a href="/stock-market-news/10579592/top-rated-stocks/top-rated-stocks.html?cm_ven_int=navresearch">Top Stocks</a> </li> 
+          <li> <a href="/stock-market-news/10571219/top-rated-mutual-funds/top-rated-mutual-funds.html?cm_ven_int=navresearch">Top Mutual Funds</a> </li> 
+          <li> <a href="/stock-market-news/10575864/top-rated-etfs/top-rated-etfs.html?cm_ven_int=navresearch">Top ETFs</a> </li> 
+          <li> <a href="/r/ratings/reports/ir-screener.html#equity?cm_ven_int=navresearch">Stock Screener</a> </li> 
+          <li> <a href="/dividends/leaders/index.html?cm_ven_int=navresearch">High-Dividend Stocks</a> </li> 
+          <li> <a href="/topic/47601/insider-trading.html">Insider Trading Data</a> </li> 
+          <li> <a href="/topic/47581/invest-in-2013.html">Where to Invest in 2013</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="stockpicks" class="liTop"> <a class="open" href="/topic/47501/stock-picks.html?cm_ven_int=navstockpicks">Stock Picks</a> 
+         <ul class="drop"> 
+          <li> <a href="/story/madmoneywrap.html?cm_ven_int=navstockpicks">Mad Money Recap</a> </li> 
+          <li> <a href="/mad-money/index.html?cm_ven_int=navstockpicks">Mad Money Stock Screener</a> </li> 
+          <li> <a href="/headlines-and-perspectives/analyst-upgrades-downgrades/index.html?cm_ven_int=navstockpicks">Stock Upgrades</a> </li> 
+          <li> <a href="/topic/47422/technical-analysis.html?cm_ven_int=navstockpicks">Technical Analysis</a> </li> 
+          <li> <a href="/topic/45661/income-investing.html?cm_ven_int=navstockpicks">Dividend Stock Picks</a> </li> 
+          <li> <a href="/thestreet-picks/stock-options/index.html?cm_ven_int=navstockpicks">Option Trading Strategies</a> </li> 
+          <li> <a href="http://www.thestreet.com/topic/47661/real-money-free-preview.html">Real Money Previews</a> </li> 
+          <li> <a href="/sidestreet/index.html">Side Street</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="personalfinance" class="liTop"> <a class="open" href="/life-and-money/index.html?cm_ven_int=navpersonalfinance">Personal Finance</a> 
+         <ul class="drop"> 
+          <li> <a href="/topic/47441/retirement-center.html?cm_ven_int=navpersonalfinance">Retirement (IRAs, 401ks)</a> </li> 
+          <li> <a href="/life-and-money/mortgages/index.html?cm_ven_int=navpersonalfinance">Real Estate</a> </li> 
+          <li> <a href="/headlines-and-perspectives/leisure/index.html?cm_ven_int=navpersonalfinance">Travel - Leisure</a> </li> 
+          <li> <a href="/life-and-money/small-business/index.html?cm_ven_int=navpersonalfinance">Starting a Business</a> </li> 
+          <li> <a href="/bank-safety/index.html?cm_ven_int=navpersonalfinance">Bank Safety Ratings</a> </li> 
+          <li> <a href="/insurers/index.html?cm_ven_int=navpersonalfinance">Insurer Safety Ratings</a> </li> 
+          <li> <a href="/topic/47621/holiday-2012-gadgets-toys-jobs-gifts-shopping.html">Holiday 2012 Guide</a> </li> 
+          <li> <a href="http://www.mainstreet.com/hottopics/credit+resource+center">Credit Resource Center</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav"> 
+        <li id="videos" class="liTop"> <a class="open" href="/video/index.html?cm_ven_int=navvideos">Videos</a> 
+         <ul class="drop"> 
+          <li> <a href="/video/index.html?cm_ven_int=navvideos">Latest Videos</a> </li> 
+          <li> <a href="/author/269/JimCramer/videos.html?cm_ven_int=navvideos">Jim Cramer</a> </li> 
+          <li> <a href="/author/1113235/DebraBorchardt/videos.html?cm_ven_int=navvideos">Debra Borchardt</a> </li> 
+          <li> <a href="/author/1223502/LindseyBell/videos.html?cm_ven_int=navvideos">Lindsey Bell</a> </li> 
+          <li> <a href="/author/1100005/GreggGreenberg/videos.html?cm_ven_int=navvideos">Gregg Greenberg</a> </li> 
+          <li> <a href="/author/1135763/StephanieLink/videos.html?cm_ven_int=navvideos">Stephanie Link</a> </li> 
+          <li> <a href="/author/1284629/Nightly%20Business%20Report%20on%20TheStreet./videos.html?cm_ven_int=navvideos">Nightly Business Report</a> </li> 
+          <li> <a href="/topic/44987/ceo-interviews.html?cm_ven_int=navvideos">CEO Interviews</a> </li> 
+          <li> <a href="/video/sitemap.html?cm_ven_int=navvideos">Video Archive</a> </li> 
+          <li> <a href="http://www.facebook.com/TheStreet/app_260277227391520">Videos on Facebook</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul class="tst_topnav premiumMenu"> 
+        <li id="servicesLink" class="liTop"><a class="open" href="http://www.thestreet.com/staticFull/special-offers.html?cm_ven_int=hpservicestab"><b>PREMIUM SERVICES</b></a> 
+         <ul class="drop"> 
+          <li><a href="http://www.thestreet.com/k/aap/_tscnav/index.html" style="font-size:12px !important;color:yellow !important;">Action Alerts PLUS<br />**Special-51%&nbsp;OFF**</a></li> 
+          <li><a href="http://realmoney.thestreet.com">Real Money</a></li> 
+          <li><a href="http://www.thestreet.com/k/su/_tscnav/index.html">Stocks Under $10</a></li> 
+          <li><a href="http://www.thestreet.com/k/bos/_tscnav/index.html">Breakout Stocks</a></li> 
+          <li><a href="http://www.thestreet.com/options-profits/_tscnav/index.html">Options Profits</a></li> 
+          <li><a href="http://www.thestreet.com/k/ts/_tscnav/index.html">Top Stocks</a></li> 
+          <li><a href="http://www.thestreet.com/k/dst/_tscnav/index.html">Daily Swing Trade</a></li> 
+          <li><a href="http://www.thestreet.com/k/pp/_tscnav/index.html">Portfolio PLUS</a></li> 
+          <li><a href="http://realmoneypro.thestreet.com">Real Money Pro</a></li> 
+          <li><a href="http://secure2.thestreet.com/cap/login/SCLoginRelay.jsp?path=/street-chat/_login/&amp;pdomain=streetchat.thestreet.com:80">Chat on The Street</a></li> 
+          <li><a href="http://www.thestreet.com/k/ch/_PremiumServdropdownch/index.html">Chairman's Club</a></li> 
+          <li><a href="http://www.thestreet.com/staticFull/special-offers.html?cm_ven_int=hpservicestab">Compare All</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div>
+      <!-- end of tst_nav --> 
+      <div id="taxonomy_subnav"> 
+       <ul id="subnav_home"> 
+        <li>
+         <div class="subnavPlaintext">
+          HOT TOPICS:
+         </div> </li> 
+        <li><a href="https://landing.thestreet.com/top_50_techstocks?OID=020516">Top 50 Tech Stocks for 2013</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11780269/1/apple-to-sell-iphone-5-directly--for-as-much-as-849.html">$849 iPhone 5</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11779195/1/the-five-dumbest-things-on-wall-street-this-week-nov-30.html">5 Dumbest</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11779922/1/steve-cohen-as-snitch-could-get-interesting-street-whispers.html">Steve Cohen</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11780682/1/facebook-guy-didnt-win-the-powerball.html">Facebook Lottery Hoax</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11780249/1/the-math-still-favors-stocks.html">Math Favors Stocks</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11780296/1/dont-chase-special-dividends.html">Special Dividends</a> </li> 
+        <li><a href="http://www.thestreet.com/story/11779220/1/kass-bulls-on-parade.html">Kass</a> </li> 
+        <li>&nbsp;</li> 
+       </ul> 
+      </div> 
+      <script type="text/javascript">
+    if (location.pathname=='/now/index.html'){
+        $('#businessnews','active');
+    }
+</script>
+      <div class="clearboth" style="float: none;"></div> 
+     </div>
+     <!-- end of subHdr --> 
+     <div class="clearboth"></div> 
+    </div>
+    <!-- end of tst_header --> 
+    <div style="border-top: 1px solid #cccccc; margin: 0 10px; clear: both;"></div> 
+    <div class="aapPromoSW">
+     <a href="http://secure2.thestreet.com/cap/prm.do?OID=020048"><img src="http://i.thestreet-static.com/files/tsc/v2008/css/images/aapPromo_su10-swPages.png" border="0" width="975" height="64" alt="Stocks Under $10 with Explosive growth potential - Get Full Access Now" /></a>
+    </div> 
+    <div id="tst_main" class="paddingbox"> 
+     <div class="leftRail"> 
+      <div class="twoColFauxBottom" id="tscwire-story-page">
+       <div id="story" class="wrapper"> 
+        <div id="twoCol_left"> 
+         <script type="text/javascript">TSCM.cfg.promoreferrer = "yahoo.com";</script> 
+         <div style="display:none;" id="yahoopromo">
+          <!-- Yahoo Promo -->
+         </div> 
+         <div class="container"> 
+          <div id="storyHeader"> 
+           <div id="headlineCont"> 
+            <div id="titleBar"> 
+             <h2 id="sectionName"> <a href="/thestreet-wire/index.html">TheStreet Wire</a> </h2> 
+            </div> 
+            <div id="storyHdr"> 
+             <h1>Altera Corp. Stock Buy Recommendation Reiterated (ALTR)</h1> 
+             <div id="storyDetail"> 
+              <div id="storyAuthorLink"> 
+               <span>By <a href="/author/1190833/TheStreet Wire /all.html" title="See TheStreet Wire  's bio and articles">TheStreet Wire </a></span> 
+               <span><a href="/static/about/reprints.html" title="Reprints"> <img src="http://i.thestreet-static.com/files/tsc/v2008/css/images/reprints_12x13.gif" /> </a></span> 
+               <span>11/26/12 - 09:01 AM EST</span> 
+              </div> 
+              <div class="textPromoAdReiteration">
+               <a class="findoutReiteration" href="http://secure2.thestreet.com/cap/prm.do?OID=019175">Find out if (<span>ALTR</span>) is in Cramer's Portfolio.</a>
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="virtualpage"> 
+            <p> </p>
+            <p><i>Editor's Note: TheStreet ratings do not represent the views of TheStreet's staff or its contributors. Ratings are established by computer based on metrics for performance (which includes growth, stock performance, efficiency and valuation) and risk (volatility and solvency). Companies with poor cash flow or high debt levels tend to earn lower ratings in our model.</i></p>
+            <p>NEW YORK (<a href="http://www.thestreet.com?cm_ven_int=tstwire/">TheStreet</a>) <b>-- <a href="http://www.thestreet.com/quote/altr.html?cm_ven_int=tstwire">Altera</a></b> (Nasdaq:<a href="http://www.thestreet.com/quote/altr.html?cm_ven_int=tstwire">ALTR</a>) has been reiterated by TheStreet Ratings as a buy with a ratings score of B . The company's strengths can be seen in multiple areas, such as its largely solid financial position with reasonable debt levels by most measures, expanding profit margins, good cash flow from operations and notable return on equity. We feel these strengths outweigh the fact that the company has had somewhat weak growth in earnings per share.</p>
+            <p></p>
+            <ul>
+             <li><b>EXCLUSIVE OFFER: Jim Cramer's Prot&eacute;g&eacute;, Dave Peltier, only buys Stocks Under $10 that he thinks could potentially double. See what he's trading today with a <a href="http://secure2.thestreet.com/cap/prm.do?OID=019798"><u>14-day FREE pass</u></a></b></li>
+            </ul>
+            <p>Highlights from the ratings report include:</p>
+            <ul>
+             <li> ALTR's debt-to-equity ratio is very low at 0.15 and is currently below that of the industry average, implying that there has been very successful management of debt levels. Along with this, the company maintains a quick ratio of 5.52, which clearly demonstrates the ability to cover short-term cash needs.</li> 
+             <li> The gross profit margin for ALTERA CORP is currently very high, coming in at 71.30%. It has increased from the same quarter the previous year. Along with this, the net profit margin of 31.80% is above that of the industry average.</li> 
+             <li> Net operating cash flow has remained constant at $285.20 million with no significant change when compared to the same quarter last year. Along with maintaining stable cash flow from operations, the firm exceeded the industry average cash flow growth rate of -28.04%.</li> 
+             <li> ALTR, with its decline in revenue, slightly underperformed the industry average of 4.0%. Since the same quarter one year prior, revenues slightly dropped by 5.3%. The declining revenue appears to have seeped down to the company's bottom line, decreasing earnings per share.</li> 
+             <li> Return on equity has greatly decreased when compared to its ROE from the same quarter one year prior. This is a signal of major weakness within the corporation. Compared to other companies in the Semiconductors &amp; Semiconductor Equipment industry and the overall market, ALTERA CORP's return on equity exceeds that of both the industry average and the S&amp;P 500.</li>
+            </ul>
+            <p> Altera Corporation, a semiconductor company, designs, manufactures, and markets programmable logic devices (PLD), HardCopy application-specific integrated circuit (ASIC) devices, pre-defined design building blocks, and associated development tools. Altera has a market cap of $9.94 billion and is part of the technology sector and electronics industry. The company has a P/E ratio of 17.3, below the S&amp;P 500 P/E ratio of 17.7. Shares are down 16.4% year to date as of the close of trading on Wednesday.</p>
+            <p>You can view the full <a href="http://secure2.thestreet.com/cap/prm.do?OID=019546&amp;ticker=ALTR">Altera Ratings Report</a> or get investment ideas from our <a href="http://www.thestreet.com/investment-research/index.html?cm_ven_int=tstwire">investment research center</a>.<br /><br /><i>--Written by a member of TheStreet Ratings Staff</i>.</p>
+            <p><b>Holiday Special: Subscribe to Action Alerts PLUS to see how Jim Cramer trades his <u>$2.5 Million+</u> portfolio for <u>51%</u> off the list price. Your first 14-days are <u>FREE</u>: <a href="http://secure2.thestreet.com/cap/prm.do?OID=020407">Sign up today to get e-mail alerts before every trade</a></b></p>
+            <div id="mwLists"> 
+             <div class="mwListsTitle">
+              For more information on Altera Corp. click any of the following: 
+             </div> 
+             <ul> 
+              <li><h3><a href="/quote/ALTR.html">Altera Corp. Stock Price</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/analyst-ratings.html">Altera Corp. Analyst Ratings</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/company-profile.html">Altera Corp. Key Stats &amp; Profile</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/earnings-estimates.html">Altera Corp. Earnings</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/ratio-comparison.html">Altera Corp. Ratio Comparison</a></h3></li> 
+             </ul> 
+             <ul> 
+              <li><h3><a href="/quote/ALTR/details/growth-rates.html">Altera Corp. Growth Rates</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/balance-sheet.html">Altera Corp. Balance Sheet</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/cash-flow.html">Altera Corp. Cash Flow</a></h3></li> 
+              <li><h3><a href="/quote/ALTR/details/income-statement.html">Altera Corp. Income Statement</a></h3></li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="wireBlock" id="storyBtm"> 
+           <div class="streetwire_row"> 
+            <div class="streetwire_sub"> 
+             <h4>Latest Headlines about <a href="/quote/ALTR.html">ALTR</a></h4> 
+             <div class="tscStories"> 
+              <ul> 
+               <li> <h3><a href="/story/11746589/1/analysts-actions-aapl-fb-dd-amgn-coh.html">Analysts' Actions: AAPL FB NFLX AMGN COH</a></h3> <p class="timeStamp">09:27AM 10/24/12</p> </li> 
+               <li> <h3><a href="/story/11641905/1/7-dividend-stocks-paying-you-more-cash.html">7 Dividend Stocks Paying You More Cash</a></h3> <p class="timeStamp">10:53AM 07/27/12</p> </li> 
+               <li> <h3><a href="/story/11637323/1/altera-management-discusses-q2-2012-results--earnings-call-transcript.html">Altera Management Discusses Q2 2012 Results - Earnings Call Transcript</a></h3> <p class="timeStamp">09:40PM 07/24/12</p> </li> 
+               <li> <h3><a href="/story/11623856/1/5-stocks-ready-to-boost-dividends.html">5 Stocks Ready to Boost Dividends</a></h3> <p class="timeStamp">08:23AM 07/20/12</p> </li> 
+               <li> <h3><a href="/story/11623896/1/cramers-mad-money-recap-rotational-investing.html">Cramer's 'Mad Money' Recap: Rotational Investing</a></h3> <p class="timeStamp">07:30PM 07/18/12</p> </li> 
+               <li> <h3><a href="/story/11569131/1/analysts-actions-crm-qcom-lulu-altr.html">Analysts' Actions: CRM, QCOM, LULU, ALTR</a></h3> <p class="timeStamp">09:03AM 06/05/12</p> </li> 
+               <li> <h3><a href="/story/11565003/1/coming-week-top-7-earnings-on-deck.html">Coming Week: Top 7 Earnings on Deck</a></h3> <p class="timeStamp">01:01PM 06/01/12</p> </li> 
+              </ul> 
+             </div>
+            </div> 
+            <div class="streetwire_sub"> 
+             <h4>Latest from TheStreet Wire</h4> 
+             <div class="tscStories"> 
+              <ul> 
+               <li> <h3><a href="/story/11780728/1/cummins-inc-cmi-todays-featured-industrial-laggard.html">Cummins Inc (CMI): Today's Featured Industrial Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780717/1/microsoft-corporation-msft-todays-featured-computer-software-services-laggard.html">Microsoft Corporation (MSFT): Today's Featured Computer Software &amp; Services Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780737/1/gannett-co-inc-gci-todays-featured-services-laggard.html">Gannett Co Inc (GCI): Today's Featured Services Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780722/1/texas-instruments-inc-txn-todays-featured-electronics-laggard.html">Texas Instruments Inc. (TXN): Today's Featured Electronics Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780715/1/first-horizon-national-corp-fhn-todays-featured-banking-laggard.html">First Horizon National Corp (FHN): Today's Featured Banking Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780736/1/advance-auto-parts-inc-aap-todays-featured-retail-laggard.html">Advance Auto Parts Inc (AAP): Today's Featured Retail Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+               <li> <h3><a href="/story/11780716/1/petroleo-brasileiro-sa-petrobras-pbra-todays-featured-basic-materials-laggard.html">Petroleo Brasileiro SA Petrobras (PBR.A): Today's Featured Basic Materials Laggard</a></h3> <p class="timeStamp">05:01PM 11/30/12</p> </li> 
+              </ul> 
+             </div>
+            </div> 
+           </div> 
+          </div>
+          <!-- end of wireBlock --> 
+         </div> 
+         <div id="premServ" class="lastBox"> 
+          <div id="ftrMktgSixPack"> 
+           <div id="ftrLineTop"> 
+            <h3>Select the service that is right for you!</h3> 
+            <a href="/staticFull/special-offers.html?cm_ven_int=footer">COMPARE ALL SERVICES</a> 
+           </div> 
+           <div class="ftrLineOne"> 
+            <div class="ftrPlaceOne"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=019237" target="_blank">Action Alerts PLUS</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=019237" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <h6 style="margin:8px 0 4px 0;text-align:center;font-size:12px !important;"><a href="https://secure2.thestreet.com/cap/prm.do?OID=020434" target="_blank" style="color:#2d8ecf; font-size:12px !important;">Holiday Special:<br /> 51% off + 14 Days FREE</a></h6> 
+             <p style="margin-top:0px !important;">Jim Cramer and Stephanie Link actively manage a real portfolio and reveal their money management tactics while giving advanced notice before every trade.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>$2.5+ million portfolio</li> 
+              <li>Large-cap and dividend focus</li> 
+              <li>Intraday trade alerts from Cramer</li> 
+              <li>Weekly roundups</li> 
+             </ul> 
+            </div> 
+            <div class="ftrPlaceTwo"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=019799" target="_blank">Breakout Stocks</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=019799" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <p>Bryan Ashenberg, using sophisticated stock screening and fundamental research, identifies potentially explosive small and mid-cap stocks.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>Model portfolio</li> 
+              <li>Small-cap and mid-cap focus</li> 
+              <li>Intraday trade alerts</li> 
+              <li>Weekly roundups</li> 
+             </ul> 
+            </div> 
+            <div class="ftrPlaceThree"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=015153" target="_blank">Stocks Under $10</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=015153" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <p>Jim Cramer's prot&eacute;g&eacute;, David Peltier, uncovers low dollar stocks with extraordinary upside potential that are flying under Wall Street's radar.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>Model portfolio</li> 
+              <li>Stocks trading below $10</li> 
+              <li>Intraday trade alerts</li> 
+              <li>Weekly roundups</li> 
+             </ul> 
+            </div> 
+           </div> 
+           <div class="ftrLineTwo"> 
+            <div class="ftrPlaceOne"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=019600" target="_blank">Real Money</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=019600" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <p>24/7 market commentary from Jim Cramer and 20+ veteran Wall Street gurus. Get access to the latest trading ideas on stocks, options, and ETFs as well as a real-time forum to see the pros exchanging their investment ideas.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>Jim Cramer + 20 Wall Street pros</li> 
+              <li>Intraday commentary &amp; news</li> 
+              <li>Real-time trading forum</li> 
+              <li>Actionable trade ideas</li> 
+             </ul> 
+            </div> 
+            <div class="ftrPlaceTwo"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=019800" target="_blank">Real Money Pro</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=019800" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <p>All of Real Money, plus 15 more of Wall Street's sharpest minds delivering actionable trading ideas, a comprehensive look at the market, and fundamental and technical analysis.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>Real Money + Doug Kass + 15 more Wall Street Pros</li> 
+              <li>Intraday commentary &amp; news</li> 
+              <li>Ultra-actionable trading ideas</li> 
+             </ul> 
+            </div> 
+            <div class="ftrPlaceThree"> 
+             <h5><a href="https://secure2.thestreet.com/cap/prm.do?OID=015144" target="_blank">Options Profits</a></h5> 
+             <a href="https://secure2.thestreet.com/cap/prm.do?OID=015144" class="ftrButton" target="_blank">TRY IT FREE</a> 
+             <p>Our options trading pros provide daily market commentary and over 100 monthly option trading ideas and strategies to help you become a well-seasoned trader.</p> 
+             <h6>Product Features:</h6> 
+             <ul> 
+              <li>100+ monthly options trading ideas</li> 
+              <li>Actionable options commentary &amp; news</li> 
+              <li>Real-time trading community</li> 
+              <li>Options TV</li> 
+             </ul> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- The preceding IMPORT needs the following SCRIPT --> 
+         <script type="text/javascript">
+                            var site_name = 'thestreet';
+                            TSCM.cfg.story = {
+                                id: 11775068
+                            };
+                        </script> 
+         <!--googleoff: all--> 
+        </div> 
+       </div> 
+      </div> 
+      <script type="text/javascript">
+                    $(window).load(function() {
+                        setTimeout(function() {
+                            var element = document.createElement("script");
+                            element.src = "http://i.thestreet-static.com/files/tsc/v2008/js/_1354137780100/min/jquery/video/embedvidrep.js";
+                            document.body.appendChild(element);
+                        }, 1200);
+                    });
+
+
+
+                </script> 
+      <script type="text/javascript">
+        TSCAdPlacer.sz = "600x400";
+        TSCAdPlacer.resetTargets();
+        TSCAdPlacer.additionalTargeting = ";kval=tswireoverlay";
+        TSCAdPlacer.calltype = "adj";
+        TSCAdPlacer.uselazy=false;
+        TSCAdPlacer.autotile = false;
+        TSCAdPlacer.writeTag();
+    </script> 
+      <script type="text/javascript" src="http://i.thestreet-static.com/files/tsc/v2008/js/_1354137780100/min/jquery/story.js"></script> 
+     </div> 
+     <!-- end of leftRail --> 
+     <div class="rightRail"> 
+      <script type="text/javascript">
+    var mktTimezone='-18000000';
+</script> 
+      <div id="mktdata"> 
+       <table id="mktdatasponsor" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+        <tbody>
+         <tr>
+          <td align="right"> 
+           <ul id="socialicons"> 
+            <li>
+             <div class="fb-like" data-href="http://www.facebook.com/TheStreet" data-send="false" colorscheme="light" data-layout="button_count" data-width="75" data-show-faces="true" data-action="like"></div></li> 
+            <li><a href="http://www.twitter.com/TheStreet" target="_blank" class="twittericon" title="Follow TheStreet on Twitter"></a></li> 
+            <li><a href="http://www.google.com/+TheStreet" target="_blank" class="googleplusicon" rel="publisher" title="Find us on Google+"></a></li> 
+            <li><a href="http://www.linkedin.com/company/theStreet" target="_blank" class="linkedinicon" title="Follow TheStreet on LinkedIn"></a></li> 
+           </ul> 
+           <div id="marketDataBoxAd" style="float: right; padding-top: 5px;"> 
+            <script type="text/javascript">
+
+    try {
+        TSCAdPlacer.sz = "120x30,334x26,306x25";
+        TSCAdPlacer.resetTargets();
+        TSCAdPlacer.calltype = "adj";
+        TSCAdPlacer.autotile = true;
+         TSCAdPlacer.tileGroup = "buttons";
+
+        TSCAdPlacer.server = "ad.doubleclick.net";
+        TSCAdPlacer.additionalTargeting = ";ptn=marketdata";
+        TSCAdPlacer.writeTag();
+    }catch(e){}
+           try{
+        TSCM.ads.AdPlacerx.sz = "120x30,334x26,306x25";
+        TSCM.ads.AdPlacerx.resetTargets();
+        TSCM.ads.AdPlacerx.calltype = "adj";
+        TSCM.ads.AdPlacerx.autotile = true;
+        TSCM.ads.AdPlacerx.tileGroup = "buttons";
+        TSCM.ads.AdPlacerx.server = "ad.doubleclick.net";
+        TSCM.ads.AdPlacerx.additionalTargeting = ";ptn=marketdata";
+        TSCM.ads.AdPlacerx.writeTag();
+     }catch(e){}
+
+</script> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table> 
+       <img id="miniChartImg" src="http://www.thestreet.idmanagedsolutions.com/charts/common/quote.chart?SYMBOL_US=I:DJI&amp;WIDTH=350&amp;TIME_SPAN=1D&amp;XAXIS_LABEL=1" width="338" height="57" /> 
+       <table id="minimktdata" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+        <tbody>
+         <tr>
+          <td> 
+           <table class="mktTable lefttable" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+            <tbody> 
+             <tr class="ticker" id="I:DJI"> 
+              <td class="tickerSymbol" style="width: 44px;"><a href="http://www.thestreet.com/quote/^DJI.html">DOW</a></td> 
+              <td id="miniLiveDjCurrent" nowrap="nowrap" align="right">13,025.58</td> 
+              <td class="up lastTd " nowrap="nowrap" align="right"> <span id="miniLiveDjNetChange" class="change">3.76</span> <span id="miniLiveDjPercentChange">0.03%</span> </td> 
+             </tr> 
+             <tr class="ticker" id="COMPX"> 
+              <td class="tickerSymbol" align="left"><a href="http://www.thestreet.com/quote/^IXIC.html">NASDAQ</a></td> 
+              <td id="miniLiveNasdaqCurrent" nowrap="nowrap" align="right">3,010.24</td> 
+              <td class="down lastTd" nowrap="nowrap" align="right"> <span id="miniLiveSandpNetChange" class="change"> -1.79</span> <span id="miniLiveNasdaqPercentChange">-0.06%</span> </td>
+             </tr> 
+            </tbody> 
+           </table> </td>
+          <td align="right"> 
+           <table class="mktTable righttable" cellpadding="0" cellspacing="0" border="0" width="100%"> 
+            <tbody> 
+             <tr class="ticker" id="SPX"> 
+              <td class="tickerSymbol" nowrap="nowrap" align="left"><a href="http://www.thestreet.com/quote/^GSPC.html">S&amp;P 500</a></td> 
+              <td id="miniLiveSandpCurrent" nowrap="nowrap" align="right">1,416.18</td> 
+              <td class="up lastTd" nowrap="nowrap" align="right"> <span id="miniLiveSandpNetChange" class="change">0.23</span> <span id="miniLiveSandpPercentChange">0.02%</span> </td>
+             </tr> 
+             <tr class="ticker" id="TNX"> 
+              <td nowrap="nowrap" class="tickerSymbol" align="left"><a href="http://www.thestreet.com/quote/^TNX.html">US 10 Yr</a></td> 
+              <td id="miniLive10yrCurrent" nowrap="nowrap" align="right">1.606%</td> 
+              <td class="down lastTd" nowrap="nowrap" align="right"> <span class="change"></span> <span id="miniLiveTreasuryNetChange"> -0.014</span></td> 
+             </tr> 
+            </tbody> 
+           </table> </td>
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <script type="text/javascript">
+$(document).ready(function() {
+
+	$('.ticker').mouseover(function(){
+        $('.ticker').removeClass('active');
+        if  ($(this).attr('id') != "TNX" ){
+            $(this).addClass('ticker active');
+            var src = "http://www.thestreet.idmanagedsolutions.com/charts/common/quote.chart?SYMBOL_US=" + $(this).attr('id') + "&WIDTH=338&TIME_SPAN=1D&XAXIS_LABEL=1";
+            $('#miniChartImg').attr('src', src);
+        }
+	 });
+
+});
+</script> 
+      <table id="rightAd1" class="boxAdContainer"> 
+       <tbody>
+        <tr>
+         <td align="center" valign="middle"> <script type="text/javascript">
+    TSCAdPlacer.sz = "336x280,336x850,300x250,468x648";
+    TSCAdPlacer.resetTargets();
+
+    
+
+    TSCAdPlacer.calltype = "adj";
+     TSCAdPlacer.autotile = true;TSCAdPlacer.tileGroup = 'default'; TSCAdPlacer.useIframe = false;
+   TSCAdPlacer.additionalTargeting = ";;storytype=StreetWire;kval=StreetWire;;storytype=StreetWire;kval=StreetWire";
+   TSCAdPlacer.writeTag();
+</script> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <table cellpadding="0" width="100%" cellspacing="0" border="0">
+       <tbody>
+        <tr>
+         <td align="center" valign="middle"> <script type="text/javascript">
+            TSCAdPlacer.sz = "170x40";
+            TSCAdPlacer.resetTargets();
+            TSCAdPlacer.setSite();
+            TSCAdPlacer.additionalTargeting = ";ptn=brokerage-c3";
+            TSCAdPlacer.calltype = "adi";
+            TSCAdPlacer.tileGroup = "buttons";
+            TSCAdPlacer.writeTag();
+        </script> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="headlines" id="brokerage"> 
+       <h4>Brokerage Partners</h4> 
+       <table id="buttons" cellpadding="0" cellspacing="5" border="0"> 
+        <tbody>
+         <tr>
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-a1";
+                     TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td>
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-a2";
+                    TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td> 
+         </tr> 
+         <tr> 
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-b1";
+                     TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td>
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-b2";
+                     TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td> 
+         </tr> 
+         <tr> 
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-c1";
+                     TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td> 
+          <td align="center" valign="middle"> <script type="text/javascript">
+                    TSCAdPlacer.sz = "120x60";
+                    TSCAdPlacer.resetTargets();
+                    TSCAdPlacer.setSite();
+                    TSCAdPlacer.additionalTargeting = ";ptn=brokerage-c2";
+                    TSCAdPlacer.calltype = "adi";
+                     TSCAdPlacer.tileGroup = "buttons";
+                    TSCAdPlacer.writeTag();
+                </script> </td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </div> 
+      <!-- Most Shared Stories -->
+      <!-- Under Newsletter 317 tile -->
+      <div> 
+       <div style="clear: both;overflow: hidden;background: #F4F4F4;padding: 3px 5px 3px 3px;margin: 2px 0;width: 100%;float: none;border-top: 1px solid #CCC;border-bottom: 1px solid #CCC;"> 
+        <a style="color:black;font-size:16px;font-weight:bold;font-family: tahoma,Arial,sans-serif;" target="_new" href="http://www.newser.com/?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=wid_tmb_s5">Articles From Newser</a> 
+       </div> 
+       <div style="clear:left;padding:6px;"> 
+        <a href="http://www.newser.com/story/158541/powerball-winner-i-think-im-having-a-heart-attack.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new"> <img width="45" height="45" src="http://img1-cdn.newser.com/getimage.aspx?mediaid=911718&amp;width=45&amp;height=45&amp;crop=Y&amp;updateddate=20121130133623" style="border-width:0px;float:left;padding-right:10px;" /> </a> 
+        <a style="font-size:12px;font-weight:bold" href="http://www.newser.com/story/158541/powerball-winner-i-think-im-having-a-heart-attack.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new">Powerball Winner: 'Think I'm Having a Heart Attack'</a> 
+       </div> 
+       <div style="clear:left;padding:6px;"> 
+        <a href="http://www.newser.com/story/158549/owners-love-their-volts-but-40k-is-still-too-much.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new"> <img width="45" height="45" src="http://img1-cdn.newser.com/getimage.aspx?mediaid=911704&amp;width=45&amp;height=45&amp;crop=Y&amp;updateddate=20121130115509" style="border-width:0px;float:left;padding-right:10px;" /> </a> 
+        <a style="font-size:12px;font-weight:bold" href="http://www.newser.com/story/158549/owners-love-their-volts-but-40k-is-still-too-much.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new">Owners Love Their Volts, but $40K Is Still Too Much</a> 
+       </div> 
+       <div style="clear:left;padding:6px;"> 
+        <a href="http://www.newser.com/story/158540/this-is-1-of-only-3-major-us-cities-in-recovery.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new"> <img width="45" height="45" src="http://img2-cdn.newser.com/getimage.aspx?mediaid=911701&amp;width=45&amp;height=45&amp;crop=Y&amp;updateddate=20121130114009" style="border-width:0px;float:left;padding-right:10px;" /> </a> 
+        <a style="font-size:12px;font-weight:bold" href="http://www.newser.com/story/158540/this-is-1-of-only-3-major-us-cities-in-recovery.html?utm_source=part&amp;utm_medium=thestreet&amp;utm_campaign=s5" target="_new">This Is 1 of Only 3 Major US Cities in Recovery</a> 
+       </div> 
+       <div style="font-size:11px;text-align:right;clear:both;padding-bottom:10px;"> 
+        <a href="http://www.newser.com/?utm_source=part&amp;amp;utm_medium=thestreet&amp;amp;utm_campaign=wid_tmb_s5" target="_new">See more stories</a> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+    <!-- end of rightRail --> 
+    <div class="clearboth"></div> 
+   </div>
+   <!-- end of tst_main --> 
+  </div>
+  <!-- end of tst_shell --> 
+  <div id="tst_footer"> 
+   <!--googleoff: all--> 
+   <div id="footerLinks" style="text-align:center;"> 
+    <a style="margin-left: 0;" target="new" href="http://corporate.thestreet.com" class="noLine">About Us</a> | 
+    <a target="new" href="http://investor-relations.thestreet.com/" class="noLine">Investor Relations</a> | 
+    <a target="new" href="http://www.thestreet.com/tsc/onlinekit/index.html" class="noLine">Advertise</a> | 
+    <a target="new" href="http://corporate.thestreet.com/reprints" class="noLine">Reprints</a> | 
+    <a target="new" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&amp;url=http://www.thestreet.com/index.html" class="noLine">Customer Service</a> | 
+    <a target="new" href="http://corporate.thestreet.com/employment" class="noLine">Employment</a> | 
+    <a target="new" href="http://corporate.thestreet.com/privacy" class="noLine">Privacy Policy</a> | 
+    <a target="new" href="http://www.thestreet.com/topic/archive/a.html" class="noLine">Topic Archive</a> | 
+    <a target="new" href="http://www.thestreet.com/video/sitemap.html" class="noLine">Video Sitemap</a> | 
+    <a target="new" href="http://corporate.thestreet.com/terms" class="noLine">Terms of Use</a> | 
+    <a target="_blank" href="http://nytm.org/made-in-nyc" class="noLine">Made in NYC</a> | 
+    <a style="margin-right: 0;" target="new" href="http://www.thestreet.com/staticFull/data-providers.html" class="noLine">Data</a> 
+   </div> 
+   <div id="idc"> 
+    <div id="idcLogo">
+     <!-- possibly to come -->
+    </div> 
+    <p align="center"> <a id="footerLogo" href="http://www.thestreet.com" border="0" width="190" height="39"></a> &copy; 2012 TheStreet, Inc. All rights reserved. </p> 
+   </div> 
+  </div>
+  <!-- end of tst_footer --> 
+  <!--googleon: all-->  
+  <!-- end of wrapper --> 
+  <div id="topElements"> 
+   <!-- -->
+   <!--google off and on tags are needed to exclude tile content from thestreet site search Do Not Remove --> 
+   <!--googleoff: all--> 
+   <div id="networkLinks"> 
+    <a target="new" href="http://www.thestreet.com/staticFull/mobile.html">Mobile</a> | 
+    <a target="new" href="http://www.mainstreet.com?puc=TSCMSHeader">MainStreet</a> | 
+    <a target="new" href="http://www.stockpickr.com?puc=TSCStockpickrHeader">StockPickr</a> | 
+    <a target="new" href="http://www.thestreet.com/k/aap/_sectopnav/">Jim Cramer</a> | 
+    <a target="new" href="http://realmoneypro.thestreet.com/authors/doug-kass">Doug Kass</a> | 
+    <a target="new" href="http://realmoney.thestreet.com/">Real Money</a> | 
+    <a target="new" href="http://www.thedeal.com">The Deal</a> 
+   </div> 
+   <!--googleon: all-->
+   <div id="loginLinks"> 
+    <a href="http://www.thestreet.com/k/community/login.html?targetUrl=http://www.thestreet.com" id="login" rel="nofollow">Log In</a> 
+    <a href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&amp;url=http://www.thestreet.com/index.html" id="account" rel="nofollow">Your Account</a> 
+   </div>
+  </div> 
+  <script type="text/javascript">
+
+    // Add a script element as a child of the body
+    function downloadJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "http://i.thestreet-static.com/files/tsc/v2008/js/_1354137780100/min/jquery/deferredfunctions.js";
+        document.body.appendChild(element);
+    }
+
+    // Check for browser support of event handling capability
+    if (window.addEventListener)
+        window.addEventListener("load", downloadJSAtOnload, false);
+    else if (window.attachEvent)
+        window.attachEvent("onload", downloadJSAtOnload);
+    else window.onload = downloadJSAtOnload; $("#quoteSearch").focus();
+
+    $(document).ready(function(){
+        $("input#quoteSearch.ui-autocomplete-input").focus();
+    });
+
+    $('#quoteSearch').keypress(function(e){
+        if (e.which == 13){
+            $("#quoteSearchBtn").click();
+        }
+    });
+
+</script> 
+  <!--start omniture--> 
+  <!-- reporting leave at top -->
+  <script language="JavaScript" type="text/javascript" src="http://www.thestreet.com/files/tsc/v2008/js/min/reporting.js"></script> 
+  <script language="JavaScript"><!--
+        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+        //-->
+        </script> 
+  <noscript>
+   <a href="http://www.omniture.com" title="Web Analytics"> <img src="http://www33.thestreet.com/b/ss/streetprod,streetglobal/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a> 
+  </noscript>
+  <!--/DO NOT REMOVE/--> 
+  <!--end omniture-->  
+ </body>
+</html>

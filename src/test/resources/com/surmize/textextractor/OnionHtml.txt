@@ -1,0 +1,1503 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"> 
+
+
+<script type="text/javascript">
+try {
+    var agent = navigator.userAgent;
+    if(/mobile=false/.test(window.location.href) || /mobile=false/.test(document.cookie)) {
+        var expire = new Date();
+        expire.setTime(new Date().getTime() + 3600000*24*5);
+        document.cookie = "mobile=false;expires="+expire.toGMTString()+";domain=.theonion.com;path=/;";
+    }
+    else {
+        if(agent && agent !== undefined) {
+            if(/blackberry|iemobile|symbian/i.test(agent) && !/mobile=/.test(window.location.href)) {
+                var url = window.location.href.replace("www","mobile").replace("test","testmobile").split("?");
+                window.location = url[0] + "?mobile=true";
+            }
+        }
+    }
+} catch(err) {
+}
+</script>
+
+
+
+
+
+
+    <script type="text/javascript">
+        var version_timestamp = 'Fri, 21 Sep 2012 17:52:54 +0000';
+    
+        var site_name = "onion";
+        var afns_ua = "UA-223393-1";
+        var afns_ua_bigboy = "UA-30070605-1";
+        var afns_ua_master = "UA-30070605-9";   
+        
+        /* set media base_url */
+        var afns_static_url = "/static/";
+        var ignored_organic_keywords = toList("[&#39;the onion&#39;, &#39;onion&#39;, &#39;theonion&#39;, &#39;onion news&#39;, &#39;the onion news&#39;, &#39;theonion.com&#39;, &#39;http://www.theonion.com&#39;, &#39;www.theonion.com&#39;, &#39;onion.com&#39;, &#39;the onion.com&#39;, &#39;the onio&#39;, &#39;http://theonion.com/&#39;]");
+        
+        function toList(django_str){
+            django_str = django_str.replace(/&#39;/g,'\"');
+            return JSON.parse(django_str);
+        }
+    </script>   
+
+    
+    <link rel="stylesheet" type="text/css" href="/static/core/css/onion.e734c752f6e65510e43d7883fbc1c1dc.css" />
+    
+
+    
+    
+
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/static/onion/css/IE7.css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link rel="stylesheet" href="/static/onion/css/IE6.css" />
+    <![endif]-->
+
+    <meta name="google-site-verification" content="jt7K0WtFb1R2MZllwyZxvKbOvIm8TwoRxDAgjjOGuf4" />
+
+    
+    <script type="text/javascript" src="/static/core/js/onion.e353edf7053f09e56ceaebd602e105b5.js"></script>
+    
+
+    
+    
+
+    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<script type="text/javascript">
+try{
+  GS_googleAddAdSenseService("ca-pub-3411085762582526");
+  GS_googleEnableAllServices();
+}catch(e){}
+</script>
+
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-3411085762582526", "1x1_customsectioncallout");
+  GA_googleAddSlot("ca-pub-3411085762582526", "1x1_breakagetest");
+  GA_googleAddSlot("ca-pub-3411085762582526", "wallpaper_masterslot");
+  GA_googleAddSlot("ca-pub-3411085762582526", "header_masterslot");
+  GA_googleAddSlot("ca-pub-3411085762582526", "1024x30_adhat");
+  GA_googleAddSlot("ca-pub-3411085762582526", "premercial_masterslot");
+  GA_googleAddSlot("ca-pub-3411085762582526", "promobar_top");
+  GA_googleAddSlot("ca-pub-3411085762582526", "promobar_bottom");
+  GA_googleAddSlot("ca-pub-3411085762582526", "opa_pushdown");
+  GA_googleAddSlot("ca-pub-3411085762582526", "976x100_sponsoredchannel");
+  GA_googleAddSlot("ca-pub-3411085762582526", "954x60_primary");
+  GA_googleAddSlot("ca-pub-3411085762582526", "storypage_banner");
+  GA_googleAddSlot("ca-pub-3411085762582526", "1x1_specialreportlogo");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x250_sponsorvideo");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x250_primary");
+  GA_googleAddSlot("ca-pub-3411085762582526", "sidebar_promobar_top");
+  GA_googleAddSlot("ca-pub-3411085762582526", "sidebar_promobar_middle");
+  GA_googleAddSlot("ca-pub-3411085762582526", "sidebar_promobar_bottom");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x250_widget");
+  GA_googleAddSlot("ca-pub-3411085762582526", "twitter_sponsoredchannel");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x130_feature");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x150_store");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x250_secondary");
+  GA_googleAddSlot("ca-pub-3411085762582526", "300x250_tertiary");
+
+  GA_googleAddAttr("site", "theonion");
+  GA_googleAddAttr("dfp_site", "theonion");
+  GA_googleAddAttr("pagetype", "article");
+  GA_googleAddAttr("articletype", "news-in-brief");
+  GA_googleAddAttr("onion_articleid", "29531");
+  GA_googleAddAttr("channel", "news");
+  GA_googleAddAttr("dfp_pagetype", "article");
+  GA_googleAddAttr("dfp_articletype", "news-in-brief");
+  GA_googleAddAttr("dfp_articleid", "29531");
+  GA_googleAddAttr("dfp_adchannel", "news");
+  GA_googleAddAttr("dfp_channel", "news");
+  if (typeof(afns_video_ad) != "undefined" && afns_video_ad.gam_attribute) {
+    GA_googleAddAttr("video_target", afns_video_ad.gam_attribute);
+  }
+GA_googleUseSyncSRARendering();
+GA_googleFetchAds();
+</script>
+
+
+
+
+
+
+    
+     
+    
+    
+
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta property="fb:page_id" content="20950654496" />
+    <title>Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway | The Onion - America's Finest News Source</title>
+
+    <!-- CHARTBEAT start point -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    
+<script type="text/javascript">
+// enlarge inline images
+$.fn.afns_enlargeArticleImages = function(){
+    $(".image", this).each(function(){
+        var thumbnail = $(this);
+        if (parseInt($("img", thumbnail).outerWidth()) < 249) {
+            return true;
+        }
+        var enlarge_span = $("<a onclick=\"$(this).next().click(); return true;\" class=\"actionlabel\" href=\"#enlarge\"><span>Enlarge Image</span></a>");
+        $(thumbnail).prepend(enlarge_span);
+        $(thumbnail).css("cursor", "pointer");
+        $(thumbnail).bind("click", enlarge_image);
+    });
+    function enlarge_image(){
+        $(this).css("cursor", "pointer");
+        var large_url = $(this).attr("rel");
+        $(this).click(function(){
+            $("#image_holder img#expand_target").attr("src", large_url);
+            $("#image_holder").show().css({"top": $(window).scrollTop(), "left": 0});
+            $("#image_holder .caption").text($(".caption", this).text());
+        });
+    }
+    $("#image_holder").click(function(){
+        $("img#expand_target", this).attr("src", "");
+        $(".caption", this).text("");
+        $(this).hide();
+        return false;
+    });
+    $(this).focus();
+};
+$(document).ready(function() {
+    setTimeout('$(".article_body").afns_enlargeArticleImages()', 100);
+    terminator(".article_body p:last", "/static/", "news-in-brief");
+});
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    <!--[if IE 6]>
+    <script type="text/javascript">
+    ads_ieWallpaper();
+    </script>
+    <![endif]-->
+
+    
+    <link rel="canonical" href="http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/" />
+    
+
+    <link rel="alternate" type="application/rss+xml" title="The Onion: Daily News" href="http://feeds.theonion.com/theonion/daily" />
+    <link rel="icon" type="image/png" href="/static/onion/img/favicon.ico" />
+
+    
+<meta name="title" content="Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway" />
+<meta name="description" content="SAN FRANCISCO&amp;mdash;With CEO Tim Cook stating that desperate customers would surely &amp;ldquo;line up like idiots&amp;rdquo; to purchase the offensive product anyway, Apple announced today the release of the company&amp;rsquo;s new iPhone 5, which features the word ..." />
+<meta name="copyright" content="2012" />
+<meta name="site" content="theonion.com" />
+<meta property="vr:category" content="news-in-brief">
+<meta http-equiv="refresh" content="900; url=/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/?ref=auto">
+
+
+    
+<meta property="og:title" content="Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="367143819963933" /> 
+<meta property="og:description" content="SAN FRANCISCO&mdash;With CEO Tim Cook stating that desperate customers would surely &ldquo;line up like idiots&rdquo; to purchase the offensive product anyway, Apple announced today the release of the company&rsquo;s new iPhone 5, which features the word ..." />
+<meta property="og:url" content="http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/" />
+<meta property="og:published_time" content="2012-09-12T12:07:00.006626-04:00" />
+<meta property="og:section" content="news" />
+<meta property="og:tag" content="news" />
+
+
+    
+    <meta property="og:image" content="http://o.onionstatic.com/images/18/18031/1x1-small/200.jpg?5130" />
+    
+    
+
+
+
+    
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/">
+<meta name="twitter:title" content="Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway">
+<meta name="twitter:description" content="SAN FRANCISCO&mdash;With CEO Tim Cook stating that desperate customers would surely &ldquo;line up like idiots&rdquo; to purchase the offensive product anyway, Apple announced today the release of the company&rsquo;s new iPhone 5, which features the word ...">
+
+<meta name="twitter:image" content="http://o.onionstatic.com/images/18/18031/1x1-small/200.jpg?5130"/>
+
+
+
+    
+    
+<script type="text/javascript">
+var dfp_pagetype =  "article";
+var dfp_articletype =  "news-in-brief";
+var dfp_adchannel = "news";
+var dfp_channel = "news";
+var vpv_path = "apple-announces-new-iphone-with-nword-on-back-know,29531";
+var ga_time = "m09:d12:y2012:w37:dow03";
+
+var vpv_levels = ["_" + dfp_adchannel, dfp_pagetype, dfp_articletype, vpv_path];
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', afns_ua]);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+// console.log("DFP channel: " + dfp_channel + " DFP type:" + dfp_pagetype + " DFP type:" + dfp_articletype);
+
+try {
+    _gaq.push(['_setCustomVar', 1, "dfp_adchannel", dfp_adchannel, 3]);
+}
+catch(err) {
+    _gaq.push(['_setCustomVar', 1, "dfp_adchannel", 'None', 3]);
+}
+
+try {
+    _gaq.push(['_setCustomVar', 2, "dfp_articletype", dfp_articletype, 3]);
+}
+catch(err) {}
+
+try {
+    _gaq.push(['_setCustomVar', 3, "dfp_channel", dfp_channel, 3]);
+}
+catch(err) {}
+
+try {
+    _gaq.push(['_setCustomVar', 4, "dfp_pagetype", dfp_pagetype, 3]);
+}
+catch(err) { }
+
+try {
+    var isPaid = document.referrer.indexOf('paid.outbrain.com') > -1 ? "yes" : "no";
+    _gaq.push(['_setCustomVar', 5, "paid_outbrain", isPaid, 1]);
+} catch(er) { }
+
+_gaq.push(['_trackPageview']);
+analytics.trackPageview();
+
+</script>
+
+
+</head>
+<body id="news" class="site_onion ga_section article news-in-brief news "  name="article:default">
+    
+
+
+
+
+<!-- <script type="text/javascript">GA_googleFillSlot("1x1_customsectioncallout");</script> -->
+<script type="text/javascript">GA_googleFillSlot("1x1_breakagetest");</script>
+
+
+
+<script type="text/javascript">GA_googleFillSlot("wallpaper_masterslot");</script>
+
+
+<div id="topwrapper">
+
+
+<div class="top-adspace">
+<div class="top promo">
+  <script type="text/javascript">GA_googleFillSlot("header_masterslot");</script>
+</div>
+</div>
+
+<div class="masthead">
+    <div class="connect">
+        <ul class="links ga_section" name="topnav:empire-left" >
+            <li class="avclub" >
+            <a href="http://www.avclub.com/" target="_blank">
+            <div id="avclub_logo">
+            <!--[if lt IE 9]>
+<img height="12px" 
+              src="/static/onion/img/sharetools/av-club.png" 
+              alt="A.V. Club" style="background-color:whiteSmoke;"></img>
+<![endif]--></div>
+
+            </a>
+          </li>
+          <li class="store">
+            <a href="http://store.theonion.com/" target="_blank">
+              Store
+            </a>
+          </li>
+          <li class="personals">
+            <a href="http://personals.theonion.com/go/p8243" target="_blank">
+              Dating
+            </a>
+          </li>
+          <li class="youtube">
+            <a href="http://www.youtube.com/theonion" target="_blank">
+              YouTube: Sex House
+            </a>
+          </li>
+          <li class="parameter">
+            <a href="http://www.avclub.com/parameter/" target="_blank">
+              Parameter Contest
+            </a>
+          </li>
+        </ul>
+        <ul class="social ga_section" name="topnav:empire-right">
+            <li class="facebook"><a href="http://www.facebook.com/theonion" target="_blank">
+                <i class="icon-facebook"></i>
+            </a></li>
+            <li class="twitter"><a href="http://twitter.com/#!/TheOnion" target="_blank">
+                <i class="icon-twitter"></i>
+            </a></li>
+            <li class="plus"><a href="https://plus.google.com/105559336484270406543/" target="_blank">
+                <i class="icon-google-plus"></i>
+            </a></li>
+            <li class="youtube">
+            <a href="http://www.youtube.com/theonion" target="_blank">
+              <img height="13px" src="/static/onion/img/sharetools/youtube.png" alt="YouTube"></img>
+            </a>
+          </li>
+        </ul>
+    </div>
+    <div class="logo">
+        <div class="left-content ga_section" name="topnav:weather">
+            
+
+<div class="nav-weather">
+    <div class="image"><img src="/static/onion/img/icons/weather/heat-wave.png" /></div>  
+	<p class="temp"></p> 
+    <div class="entry">
+        <p class="teaser">Temperatures, tempers rising</p>
+    	<p class="go"><a href="/section/weather">Onion Weather Center</a></p>
+    </div>
+</div>
+
+        </div>
+        <div class="center-content ga_section" name="topnav:home">
+            
+            <a href="/"><img src="/static//onion/img/logo.png"></img></a>
+            
+        </div>
+        
+        <div class="right-content ga_section" name="topnav:search">
+            <div class="search">
+                <form action="/search/">
+                    <input type="text" name="q" value="Search" class="query" onclick="this.value=''; return false;"></input>
+                    <input type="submit" value="" class="button"></submit>
+                </form>
+            </div>
+        </div>
+    
+    </div>
+    <div class="navbar ga_section" name="topnav:sections">
+        <ul>
+        <li class="major home">
+            <a href="/">Home</a>
+        </li>
+        <li class="major video">
+            <a href="/articles/latest/video/">Video</a>
+        </li>
+        <li class="politics">
+            <a href="/section/politics/">Politics</a>
+        </li>
+        <li class="sports">
+            <a href="/section/sports/">Sports</a>
+        </li>
+        <li class="entertainment">
+            <a href="/section/entertainment/">Entertainment</a>
+        </li>
+        <li class="news-beat">
+            <a href="/section/news-beat/">News Beat</a>
+        </li>
+        <li class="economy">
+            <a href="/section/economy/">Economy</a>
+        </li>
+        <li class="technology">
+            <a href="/section/science-technology/">Sci/Tech</a>
+        </li>
+        <li class="local last">
+            <a href="/section/local/">Local</a>
+        </li>
+        
+    </div>
+</div>
+    
+    
+</div>
+
+
+<script type="text/javascript">GA_googleFillSlot("1024x30_adhat");</script>
+
+
+
+<!--WRAPPER-->
+<div id="wrapper">
+<script type="text/javascript">GA_googleFillSlot("premercial_masterslot");</script>
+
+
+
+
+<div class="banner-header news ">
+    <a href="/section/news/"></a>
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript">GA_googleFillSlot("promobar_top");</script>
+<script type="text/javascript">GA_googleFillSlot("promobar_bottom");</script>
+
+
+
+<div id="topcrawl">
+  
+  <ul class="trend">
+    <li class=""><h5>Latest News <i class="icon-play"></i></h5></li>
+    <li class="title ga_section" name="latest-news">
+      
+<!-- todays topics top crawl -->
+<ul id="todays-topics-top-crawl" data-vr-zone="In The News">
+  
+  <li data-vr-contentbox="" class="topic-item ">
+    <span><a href="/articles/everyone-at-airport-delighted-by-chubby-family-rap,29616/">
+    
+        Waddling, Chubby Family
+    
+    </a></span>
+  </li>
+  
+  <li data-vr-contentbox="" class="topic-item ">
+    <span><a href="/articles/newborn-loses-faith-in-humanity-after-record-6-day,29588/">
+    
+        Faithless Baby Nathan
+    
+    </a></span>
+  </li>
+  
+  <li data-vr-contentbox="" class="topic-item ">
+    <span><a href="/articles/munchstrosity-created-in-fritolayboratory,29587/">
+    
+        Munchstrosity
+    
+    </a></span>
+  </li>
+  
+  <li data-vr-contentbox="" class="topic-item ">
+    <span><a href="/articles/skipping-out-on-friends-birthday-party-at-last-min,29594/">
+    
+        Heroin Rush
+    
+    </a></span>
+  </li>
+  
+  <li data-vr-contentbox="" class="topic-item ">
+    <span><a href="/articles/fed-admits-up-until-now-us-has-just-been-coasting,29565/">
+    
+        &#39;Avatar&#39; Money
+    
+    </a></span>
+  </li>
+  
+  <li data-vr-contentbox="" class="topic-item last ">
+    <span><a href="/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/">
+    
+        iPhone 5
+    
+    </a></span>
+  </li>
+  
+</ul>
+
+<script type="text/javascript">
+    if( $('#todays-topics-top-crawl li.breaking-item').length > 0 ){
+        $('#topcrawl').addClass('breaking-mode');
+        $('#topcrawl li.breaking').text('Breaking News');
+    }
+</script>
+    </li>
+  </ul>
+
+  
+</div>
+<div><script type="text/javascript">GA_googleFillSlot("opa_pushdown");</script></div>    
+
+
+
+
+<script type="text/javascript">GA_googleFillSlot("976x100_sponsoredchannel");</script>
+
+
+
+
+    <!--MAIN-->
+    <div id="main">
+    
+    <div id="top_ad_954"><script type="text/javascript">GA_googleFillSlot("954x60_primary");</script></div>
+    <div id="special_channel_banner"></div>
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+    
+    
+    
+    
+        <div id="content_wrapper">
+            <!--CONTENT-->
+            <div id="content">
+                
+                
+            
+<script type="text/javascript">GA_googleFillSlot("storypage_banner");</script>
+<div class="story">
+    
+        
+    
+
+    
+    <!-- <script type="text/javascript">GA_googleFillSlot("1x1_specialreportlogo");</script> -->
+    
+    
+
+    
+        <h2 class="title">Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway</h2>
+    
+
+    
+        
+    
+
+    
+    <p class="meta">
+        September 12, 2012  |
+        
+        <a href="/issue/4837/" class="issue" title="The Onion: Issue 4837">ISSUE 48&bull;37</a>
+        
+        | <a href="/features/news-in-brief/"><span class="type">More News in Brief</span></a> 
+    </p>
+    
+
+    
+    
+        <div class="article_photo_lead">
+            
+<div class="image feature_image">
+  
+  <img src="http://o.onionstatic.com/images/18/18031/16x9/635.jpg?5130" class="" width="635" height="357" alt="" title="" />
+  
+  
+  
+</div>
+        </div>
+    
+    
+
+    
+        <div class="toolbar_side" id="toolbar_29531_side">
+        
+<!-- share tools -->
+<div class="share_tools vertical">
+    <h6>Article Tools</h6>
+    <ul>
+        <li class="twitter">
+          <span class="tweetshare" style="padding: 0; margin: 0;"></span>
+          <script type="text/javascript">tweetco('article', 29531, 'http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/');</script>
+        </li>
+        <li class="facebook">
+          
+           <iframe src="http://www.facebook.com/plugins/like.php?app_id=214780801885608&amp;href=http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/&amp;layout=button_count&amp;show_faces=false&amp;width=130&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="width:100px; height:25px;" allowTransparency="true"></iframe>
+          
+        </li>
+        <li class="google-plus">
+	      <g:plusone size="medium" href="http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/"></g:plusone>
+        </li>
+        
+        <li class="tumblr">
+            <span id="tumblr_button_article_tools"></span>
+            <script type="text/javascript">
+                var tumblr_link_url = "http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/";
+                var tumblr_link_name = "Apple Announces New iPhone With N-Word On Back Knowing Customers Will Buy It Anyway";
+                var tumblr_link_description = "";
+            </script>
+        </li>
+        <li class="last"><ul class="share_icons">
+        <li class="topspace emtfbox">
+            <a href="#" onclick="return sharetools_bubble('emtf_vertical_29531');">
+                <span class="icon emtf"></span>
+                <span class="label"></span>
+            </a>
+            <div class="bubble emtf" id="emtf_vertical_29531">
+                <span class="pointer"></span>
+                <a href="#" onclick="$('.bubble').hide(); return false;" class="close"></a>
+                <form action="" method="POST">
+                <h3>Email</h3>
+                <p>To: <input type="text" class="email_to" name="email" value="" /></p>
+                <p>From: <input type="text" class="email_from" name="from" value="" /></p>
+                <input type="submit" class="submit"
+                    onclick="return article_tools_email_submit('http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/','emtf_vertical_29531');"
+                    value="Send" />
+                <input name="article_id" class="article_id" type="hidden" value="29531" />
+                <p class="status"></p>
+                </form>
+            </div>
+        </li>
+        
+        <li class="topspace print">
+            <a href="javascript:window.print();">
+                <span class="icon print"></span>
+                <span class="label"></span></a>
+        </li>
+        <li class="topspace last">
+            <a href="#" onclick="return sharetools_bubble('share_vertical_29531');">
+                <span class="icon share"></span>
+                <span class="label"></span>
+            </a>
+            <div class="bubble social" id="share_vertical_29531">
+                <span class="pointer"></span>
+                <a href="#" onclick="$('.bubble').hide(); return false;" class="close"></a>
+                <div>
+                    <h3>Share</h3>
+                    <ul>
+                        <li><a href="http://www.facebook.com/sharer.php?u=http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/&t=Apple%20Announces%20New%20iPhone%20With%20N-Word%20On%20Back%20Knowing%20Customers%20Will%20Buy%20It%20Anyway"><span class="icon fb"></span>Facebook</a></li>
+                        <li><a href="http://digg.com/submit?url=http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/&title=Apple%20Announces%20New%20iPhone%20With%20N-Word%20On%20Back%20Knowing%20Customers%20Will%20Buy%20It%20Anyway"><span class="icon digg"></span>Digg</a></li>
+                        <li><a href="http://www.stumbleupon.com/submit?url=http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/&title=Apple%20Announces%20New%20iPhone%20With%20N-Word%20On%20Back%20Knowing%20Customers%20Will%20Buy%20It%20Anyway"><span class="icon stumble"></span>Stumble</a></li>
+                        <li><a href="http://reddit.com/submit?url=http://www.theonion.com/articles/apple-announces-new-iphone-with-nword-on-back-know,29531/&title=Apple%20Announces%20New%20iPhone%20With%20N-Word%20On%20Back%20Knowing%20Customers%20Will%20Buy%20It%20Anyway"><span class="icon reddit"></span>Reddit</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        </ul></li>
+    </ul>
+</div>
+<!-- end share tools -->
+
+        
+             
+
+<div id="related" class="ga_section" name="article:related">
+<h5>Related Articles</h5>
+<ul>
+
+<li class="related">
+<a href="/articles/obama-openly-asks-nation-why-on-earth-he-would-wan,26933/">Obama Openly Asks Nation Why On Earth He Would Want To Serve For Another Term</a>
+</li>
+
+<li class="related">
+<a href="/articles/alarming-study-finds-more-than-12-instances-of-rac,27310/">Alarming Study Finds More Than 12 Instances Of Racism Occurred Last Year</a>
+</li>
+
+</ul>
+</div>
+
+
+        
+        </div>
+    
+
+    
+    <div class="article_body">
+        <p>SAN FRANCISCO&#8212;With CEO Tim Cook stating that desperate customers would surely &#8220;line up like idiots&#8221; to purchase the offensive product anyway, Apple announced today the release of the company&#8217;s new iPhone 5, which features the word &#8220;nigger&#8221; boldly embossed on its back. &#8220;Sure, the new iPhone has the word &#8216;nigger&#8217; printed right on it, but we all know you pathetic losers will still buy it in droves, because, hell, you&#8217;ll buy anything we put out,&#8221; Cook said in a press conference, describing the lightweight smartphone that will include a larger high-resolution display and have the racial slur printed in 36-point Helvetica font directly on its back, as well as on every accessory sold for the product. &#8220;Our technology ensures the word will brightly light up through whatever cover or sticker you may use in an attempt to obscure it, so don&#8217;t even try. You are all very stupid and sheeplike, and I will enjoy watching this play out.&#8221; Cook followed the iPhone 5 announcement with a brief preview of the company&#8217;s updated iPad, which will feature a loud, unchangeable ringtone of Roseanne Barr repeatedly yelling &#8220;faggot.&#8221;</p>
+    </div>
+    
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    <div id="pagination" class="ga_section" name="article:morenews">
+    <h5>More News in Brief</h5>
+    <ul class="pagination">
+        
+        <li class="previous-icon">
+        
+        
+            <a href="/articles/20th-century-fox-greenlights-united-93-vs-predator,29522/"><i>&#171;</i></a>
+            
+        </li>
+      <li class="previous">
+	
+	
+	
+	<a href="/articles/20th-century-fox-greenlights-united-93-vs-predator,29522/" title="20th Century Fox Green-Lights &#39;United 93 vs. Predator&#39;">
+	  20th Century Fox Green-Lights 'United 93 vs. Predator'</a>
+	
+	
+      </li>
+      <li class="next">
+	
+	
+	<a href="/articles/mitt-romney-reaches-out-to-young-voters-with-laser,29534/" title="Mitt Romney Reaches Out To Young Voters With Laser Tag Pizza Party">
+	  Mitt Romney Reaches Out To Young Voters With Laser Tag Pizza Party</a> 
+	
+	</li>
+	<li class="next-icon">
+	<a href="/articles/mitt-romney-reaches-out-to-young-voters-with-laser,29534/"><i>&#187;</i></a> 
+	
+        
+	</li>
+	
+      </ul>
+    </div>
+    
+
+    
+        <!-- related media -->
+        
+        
+        
+    
+
+    
+    
+    
+    
+        
+            
+
+
+
+<div class="slideable recent_slider ga_section" id="recent_slider" name="article:recentslider">
+    <h6><a href="/features/news/">Recent News <span>&raquo;</span></a></h6>
+    <div class="wrapper">
+        <ul class="slides">
+            
+            <li class="slide element_0">
+                <a class="image" href="/articles/nick-jr-suspends-production-on-the-almighty-muhamm,29633/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18123/1x1/140.jpg?8078" class="" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/nick-jr-suspends-production-on-the-almighty-muhamm,29633/">
+                    Nick Jr. Suspends Production On 'The Almighty Muhammad's Porkalicious Toon Jihad'
+                    <span class="timestamp">09.21.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_1">
+                <a class="image" href="/video/romney-still-in-hot-water-after-reading-gop-platfo,29626/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18119/1x1/140.jpg?2533" class="" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/video/romney-still-in-hot-water-after-reading-gop-platfo,29626/">
+                    Romney Still In Hot Water After Reading GOP Platform Verbatim
+                    <span class="timestamp">09.20.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_2">
+                <a class="image" href="/articles/report-its-not-okay-to-just-start-talking-to-peopl,29610/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18106/1x1/140.jpg?1225" class="has_caption" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/report-its-not-okay-to-just-start-talking-to-peopl,29610/">
+                    Report: It's Not Okay To Just Start Talking To People You Don’t Know
+                    <span class="timestamp">09.19.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_3">
+                <a class="image" href="/articles/romney-campaign-sends-in-champion-of-the-poor-paul,29608/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18104/1x1/140.jpg?6648" class="has_caption" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/romney-campaign-sends-in-champion-of-the-poor-paul,29608/">
+                    Romney Campaign Sends In Champion Of The Poor Paul Ryan For Damage Control
+                    <span class="timestamp">09.18.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_4">
+                <a class="image" href="/articles/romney-apologizes-to-nations-150-million-starving,29603/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18102/1x1/140.jpg?9066" class="" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/romney-apologizes-to-nations-150-million-starving,29603/">
+                    Romney Apologizes To Nation's 150 Million 'Starving, Filthy Beggars'
+                    <span class="timestamp">09.18.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_5">
+                <a class="image" href="/articles/newborn-loses-faith-in-humanity-after-record-6-day,29588/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18076/1x1/140.jpg?0285" class="has_caption" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/newborn-loses-faith-in-humanity-after-record-6-day,29588/">
+                    Newborn Loses Faith In Humanity After Record 6 Days
+                    <span class="timestamp">09.17.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_6">
+                <a class="image" href="/articles/romney-just-saying-he-grew-up-poor-in-memphis-now,29571/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18065/1x1/140.jpg?9166" class="" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/articles/romney-just-saying-he-grew-up-poor-in-memphis-now,29571/">
+                    Romney Just Saying He Grew Up Poor In Memphis Now
+                    <span class="timestamp">09.16.12</span>
+                </a>
+            </li>
+            
+            <li class="slide element_7">
+                <a class="image" href="/video/white-house-officials-confirm-malia-obama-now-seve,29560/">
+                    
+                    
+                    
+                    
+                    
+                    
+
+  <img src="http://o.onionstatic.com/images/18/18058/1x1/140.jpg?5041" class="" width="140" height="140" alt="" title="" />
+
+                    
+                </a>
+                <a class="title" href="/video/white-house-officials-confirm-malia-obama-now-seve,29560/">
+                    Area Man Can't Imagine Life Without This Woman
+                    <span class="timestamp">09.14.12</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="navigation">
+        <p class="previous"><a href="#">Previous</a></p>
+        <p class="next"><a href="#">Next</a></p>
+    </div>
+</div>
+<script type="text/javascript">
+htmlReady(function(){
+    if (numslides == undefined || numslides == "") {
+        var numslides = 4;
+    }
+    new Slideable("recent_slider", {
+        slidesVisible: numslides,
+        slideSpeed: 250,
+        slideWidth: 156
+        });
+});
+</script>
+
+            
+        
+
+        <div class="OUTBRAIN ga_section" name="article:outbrain" data-src="http://www.theonion.com//articles/apple-announces-new-iphone-with-nword-on-back-know,29531/" data-widget-id="AR_1" data-ob-template="theonion" ></div>
+        <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+        </div>
+    
+    
+
+</div>
+<div id="image_holder">
+    <img src="/static/onion/img/icons/onion_tiny.png" alt="The Onion" />
+    <p class="close">[x] Click to close</p>
+    <div>
+        <img src="" id="expand_target" />
+        <p class="caption"></p>
+        <p><b>&copy; Copyright 2012, Onion, Inc. All rights reserved.</b></p>
+    </div>
+</div>
+
+            </div>
+            <!--END CONTENT-->
+
+            <!--SIDEBAR-->
+            <div class="sidebar">
+            
+
+                
+    <script type="text/javascript">GA_googleFillSlot("300x250_sponsorvideo");</script>
+
+
+                
+                <div class="ga_section" name="article:videowidget">
+                    
+                        
+
+
+<div class="video_widget" data-vr-zone="Video Widget">
+    <h5>Recent Videos</h5>
+    <div id="recent_vids">
+        
+       <div class="vid" data-vr-contentbox="">
+       
+           <a href="/video/joe-biden-hitchhikes-to-democratic-national-conven,29426/" class="image">
+               <i class="icon icon-play"></i>
+               
+
+  <img src="http://o.onionstatic.com/images/17/17917/16x9/95.jpg?1820" class="" width="95" height="53" alt="" title="" />
+
+           </a>
+           <span class="title">
+               <a href="/video/joe-biden-hitchhikes-to-democratic-national-conven,29426/">Joe Biden Hitchhikes To Democratic National Convention</a>
+          </span>       
+       </div>
+       
+       <div class="vid" data-vr-contentbox="">
+       
+           <a href="/video/romney-still-in-hot-water-after-reading-gop-platfo,29626/" class="image">
+               <i class="icon icon-play"></i>
+               
+
+  <img src="http://o.onionstatic.com/images/18/18119/16x9/95.jpg?2533" class="" width="95" height="53" alt="" title="" />
+
+           </a>
+           <span class="title">
+               <a href="/video/romney-still-in-hot-water-after-reading-gop-platfo,29626/">Romney Still In Hot Water After Reading GOP Platform Verbatim</a>
+          </span>       
+       </div>
+       
+       <div class="vid" data-vr-contentbox="">
+       
+           <a href="/video/scattered-deaths-of-elderly-floridians-expected-th,29597/" class="image">
+               <i class="icon icon-play"></i>
+               
+
+  <img src="http://o.onionstatic.com/images/18/18098/16x9/95.jpg?3000" class="" width="95" height="53" alt="" title="" />
+
+           </a>
+           <span class="title">
+               <a href="/video/scattered-deaths-of-elderly-floridians-expected-th,29597/">Scattered Deaths Of Elderly Floridians Expected Throughout The Week</a>
+          </span>       
+       </div>
+       
+   </div>
+</div>
+
+                    
+                </div>
+                
+
+                
+                <div class="standard_box">
+                  <script type="text/javascript">GA_googleFillSlot("300x250_primary");</script>
+                </div>
+                <div class="sidebar promo">
+                  <div style="display:none;">
+                  <script type="text/javascript">GA_googleFillSlot("sidebar_promobar_top");</script>
+                  <script type="text/javascript">GA_googleFillSlot("sidebar_promobar_middle");</script>
+                  <script type="text/javascript">GA_googleFillSlot("sidebar_promobar_bottom");</script>
+                  </div>
+                  <ul>
+                    <li class="featured">
+                      <ul>
+                        <li id="promo_sidebar_1"></li>
+                        <li id="promo_sidebar_2"></li>
+                        <li style="display:none" id="promo_sidebar_3"></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                
+                
+
+                
+                <div class="standard_box ad">
+                    <script type="text/javascript">GA_googleFillSlot("300x250_widget");</script>
+                </div>
+                
+
+                
+                
+
+                <script type="text/javascript">GA_googleFillSlot("twitter_sponsoredchannel");</script>
+
+                
+                    
+                
+
+                
+
+                
+                    
+                        <div id="from_our_sponsors" class="standard_box section"><script type="text/javascript">GA_googleFillSlot("300x130_feature");</script></div>
+                    
+                
+
+                <script>
+$(function(){
+    var title = $('#connectbox .title');
+    var forward_button = $('#connectbox .forward');
+    var back_button = $('#connectbox .back');
+    var articles = [];
+    var currentIndex = 0;
+    
+    function nextHeadline(){
+        if(currentIndex >= articles.length-1) return false;
+        title.html(articles[++currentIndex].title);
+        if(currentIndex >= articles.length-1) forward_button.addClass('disabled');
+        if(currentIndex > 0) back_button.removeClass('disabled');
+        return false;
+    }
+    function prevHeadline(){
+        if(currentIndex <= 0) return false;
+        title.html(articles[--currentIndex].title);
+        if(currentIndex == 0) back_button.addClass('disabled');
+        if(currentIndex < articles.length-1) forward_button.removeClass('disabled');
+        return false;
+    }
+    $.getJSON('/ajax/more_news/', function(data) {
+        articles = data;
+        currentIndex = 0;
+        title.html(articles[currentIndex].title);
+        if(currentIndex < articles.length-1) forward_button.removeClass('disabled');
+        forward_button.click(nextHeadline);
+        back_button.click(prevHeadline);
+    });
+    
+
+});
+</script>
+<!-- start connect box -->
+<div id="connectbox" class="standard_box">
+    <div class="connect-nav">
+        <a href="#" class="disabled back"><i class="icon-circle-arrow-left"></i></a>
+        <a href="#" class="disabled forward"><i class="icon-circle-arrow-right"></i></a>
+    </div>
+    <h5>Daily Newsfeed</h5>
+    <h2 class="title"></h2>
+    
+    
+    <div id="follow">
+        
+        <ul>
+            <li class="twitter"><a title="Twitter" href="http://twitter.com/TheOnion"><i class="icon-twitter-sign"></i></a></li>
+            <li class="facebook"><a title="Facebook" href="http://facebook.com/TheOnion"><i class="icon-facebook-sign"></i></a></li>
+            <li class="google-plus"><a title="Google Plus" href="https://plus.google.com/105559336484270406543/"><i class="icon-google-plus-sign"></i></a></li>
+            <li class="rss"><a title="RSS" href="/feeds/daily/"><i class="icon-rss"></i></a></li>
+            <li class="digital last"><a title="Onion Apps" href="http://itunes.apple.com/us/artist/the-onion/id324147031?mt=8"><i class="icon-cloud"></i></a></li>
+        </ul>
+        <span>Follow The Onion by Clicking on these Stupid Little Icons</span>
+    </div>
+    <div id="signup">
+        <form action="http://www.theonion.com/newsletters/subscribe/" method="post">
+            <p class="checkboxes"><b>Sign Up For The Newsletter </b>
+            <input type="checkbox" name="newsletters" value="1" />Daily
+            <input type="checkbox" name="newsletters" value="3" />Weekly
+            <!--<input type="checkbox" name="newsletters" value="2" />Video-->
+            </p>
+            <p>
+            <input type="text" name="address" value="Your E-mail Address" onclick="this.value=''; return false;" class="subscribe" />
+            <input type="submit" value="SUBSCRIBE" class="submit" />
+            </p>
+        </form>
+    </div>
+</div>
+<!-- end connect box -->
+
+
+                <div>
+                <script type="text/javascript">GA_googleFillSlot("300x150_store");</script>
+                </div>
+
+                
+                <div class="standard_box"><script type="text/javascript">GA_googleFillSlot("300x250_secondary");</script></div>
+                
+                
+                
+                <div class="standard_box partners">
+                  
+
+<div class="avclub">
+<h2><a href="http://www.avclub.com/"><img src="/static/onion/img/sharetools/av-club.png" alt="A.V. Club"></img></a></h2>
+  <ul>
+    
+    <li>
+      <a href="http://feedproxy.google.com/~r/avclub/daily/~3/gWV-dubpbMI/">
+        Film: Movie Review: The House At The End Of The Street
+      </a>
+    </li>
+    
+    <li>
+      <a href="http://feedproxy.google.com/~r/avclub/daily/~3/x0EMhX_gSFA/">
+        Music: Set List: Greg Dulli of Afghan Whigs on combining the Jackson 5 with Twin Peaks
+      </a>
+    </li>
+    
+    <li>
+      <a href="http://feedproxy.google.com/~r/avclub/daily/~3/8-4MaFbhMfs/">
+        Music: Playlisted: Titus Andronicus and Wanda Jackson helm this week's best tracks
+      </a>
+    </li>
+    
+    <li>
+      <a href="http://feedproxy.google.com/~r/avclub/daily/~3/s4QfelYw3Ks/">
+        TV: Newswire: ABC just heard a great idea for a show about misfit party planners
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+
+                </div>
+                
+
+                
+                <div class="standard_box">
+                <script type="text/javascript">GA_googleFillSlot("300x250_tertiary");</script>
+                </div>
+                
+
+                
+            </div>
+            <div style="clear:both"></div>
+            <!--END SIDEBAR-->
+
+            
+            
+
+            
+            
+
+        </div>
+    
+
+    </div>
+    <!--END MAIN-->
+
+    
+
+    
+<div id="footer" class="ga_section" name="footer">
+    <ul>
+      <li>
+        <a href="/faq/">Help</a>
+      </li>
+      <li>
+        <a href="/contact/">Contact</a>
+      </li>
+      <li>
+        <a href="/privacy/">Privacy Policy</a>
+      </li>
+      <li>
+        <a href="http://mediakit.theonion.com">Media Kit</a>
+      </li>
+      <li>
+        <a href="/jobs/">Jobs</a>
+      </li>
+      <li>
+        <a href="http://www.theonionnation.com/">Franchising</a>
+      </li>
+      <li>
+        <a href="http://www.theonion.com/feeds/daily/">RSS</a>
+      </li>
+      <li class="last">
+        <i>The Onion</i> is not intended for readers under 18 years of age.
+        &copy; Copyright 2012 Onion Inc. All rights reserved.
+      </li>
+    </ul>
+</div>
+<br style="clear: both;" />
+
+    
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/5781/nodetag.js"></script>
+
+
+
+
+</div>
+<!--END WRAPPER-->
+
+<script type="text/javascript">
+    var tumblr_button = document.createElement("a");
+    tumblr_button.setAttribute("href", "http://www.tumblr.com/share/link?url=" + encodeURIComponent(tumblr_link_url) + "&name=" + encodeURIComponent(tumblr_link_name) + "&description=" + encodeURIComponent(tumblr_link_description));
+    tumblr_button.setAttribute("title", "Share on Tumblr");
+    tumblr_button.setAttribute("style", "display:inline-block; text-indent:-9999px; overflow:hidden; width:81px; height:20px; background:url('http://platform.tumblr.com/v1/share_1.png') top left no-repeat transparent;");
+    tumblr_button.innerHTML = "Share on Tumblr";
+    document.getElementById("tumblr_button_article_tools").appendChild(tumblr_button);
+</script>
+
+<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+  'zone':"X7Gu3YIpecAvEgj6-27cd0",
+  'mode':"meter",
+  'customPreCheck': "preCheckOnion100821",
+  'border': "qtYGSqnP-QssVfyr5XPE6D",
+  'debug':0
+}</script>
+<script type="text/javascript">
+function preCheckOnion100821($){
+    loc = window.location + '';
+    if (loc.match(/\/(articles|video)\/.+/i)) {
+        return 1;
+    }
+    return 0;
+}
+</script>
+
+
+<script type="text/javascript">
+    
+    function ga_section_click( evt ) {
+        try {
+            var parent = $(this).closest(".ga_section");
+            var section = parent.attr("name");
+            
+            var nth,
+                a = this;
+            
+            if(parent.length)
+                $("a", parent).each(function(n){
+                    if( this === a )
+                        nth = n;
+                });
+            
+            var url = this.href.replace(/(http:\/\/[a-z]+\.theonion\.com)/, "");
+            if (this.href.match(/(http:\/\/[a-z]+\.theonion\.com)/)) {
+                _gaq.push(['_trackEvent', 'click', section, url]);
+                analytics.trackClick(evt, section, nth, url);
+                // console.log("CLICK section: " + section + " url: " + url);
+            }
+            else {
+                _gaq.push(['_trackEvent', 'click-outbound', section, url]);
+                // console.log("CLICK-OUTBOUND section: " + section + " url: " + url);
+            }
+        }
+        catch (err) {}
+        return true;
+        // return false;
+    }
+    //only for onion, not sportsdome...(for now)
+    if (window.location.href.match(/(http:\/\/[a-z]+\.theonion\.com)/)) {
+        $("a").click(ga_section_click);
+    }
+
+    function extractParamFromUri(uri, paramName) {
+      if (!uri) {
+        return;
+      }
+      var uri = uri.split('#')[0];  // Remove anchor.
+      var parts = uri.split('?');  // Check for query params.
+      if (parts.length == 1) {
+        return;
+      }
+      var query = decodeURI(parts[1]);
+
+      // Find url param.
+      paramName += '=';
+      var params = query.split('&');
+      for (var i = 0, param; param = params[i]; ++i) {
+        if (param.indexOf(paramName) === 0) {
+          return unescape(param.split('=')[1]);
+        }
+      }
+    }
+</script>
+<!-- metrics -->
+
+<!-- quantcast -->
+<script type="text/javascript">
+_qoptions={
+    qacct:"p-39FYaAGOYli_-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+    <img src="http://pixel.quantserve.com/pixel/p-39FYaAGOYli_-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script type="text/javascript">
+if(google_type !== "") {
+    var _sf_async_config={uid:1762,domain:"theonion.com"};
+    _sf_async_config.sections = google_type;
+}
+</script>
+
+<!-- chartbeat -->
+<script type="text/javascript">
+var _sf_async_config = {};
+var result = {}
+if( window.location.search ){
+    var params = window.location.search.slice(1).split("&");
+    for( var i = 0; i < params.length; i++ ){
+        var tmp = params[i].split("=");
+        result[tmp[0]] = unescape(tmp[1]);
+    }
+}
+if( !(result['ref'] === "auto") ){
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1762&domain=theonion.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+}
+</script>
+
+<!-- comscore -->
+<script>
+ document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
++ ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+ COMSCORE.beacon({
+  c1:2,
+  c2:"6036328",
+  c3:"",
+  c4:"",
+  c5:"",
+  c6:"",
+  c15:""
+ });
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/b?c1=2&c2=6036328&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1"
+style="display:none" width="0" height="0" alt="" />
+</noscript>
+
+<!-- nielsen -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-703755h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-703755h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+
+<!-- vertical acuity -->
+<script src="http://scripts.verticalacuity.com/vat/mon/vt.js" type="text/javascript"></script>
+
+<!-- google plusone -->
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+        var _vrq = _vrq || [];
+        _vrq.push(['id', 131]);
+        _vrq.push(['automate', true]);
+        _vrq.push(['track', function(){}]);
+        (function(d, a) {
+                var s = d.createElement(a),
+                x = d.getElementsByTagName(a)[0];
+                s.async = true;
+                s.src = 'http://a.visualrevenue.com/vrs.js';
+                x.parentNode.insertBefore(s, x);
+        })(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="theonion.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,2400 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title>
+	FSLR Solar Project Production Peaks - Analyst Blog - NASDAQ.com
+</title><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss" />
+    <meta name="description" content="First Solar, Inc. ( FSLR ) has declared that 290 megawatts (MW) Agua Caliente solar project has accomplished a peak generating capacity of" />
+    <meta property="og:site_name" content="NASDAQ.com"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:image" content="http://community.nasdaq.com/common/images/zacks.gif">
+    <meta property="og:title" content="FSLR Solar Project Production Peaks - Analyst Blog" />
+    <meta property="og:url" content="http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154" />
+    <script type="text/javascript">var propVar = "Investing"; var propVar2 = "Articles"; var propVar3 = "Zacks.com"; var propVar4 = "Stocks"; var propVar15 = "Partner Analysis"; var allSubCategories="Business;Stocks"; </script>
+    <link rel="canonical" href="http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154" />
+	
+    <style type="text/css">
+
+		/* homegain top spacing */
+		#hval{margin-top:15px;}
+		
+    	#related-articles {
+    		border:1px solid #CEDFF0;
+    		margin:10px 0;
+    		clear:both;
+    		float:left;
+    		width:100%;
+    	}
+    	
+    	#related-articles-inner {
+		 	background:none repeat scroll 0 0 #F5F8FB;
+			margin:1px;   	
+			overflow:hidden;	
+    	}
+    	
+    	ul.related-articles {
+    		overflow:hidden;
+    		margin-left:10px;
+    	}
+    
+    	ul.related-articles li {
+    		float:left;
+    		width:100%;
+    		margin-bottom:10px;
+    	}    
+    
+    	ul.related-articles li div.avatar {
+    		float:left;
+    		width:40px;
+    	}
+    	
+    	ul.related-articles li div.text {
+    		float:left;
+    		width:550px;
+    	}      
+    
+       .blue-box-container
+        {
+            -webkit-border-radius: 3px !important;
+            -moz-border-radius: 3px !important;
+            border-radius: 3px !important;
+            margin: 20px 0px 15px 0px !important;
+        }
+        .blue-box-container h3
+        {
+            border-bottom: 1px solid #B1D8F1 !important;
+        }
+        .tabbed-blue-box
+        {
+            width: 280px !important;
+        }
+        .tabbed-blue-box h2
+        {
+            color: #00669E;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            padding: 5px;
+            width: 100% !important;
+        }
+        
+        .noRating {
+			background: url('/common/images/not-rated-small.gif') no-repeat scroll 0 50% transparent !important;
+			color:#a1a1a1;
+			display:block;
+			float:left;
+			padding-left:20px !important;
+			width:45px;
+			font-weight:bold;        	
+        }
+        
+		.bullRating {
+			background: url('/common/images/bull-icon-small.png') no-repeat scroll 0 50% transparent !important;
+			color:#76BF42;
+			display:block;
+			float:left;
+			padding-left:20px !important;
+			width:45px;
+			font-weight:bold;
+		}    
+		
+		.bearRating {
+			background:url("/common/images/bear-icon-small.png") no-repeat scroll 0 50% transparent !important;
+			color:#EE252C;
+			display:block;
+			float:left;
+			padding-left:20px !important;
+			width:45px;
+			font-weight:bold;
+		}		    
+        
+        #referencedStocks {
+			-moz-border-radius:3px 3px 3px 3px;
+			background:none repeat scroll 0 0 #ECF3F9;
+			border:1px solid #C5D5E3;
+			float:right;
+			padding:8px;
+			width:157px;      
+			margin-top:10px;  	
+			text-shadow: 0px 1px #fff;
+        }
+        
+        #referencedStocks li {
+        	list-style:none;
+        	line-height:25px;
+        }
+         
+        #referencedStocks a.ticker {
+        	font-weight:bold;
+        	text-decoration:none;
+        	font-size:12px;
+        	float:left;
+        	width:50px;
+        }
+        
+        #referencedStocks a.ticker:hover { 
+        	text-decoration:underline;
+        }
+
+		/* START social section */
+		
+        #article-social-inner {
+			float:left;
+			margin:1px;     	
+        }
+		
+		div.article-social-inner-text {
+			float:left;
+			margin: 5px 0 0 5px; 
+			vertical-align: middle;
+		}
+
+		div.tweet-meme-container {
+			float:left;  
+			margin-left: -50px; /* fixed extra space from facebook like iframe */
+		}
+
+		div.linkedin-container {
+			float:left; 
+		}
+
+		div.google-plus-one-container {
+			float:left; 
+			margin-left: 18px; 
+		}
+
+		div.facebook-container {float:left;}
+
+		div.google-plus-one-container {*display:none;}/* ie 6/7 because google +1 doesn't work */
+
+		/* END social section */		
+        
+        #article-social {
+			clear:both;
+			color:#555555;
+			float:left;
+			font-size:11px;
+			font-weight:bold;
+			margin-bottom:15px;
+			margin-top:10px;
+			width:100%;    	
+			text-shadow:0 1px #FFFFFF;
+        }
+        
+        #article-social-inner {
+			float:left;
+			margin:1px;     	
+        }
+        
+        #article-tools {
+            width:100%; 
+            height:91px;
+            border:1px solid #cedff0;
+            margin-bottom:15px;   
+            margin-top:10px;
+            clear:both;
+        }
+        
+        #article-tools-inner {
+            background:none repeat scroll 0 0 #F5F8FB;
+            height:88px;
+            margin:1px;
+        }
+        
+        .article-tool {
+            float:left;
+            width:150px;
+            height:42px;
+            margin-left:11px;
+            border:1px solid #cedff0;
+            font-size:11px;
+            font-weight:bold;
+            outline: none;
+            text-shadow:0px 1px #fff;
+        }
+        
+        .article-tool span {
+            display:block;
+            padding:13px 0 0 37px;
+        }
+        
+        .article-tool span.double {
+            padding:8px 0 0 36px;            
+        }
+        
+        a.article-tool {
+            text-decoration: none !important;
+        }
+        
+        a.article-tool:hover {
+            border:1px solid #c4d7e9;
+            -moz-box-shadow:0 0 10px #D4DDE9;
+            -box-shadow:0 0 10px #D4DDE9;
+            -webkit-box-shadow:0 0 10px #D4DDE9;
+        }
+        
+        a.article-tool:active {
+            position:relative;
+            top:1px;
+            border:1px solid #cedff0;
+        }
+		
+		.at300bs {
+			background:url("//s7.addthis.com/static/r07/widget22.png") no-repeat scroll 0 0 transparent;
+			display:block;
+			float:left;
+			height:16px;
+			line-height:16px !important;
+			overflow:hidden;
+			padding-right:6px;
+			width:16px;
+		}
+		
+		#quin-street html { border:0; }
+		        
+        .rss { background: url('/common/images/article-tool-rss.png') repeat-x; }
+        .facebook { background: url('/common/images/article-tool-facebook.png') repeat-x; }
+        .twitter { background: url('/common/images/article-tool-twitter.png') repeat-x; }
+        #content h2{ float:none; width:100%; }
+        
+        a.rating { display: inline-block; height: 15px; -moz-border-radius: 3px 3px 3px 3px; color: #333; text-decoration: none;}
+		a.rating span { line-height: 14px; padding: 0px 6px 0px 15px; }
+		.rating:hover { background-position: 0px -15px; }
+		.rating:active { background-position: 0px -30px; }
+		.like { background: url("/common/images/thumb-up.gif") no-repeat left top transparent; }
+		.like:hover { color: #70b378; }
+		.dislike { background: url("/common/images/thumb-down.gif") no-repeat left top transparent; }
+		.dislike:hover { color: #c64c4c; }
+		.liked { color: #70b378 !important; }
+		.disliked { color: #c64c4c !important; }
+		a.comments { text-decoration: none; display: inline-block; height: 12px; -moz-border-radius: 3px 3px 3px 3px; background: url("/common/images/comments-bubble.gif") no-repeat 0px 0px transparent; }
+		a.comments:hover {
+			text-decoration:underline !important;
+		}
+		a.comments span { line-height: 11px; padding: 0px 6px 0px 18px; }
+		span.liked-message { font-weight: bold; padding-left: 0px !important; }
+		#article-meta { margin-bottom: 5px; }
+		#article-referenced-stocks { margin-top: 2px; }
+		#seperator { padding: 0 5px; }
+        
+    
+		.dsq-post-area {display: none !important;} /**/
+		.dsq-comment-footer-right {display:none !important;}
+    
+
+		.outBrainModal
+		{
+    		background: none repeat scroll 0 0 #EBEBEB;
+    		clear: both;
+    		position: relative;
+		    width: 640px;
+			height: 240px;
+		}
+
+		ul.outBrain li
+		{
+			list-style-image: url("http://content.nasdaq.com/images/arrow_qw.gif");
+			
+		}
+		.background-modal-box-image {
+			width:150px;
+			height:230px;
+			z-idex:-1;
+			float:left;
+			background-image: url('http://www.nasdaq.com/images/Background-New-Modal-Point.jpg');	
+			margin-left:10px;
+			*margin-left:5px;
+		}
+		#modal-pic {
+			width:100px;
+			height:85px;
+			background-image:url('http://www.nasdaq.com/images/community-modal-web.jpg');
+			border:1px solid #064367;
+			margin:32px 0 0 18px;
+			*margin-left:10px;
+			float:left;
+			z-index:99999;
+		}
+		#modal-ul-div {
+			width:445px;
+			margin-left:30px;
+		}
+		.modal-box-info {
+			width:465px;
+			float:left;
+		}
+		.modal-box-h1 {
+			width: 100% !important; 
+			border-bottom: 3px solid rgb(6, 67, 103); 
+			padding-bottom: 10px;
+		}
+    </style>
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/video-thumbnail.css" />
+
+	<script type="text/javascript">
+		function showOutbrainModal() 
+		{
+			var tag = document.getElementsByTagName('select');
+			for(i=tag.length-1;i>=0;i--)
+				tag[i].style.visibility='hidden';
+
+			$.blockUI({ message: $('#joinOffer'),
+			css:{ left: '24%', top: '40%', cursor: 'auto', textAlign: 'left'}
+
+			 });
+		}
+
+    	function closeOutbrainModal() 
+		{
+    	    $.unblockUI();
+
+			tag = document.getElementsByTagName('select');
+			for(i=tag.length-1;i>=0;i--)
+				tag[i].style.visibility='visible';
+	    }
+
+		function goToRegistrationPage()
+		{
+			document.location.href = "http://community.nasdaq.com/register.aspx";
+		}
+	</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="http://content.nasdaq.com/images/qfav.ico" type="image/ico" /><link rel="icon" href="http://content.nasdaq.com/images/qfav.ico" type="image/x-icon" /><link rel="shortcut icon" href="http://content.nasdaq.com/imges/qfav.ico" type="image/x-icon" /><link rel="stylesheet" type="text/css" href="http://content.nasdaq.com/includes/ListedCompanies.css" />
+
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen, projection" href="/common/styles/ie7.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="/common/styles/ie6.css" /><![endif]-->
+
+<!-- MAIN STYLE SHEET -->
+<link rel="stylesheet" type="text/css" href="/common/styles/general.css" media="screen, projection" />
+
+<!-- MASTHEAD STYLES -->
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/community_header.css" media="screen, projection" />
+
+<!-- FOOTER STYLES -->
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/community_footer.css" />
+
+<script type="text/javascript" src="/common/scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery-ui-1.8.5.min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery.infieldlabel.min.js"></script>
+<script type="text/javascript" src="/common/scripts/jquery-blockui.js"></script>
+<script type="text/javascript" src="/common/scripts/actions.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://content.nasdaq.com/includes/DartAdEngine2.js"></script>
+
+<!-- BEGIN: OnlineOpinion v4.1 -->
+    <link href="http://content.nasdaq.com/includes/OOV42/oo_style-p.css" rel="stylesheet" type="text/css" media="print" /><link href="http://content.nasdaq.com/includes/OOV42/oo_style.css" rel="stylesheet" type="text/css" />
+<!-- END OO v4.1 -->
+
+</head>
+<body>
+
+
+
+<form name="aspnetForm" method="post" action="/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=9bfn5OaxVg0iI3gTzeAwWZV-6B2T2CIMpJdYjzQ6zPEmUyTvpTqqpbUnP9p8EbeXXOaFVNo1tBaRFTIwPmnTYAhsEKc1&amp;t=634605330709717464" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=uUAByw8T-y2970nTeqYji7wwBDMREzaOB2WwyiEoMuOpeUBqTv-bI5qUN700yqI6cXrVAHTmkvI-byVnMGsv62sHMhtEFlYxBnUixZMKR4PUvcFdEp1kGyG6-ylPVUziRIJJ84xCrIPYaiOhVQKmuINDe9o1&amp;t=efc0c6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=meXQXCIsQ8fD-ILtAeVB_srN26jFyg6Bj5qfusm9A0lFKAIp9D5aYd0EpuB7F0x__JIEHEStkCBy-i5kjx_aG-lt-Hf_d1jne1QGDMtO0-7u4reg5liOy0yiBKdlWxkg09k67wSbVPHtRjPgtjA_q-5125X6IOOjT91IHeeDlNl0NLSJ0&amp;t=efc0c6" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="k8jIf4XajiEC0A+5oEi1aOKLfFTqtT3fIe+keqPVieUiV1Qjy8MffeR8Gx3YMRrAuR17u9gpPQBFY/iq88IL4Ud3Q8BfuoQ5gzKJFI+zi3iIuiehNbNFEXJ9kM8Snjgz3ruHOQj7oNkxyIv1/PNxaIq9bCU=" />
+</div>
+<div id="container" style="width:997px;margin:auto">
+  <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$scriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$ContentPlaceHolder$AuthorTools$updatePanel','tctl00$ContentPlaceHolder$upd1'], ['ctl00$ContentPlaceHolder$AuthorTools$cmdFollow'], [], 90);
+//]]>
+</script>
+
+  <div id="wrapper">
+    <div id="header">
+      <!-- start http://www.nasdaq.com/includes/community_header.stm not .inc-->
+<!--**************************************Masthead and navigation******************************-->
+
+<script type="text/javascript" language="JavaScript" src="http://www.nasdaq.com/includes/masthead_default.js?v1"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.nasdaq.com/includes/DartAdEngine.js?v1"></script>
+<script type="text/javascript" language="javascript" src="http://www.nasdaq.com/dynamic_includes/marketstatus.js"></script>
+
+<!-- community header custom stylesheet - used to override global site styles -->
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/community_header.css" />
+
+<script type="text/javascript" language="JavaScript">
+  //<![CDATA[
+    if (navigator.appVersion.indexOf("Safari") != -1 && navigator.appVersion.indexOf("Chrome") == -1) 
+    {
+      document.write('<link rel="stylesheet" href="http://content.nasdaq.com/includes/consolidated/safari_08.css" media="all" />');
+    if(navigator.userAgent.toLowerCase().indexOf("ipad")!=-1)
+    {
+      document.write("<style>body{background:none;}</style>");
+    }
+    }
+</script>
+
+
+<!--[if IE 6]>
+  <link rel="stylesheet" href="http://community.nasdaq.com/common/styles/ie6.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+  <link rel="stylesheet" href="http://community.nasdaq.com/common/styles/ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+  <link rel="stylesheet" href="http://content.nasdaq.com/includes/ie8.css" type="text/css" />
+<![endif]-->
+
+
+<script type="text/javascript">
+  //<![CDATA[
+    
+	// is this Safari?
+	if (navigator.appVersion.indexOf("Safari") != -1 && navigator.appVersion.indexOf("Chrome") == -1) {
+		document.write('<link rel="stylesheet" href="http://content.nasdaq.com/includes/consolidated/safari_08.css" media="all" />');
+			
+			// if this is an iPad, ditch the background
+			if(navigator.userAgent.toLowerCase().indexOf("ipad") != -1) {
+				document.write("<style>body{background:none;}</style>");
+			}
+    }
+	
+	// are we on a Mac?
+	if (navigator.platform.indexOf("Mac") != -1) {
+		
+		// if it's specifically Mac Chrome
+		if (navigator.userAgent.indexOf("Chrome") != -1) {
+			document.write("<style type='text/css'>#navigation li { padding: 0 0 0 1px !important; }</style>");
+		} else {
+			// ...or if it's just a Mac
+			document.write("<style type='text/css'>#navigation li { padding: 0 0 0 2px !important; }</style>");
+		}
+	}		
+
+	          myPage='home';
+              sectionId = 'liCommunity';//section tab
+              breadCrumbId = 'Li1';//page
+              
+			  if(typeof is_dartSite == 'undefined')
+			  	  is_dartSite = "home";
+			  if(typeof is_dartZone == 'undefined')
+	              is_dartZone = "home";
+              //propVar = "home";
+        	  googlehints = "stock market, stock investment, trading account, real time stock quotes, investment advice, best investments, mutual funds, portfolio tracking, Stock trading, Personal Finance, Nasdaq stocks, interest rates, Forex trading, equity trading, Pre-market quotes, after hours trading, Business news, company profiles, technology news, Nasdaq companies, online stock";   
+		
+	//]]>
+    </script>
+
+<!-- 
+show Blackberry Playbook qfolio app download links for blackberry devices, also hide the feedback button 
+-->
+<script type="text/javascript">
+
+if(navigator.userAgent.match(/playbook/i)) 
+{
+	bodyEle = document.getElementsByTagName("body")[0];
+	var messagebox = document.createElement('div');
+	messagebox.setAttribute("style","text-align: left; font:12px arial; margin-left: 10px; padding-left: 9px; width: 980px; background-color: rgb(255, 255, 126); padding-bottom: 5px; margin-top: 5px; border-width: 3px; border-color: yellow; border-style: solid; padding-top: 5px;");
+	messagebox.innerHTML = '<b style="text-align:left">Looks like you are using the Blackberry Playbook,</b> <a target="_blank" href="http://appworld.blackberry.com/webstore/content/59913?lang=en ">download the Qfolio - NASDAQ OMX Portfolio Manager </a>';
+	bodyEle.insertBefore(messagebox,document.getElementById("container"));
+	document.write("<style>#oo_feedback_float{display:none;}</style>");
+}
+
+</script>
+
+<!-- 
+show ipad/iphone qfolio app download links for these devices, also hide the feedback button 
+-->
+<script type="text/javascript">
+
+if(navigator.userAgent.match(/iPhone/i)) 
+{
+	bodyEle = document.getElementsByTagName("body")[0];
+	var messagebox = document.createElement('div');
+	messagebox.setAttribute("style","text-align: left; font:12px arial; margin-left: 10px; padding-left: 9px; width: 980px; background-color: rgb(255, 255, 126); padding-bottom: 5px; margin-top: 5px; border-width: 3px; border-color: yellow; border-style: solid; padding-top: 5px;");
+	messagebox.innerHTML = '<b style="text-align:left">Looks like you are using the iPhone,</b> <a target="_blank" href="http://itunes.apple.com/us/app/qfolio-nasdaq-omx-portfolio/id334788512?mt=8">download the NASDAQ Qfolio iPhone App Now!</a>';
+	bodyEle.insertBefore(messagebox,document.getElementById("container"));
+	document.write("<style>#oo_feedback_float{display:none;}</style>");
+}
+else if(navigator.userAgent.match(/iPad/i))
+{
+	bodyEle = document.getElementsByTagName("body")[0];
+	var messagebox = document.createElement('div');
+	messagebox.setAttribute("style","text-align: left; font:12px arial; margin-left: 10px; padding-left: 9px; width: 980px; background-color: rgb(255, 255, 126); padding-bottom: 5px; margin-top: 5px; border-width: 3px; border-color: yellow; border-style: solid; padding-top: 5px;");
+	messagebox.innerHTML = '<b style="text-align:left">Looks like you are using the iPad,</b> <a target="_blank" href="http://itunes.apple.com/us/app/qfolio-hd-nasdaq-omx-portfolio/id364265462?mt=8">download the NASDAQ Qfolio HD iPad App Now!</a>';
+	bodyEle.insertBefore(messagebox,document.getElementById("container"));
+	document.write("<style>#oo_feedback_float{display:none;}</style>");
+}
+</script>
+
+<div id="branding">
+  <div id="branding-logo">
+	<a href="http://www.nasdaq.com/" title="NASDAQ"></a>
+  </div>
+
+  <!-- masthead ad -->
+  <div class="ad728x90">
+    <script type="text/javascript" language="JavaScript">makeAd('1','728x90',is_dartSite,is_dartZone,'','');</script>
+  </div>
+</div>
+
+
+<!-- start Quick Find section -->
+
+<script type="text/javascript" language="javascript">
+	setQuickFindQuoteLink();
+</script>
+
+<div id="quick-find">
+  <div class="quick-find-text" style="width:485px">
+    
+    <span class="quick-find-links" style="padding-left: 4px;">
+	  <a href="http://www.nasdaq.com"><img src="http://content.nasdaq.com/images/home_img-c.gif" style="width:12px;height:12px;margin-right:4px;margin-top:1px;" /><b>Home</b></a> |
+ 	  <a href="http://community.nasdaq.com/MyNasdaq.aspx">My NASDAQ</a> |
+      <a href="http://www.nasdaq.com/investing/tools.aspx">Tools</a> |
+       <a href="http://www.nasdaq.com/about/iphone/">Mobile</a> | 
+      <a href="http://www.nasdaq.com/screening/company-list.aspx">Company List</a> |
+	  <a href="http://www.nasdaq.com/investing/etfs">ETFs</a> |
+	  <a id="qfPMlink" href="http://www.nasdaq.com/quotes/premarket.aspx">Pre-Market Quotes</a>
+	  <a id="qfRTlink" href="http://www.nasdaq.com/quotes/real-time.aspx">Real-Time Quotes</a>
+	  <a id="qfAHlink" href="http://www.nasdaq.com/quotes/after-hours.aspx">After Hours Quotes</a>
+
+    </span>
+  </div>
+
+  <div class="search-social-box">
+    <a id="facebook" rel="nofollow" title="Become a fan on Facebook" href="http://www.facebook.com/NASDAQ">
+      <img src="http://www.nasdaq.com/images/facebook-16x16.png" alt="Become a fan on Facebook!" class="social-media-icon" style="margin-left: 6px !important;" />
+      </a>
+
+    <a id="twitter" title="Follow NASDAQ on Twitter"href="http://twitter.com/nasdaq">
+      <img src="http://www.nasdaq.com/images/twitter-16x16.png" alt="Follow us on Twitter!" class="social-media-icon" />
+      </a>
+
+    <a id="rss" title="Subscribe to our RSS Feed" href="http://www.nasdaq.com/services/rss.aspx">
+      <img src="http://www.nasdaq.com/images/feed-16x16.png" alt="Subscribe to our RSS Feed!" class="social-media-icon" />
+      </a>
+
+
+
+    <div class="search_container">
+      <div class="search-box">
+    
+<div id="dropdown-container">
+	<img class="arrow-dropdown" src="http://www.nasdaq.com/images/arrow-btn-down-2.jpg" alt="" onclick="handleSearchDropClick();"/>
+	<input class="searchbox" id="input-search-text" type="text" name="search" value="Site Search" style="color:#838383" onfocus="if(this.value=='Site Search'){this.value='';this.style.color='black';}" onkeypress="return handleSearchKeyPress(event)"/>
+	<input class="searchbox_submit" type="image" src="http://www.nasdaq.com/images/eyeglass-1.png" value="submit" alt="Search" onclick="return Cis_submitSearch();" />
+</div>
+<ul id="dropdown-look" style="display:none">
+	<li style="text-indent:0px" id="nSearchOption" class="see-highlight" onclick="selectSearchType(0,'nasdaqImg');" onmouseover="setST('nSearchOption','wSearchOption','lSearchOption')"><img src="http://www.nasdaq.com/images/check-box.jpg" id="nasdaqImg"/> Search NASDAQ</li>
+	<li style="text-indent:0px" id="wSearchOption" class="see-option" onclick="selectSearchType(1,'webImg');" onmouseover="setST('wSearchOption','nSearchOption','lSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="webImg"/> Search Web</li>
+	<li style="text-indent:0px" id="lSearchOption" class="see-option" onclick="selectSearchType(2,'localImg');" onmouseover="setST('lSearchOption','nSearchOption','wSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="localImg"/> Search Local</li>
+</ul>
+
+        <!-- search field -->
+        
+        <input name="site" value="dotcom_collection" type="hidden" />
+        <input name="client" value="default_frontend" type="hidden" />
+        <input name="proxystylesheet" value="default_frontend" type="hidden" />
+        <input name="output" value="xml_no_dtd" type="hidden" />
+        <input name="proxyreload" value="1" type="hidden" />
+    
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="register-login">
+    <div class="register">
+      <!--<span href="#">Register</span> | <span href="#" style="font-weight: bold;">Login</span>-->
+    		<script type="text/javascript">
+				showLoginStatus();					
+			</script>
+    </div>
+  </div>
+
+</div><!--end quick-find div-->
+
+<!--*****************************Begin includes/MainNav.inc**************************************************-->
+
+<!-- {{{{{{{{{{{{{{{{{{{ NOTE: update includes/MainNavPartner.inc with new changes as well }}}}}}}}}}}}}}}}}}}}}}}} -->
+
+<!--*****************************************Navigation Tabs ***************************************************-->
+
+<!-- start nav--> 
+
+<div id="main-nav-container"><!-- start main-nav-container--> 
+
+<ul id="main-nav"><!-- start main-nav-ul-->
+<!-- start Quotes and Research Section-->
+	<li id="liQuotes" class="mega" ><a href="http://www.nasdaq.com/quotes/"><span id="liQuotes-span">Quotes &amp; Research</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1" style="margin-left:10px;"><!--start mega-open-column1 (QR)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_quotes_on1_small.png')">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/">Stock Quotes</a>
+
+						</h3>
+					</li>
+				</ul>
+				<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-quotes.aspx" class="a-mega">Summary Quotes</a>
+
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/real-time.aspx" class="a-mega">Real Time Quotes</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/" class="a-mega">Extended Trading</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/options-chain.aspx" class="a-mega">Options Chain</a>
+
+								</p>
+							</li>
+							
+				</ul>
+				<ul class="mega-open-list">
+
+					
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_charts_on1_small.png')">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/stock-charts.aspx">Charts</a>
+
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-charts.aspx" class="a-mega">Basic Charts</a>
+
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/interactive-charts.aspx" class="a-mega">Interactive Charts</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_news_on1_small.png')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/company-news.aspx">Company News</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/company-news.aspx" class="a-mega">News</a>
+
+								</p>
+							</li>
+							
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/press-releases.aspx" class="a-mega">Press Releases</a>
+								</p>
+							</li>
+						</ul>
+
+			</div><!--end mega-open-column1 (QR)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (QR)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_news_on1_small.png')">
+						<h3>
+							<a class="no-link-no-hover">Company Profile</a>
+						</h3>
+					</li>
+
+				</ul>	
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-reports.aspx" class="a-mega">Stock Reports</a>
+								</p>
+							</li>
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/quotes/sec-filings.aspx" class="a-mega">SEC Fillings</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/short-interest.aspx" class="a-mega">Short Interest</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/business-competitors.aspx" class="a-mega">Competitors</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/ownership.aspx" class="a-mega">Ownership</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_fundamentals_on1_small.png')">
+						<h3>
+							<a class="no-link-no-hover">Fundamentals</a>
+						</h3>
+
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/company-financials.aspx" class="a-mega">Financials</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/revenue-eps.aspx" class="a-mega">Revenue EPS</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/analyst-research.aspx" class="a-mega">Analyst Research</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-guru-analysis.aspx" class="a-mega">Guru Analysis</a>
+								</p>
+							</li>
+						</ul>
+
+			</div><!--end mega-open-column2 (QR)-->
+		</div>
+	</li>
+	<!-- end Quotes and Research Section-->
+	
+	<!-- start Market Activity Section-->
+	<li id="liMarket" class="mega" ><a href="http://www.nasdaq.com/markets/"><span id="liMarket-span">Market Activity</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (MA)-->
+				<ul class="mega-open-list">
+			
+
+					<li class="mega_bb">			
+						<h3>
+							<a href="http://www.nasdaq.com/extended-trading/">Extended Hours</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/premarket-mostactive.aspx" class="a-mega">Pre-Market Activity</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/afterhours-mostactive.aspx" class="a-mega">After Hours Activity</a>
+								</p>
+							</li>
+
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Stocks</a>
+
+						</h3>
+					</li>
+				</ul>
+				
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://dynamic.nasdaq.com/aspx/mostactive.aspx" class="a-mega">Most Active</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/unusual-volume.aspx" class="a-mega">Unusual Volume</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/aspx/52-week-high-low.aspx" class="a-mega">52 Week High/Low</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/reference/upcoming_splits.stm" class="a-mega">Upcoming Splits</a>
+								</p>
+							</li>
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/reference/sec_filings_n.stm" class="a-mega">New SEC Filings</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/ipos" class="a-mega">IPO Summary</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/earnings-calendar.aspx " class="a-mega">Earnings Calendar</a>
+								</p>
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column1 (MA)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (MA)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/commodities.aspx">Commodities</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/etfs/">ETFs</a>
+						</h3>
+					</li>
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/reference/BarChartSectors.stm">Sector Analysis</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/global-markets.aspx">Global Markets</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Analyst Activity</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/daily-analyst-recommendations.aspx" class="a-mega">Upgrades/Downgrades</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/analyst-forecast-change.aspx" class="a-mega">Forecast Changes</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/daily-earnings-surprise.aspx" class="a-mega">Earning Surprises</a>
+								</p>
+							</li>
+
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Indices</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/indices/major-indices.aspx" class="a-mega">Market Indices</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/indices/sector-indices.aspx" class="a-mega">Sector Indices</a>
+
+								</p>
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column2 (MA)-->
+		</div>   
+    </li>
+
+	<!-- end Market Activity Section-->
+	
+	<!-- start News and Commentary Section-->
+    <li id="liNews" class="mega" ><a href="http://www.nasdaq.com/news/"><span id="liNews-span">News &amp; Commentary</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (NI)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/company-news.aspx">Company News</a>
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/market-headlines.aspx">Market Headlines</a>
+						</h3>
+					</li>
+					<li class="mega_bb no-border-dotted">			
+						<h3>
+                            <a href="http://www.nasdaq.com/marketstream/"><img style="vertical-align:middle;margin:0 2px 2px -1px;" src="http://www.nasdaq.com/images/new-stream-icon.png">Market Stream</a>
+						</h3>
+
+					</li>
+				</ul>
+			</div><!--end mega-open-column1 (NI)-->
+			<div class="mega-open-column2" style="padding-right:20px;"><!--start mega-open-column2 (NI)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/us-economic-calendar.aspx">Economic Calendar</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/market-summary.aspx">Moving the Market</a>
+
+						</h3>
+					</li>
+                       <li class="mega_bb no-border-dotted">
+						<h3>
+							<a href="http://www.nasdaq.com/video/video.aspx">Business Video</a>
+						</h3>
+					</li>
+				</ul>
+
+			</div><!--end mega-open-column2 (NI)-->
+			<div id="CommunityNewID"><!--start Featured Articles Section (NI)-->
+	<h3 class="featured-articles-header background">Video of the Day</h3>
+
+<!--************* START News and Commentary Featured Articles section **************************-->
+	<!-- START includes/main-navigation-featured-article.inc -->
+
+<table height="101px">
+	<tr>
+		<td valign="top"><a href="http://www.nasdaq.com/video/video.aspx?vid=Best-Cities-for-Every-Stage_of-Your-Life-517445359"><img src="http://www.nasdaq.com/images/Best-Cities.jpg" alt="Play Video" border="0"></a></td>
+		<td width="5">&nbsp;</td>
+		<td valign="top"><a href="http://www.nasdaq.com/video/video.aspx?vid=Best-Cities-for-Every-Stage_of-Your-Life-517445359">The Best Cities For You</a><br /><div style="font-size: small">Kiplinger's Andrea Browne highlights the best cities for various stages of life: young adults, mid-career professionals, families, second acts and retirees.<br /><a href="http://www.nasdaq.com/video/video.aspx">More Business Videos</a></div></td>
+	</tr>
+	
+</table> 
+		
+	<!-- END includes/main-navigation-featured-article.inc -->
+<!--************* END News and Commentary Featured Articles section **************************-->
+
+
+
+
+ 
+
+            </div><!--end Featured Articles Section (NI)-->
+		</div>    
+    </li>
+	<!-- end News and Commentary Section-->
+	
+	<!-- start Investing Insight Section-->
+	<li id="liInvesting" class="mega" ><a href="http://www.nasdaq.com/investing/"><span id="liInvesting-span">Investing Insight</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-left"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (IS)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/how-to-invest.aspx">How to Invest</a>
+						</h3>
+					</li>
+				</ul>
+
+						<ul class="sub-mega-open-list">
+							
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/how-to-invest.aspx" class="a-mega">Investing Basics</a>
+
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/online-brokers.stm" class="a-mega">Broker Comparison</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/glossary/" class="a-mega">Glossary</a>
+
+								</p>
+							</li>
+						</ul>
+	
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/stocks.aspx">Stocks</a>
+						</h3>
+					</li>
+
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/etfs/">ETFs</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/options.aspx">Options</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/bonds.aspx">Bonds</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/forex/">Forex</a>
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/investing/mutual-funds.aspx">Mutual Funds</a>
+						</h3>
+					</li>
+					<li class="mega_bb no-border-dotted" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/advisor/">Financial Advisor Center</a>
+						</h3>
+					</li>
+				</ul>
+			</div><!--end mega-open-column1 (IS)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (IS)-->
+				<ul class="mega-open-list">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/personal-finance/">Personal Finance</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/retirement.aspx" class="a-mega">Retirement</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/real-estate.aspx" class="a-mega">Real Estate</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/college.aspx" class="a-mega">College</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/franchise.aspx" class="a-mega">Franchising</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/insurance.aspx" class="a-mega">Insurance</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://careers.nasdaq.com/" class="a-mega">Careers</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/small-business.aspx" class="a-mega">Small Business</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+						<a href="http://www.nasdaq.com/investing/tools.aspx">Investing Tools</a>
+						</h3>
+
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/reference/StockScreener.stm" class="a-mega">Stock Screener</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/guru/guru-stock-screener.aspx" class="a-mega">Guru Screener</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://quotes.nasdaq.com/screening/heatmaps.stm" class="a-mega">Heatmaps</a>
+
+								</p>
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column2 (IS)-->
+		</div> 
+	</li>
+	<!-- end Investing Insight Section-->
+
+	
+	<!-- start My NASDAQ Section-->
+    <li id="liCommunity" class="mega"><a href="http://community.nasdaq.com/MyNasdaq.aspx"><span id="liCommunity-span">My NASDAQ</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-left" style="*margin-top:0;"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (MS)-->
+				<ul class="mega-open-list">
+					
+					<li class="mega_bb">			
+						<h3>
+							<a href="http://community.nasdaq.com/MyPortfolio.aspx">My Portfolio</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/MyRatings.aspx">Stock Ratings</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/community-settings.aspx">Settings</a>
+						</h3>
+					</li>
+
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=account" class="a-mega">My Account</a>
+								</p>
+
+							</li>
+							<li>
+
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=profile" class="a-mega">Edit Profile</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/manage-connections.aspx" class="a-mega">Connnections</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=photo" class="a-mega">Profile Photo</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=articles" class="a-mega">Articles</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=alerts" class="a-mega">Alerts</a>
+								</p>
+							</li>
+
+						</ul>
+
+			</div><!--end mega-open-column1 (MS)-->
+
+			<script type="text/javascript" language="javascript">
+				displayLoginStatus();
+			</script>
+			
+			<div id="communityNotLoggedIn" class="mega-open-column2" style="width:180px;"><!--start mega-open-column2(MS)-->
+				<ul class="mega-open-list">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/">Community Home</a>
+						</h3>
+
+					</li>
+				
+					<li class="mega-community-text">
+						<p>
+							Join the NASDAQ Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!
+
+
+						</p>
+					</li>
+	
+					<li class="mega-community-btn">
+						<a href="http://community.nasdaq.com/register.aspx" class="button bold" id="join-today">
+							<span>Join Today</span>
+						</a>
+					</li>
+					
+					<li class="mega_bb" style="padding-top:30px;">
+
+						<h3>
+							<a class="no-link-no-hover">Already a member?</a>
+						</h3>
+					</li>
+					<li class="mega-community-btn" style="width:45px;">
+						<a href="http://community.nasdaq.com/login.aspx" class="button bold" id="login">
+							<span>Login</span>
+						</a>
+
+					</li>
+				</ul>	
+			</div><!--end mega-open-column2(MS)-->
+
+			<div id="communityLoggedIn">
+				<ul id="communityLoggedIn-ul" class="mega-open-list">
+
+					<li class="mega_bb no-border-dotted">
+						<h3>
+							<a href="http://community.nasdaq.com/">Community Home</a>
+						</h3>
+
+					</li>
+				</ul>
+			
+				<div class="mega-open-column-bg" style="width:170px;"><!--start mega-open-column2(MS) user logged in-->
+				<ul class="mega-open-list" style="text-align:center;width:150px;">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/Profiles/Profile.aspx" >Hello, 
+								<script type="text/javascript" language="javascript">
+									displayName();
+								</script>
+							</a>
+						</h3>
+
+					</li>
+					<li class="mega_bb" style="padding-bottom:5px;">
+							<script type="text/javascript" language="javascript">
+								displayAvatar();
+							</script>
+					</li>
+					<li class="mega-community-text">
+						<p><a href="http://community.nasdaq.com/Profiles/Profile.aspx">View Profile</a></p>
+					</li>
+					<li class="mega-community-btn" style="width:45px;padding-left:35px; *padding-left:0;">
+						<a href="http://community.nasdaq.com/common/templates/logout.aspx" class="button bold">
+							<span>Logout</span>
+						</a>
+					</li>
+				</ul>
+			</div><!--end mega-open-column-bg-->	
+			</div><!--communityLoggedIn div user logged in-->
+
+		</div><!--end mega-open div-->   
+
+    </li>
+	<!-- end My NASDAQ Section-->
+	
+</ul><!-- end main-nav-->
+</div><!-- end main-nav-containter-->
+<!-- end main-nav-->
+<!--*****************************************End Navigation Tabs ***************************************************-->
+
+<!--*****************************************End Main Page Header ***************************************************-->
+
+<script type="text/javascript" src="http://www.nasdaq.com/includes/mainnav-2.js"></script>
+
+<!--[if IE 6]>
+<script type="text/javascript">
+ie6Hover();
+</script>
+<![endif]-->
+
+
+<div class="IR">
+
+<table id="index_row_us">
+	<tr>         
+		<td id="index_row_time"><script type="text/javascript" src="http://www.nasdaq.com/aspx/indexrowhtml.aspx?indexname=time"></script></td>					
+		<td><script type="text/javascript" src="http://www.nasdaq.com/aspx/indexrowhtml.aspx?indexname=NasdaqDjiaspx"></script></td>
+    </tr>
+</table>
+
+<div id="index_row_ad_us">
+<script type="text/javascript" language="javascript">makeAd('2','185x35',is_dartSite,is_dartZone,'','');</script>
+</div>
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+	    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script>
+	
+	<script type="text/javascript">
+	  COMSCORE.beacon({
+	    c1:2,
+	    c2:6927109,
+	    c3:"",
+	    c4:"",
+	    c5:"",
+	    c6:"",
+	    c15:""
+	  });
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6927109&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore Tag" />
+	</noscript>
+	<!-- End comScore Tag -->
+</div><!--end IR div-->
+
+
+<!--*****************************End includes/MainNav.inc**************************************************-->
+
+
+
+
+
+
+
+
+<!-- end http://www.nasdaq.com/includes/community_header.stm not .inc-->
+
+
+
+    </div>
+    <div id="content" class="clearfix">
+      
+<div id="memberInfoCenter">
+	     
+    
+	<div class="profile-status">
+		<a id="ctl00_UserStatusHeader_hlRegister" class="register-link" href="/register.aspx">Register</a>
+			<span style="padding:0px 5px 0px 5px;color:#aaa;">|</span>
+		<a id="ctl00_UserStatusHeader_hlLogin" class="login-link" href="/login.aspx?returnurl=%2fNews%2f2012-09%2ffslr-solar-project-production-peaks-analyst-blog.aspx%3fstoryid%3d172154">Log in</a>
+	</div>
+    
+</div>
+      
+    
+    <span id="ctl00_ContentPlaceHolder_LabelArticleTitle" class="articletemph1"><h1>FSLR Solar Project Production Peaks - Analyst Blog</h1></span>
+    <div id="leftCol" class="articletemp" style="overflow:hidden">
+        <div id="moreArticleInfo">
+            
+            <div id="moreFromSponsor">
+                <a target="_blank" href="http://www.zacks.com/"><img src="/common/images/zacks.gif" alt="Zacks.com" width="160px" /></a>
+                <div id="ctl00_ContentPlaceHolder_AuthorTools_updatePanel">
+	
+        <ul id="sponsorSocialTools">
+            <li><a id="ctl00_ContentPlaceHolder_AuthorTools_cmdFollow" href="javascript:__doPostBack('ctl00$ContentPlaceHolder$AuthorTools$cmdFollow','')">Follow</a> Zacks.com</li>
+            <li><a id="ctl00_ContentPlaceHolder_AuthorTools_hlSeeMore" href="http://community.nasdaq.com/articles-by-author.aspx?username=zacks">See all</a> from Zacks.com</li>
+        </ul>
+	
+</div>
+                
+
+            </div>
+            
+
+<style type="text/css">
+.at300bs at15t_compact { display:inline-block; }
+</style>
+
+<div id="articleToolBox">
+    <p><strong>Article Tools:</strong></p>
+    <ul>
+		
+        <li><a href="http://www.stumbleupon.com/submit?url=http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154"
+            id="atStumble">Stumble It</a></li>
+        <li><a href="http://twitter.com/home?status=http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154" id="atTweet">Tweet It</a></li>
+        <li><a href="http://www.facebook.com/share.php?u=http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154"
+            id="atFacebook">Facebook</a></li>
+        <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154&amp;summary=&amp;source="
+            id="atLinked">LinkedIn</a></li>
+        <li>
+		
+         <!-- AddThis Button BEGIN -->
+         
+          <a style="padding-left:1px;" href="http://www.addthis.com/bookmark.php?v=250&amp;username=nasdaq" class="addthis_button_compact">Share It</a>
+        
+         <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+         <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nasdaq"></script>
+         <!-- AddThis Button END -->
+       </li>       
+    </ul>
+</div>
+
+            
+            
+			
+		<div id="referencedStocks">
+			<p><strong>Referenced Stocks</strong></p>
+			<ul>
+				
+		<li>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl0_sq" class="ticker" href="http://www.nasdaq.com/symbol/fslr">FSLR</a>	
+			<span class="bullRating">80%</span>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl0_rateit" class="rateIt" href="/RatingEntry.aspx?symbol=FSLR#short-form">Rate It</a>
+		</li>
+	
+		<li>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl1_sq" class="ticker" href="http://www.nasdaq.com/symbol/mw">MW</a>	
+			<span class='noRating'>0%</span>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl1_rateit" class="rateIt" href="/RatingEntry.aspx?symbol=MW#short-form">Rate It</a>
+		</li>
+	
+		<li>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl2_sq" class="ticker" href="http://www.nasdaq.com/symbol/nrg">NRG</a>	
+			<span class='noRating'>0%</span>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl2_rateit" class="rateIt" href="/RatingEntry.aspx?symbol=NRG#short-form">Rate It</a>
+		</li>
+	
+		<li>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl3_sq" class="ticker" href="http://www.nasdaq.com/symbol/pcg">PCG</a>	
+			<span class='noRating'>0%</span>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl3_rateit" class="rateIt" href="/RatingEntry.aspx?symbol=PCG#short-form">Rate It</a>
+		</li>
+	
+		<li>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl4_sq" class="ticker" href="http://www.nasdaq.com/symbol/spwr">SPWR</a>	
+			<span class="bullRating">100%</span>
+			<a id="ctl00_ContentPlaceHolder_ArticleReferencedStocks1_ReferencedStocks_ctrl4_rateit" class="rateIt" href="/RatingEntry.aspx?symbol=SPWR#short-form">Rate It</a>
+		</li>
+	
+			</ul>
+		</div>
+	
+        </div>
+        <div id="articleText">
+			
+            <div id="articleInfo" style="font-size: 11px; color: #a1a1a1; padding-bottom: 7px;
+				border-bottom: 1px solid #ddd;">
+				<div id="article-meta">
+					Posted
+					9/11/2012 5:23 PM&nbsp;by Shikha Kansal&nbsp;from <a id="ctl00_ContentPlaceHolder_companyhl" href="http://community.nasdaq.com/articles-by-author.aspx?username=zacks">Zacks.com</a> in <a href="http://www.nasdaq.com/investing/">Investing</a>, <a href="http://community.nasdaq.com/articles-by-category.aspx?category=business">Business</a>, <a href="http://www.nasdaq.com/investing/stocks.stm">Stocks</a>
+				</div>
+				<span id="ctl00_ContentPlaceHolder_upd1">
+						<div id="article-comments-ratings" style="margin-top:4px;">
+							
+							<span id="commentcount"><a href="#comments" id="comments-link" class="comments"><span>0 comments</span></a></span>
+							<span id="seperator">|</span>
+							<span id="ratings">
+								<a id="ctl00_ContentPlaceHolder_ilikedit" class="rating like" href="javascript:__doPostBack('ctl00$ContentPlaceHolder$ilikedit','')">
+										<span>Like it</span>
+									</a><a id="ctl00_ContentPlaceHolder_idislikedit" class="rating dislike" href="javascript:__doPostBack('ctl00$ContentPlaceHolder$idislikedit','')">
+										<span>Don't like it</span>
+									</a>
+								
+							</span>
+							<div style="float:right;margin-right:160px;">
+								<div id="ctl00_ContentPlaceHolder_UpdateProgress" style="display:none;">
+	<img src="/common/images/ajax-loader.gif" alt="loading" />
+</div>
+							</div>
+						</div>
+					</span>
+					<div id="article-referenced-stocks">
+						Referenced Stocks: <a href="http://www.nasdaq.com/symbol/fslr">FSLR</a>, <a href="http://www.nasdaq.com/symbol/mw">MW</a>, <a href="http://www.nasdaq.com/symbol/nrg">NRG</a>, <a href="http://www.nasdaq.com/symbol/pcg">PCG</a>, <a href="http://www.nasdaq.com/symbol/spwr">SPWR</a>
+					</div>
+				
+			</div>
+			
+            <div style="clear: left"></div>            
+			<script type="text/javascript">
+				var dc_AdLinkColor = 'blue';
+				var dc_isBoldActive= 'no';
+				var dc_PublisherID = 137065;
+			</script>
+			<div class="KonaBody">
+				
+            	<p>
+<p>
+<strong>First Solar, Inc.</strong>
+
+(
+<a href="http://www.nasdaq.com/symbol/fslr" rel="nofollow">FSLR</a>
+
+) has declared that 290 megawatts (MW) Agua Caliente solar project
+has accomplished a peak generating capacity of 250 MW AC. Located
+in Yuma County, Arizona, the plant is under construction and will
+be the world's largest operating photovoltaic (PV) power plant.</p>
+
+<p>Initial construction work of the project had begun at the end of
+2010 and the solar module installation was started back in June
+2011. Installation of solar module included modern system layout
+and design, optimized balance-of-system components, and integrated
+work-flow engineering.</p>
+
+<p>Just after seven months of installation of solar module in
+January 2012, the project began generating 30 MW of clean
+electricity. It began generating more than 100 MW of grid-connected
+power this spring and 200 MW of power recently in summer 2012. The
+$1.8 billion project is expected to be completed in 2014.</p>
+
+<p>The project is expected to create 400 to 450 construction jobs.
+When fully operational, the project will offset approximately 5.5
+million metric tons of CO2 over 25 years, which is equivalent of
+taking over 40,000 cars off the road annually serving more than
+225,000 homes.
+<br />
+
+<br />
+
+First Solar is engaged in designing and constructing the project
+using its advanced thin-film photovoltaic modules. The plant is
+owned by
+<strong>NRG Energy Inc.</strong>
+
+(
+<a href="http://www.nasdaq.com/symbol/nrg" rel="nofollow">NRG</a>
+
+) and MidAmerican Energy Holdings Co. Under a 25-year agreement,
+the energy generated from the project will be sold to Pacific Gas
+and Electric Company, a subsidiary of
+<strong>PG&amp;E Corporation</strong>
+
+(
+<a href="http://www.nasdaq.com/symbol/pcg" rel="nofollow">PCG</a>
+
+). The Agua Caliente project is being financed with support from a
+loan guarantee from the U.S. Department of Energy's Loan Programs
+Office.
+<br />
+
+<br />
+
+As the project has already completed 85% of its construction before
+schedule and has met all of its contractual milestones to date and
+exceeded targets for the speed, quality and safety of the
+construction process, First Solar has stopped panel deliveries to
+the project. Till January 2013, the company will neither ship
+additional modules nor will install panels at the project.
+<br />
+
+<br />
+
+First Solar Inc. designs, manufactures and sells solar electric
+power modules using a proprietary thin film semiconductor
+technology. This current achievement demonstrates the company's
+knowledge gained over years of experience in designing, building
+and operating utility-scale solar projects for leading utilities
+and energy providers.
+<br />
+
+<br />
+
+The company makes cadmium telluride glass substrate-based thin film
+photovoltaic panels. However, unlike silicon-based solar cell
+manufacturers (who produce crystalline silicon PV cells), First
+Solar makes thin-film PV panels on glass substrates. First Solar is
+the largest player by volume in this niche segment. Though First
+Solar's solar cells convert sunlight to electricity less
+efficiently than traditional silicon PV modules, thin film PV cells
+have an advantage in producing electricity even in low light.
+<br />
+
+<br />
+
+The company, however, is currently witnessing a steep drop in
+Average Selling Prices, like its peers
+<strong>Suntech Power Holdings Co. Ltd.</strong>
+
+(
+<a href="http://www.nasdaq.com/symbol/stp" rel="nofollow">STP</a>
+
+) and
+<strong>SunPower Corporation</strong>
+
+(
+<a href="http://www.nasdaq.com/symbol/spwr" rel="nofollow">SPWR</a>
+
+). Also, the current macro scenario does not bode well for the
+solar industry, which thrives mainly on subsidies and grants.</p>
+
+<p>However, in order to counter the weak trend, the company is
+focusing more on utility-scale electricity power projects.
+Moreover, First Solar is partially compensating for its drop in
+margins through a major restructuring of its operations initiated
+in April.
+<br />
+
+<br />
+
+The company presently retains a short-term Zacks #2 Rank (Buy). We
+have a long-term Neutral recommendation on the stock.</p>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/registration/pfp?ALERT=ZER_LINK&amp;d_alert=ZER_CONF&amp;t=FSLR&amp;ADID=NASDAQ_CONTENT_ZER"
+ rel="nofollow">FIRST SOLAR INC (FSLR): Free Stock Analysis
+Report</a>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/registration/pfp?ALERT=ZER_LINK&amp;d_alert=ZER_CONF&amp;t=NRG&amp;ADID=NASDAQ_CONTENT_ZER"
+ rel="nofollow">NRG ENERGY INC (NRG): Free Stock Analysis
+Report</a>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/registration/pfp?ALERT=ZER_LINK&amp;d_alert=ZER_CONF&amp;t=PCG&amp;ADID=NASDAQ_CONTENT_ZER"
+ rel="nofollow">PG&amp;E CORP (PCG): Free Stock Analysis Report</a>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/registration/pfp?ALERT=ZER_LINK&amp;d_alert=ZER_CONF&amp;t=SPWR&amp;ADID=NASDAQ_CONTENT_ZER"
+ rel="nofollow">SUNPOWER CORP-A (SPWR): Free Stock Analysis
+Report</a>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/registration/pfp?ALERT=ZER_LINK&amp;d_alert=ZER_CONF&amp;t=STP&amp;ADID=NASDAQ_CONTENT_ZER"
+ rel="nofollow">SUNTECH PWR HLD (STP): Free Stock Analysis
+Report</a>
+
+<br />
+
+&#160;
+<br />
+
+<a
+href="http://www.zacks.com/stock/news/82702/fslr-solar-project-production-peaks"
+ rel="nofollow">To read this article on Zacks.com click here.</a>
+
+<br />
+
+&#160;
+<br />
+
+<a href="http://www.zacks.com/" rel="nofollow">Zacks Investment
+Research</a>
+</p>
+			</div>
+            
+            
+				<p><em>The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of The NASDAQ OMX Group, Inc.</em></p>
+            
+        </div>
+
+<!-- START social section -->
+		<div id="article-social">
+			<div id="article-social-inner">
+		        <div class="article-social-inner-text">
+					Did you like this article? &nbsp;&nbsp;
+				</div><!--end text-->
+
+					<div class="google-plus-one-container">
+					<g:plusone size="medium" callback="" href="'http\x3a\x2f\x2fcommunity.nasdaq.com\x2fNews\x2f2012-09\x2ffslr-solar-project-production-peaks-analyst-blog.aspx\x3fstoryid\x3d172154'"></g:plusone>&nbsp;&nbsp;
+					</div><!-- end google plus one-->
+
+					<!-- START facebook like iframe-->
+					<div class="facebook-container">
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fcommunity.nasdaq.com%2fNews%2f2012-09%2ffslr-solar-project-production-peaks-analyst-blog.aspx%3fstoryid%3d172154&amp;layout=button_count&amp;show_faces=true&amp;width=170&amp;action=recommend&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; vertical-align:middle; overflow:hidden; width:170px; height:21px;" allowTransparency="true"></iframe>
+					</div><!-- END facebook like iframe-->
+		    	
+		        <div class="tweet-meme-container">
+					<script type="text/javascript">
+						tweetmeme_style = 'compact';
+						tweetmeme_source = 'nasdaq';
+						tweetmeme_service = 'bit.ly';
+						service_api = 'R_860ccd8221735718d7cafa4e86377ddf';
+					</script>
+					<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+				</div> <!-- end tweet meme -->  
+
+				<div class="linkedin-container">
+					<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="right"></script>
+				</div>
+
+			</div><!--end article-social-inner div-->
+		</div><!--end article-social div-->
+<!-- END social section -->
+
+		<!-- video strip -->
+		<br />
+		<h2 class="border-bottom" style="margin-bottom:0px;width:640px">Latest News Video</h2>
+		<div style="height:160px;width:640px;float:left">
+			<div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Dow Jumps to Near Five-Year High" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Jumps-to-Near-Five-Year-High-517476393"><img alt="Dow Jumps to Near Five-Year High" src="http://pthumbnails.5min.com/10349528/517476393_c.jpg" height="100" width="150"/></a><br /><a title="Dow Jumps to Near Five-Year High" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Jumps-to-Near-Five-Year-High-517476393">Dow Jumps to Near Five-Year High</a> &nbsp;&nbsp;&nbsp;<div class='play-button' style='top:36px;left:58px'><a title="Dow Jumps to Near Five-Year High" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Jumps-to-Near-Five-Year-High-517476393"><img src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Tuesday Sector Leaders: Non-Precious Metals &amp; Non-Metallic Mining, Metals &amp; Mining Stocks" href="http://www.nasdaq.com/video/video.aspx?vid=Tuesday-Sector-Leaders-Non-Precious-Metals--Non-Metallic-Mining-Metals--Mining-Stocks-517475846"><img alt="Tuesday Sector Leaders: Non-Precious Metals &amp; Non-Metallic Mining, Metals &amp; Mining Stocks" src="http://pthumbnails.5min.com/10349517/517475846_c.jpg" height="100" width="150"/></a><br /><a title="Tuesday Sector Leaders: Non-Precious Metals &amp; Non-Metallic Mining, Metals &amp; Mining Stocks" href="http://www.nasdaq.com/video/video.aspx?vid=Tuesday-Sector-Leaders-Non-Precious-Metals--Non-Metallic-Mining-Metals--Mining-Stocks-517475846">Tuesday Sector Leaders: Non-Preciou...</a> <div class='play-button' style='top:36px;left:58px'><a title="Tuesday Sector Leaders: Non-Precious Metals &amp; Non-Metallic Mining, Metals &amp; Mining Stocks" href="http://www.nasdaq.com/video/video.aspx?vid=Tuesday-Sector-Leaders-Non-Precious-Metals--Non-Metallic-Mining-Metals--Mining-Stocks-517475846"><img src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Global Stocks Mixed, Dow Opens Higher" href="http://www.nasdaq.com/video/video.aspx?vid=Global-Stocks-Mixed-Dow-Opens-Higher-517475783"><img alt="Global Stocks Mixed, Dow Opens Higher" src="http://pthumbnails.5min.com/10349516/517475783_c.jpg" height="100" width="150"/></a><br /><a title="Global Stocks Mixed, Dow Opens Higher" href="http://www.nasdaq.com/video/video.aspx?vid=Global-Stocks-Mixed-Dow-Opens-Higher-517475783">Global Stocks Mixed, Dow Opens High...</a> <div class='play-button' style='top:36px;left:58px'><a title="Global Stocks Mixed, Dow Opens Higher" href="http://www.nasdaq.com/video/video.aspx?vid=Global-Stocks-Mixed-Dow-Opens-Higher-517475783"><img src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Dow Aims for Higher Opening" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Aims-for-Higher-Opening-517475641"><img alt="Dow Aims for Higher Opening" src="http://pthumbnails.5min.com/10349513/517475641_c.jpg" height="100" width="150"/></a><br /><a title="Dow Aims for Higher Opening" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Aims-for-Higher-Opening-517475641">Dow Aims for Higher Opening</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class='play-button' style='top:36px;left:58px'><a title="Dow Aims for Higher Opening" href="http://www.nasdaq.com/video/video.aspx?vid=Dow-Aims-for-Higher-Opening-517475641"><img src='http://www.nasdaq.com/images/play-button.png' /></a></div></div>
+		</div>
+		<br /><br />
+
+  		
+
+<div id="related-articles">
+	<div id="related-articles-inner">
+		
+				<p style="color:#555555;font-weight:bold;padding:5px 0 10px 5px;">Related Stocks Articles</p>
+				<ul class="related-articles">
+					
+				<li>
+					<div class="avatar">
+						<img id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl0_imgavatar" src="/common/images/wyattresearch-small.gif" alt="Wyatt Investment Research" style="border-width:0px;" />
+					</div>
+					
+					<div class="text">
+						<a id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl0_article" href="http://community.nasdaq.com/News/2012-09/texas-land-sale-boosts-chesapeake-energy-chk.aspx?storyid=172177">Texas Land Sale Boosts Chesapeake Energy (CHK)</a>
+					
+						<br />
+						
+						<span style="font-size:11px; color:#555;">
+							Sep 11, 2012
+						</span>
+					</div>
+				</li>
+			
+				<li>
+					<div class="avatar">
+						<img id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl1_imgavatar" src="/common/images/cabot-logo-small.png" alt="Cabot Heritage Corporation" style="border-width:0px;" />
+					</div>
+					
+					<div class="text">
+						<a id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl1_article" href="http://community.nasdaq.com/News/2012-09/how-to-pick-good-stocks.aspx?storyid=172057">How to Pick Good Stocks</a>
+					
+						<br />
+						
+						<span style="font-size:11px; color:#555;">
+							Sep 11, 2012
+						</span>
+					</div>
+				</li>
+			
+				<li>
+					<div class="avatar">
+						<img id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl2_imgavatar" src="/common/images/magoon-small.jpg" alt="Christian Magoon" style="border-width:0px;" />
+					</div>
+					
+					<div class="text">
+						<a id="ctl00_ContentPlaceHolder_RelatedArticles1_lvStories_ctrl2_article" href="http://community.nasdaq.com/News/2012-09/when-etfs-battle-investors-win.aspx?storyid=171966">When ETFs Battle, Investors Win</a>
+					
+						<br />
+						
+						<span style="font-size:11px; color:#555;">
+							Sep 11, 2012
+						</span>
+					</div>
+				</li>
+			
+				</ul>
+			
+	</div>
+</div>
+
+        
+        <div id="article-tools">
+            <div id="article-tools-inner" style="clear:both;">
+                <p style="font-weight:bold; color:#555555;padding:5px 0 10px 5px;">
+                    For more <a href="http://community.nasdaq.com/articles-by-category.aspx?category=Stocks" id="ctl00_ContentPlaceHolder_categorylink">Stocks News &amp; Commentary</a>:</p>
+                
+                <a href="http://articlefeeds.nasdaq.com/nasdaq/categories?category=Stocks" id="ctl00_ContentPlaceHolder_categoryfeed" class="article-tool rss">
+                    <span>Stocks Feed</span>
+                </a>
+                
+                <a href="http://articlefeeds.nasdaq.com/nasdaq/authors?author=zacks" id="ctl00_ContentPlaceHolder_authorfeed" class="article-tool rss">
+                    <span>Zacks.com Feed</span>
+                </a>
+                
+                <a class="article-tool twitter" href="http://www.twitter.com/nasdaq">
+                    <span class="double">Follow NASDAQ on Twitter</span>
+                </a>
+                <a class="article-tool facebook" href="http://www.facebook.com/NASDAQ">
+                    <span class="double">Follow NASDAQ on Facebook</span>
+                </a>                
+            
+            </div>
+        </div>        
+        
+		<a name="comments">&nbsp;</a> 
+        
+			<p><a id="ctl00_ContentPlaceHolder_add_comment" href="https://community.nasdaq.com/login.aspx?returnurl=http%3a%2f%2fcommunity.nasdaq.com%2fNews%2f2012-09%2ffslr-solar-project-production-peaks-analyst-blog.aspx%3fstoryid%3d172154">Add a Comment</a></p>
+        
+        
+        
+        <script type="text/javascript">
+        	var rpxJsHost = (("https:" === document.location.protocol) ? "https://" : "http://static.");
+        	//
+        	document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+			RPXNOW.init({ appId: 'mblbicpkdhgkcpdhcalb',
+				xdReceiver: '/rpx_xdcomm.html'
+			});			
+		</script>
+		
+                
+        
+    	<script type="text/javascript">
+			var fcb = function(results) 
+			{
+				//results.success; A boolean indicating whether an attempted social publish to this provider was successful 
+				//results.provider_name; The name of the provider shown in the overlay
+				//results.attempted; A boolean indicating whether the user attempted to publish to this provider 
+				//results.provider_activity_url; Possibly null; the URL of the activity update, when available from the provider 
+				//var pageId = '__Page';
+				//__doPostBack(pageId, 'posted');
+			};
+
+			var disqus_callback = function() {
+
+				var ss_comment_sent_hook = function(message) {
+
+					//RPXNOW.loadAndRun(['Social'], function() {
+					//	var activity = new RPXNOW.Social.Activity(
+					//	"Share your comment",
+					//	message.message.post_meta.message,
+					//	'http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154#' + message.message.id);
+					//	RPXNOW.Social.publishActivity(activity,	{finishCallback:fcb});
+					//
+					//});
+
+					$.post('/common/templates/CommentPosted.aspx',
+						 {"comment": message.message.post_meta.message,
+						  "contentid": 172154,
+						  "referrer": 'http\x3a\x2f\x2fcommunity.nasdaq.com\x2fNews\x2f2012-09\x2ffslr-solar-project-production-peaks-analyst-blog.aspx\x3fstoryid\x3d172154',
+						  "parentpostid": message.message.post_meta.parent_post_id});
+
+					//
+
+					return true;
+				};
+				DISQUS.dtpl.actions.register("comments.send.onSuccess", ss_comment_sent_hook);
+			};
+		</script>
+		<input type="hidden" name="ctl00$ContentPlaceHolder$hf1" id="ctl00_ContentPlaceHolder_hf1" /><input type="hidden" name="ctl00$ContentPlaceHolder$hf2" id="ctl00_ContentPlaceHolder_hf2" /><input type="hidden" name="ctl00$ContentPlaceHolder$HiddenField1" id="ctl00_ContentPlaceHolder_HiddenField1" /><input type="hidden" name="ctl00$ContentPlaceHolder$HiddenField2" id="ctl00_ContentPlaceHolder_HiddenField2" />
+        <script type="text/javascript">
+       			var disqus_config = function() {
+				this.page.api_key = 'SEeJRETVLI5kho4XHlJzCHeQAE3zOzbjuD38q0dzdPFfVq0OocYufhA3rJcEq1FO';
+				this.page.remote_auth_s3 = 'e30= 4df110a2cde061a151f913dd6379c3917b27a506 1347415430';
+				this.sso = {
+					"name": "Nasdaq Community",
+					"button": "http://community.nasdaq.com/common/images/disqus-login-button.png",
+					"url": "http://community.nasdaq.com/login.aspx?autoclose=y",
+					"logout": "http://community.nasdaq.com/common/logoff.aspx",
+					"width": "800",
+					"height": "600"
+				};
+			};
+        </script>
+                
+        <div id="disqus_thread"></div>
+        
+		<script type="text/javascript">
+				
+			//
+			var disqus_shortname = 'nasdaq';
+			//
+			var disqus_identifier = 'community.nasdaq.com172154';
+			var disqus_url = 'http://community.nasdaq.com/News/2012-09/fslr-solar-project-production-peaks-analyst-blog.aspx?storyid=172154';
+			var disqus_title = 'FSLR Solar Project Production Peaks - Analyst Blog';
+			var disqus_developer = 0;
+
+			//
+			(function() {
+				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+			})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+        
+    </div>
+     <div id="rightCol" class="articletemp">
+        <script type="text/javascript">
+            if (document.getElementById("articleInfo").getElementsByTagName('a')[1].href.indexOf("/advisor/") != -1)
+                makeAd('3', '300x250', 'investing', 'fa-home', '', '');
+			else if(document.getElementById("articleInfo").innerHTML.indexOf("/etfs/") != -1)
+				makeAd('3', '300x250', 'investing', 'etf', '', '');
+            else {
+                makeAd('3', '300x250', 'mktsnews', '', '', '');
+            }		
+        </script>
+		
+		<br /><br /><br />
+		
+        
+<div id="highRatedArticlesWeek">
+    <h3 class="dividerHeadline">
+        <a href="/highest-rated-articles.aspx">Highest Rated Articles of the Last Week</a></h3>
+<SCRIPT>makeAd('4' ,'249x26', 'mktsnews', 'mktactivity','','');</SCRIPT><br/>
+    <ul id="hiRatedArticles">
+    
+            <li><a id="ctl00_ContentPlaceHolder_HighestRatedArticles_ratingRepeater_ctl00_hlTitle" href="http://community.nasdaq.com/News/2012-09/catalonia-takes-the-street-claiming-independence-or-new-taxes-deal.aspx?storyid=172077">Catalonia takes the street claiming independence or new taxes deal</a>
+                <span><var class="thumbsUpCount">24</var>
+                    <var class="thumbsDownCount">0</var>
+                </span>
+            </li>
+        
+            <li><a id="ctl00_ContentPlaceHolder_HighestRatedArticles_ratingRepeater_ctl01_hlTitle" href="http://community.nasdaq.com/News/2012-09/great-basin-gold-provides-hollister-and-burnstone-updates-soared-23-away-from-near-yr-lows-tuesday.aspx?storyid=170120">Great Basin Gold Provides Hollister and Burnstone Updates; Soared 23%, Away From Near Yr Lows Tuesday</a>
+                <span><var class="thumbsUpCount">7</var>
+                    <var class="thumbsDownCount">0</var>
+                </span>
+            </li>
+        
+            <li><a id="ctl00_ContentPlaceHolder_HighestRatedArticles_ratingRepeater_ctl02_hlTitle" href="http://community.nasdaq.com/News/2012-09/6-lastminute-tips-to-meet-the-college-tuition-challenge.aspx?storyid=171504">6 Last-Minute Tips to Meet the College Tuition Challenge</a>
+                <span><var class="thumbsUpCount">5</var>
+                    <var class="thumbsDownCount">0</var>
+                </span>
+            </li>
+        
+            <li><a id="ctl00_ContentPlaceHolder_HighestRatedArticles_ratingRepeater_ctl03_hlTitle" href="http://community.nasdaq.com/News/2012-09/will-the-iphone-5-push-apple-aapl-shares-above-700.aspx?storyid=172036">Will the iPhone 5 Push Apple (AAPL) Shares Above $700?</a>
+                <span><var class="thumbsUpCount">4</var>
+                    <var class="thumbsDownCount">0</var>
+                </span>
+            </li>
+        
+            <li><a id="ctl00_ContentPlaceHolder_HighestRatedArticles_ratingRepeater_ctl04_hlTitle" href="http://community.nasdaq.com/News/2012-09/when-etfs-battle-investors-win.aspx?storyid=171966">When ETFs Battle, Investors Win</a>
+                <span><var class="thumbsUpCount">3</var>
+                    <var class="thumbsDownCount">0</var>
+                </span>
+            </li>
+        
+    </ul>
+    <div class="buttonLinkContainer" style="width:100%;height:45px;">
+
+        <div style="float:left;padding-top:10px;">
+        <script type="text/javascript">makeAd('5','120x30','quotes','marsco_button','','');</script>
+        </div>
+        <div style="float:right;padding-top:14px;">
+        <a href="/highest-rated-articles.aspx" class="buttonLink viewAllArticlesBtn"><span>View All</span></a>
+        </div>
+
+    </div><!-- END buttonLinkContainer -->
+
+</div> <!-- END highRatedArticlesWeek -->
+
+
+        <br /><br /><br />
+
+		<script type="text/javascript">
+		if(document.getElementById("articleInfo").getElementsByTagName('a')[1].href.indexOf("/advisor/") == -1 && document.getElementById("articleInfo").innerHTML.indexOf("/etfs/") == -1)
+			makeAd('3', '300x250', 'btf', 'news', '', '');
+		</script>
+
+		<br /><br /><br />
+
+    </div>
+<div style="display:none">
+      <div id="joinOffer" class="outBrainModal">
+			<a href="Javascript:;" onclick="Javascript:closeOutbrainModal();" id="closeReplyBox">x</a>
+			<br />
+			<div class="background-modal-box-image">			
+              <div id="modal-pic">
+			</div></div>
+
+			  <div class="modal-box-info" style="margin-top:25px !important;">
+				<h1 class="modal-box-h1">Join the NASDAQ Community today <br />and get free, instant access:</h1>
+	
+				<div id="modal-ul-div">	
+					<ul class="outBrain">
+						<li>Monitor your investments with Portfolios, Watch Lists, and Stock Alerts</li>
+						<li>Rate stocks, see how others are rating them, and share your investing ideas</li>
+						<li>Participate in the discussion with financial experts and fellow members</li>
+					</ul>
+				</div>
+				<br/><br/>
+				<a id="joinTodayBtn" class="largeButtonLink" href="http://community.nasdaq.com/register.aspx"><span>Join Today!</span></a>
+			  </div>
+
+			<br /><br /><br />
+       </div>
+</div>
+
+<script type="text/javascript">
+	var refCode;
+	refCode = get_querystring_value('cid');
+	if (refCode == 'SYN-OUTBR-20100831-001' || refCode == 'SYN-MKTWCH-20101013-QUOTES-001') {
+		setTimeout("showOutbrainModal()", 3000);
+	}
+</script>
+
+    </div>
+    <div id="footer">
+      <!-- includes\community_footer.stm -->
+<!--
+<link rel="stylesheet" type="text/css" href="http://content.nasdaq.com/includes/community_footer.css"/>
+-->
+<div id="footer_a" class="footer_100">
+<!-- BEGIN includes/footerTextLinksCommunity.inc -->
+<!-- 120x60 ads -->
+<!-- BEGIN includes\footer_ad_include.inc-->
+<!-- END includes\footer_ad_include.inc-->
+
+
+<!-- GOOGLE ADS -->
+<div id="footer_ads">
+  <!-- GOOGLE ADS -->
+  <div class="footer_googAd">
+    <script type="text/javascript">
+		google_ad_client = "pub-1861191755926748";
+		google_ad_slot = "2122602494";//channel->"footer"
+		google_ad_width = 728;
+		google_ad_height = 90;
+		google_ad_region= "test";//allow for more than 3 google ads
+		google_hints = getRandomGoogleHintSet();
+	</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div>
+</div>
+<!-- END footer_ads div -->
+
+<!--***************************************** END includes/bottomlinks.inc ******************************-->
+
+<div id="mega-footer-wrap">
+	<div id="mega-top-wrap">
+		<div class="mega-footer-about">    
+			<h3 class="border-bottom">NASDAQ OMX</h3>
+			<a href="http://www.nasdaqomx.com/">About NASDAQ OMX</a>
+			<a href="http://www.nasdaqomx.com/whatwedo/markettechnology/">NASDAQ OMX Technology</a>
+			<a href="https://listingcenter.nasdaqomx.com/home.aspx">Nasdaq OMX Listing Center</a>
+			<a href="http://ir.nasdaqomx.com/index.cfm">Investor Relations</a>
+			<a href="http://www.nasdaqomx.com/whatwedo/publicpolicy/">Public Policy Advocacy</a>
+		</div>
+
+		<div class="mega-footer-key-links">   
+			<h3 class="border-bottom">NASDAQ.com</h3>
+			<a href="http://community.nasdaq.com">Join Our Community</a>
+			<a href="http://www.nasdaq.com/help/sitemap.aspx">Sitemap</a>
+			<a href="http://www.nasdaq.com/help/nasdaq-advertising.aspx">Advertise With Us</a>
+			<a href="http://www.nasdaq.com/help/linkinfo.stm">Link to Us</a>
+			<!--oobegin --><!--this it the feedback object that is on the right side of all pages -->
+						<script language="javascript" type="text/javascript" charset="windows-1252" src="http://content.nasdaq.com/services/onlineopinionS3tS/oo_engine.js"></script>
+						<script language="javascript" type="text/javascript" charset="windows-1252">
+							//<![CDATA[
+						  O_GoT('<img src="http://content.nasdaq.com/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please provide feedback" style="margin-right:5px;" alt="Feedback">Feedback');
+							//]]>
+						</script>
+				<!--ooend-->
+		</div>
+<!-- suggested start of footer-social.inc -->
+		<div class="footer-social">
+			<h3 class="border-bottom">Stay Connected</h3>
+			<span class="footer-social-links">
+				<a id="facebook" rel="nofollow" title="Become a fan on Facebook" href="http://www.facebook.com/NASDAQ" style="margin-left: 6px !important;">
+					<img src="http://content.nasdaq.com/images/Facebook_48x48-newb.gif" alt="Become a fan on Facebook!" class="social-media-icon" /><!--style="margin-left: 6px !important;"-->
+				</a>
+				<a id="twitter" title="Follow NASDAQ on Twitter" href="http://twitter.com/nasdaq">
+					<img src="http://content.nasdaq.com/images/Twitter_48x48-newb.gif" alt="Follow us on Twitter!" class="social-media-icon" />
+				</a>
+				<a id="linkedin" title="Follow NASDAQ on LinkedIn" href="http://www.linkedin.com/company/nasdaq">
+					<img src="http://content.nasdaq.com/images/linked-in-48-new.gif" alt="Follow us on LinkedIn!" class="social-media-icon" />
+				</a>
+				<a id="rss" title="Subscribe to our RSS Feed" href="http://www.nasdaq.com/services/rss.aspx">
+					<img src="http://content.nasdaq.com/images/Feed_48x48-new.gif" alt="Subscribe to our RSS Feed!" class="social-media-icon" />
+				</a>
+			</span>
+			<img alt="twitter bird" src="http://content.nasdaq.com/images/twitter_newbird_blue-24.gif" class="footer-twitter-bird" />
+			<h3 class="twitter-header">The latest from <a href="http://twitter.com/nasdaq" style="color:#006699">@NASDAQ</a>:</h3>
+			<div class="icon-tweet-wrap">
+				<div class="twitter-tweet-wrap">
+					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+					<script>
+							new TWTR.Widget({
+							  version: 2,
+							  type: 'profile',
+							  rpp: 1,
+							  interval: 30000,
+							  height: '70',
+							  width: '290',
+							  theme: {
+							    shell: {
+     							 background: '#ffffff',
+     							 color: '#ffffff'
+    							},
+    							tweets: {
+      								background: '#ffffff',
+      								color: '#777777',
+      								links: '#555555'
+    								}
+  								},
+  								features: {
+  								  scrollbar: false,
+  								  loop: false,
+  								  live: true,
+  								  hashtags: true,
+  								  timestamp: true,
+  								  avatars: false,
+  								  behavior: 'default'
+  								}
+								}).render().setUser('NASDAQ').start();
+					</script>
+				</div>
+			</div>
+		</div>
+	</div><!--end mega-top-wrap-->
+
+<!-- suggested end of footer-social.inc -->
+
+<!-- suggested start of footer-search.inc -->
+
+	<div class="clear-fix"></div>
+	<div class="footer-search-wrap">
+		<div class="footer-alpha-list-wrap">
+			<h3>Browse The Financial Glossary: </h3>
+			<!-- START alpha-list.inc -->
+			<div id="alpha-list">
+			    <ul>
+					<li><a href="http://www.nasdaq.com/investing/glossary/numbers">123</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/a">A</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/b">B</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/c">C</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/d">D</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/e">E</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/f">F</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/g">G</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/h">H</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/i">I</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/j">J</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/k">K</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/l">L</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/m">M</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/n">N</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/o">O</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/p">P</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/q">Q</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/r">R</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/s">S</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/t">T</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/u">U</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/v">V</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/w">W</a></li>	
+			        <li><a href="http://www.nasdaq.com/investing/glossary/x">X</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/y">Y</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/z">Z</a></li>
+			    </ul>
+			</div>
+		</div>
+		<div class="clear-fix"></div>
+		<div id="footer-search"> 
+			<h3>Search the site: </h3>
+			<div class="search_container_bottom">
+				<select name="nasdaq search" id="nasdaq_footer_search" class="footer-search-dropdown">
+					<option value="nasdaq">NASDAQ.com only</option>
+					<option value="web">Web Search</option>
+					<option value="local">Local Search</option>
+				</select>
+			</div>
+			<div class="key-word-lookup">
+					<input id="footer_search_keywords" onfocus="if(this.value=='enter keywords'){this.value='';}" onkeypress="return handleFooterSearchKeyPress(event);" value="enter keywords" />
+					<input class="footer_search_submit" type="image" alt="Search" value="submit" src="http://content.nasdaq.com/images/eyeglass-1.png" onclick="javascript:footersubmitSearch()">
+			</div>
+		</div><!--end footer-search-->
+	</div><!--end footer-search-wrap-->
+
+<!-- suggested end of footer-search.inc -->
+
+	<div class="clear-fix"></div>
+	<div id="footer-mega">
+		<div id="footer-link-container">	
+
+			<div id="footer-section-links-wrap-top">
+				<a title="Company List" href="http://www.nasdaq.com/screening/company-list.aspx">Company List</a>&nbsp;|
+				<a title="Copyright" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm">Copyright</a>&nbsp;|
+				<a title="Disclaimer" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#disclaimer">Disclaimer</a>&nbsp;|
+				<a title="Trademarks" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#trademark">Trademarks</a>&nbsp;|
+				<a title="Privacy Statement" href="http://www.nasdaq.com/sitespecific/privacy.stm">Privacy Statements</a>&nbsp;|
+				<a title="Contact" href="http://www.nasdaq.com/help/contactInformation.stm">Contact</a>
+			</div>
+				
+			<div id="footer-section-links-wrap-bottom">	
+				<a title="Annual Report" href="http://www.nasdaq.com/services/annual-reports.aspx">Annual Reports</a>&nbsp;| 
+				<a title="Careers" href="http://careers.nasdaq.com/">Careers</a>&nbsp;|
+				<a title="Logo Ticker" href="http://www.nasdaq.com/services/stock-ticker.stm">Custom Logo Ticker</a>&nbsp;|
+				<a title="Toolbar" href="http://www.nasdaq.com/services/nasdaq_toolbar.stm">NASDAQ Toolbar</a>&nbsp;|
+				<a title="Symbol Lookup" href="http://www.nasdaq.com/quotes/symbol-lookup.aspx">Ticker Symbol Lookup</a>
+	      	</div>
+
+			<div class="app-link-div">
+				<img src="http://www.nasdaq.com/images/phone-b.gif" alt="mobile apps" />
+				<a class="app-link-after-img" href="http://www.nasdaq.com/about/iphone/">Qfolio for the iPhone</a>
+				<span>|&nbsp;</span>
+				<a href="http://www.nasdaq.com/about/iphone/">Qfolio HD for the iPad</a>
+				<span>|&nbsp;</span>
+				<a href="http://appworld.blackberry.com/webstore/content/59913?lang=en">Qfolio for the Blackberry Playbook Tablet</a>
+			</div>	
+
+	  	</div><!--end footer-link-container-->
+	</div><!--end footer div-->
+</div><!--end mega-footer-wrap-->	
+<!-- AUDIENCESCIENCE GATEWAY CODE -->
+
+<script type="text/javascript">
+function DM_prepClient(csid,client) {
+client.DM_addEncToLoc("as_propVar15", propVar15);
+}
+</script>
+<script src="http://js.revsci.net/gateway/gw.js?csid=C12309&auto=t"></script>
+
+<!-- AUDIENCESCIENCE GATEWAY CODE -->
+
+<!--***************************************** END includes/bottomlinks.inc ******************************-->
+
+
+
+<!-- Begin Tynt-->
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script>
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=apOVCYiV0r35wBadbiUzgI&amp;s=62"></script>
+<!-- End Tynt-->
+
+<!-- END includes/footerTextLinksCommunity.inc -->
+
+</div>
+
+<!--******************************************** Omniture *********************************************************-->
+
+
+<!--********************BEGIN  ../includes/omniture.inc***********************-->
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://content.nasdaq.com/includes/s_code.js?v=102510"></script>
+
+
+<script type="text/javascript" language="JavaScript">
+
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+
+<noscript><img
+src="http://nasdaq.122.2O7.net/b/ss/nasdaqprod/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+<!-- setSectionName() moved to js file: masthead_default.js -->
+
+
+<!--*********************End  ../includes/omniture.inc*******************************-->
+
+
+<script type="text/javascript">setSectionName("community");</script>
+
+<!--*******************************************End omniture *******************************************************-->
+    </div>
+  </div>
+</div>
+
+<!-- BEGIN: OnlineOpinion v4.1 -->
+<link href="http://content.nasdaq.com/includes/OOV42/oo_style-p.css" rel="stylesheet" type="text/css" media="print" />
+<link  href="http://content.nasdaq.com/includes/OOV42/oo_style.css" rel="stylesheet" type="text/css"/>
+<!-- MAIN OL ENGINE; NECESSARY FOR ALL IMPLEMENTATIONS -->
+<script type="text/javascript" language="javascript" src="http://content.nasdaq.com/includes/OOV42/oo_engine.js"></script>
+<!-- FLOATING ([+] FEEDBACK) PLUG-IN -->
+<script type="text/javascript" language="javascript" src="http://content.nasdaq.com/includes/OOV42/oo_conf_en-US_float.js"></script>
+<!-- END: OnlineOpinion v4.1, Copyright 2009 OpinionLab, Inc. -->
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ContentPlaceHolder_upd1","displayAfter":0,"dynamicLayout":true}, null, null, $get("ctl00_ContentPlaceHolder_UpdateProgress"));
+});
+//]]>
+</script>
+</form>
+<!-- Kontera ContentLink(TM);-->
+<script type='text/javascript'>
+if(typeof dc_PublisherID != 'undefined')
+	document.write("<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'><\/script>");
+</script>
+<!-- Kontera ContentLink(TM) -->
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+The Street has developed a warmer, fuzzier good feeling about makers of semiconductors stocks this afternoon, helped, perhaps, in part by AT&T‘s (T) announcement earlier today that it plans to dramatically increase capital spending on infrastructure over the next several years, especially wireless infrastructure.
+
+The AT&T announcement is the focus today of Raymond James‘s Hans Mosesmann, who writes that Altera (ALTR) and Xilinx (XLNX) could benefit, along with Cavium (CAVM) and LSI (LSI).
+
+Raymond James’s estimate for AT&T’s spending prior to today had been $19.5 billion, writes Mosesmann, less than the $22 billion in total capital spending AT&T plans in each of the next three years.
+
+From a silicon perspective, this should bode well for a number of communications-exposed names which we have highlighted below, who have undergone an inventory correction in CY12 with results largely lagging estimates. We expect this trend may reverse course in 2013 if cap ex trends from other carriers mirror AT&T’s recent update.
+
+Mosesmann notes that Altera and Xilinx get 45% of their revenue from telecom and wireless equipment sales. Cavium gets 70% of revenue from enterprise and service provider. And LSI gets 15% of revenue from networking products.
+
+UBS’s semiconductor analysts, including Steven Eliscu, Nicolas Gaudois, Jonah Cheng, Gareth Jenkins, Kenji Yasui, Steven Chin, and Amitabh Passi this evening report that they are “modestly more positive on semis,” given that there has been some capitulation from the Street with respect to the stocks, and that inventory levels have been coming down sharply.
+
+Consensus NTM semis net earnings revised down 6% since July, and 27% since peaking in March ‘11. Semis stock are trading at 13.2 ‘13E PE, back in line with MSCI global ex Financials. Sept inventory days have come down across the board to average 91.2 for non-memory semis cos (-5.2 QoQ/-4.3 YoY), 43.1 days for distributors (-2.0 QoQ/-1.5 YoY) and 52.0 for OEMs (-1.2 QoQ/-1.0 YoY). Capacity utilisation rates are coming down sharply in 4Q: Intel 60-65% av., STM 65%, UMC est. 76% & TSMC 90%. We believe this reflects marked destocking. As a result, we estimate that semis industry revenues are under-shipping end consumption by 7% in 4Q12.
+
+The team did, however, cut their 2012 semiconductor revenue growth estimate to a decline of 4%, year over year, from a prior 3% decline.
+
+The group raised their ratings on Taiwan Semiconductor Manufacturing (TSM), Linear Technology (LLTC) to Buy from Neutral, while raising their rating on British chip design house Imagination Technologies Group PLC (IMGUK) to Neutral from Sell. The team’s most-preferred names are TSM, Linear, AMS AG (AMS), ARM Holdings (ARMH), Infineon Technologies AG (IFX), Mediatek (2454TW), Qualcomm (QCOM), Realtek (2379TW), Sandisk (SNDK), Samsung Electronics (005930KS), and SK Hynix (000660KS).
+
+

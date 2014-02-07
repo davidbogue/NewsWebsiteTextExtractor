@@ -1,0 +1,658 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Is Codexis The First Solar Of Biofuels? - Seeking Alpha</title>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="P3P" content='CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"' />
+<link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search" />
+<meta name="original-source" content="http://seekingalpha.com/article/859691-is-codexis-the-first-solar-of-biofuels"><meta property="og:image" content="http://static2.cdn-seekingalpha.com/images/universal/logo_for_linkedin.jpg" />
+
+<link rel="shortcut icon" type="image/ico" href="http://static.cdn-seekingalpha.com/favicon.ico" />
+<link rel="canonical" href="http://seekingalpha.com/article/859691-is-codexis-the-first-solar-of-biofuels" />
+<link href="http://static.cdn-seekingalpha.com/stylesheets/performance_layout_packaged.css?1346947068" media="screen" rel="stylesheet" type="text/css" /><link href="http://static3.cdn-seekingalpha.com/stylesheets/article_packaged.css?1346947069" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  var users_on_site='1,265,833';
+  var user_cookie={};
+
+  function readCookie(name) {
+    var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + escape(name) + '=([^;\\s]*)'));
+    return (cookie ? unescape(cookie[2]) : null);
+  }
+
+  function addToCookie(key,value) {
+    var arr=user_cookie[key].split(',');
+    arr.push(value);
+
+    user_cookie[key]=arr.join(',');
+  }
+
+  if (readCookie('user_cookie_key')) {
+    document.write('<scr'+'ipt src="http://static.cdn-seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
+  } else if (readCookie('user_id')) {
+    document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
+  }
+
+  if (top.document.location == document.location) {
+    document.write('<scr'+'ipt src="http://cdn.yb0t.com/js/yieldbot.intent.js"></scri'+'pt>');
+  }
+</script>
+<script>
+  var isThisMyFirstPV = false; // this row is not related to ybot
+  var ybotq = ybotq || [];
+  ybotq.push(['psn', 'aae8']);
+  ybotq.push(['init']);
+</script>
+<script>
+  var quantSegs="";
+  function qc_results(result) {
+    for (var i = 0; i < result.segments.length; i++) {
+      quantSegs += "qc=" + result.segments[i].id + ";";
+    }
+  }
+
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8500672" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+  var _sf_startpt=(new Date()).getTime(); // chartbeat code
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-36Zq38JCUmc3w&callback=qc_results"></script>
+
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />
+</noscript>
+
+<script src="http://static3.cdn-seekingalpha.com/javascripts/common_packaged.js?1346947034" type="text/javascript"></script><script src="http://static1.cdn-seekingalpha.com/javascripts/common_article_packaged.js?1346947036" type="text/javascript"></script><script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
+<script type="text/javascript">
+  if (typeof(is_users_cookie_exists) == "function" && is_users_cookie_exists() && readCookie('user_email').indexOf('@gmail.com')!=-1) {
+    createCookie('user_email',(readCookie('user_email').replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365)
+  }
+
+  if (typeof(readCookie) == "function" && readCookie('user_vocation')) {
+    createCookie('u_voc',readCookie('user_vocation'),3000);
+  }
+
+  var user_cookie = user_cookie || {};
+  eraseCookie("__article_last_size");
+</script>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>      
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-1420150919334552");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+    GA_googleAddSlot_sa('Article_120x30');
+  GA_googleFetchAds();
+</script>  </head>
+    <body class="stretch_bg">
+    <script>
+  var ms_slug = '';
+  var article_dashboards = '@investing-ideas@sectors@';
+  var article_sectors_themes = '@long-ideas@us@biotechnology@sa-exclusive@healthcare@article@';
+  var ratings_hash={};
+  var ARTICLE_ID = 859691;
+  var ARTICLE_TYPE = "standard";
+  var author_slug = "dana-blankenhorn";
+
+  var news_beat_author = "Dana Blankenhorn";
+  var news_beat_sections = "article";
+  
+  var machine_cookie = readCookie('machine_cookie');
+</script>
+<script>var mone_article_tags = "{fslr,cdxs};;;{healthcare};;;{long-ideas,us,biotechnology};;;{dana-blankenhorn}"</script>
+<script>var ord = Math.floor(Math.random()*1000000000);</script>
+<span class="seeking_alpha_site_title">Seeking Alpha</span>
+<script type="text/javascript">
+  if (readCookie('sa_mobile') == '0') {
+    var aHTML =[];
+    aHTML.push('<div class="mobile_or_full_site">');
+      aHTML.push('<span class="mobile_site" onclick="createCookie(\'sa_mobile\',1,1000);top.location.reload()">Click here to view mobile site</span>');
+      aHTML.push('<div class="cleaner"></div>');
+    aHTML.push('</div>');
+    document.write(aHTML.join(""));
+  }
+</script>
+<div id="header" class="not_logged_in header_nav">
+  <div id="logo_and_navigation" class="logo_and_primary_navigation">
+    <div id="comment_popup" style="position:relative; left:0; display:none">
+  <div id="popup_secondary">
+    <div id="inner_popup"></div>
+  </div>
+</div>    <h1><a href="/" title="Seeking Alpha - Home Page" sasource="salogo"></a></h1>
+    <div class="item banner728x90">
+        <script type="text/javascript">
+          iframeAd("728x90",'http://a.collective-media.net/adj/sek.investing-ideas/long-ideas;sz=728x90;x=x;tile=1;d=investing-ideas;t=long-ideas;aid=859691;d=investing-ideas;d=sectors;t=long-ideas;t=us;t=biotechnology;t=sa-exclusive;t=healthcare;t=article;a=dana-blankenhorn;s=fslr;s=cdxs;'+dart_my_vocation_and_profiles()+'ord='+ord+'?');
+        </script>
+    </div>
+  </div>
+  <div class='nav_container_wrap'  id='nav_container_wrap'>
+  <div id="nav_container" headtab="">
+    <div id="navi_cont">
+      <ul id="navi" class="navi">
+        <li thistab='home' class="home">
+          <a href="/" sasource="headtabs">Home</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='portfolio' class="portfolios">
+          <a href="/account/portfolio" sasource="headtabs">Portfolio</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='market_news'>
+          <a href="/currents/all" sasource="headtabs">Market Currents</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='investing_ideas'>
+          <a href="/dashboard/investing_ideas" sasource="headtabs">Investing Ideas</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='investing_income'>
+          <a href="/dashboard/investing_income" sasource="headtabs">Dividends &amp; Income</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='etfs'>
+          <a href="/dashboard/etfs" sasource="headtabs">ETFs</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='macro_view'>
+          <a href="/dashboard/macro_view" sasource="headtabs">Macro View</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='alerts'>
+          <a href="/real-time-alerts" sasource="headtabs">Alerts</a>
+        </li>
+        <li class="right_section">
+          <div id="user_settings_wrapper"></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+    <div class="rta_nav">
+      <span class="rta_nav_wrap">
+        <div id="rta_nav_close" onclick="SA.Promotion.Sticky.hide()" class="close_rta">&nbsp;</div>
+        <div id="related_promo_container_rel_nav" class="rta_bottom" style="display:none">
+  <span class="title_wrap">
+    <div class="rta_bottom_title" id="related_promo_title_nav">This article was sent to <span id="promo_num_of_rta_rel_nav">187</span> people who get email alerts on <span class="replace_by_rel_slug">&nbsp;</span>.</div>
+      <div class="title_sec">Which cover: new articles | breaking news | earnings results | dividend announcements</div>
+  </span>
+  <div class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('rel_nav')">Get email alerts on <span class="replace_by_rel_slug">&nbsp;</span><span class='rta_bottom_arrow'> &raquo;</span></div>
+  <div class="m_pop point_left" id="promotion_box_rel_nav" style="display:none;"></div>
+</div>
+<div id="related_promo_container_no_rel_nav" class="rta_bottom newsletter" style="display:none">
+  <div class="rta_bottom_title">
+    This article was sent to <span id="dash_newsl_subscr_count_ph_nav">169,670</span> people who get the Investing Ideas newsletter.
+    <span class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('no_rel_nav', 10727)">Get the Investing Ideas newsletter &raquo;</span>
+    <span id="promo_no_rel_loader_nav" style="display:none;"><img height="16" width="16" src="http://static3.cdn-seekingalpha.com/images/loader.gif" /></span>
+  </div>
+  <div class="m_pop" id="promotion_box_no_rel_nav" style="display:none;"></div>
+</div>                              </span>
+    </div>
+</div>
+  <script type="text/javascript">
+    SeekingAlpha.Initializer.LogAndRun(SA.Navigation.Top.init);
+  </script>
+</div><div id="main_container" class="white_as_before">
+  <div id="content_wrapper" class="article_pages" itemscope itemtype="http://schema.org/Article">
+    <img src="http://static.cdn-seekingalpha.com/images/universal/print_logo.png" width="48" height="20" id="print_seekingalpha_logo" />
+    <div class="page_top">
+      <div class="search_box_container_isolated">
+  <div class="search_box">
+    <form id="search_box_sa_search" method="get" class="linktosym comp search" action="/search/" onsubmit="return false;">
+      <fieldset>
+        <input id="autocomplete_sa_search" class="input_text text" type="text" value="search by symbol, author, keyword..." size="25" autocomplete="off" onblur="this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue='eFind quotes, people, expressions, transcripts' title='search by symbol, author, keyword...' class="find_transcripts" />
+        <input type="button" class="search_button" value="" onclick="if ($('autocomplete_sa_search').value!=$('autocomplete_sa_search').title) AutoCompleteSAConfig.Packages.search.Find()" />
+      </fieldset>
+      <input type="hidden" name="source" value="search_general" />
+      <input type="hidden" id="autocomplete_sa_hidden_search" name="q" value="" />
+      <input type="hidden" name="cx" value="018269914407235029540:cdhc2yeo2ko" />
+      <input type="hidden" name="cof" value="FORID:11;NB:1" />
+      <input type="hidden" name="goto_search_tab" value="" />
+    </form>
+    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', { Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018269914407235029540%3Acdhc2yeo2ko&lang=en"></script>
+  </div>
+</div>      <div id="page_header" class="page_header_email_alerts">
+  <h1>
+    <span itemprop="name">Is Codexis The First Solar Of Biofuels?</span>
+      </h1>
+  <div id="article_info">
+    <div class="article_info_pos">
+    	<span>September 11, 2012</span>
+      <span id='title_article_comments'></span>
+      <span id="page_position"></span>
+      <span class="author_name_for_print">by: Dana Blankenhorn</span>
+&nbsp;|&nbsp;
+        about: <span id='about_primary_stocks'><a href="/symbol/cdxs" title='Codexis, Inc.' sasource='article_primary_about'>CDXS</a></span>,         includes: <span id='about_stocks'><a href="/symbol/fslr" title='First Solar, Inc.' sasource='article_about'>FSLR</a></span>		</div>
+  </div>
+</div>
+<div class="cleaner"></div>    </div>
+    <div class="cleaner"></div>
+    <div id="main_content" class="no_big_gaps_main_content">
+      <div id="article_body_container" class="no_big_gaps_article_body_container" style="float:right;">
+        <div id="article_body" itemprop="articleBody">
+        	<!--googleoff: index-->
+         	  <div id="article_body_top" class="disclosure_top">
+         	  	<p><strong>Disclosure: </strong>I have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. <span id="additional_business_disclosure" style="display:none">I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.</span> <span onclick='uncollapse()' id='more_button' style='cursor:pointer'><strong>(More...)</strong></span></p>
+         	  	<span id="business_disclosure" style="display:none"></span>
+         	  </div>
+         	  <div style="clear:both"></div>
+         	<!--googleon: index-->
+        	<p>In 2012, Codexis (<a href='http://seekingalpha.com/symbol/cdxs' title='Codexis, Inc.'>CDXS</a>) has fallen hard, lost its leader, and sought a bottom.</p><p>You might call it this year's version of First Solar (<a href='http://seekingalpha.com/symbol/fslr' title='First Solar, Inc.'>FSLR</a>), the solar panel maker that fell quite hard last year. First Solar finally found a bottom, and has been bouncing around either side of $15-$20/share for months, despite the collapse of rival panel makers here and abroad.</p><p>Is Codexis now primed to survive a shakeout?</p><p>A technical analysis would indicate that's possible. Since hitting a low of $2.04/share last month, it has bounced back to $2.72 recently. But let's take a look at the fundamentals.</p><p>The company was crushed by two main events this year. <a href="http://www.businessweek.com/news/2012-02-22/codexis-has-historic-drop-after-ceo-resigns-san-francisco-mover.html" rel="nofollow">It dumped founder Alan Shaw last spring</a> and shares fell out of bed. Last month it arranged <a href="http://www.biofuelsdigest.com/bdigest/2012/09/05/codexis-shell-redraw-the-advanced-biofuels-map-with-global-enzyme-rights-deal/" rel="nofollow">a split with Shell</a>, a key source of both capital and enzymes, and the stock fell out of bed again.</p><p>Shell and Codexis had been working on cellulase enzymes for turning biomass into fuel, and the early take on this was that Shell was abandoning the business and returning to oil drilling.</p><p>But let's focus on Codexis. It did manage to bring in an experienced chemical industry hand, John J. Nicols, with 400,000 options at a strike price that's almost 50% higher than where the stock is trading at now, or $3.46/share, along with 750,000 shares of free stock vesting over four years. The company currently has about 37 million shares outstanding.</p><p>At his previous employer, Baton Rouge-based Albemarle (<a href='http://seekingalpha.com/symbol/alb' title='Albemarle Corporation'>ALB</a>), Nicols <a href="http://www.reuters.com/finance/stocks/officerProfile?symbol=ALB&amp;officerId=269409" rel="nofollow">was making $1.8 million/year</a> heading up its catalysts business. Analysts at Motley Fool said Nicols <a href="http://beta.fool.com/blackngold/2012/06/08/codexis-expands-rolodex/5477/" rel="nofollow">expanded the company's contacts</a> into the pure chemical space, while Shaw's contacts had mostly been in pharmaceuticals. But as he was being hired the company did manage to renew its enzyme agreement with Merck (<a href='http://seekingalpha.com/symbol/mrk' title='Merck & Co Inc.'>MRK</a>), so that business <a href="http://www.reuters.com/finance/stocks/CDXS.O/key-developments/article/2545253" rel="nofollow">does not disappear.</a></p><p>There are two ways to look at what's happening here. The bears will say Codexis is being abandoned, that Shell took a big loss on $375 million invested in cellulase enzymes, and that the drugs industry is Codexis' main hope for the future, not fuel at all. The bulls will say the company has taken the training wheels off, that it has some interesting prospects in Brazil, and that it might make a nice takeover target.</p><p>Jim Lane of BioFuelsDigest classifies companies like Shell as &quot;strategics,&quot; big firms playing the biofuel game as much for the PR value as anything else, and notes that it may be difficult for companies like Codexis to obtain new venture rounds without them. But this could be a blessing in disguise -- Codexis shareholders are now much better leveraged on success in Brazil than before, and Brazilian sugars are a key feedstock.</p><p>So when I say Codexis could be the First Solar of biofuels, I'm offering something like praise. If your company can keep its head while all about others are losing theirs, then you're an investment, my son.</p>
+        	
+        </div>
+        
+        <div id="content_follow_up" class="underbar">
+          <div id="follow_wrap">
+              <div id="article_rta_bottom_container">
+                <div id="related_promo_container_rel" class="rta_bottom" style="display:none">
+  <span class="title_wrap">
+    <div class="rta_bottom_title" id="related_promo_title">This article was sent to <span id="promo_num_of_rta_rel">187</span> people who get email alerts on <span class="replace_by_rel_slug">&nbsp;</span>.</div>
+  </span>
+  <div class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('rel')">Get email alerts on <span class="replace_by_rel_slug">&nbsp;</span><span class='rta_bottom_arrow'> &raquo;</span></div>
+  <div class="m_pop point_left" id="promotion_box_rel" style="display:none;"></div>
+</div>
+<div id="related_promo_container_no_rel" class="rta_bottom newsletter" style="display:none">
+  <div class="rta_bottom_title">
+    This article was sent to <span id="dash_newsl_subscr_count_ph">169,670</span> people who get the Investing Ideas newsletter.
+    <span class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('no_rel', 10727)">Get the Investing Ideas newsletter &raquo;</span>
+    <span id="promo_no_rel_loader" style="display:none;"><img height="16" width="16" src="http://static3.cdn-seekingalpha.com/images/loader.gif" /></span>
+  </div>
+  <div class="m_pop" id="promotion_box_no_rel" style="display:none;"></div>
+</div>
+              </div>
+     		    <div id="article_tags" style="display:none">
+              <div itemprop="articleSection" class="tagged_with">
+                <span class="tagged_with_label">This article is tagged: </span><div style="margin-top: 4px;"> <a href='/dashboard/investing_ideas' sasource='article_navigation'>Investing Ideas</a>, <a href='/articles?filters=long-ideas' sasource='article_navigation'>Long Ideas</a>, <a href='/articles?filters=healthcare' sasource='article_navigation'>Healthcare</a>, <a href='/articles?filters=biotechnology' sasource='article_navigation'>Biotechnology</a>, <a href='/articles?filters=us' sasource='article_navigation'>United States</a></div>
+              </div>
+	          </div>
+            <div id="more_by_auth" class="more_by_auth"></div>
+            <div class="share_this_page_article_bottom">
+              <ul id="page_toolbar" class="page_toolbar">
+  
+  <li  class="share_this_page_article_toolbar">
+    <div class="share_this_page_snippet">
+  <div id="first_line_info">
+  	<div class="left"><h6>Share this article</h6></div>
+  	  <div class="right" onclick="$$('.short_url')[0].select()" style="cursor:pointer;cursor:hand">Short URL: <input class="short_url" type="text" value="seekingalpha.com/article/859691" READONLY ></div>
+  </div>
+  
+  <div class="widgets">
+    <!-- Email -->
+      <span class="email_this" onclick="email_story_to_friends('Article',859691,'http://seekingalpha.com/article/859691-is-codexis-the-first-solar-of-biofuels')">
+        <div class="email_button"></div>
+        <div class="email_bubble">
+          <span id="widget_email_count"></span>
+          <span class="cor_right"></span>
+        </div>
+      </span>
+    <!-- Linked In -->
+      <span id="linkedin_1" class="linkedin_small linkedin_share"><script type="IN/Share" data-counter="right" data-onsuccess="linkedin_callback"></script></span>
+  
+    <!-- facebook -->
+    <span class="facebook_small facebook_share"><div class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false" data-font="tahoma"></div></span> 
+    <!-- Plusone  -->
+      <span class="plusone_wrap"><span class="plusone plusone_share"><div class="g-plusone" data-size="medium" annotation="bubble" data-width="65" data-callback="plusone_callback"></div></span></span>
+    <!-- twitter -->
+    <span class="twitter_small">
+        <a href="https://twitter.com/share" class="twitter-share-button twitter_share" data-text="Is Codexis The First Solar Of Biofuels? http://seekingalpha.com/a/ifcb $FSLR $CDXS" data-related="seekingalpha" data-url=" " data-counturl="http://seekingalpha.com/article/859691-is-codexis-the-first-solar-of-biofuels" data-count="horizontal">Tweet</a>
+    </span>
+    <!-- print -->
+      <span class="print_this" onclick="print_article('with_comments')"><Print><div class="print_button"></div></span>
+  </div>
+</div>
+
+  <script>
+    SeekingAlpha.Initializer.AddAfterLoad(function(){
+      new Ajax.Updater({success: 'widget_email_count'}, '/form/ajax_get_email_count', {
+        method: 'get',
+        parameters: {
+          item_name: 'Article',
+          article_id: '859691'
+        }
+      });
+    });
+  </script>
+  </li>
+</ul>            </div>
+            <div class="cleaner"></div>
+          </div>
+            <div class="comments_with_more">
+              <div id="comments_section">
+              </div>
+            </div>
+          <div class="cleaner"></div>
+          <span class="article_submit_an_article_big" onclick="if (!is_users_cookie_exists()) { open_header_log_in_popup_lightbox('write_post','submit an article') } else {top.location.href='/account/write_post'}"></span>
+        </div>
+      </div>
+      <div id="secondary_ads" class="no_big_gaps_secondary_ads" style="float:right;">
+        <div id="author_avatar">
+    <div class="follow_sidebar">
+      <script>var author_info_popup_timeout;</script>
+<div id="author_info"> 
+  <div class="author_page_tools" id="author_image_header">
+    <div style="position:relative;float:left;z-index:1">
+      <div id="goto_edit_picture" class="goto_edit_picture"><span onclick="return goto_update_picture();" onmouseover="ShowAuthorInfo();" onmouseout="HideAuthorInfo();"></span></div>
+      <a href="/author/dana-blankenhorn" class='this_is_a_author_pic' sasource="about_lpic"><img class="this_is_a_author_pic_img" align="center" src="http://static1.cdn-seekingalpha.com/images/users_profile/000/814/889/big_pic.png?1320256933" width="115" height="115" alt="Dana Blankenhorn picture" onmouseover="ShowAuthorInfo();" onmouseout="HideAuthorInfo();" /></a>
+        <div id="article_author_info" style="display:none;" onmouseover="clearAuthorInfoPopupTimeout();" onmouseout="HideAuthorInfo();">
+          <div>
+            <div class="followup_contributor_info">
+  <div class="followup_contributor_info_title">
+    <span>About the author: </span>
+    <a href="/author/dana-blankenhorn" sasource="about_name">Dana Blankenhorn</a>
+  </div>
+
+  <div class="followup_contributor_info_on_author">
+    <div class="followup_contributor_info_pic_cont">
+      <div class="pic_cont">
+        <div class="pic_contributor">
+          <div class="the_pic">
+              <a href="/author/dana-blankenhorn" sasource="about_pic"><img align="center" width="54" height="54" src="http://static1.cdn-seekingalpha.com/images/users_profile/000/814/889/big_pic.png?1320256933" alt="Dana Blankenhorn picture"/></a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="followup_contributor_info_text">
+      Dana Blankenhorn has been a business journalist since 1978, and a futurist all his life.He warned about the coming Houston oil collapse in 1979. He began making a living on the Internet in 1985. He launched the first e-commerce daily for CMP in 1994, warned of the coming dot-bomb at a-clue.com... <a href='/author/dana-blankenhorn' sasource='about_more'>More</a>
+    </div>
+    <div class="cleaner"></div>
+	</div>
+  <div class="followup_contributor_info_bottom_cnt">
+    
+    <div class="left_cnt">
+      <ul class="followup_contributor_info_content_categories"><li>Company: <a rel='nofollow' target='_blank' href='http://www.danablankenhorn.com'>Dana Blankenhorn</a></li> <li>Blog: <a rel='nofollow' target='_blank' href='http://www.danablankenhorn.com'>Dana Blankenhorn and the War Against Oil</a></li> <li>Book: <a rel='nofollow' target='_blank' href='http://www.amazon.com/Moores-Lore-Better-Faster-ebook/dp/B003552M30'>Moore's Lore: Better and Better, Faster and Faster</a></li></ul>
+    </div>
+  </div>
+
+  <div class="cleaner"></div>
+</div>
+<div class="followup_contributor_info_on_author_bottom"></div>
+          </div>
+        </div>
+    </div>
+    <a href="/author/dana-blankenhorn" itemprop="author" class="author_info_name" sasource="about_lname">Dana Blankenhorn</a>
+    <div class="cleaner"></div>
+      <span class="leaders_link">
+        <div class="author_info_opinion_leader">
+          <ul class="opinion_leader_list">
+              <li class="lead_top_num3"><div class="content">on <a href="/articles?filters=technology" sasource="author_id">Technology</a></div></li>
+              <li class="lead_top_num5"><div class="content">on <a href="/articles?filters=long-ideas" sasource="author_id">Long Ideas</a></div></li>
+          </ul>  
+        </div>
+      </span>
+    <div class="author_info_nav_border">
+      <div class="author_info_nav">
+        <ul class="the_author_info_nav">
+          <li><a href='/author/dana-blankenhorn/articles'>Articles <span>(824)</span></a></li>
+            <li>
+                   <a href='/author/dana-blankenhorn/instablog'>Instablog
+                     <span>(14)</span>
+                   </a>
+                 </li>            <li>
+                   <a href='/author/dana-blankenhorn/stocktalk'>StockTalks <span>(12)</span></a>
+                 </li>            <li>
+                   <a href='/author/dana-blankenhorn/comments'>Comments <span>(4,312)</span></a>
+                 </li>              <script>if (/stats viewer/.test(readCookie("user_perm"))) document.write("<li><a href='/account/authorboard/earnings?for_user_id=814889'>Earnings</a></li>");</script>
+          <li><a href='/author/dana-blankenhorn'>Profile</a></li>        </ul>
+      </div>
+    </div>
+    <div class="cleaner"></div>
+    <div class="user_followers_following">
+      <div class="user_followers">
+        <a href="/author/dana-blankenhorn/followers">
+          <span id="followers" class="number followers_number_814889 followers_number_dana-blankenhorn">1,163</span>
+          <span class="text">Followers</span>
+        </a>
+      </div>
+      <div class="user_followers">
+        <a href="/author/dana-blankenhorn/following">
+          <span id="followings" class="number">20</span>
+          <span class="text">Following</span>
+        </a>
+      </div>
+    </div>
+
+    <div id="follow_this_user" class="follow_this_user"></div>
+    <script>Follow.author_sidebar__follow_button_initiator('dana-blankenhorn')</script>
+    <span class='author_info_send_message' onclick='Messaging.sendMessage("aecsgj7m", "Article Author ID Card Upper")'>Send Message</span>
+    <div class="cleaner"></div>
+  </div>
+  <div class="follow_popup_wrapper">
+      <div class="green_pop_wrapper" id="stop_follow" style="display:none"><div class="green_pop_top_arrow"></div><div class="green_pop"><span class="close_pop" onclick="$('stop_follow').style.display='none'"></span><p><span id="stop_follow_message"></span> Dana Blankenhorn</p><span class="stop_following" onclick="Follow.ajax_stop_follow_this_author(this, 'dana-blankenhorn')">Stop Following</span></div></div><div class="green_pop_wrapper" id="no_longer_follow" style="display:none"><div class="green_pop_top_arrow"></div><div class="green_pop"><span class="close_pop" onclick="$('no_longer_follow').style.display='none'"></span><p><span id="no_longer_message"></span> Dana Blankenhorn</p></div></div>  </div>
+</div>
+  <script>SeekingAlpha.Initializer.onDOMLoad(function (){Follow.setFfToElements($('followers'),$('followings'),17269)})</script>
+
+    </div>
+    <div class="cleaner"></div>
+     <span>About this author:</span>
+      <ul>
+        
+        <li><a target='_blank' href='http://www.danablankenhorn.com'>Visit Dana's site</a></li>
+      </ul>
+</div>        <a id="yahoo_finance_link" style="display: none" href="http://finance.yahoo.com"><img class="back_to_yahoo_finance" width="159" height="33" src="http://static1.cdn-seekingalpha.com/images/back_to_yahoo_finance.png" alt="back to yahoo finance" /></a>
+<script>
+  if (getURLParam('source') == 'yahoo')
+    $('yahoo_finance_link').style.display = 'block';
+</script>          <div class="stickyad_wrapper">
+            <div class="item banner160x600" id="fixed_banner160x600">
+            </div>
+          </div>
+      </div>
+    </div>
+    <div id="ads_and_tools" class="article_sidebar_tools">
+  <div class="item banner300x600">
+    <script>yieldbot_ad_call('http://a.collective-media.net/adj/sek.investing-ideas/long-ideas;sz=300x250,300x600;x=x;tile=2;d=investing-ideas;pos=t;t=long-ideas;aid=859691;d=investing-ideas;d=sectors;t=long-ideas;t=us;t=biotechnology;t=sa-exclusive;t=healthcare;t=article;a=dana-blankenhorn;s=fslr;s=cdxs;'+dart_my_vocation_and_profiles()+'ord='+ord+'?','300x250');</script>
+  </div>
+
+  <div id="alternative_title_container" class="mini_category data_currencies_table" style="display:none">
+  <div class="sidebar_title_bk">
+    <span class="sidebar_title_text" id="article_alternative_title"></span>			
+  </div>
+  <div id="symbol_alternative_tags" class="symbol_alternative_tags"></div>
+  <script type="text/javascript">GA_googleFillSlot_sa("Article_120x30");</script>
+  <div class="cleaner"></div>
+</div>
+
+<script type="text/javascript">
+  symbol = "cdxs";
+  new Ajax.Request('/articles/get_ajax_alternatives_by_symbol?symbol='+symbol, {
+    asynchronous:true,
+    evalScripts:true,
+    method:'get',
+    onComplete: function(transport) {
+      if (transport.status == 200 && transport.responseText != 'failed') {
+        response = transport.responseText.split("@@");
+        symbolZiignight = new Ziignight('', 'SAlternative',"","symbolZiignight","symbol_alternative_tags");
+        symbolZiignight.WorkJSON = eval(response[1]);
+        symbolZiignight.addETF = false;
+        symbolZiignight.pageType = 'Article';
+        symbolZiignight.selectedSymbol = symbol;
+        symbolZiignight.SAlternativePrint(-1,true);
+        symbolZiignight.InsertEtfAlternativeSymbol(response[0]);
+        $('article_alternative_title').innerHTML = response[0].toUpperCase() + " vs. ETF alternatives";
+        $("alternative_title_container").style.display = "";
+      }
+    }
+  });
+</script>
+  <div id="register_login_snippet"></div>
+  
+  <div id="side_customize" class="side_customize"></div>
+  <div id="portfolio_form_box"></div>
+
+  <div id="article_sidebar" class="article_sidebar">
+  <div id="article_sidebar_container">
+    <div id="related_sidebar_sasource" class="related_sidebar_sasource linked_sidebar">
+      <div class="cleaner"></div>
+      <div class="mini_category mini_category_gray_background rta_sidebar" id="sidebar_pop_container" style="position:relative;">
+        <div class="sidebar_title_bk">
+          <span class="sidebar_title_text">About this article</span>
+        </div>
+        <div id="sent_to_display"></div>
+        <div id="tags_receiver"></div>
+          <ul class='sidebar_user_actions'>
+            <li>Problem with this article? <span id="report_problems_sidebar" onclick="return SA.Pages.Article.reportArticleProblems();" onmouseover="link_over(this,'#ff0000')" onmouseout="link_out(this,'#024999')">Please tell us</span></li>
+            <li>Disagree with this article? <a id="submit_article_sidebar" href='/page/submit-an-article' sasource="sidebar_submit">Submit your own</a></li>
+          </ul>
+        <div class="cleaner"></div>
+      </div>
+      <div id="sidebar_down"><img src="http://static.cdn-seekingalpha.com/images/loader_recommended_articles.gif" width="64" height="64" class="loader"/></div>
+    </div>
+  </div>
+	<div class="cleaner"></div>
+</div>
+
+  <div id="articles_on_my_portfolio"></div>
+
+    <div class="cleaner"></div>
+    <div class="stickyad_wrapper">
+      <div class="item banner300x250" id="article_dart_sticky"></div>
+    </div>
+</div>
+<script>
+  SA.Utils.Ads.add({el:$('article_dart_sticky'), HadCreated:false, size:'300x250', delta:50, info:'http://a.collective-media.net/adj/sek.investing-ideas/long-ideas;sz=300x250;x=x;tile=4;d=investing-ideas;pos=b;t=long-ideas;aid=859691;d=investing-ideas;d=sectors;t=long-ideas;t=us;t=biotechnology;t=sa-exclusive;t=healthcare;t=article;a=dana-blankenhorn;s=fslr;s=cdxs;'+dart_my_vocation_and_profiles()+'ord='+ord+'?'});
+</script>
+
+<script src="http://static3.cdn-seekingalpha.com/javascripts/portfolio_form_popup_box_packaged.js?1346947048" type="text/javascript"></script>
+  </div>
+  <input id="short_url" type="hidden" value="http://seekingalpha.com/a/ifcb" />
+</div>
+<div id='footer_break'><div></div></div>
+
+<div id="footer">
+  <div id="footernav">
+    <div class="footernav_left">
+      <a href="http://seekingalpha.com" class="footernav_logo"></a>
+      <div class="footernav_boards">
+        <div><span class="footer_title">TOP AUTHORS:</span>&nbsp;<a class="top_authors" href="/leader-board/opinion-leaders">The Opinion Leaders</a></div>
+        <div class='top_boards'>
+          <span class="footer_title">TOP USERS:</span>
+          <a href="/leader-board/top-stocktalkers">StockTalkers</a> <span class="fl_dash">|</span>
+          <a href="/leader-board/top-instabloggers">Instabloggers</a>
+        </div>    
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    <div class="footernav_right">
+      <div class="footernav_links">
+        <a class="small_rss" href="/page/feeds" sasource="footer">&nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/page/contact" sasource="footer">Contact Us</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/page/about_us" sasource="footer">About Us</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/premium-program/intro" sasource="footer">Premium Program</a>
+      </div>
+      <div class="footernav_more_links">
+        <a href="/page/terms-of-use" sasource="footer">Terms of Use</a> |
+        <a href="/page/privacy" sasource="footer">Privacy</a> |
+        <a href="http://www.xignite.com" target="_blank">Xignite quote data</a> |
+        <span>Copyright &#169; 2012</span>
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    <div class="footernav_share_buttons">
+      <div class="fb-like facebook_share" data-href="http://www.facebook.com/pages/Seeking-Alpha/224867310939090" data-send="false" data-layout="button_count" data-width="105" data-show-faces="false" data-font="tahoma" ref="footer"></div>
+      <div class="twitter_wrap"><a href="https://twitter.com/SeekingAlpha" class="twitter-follow-button twitter_share" data-show-count="false">Follow @SeekingAlpha</a></div>
+    </div>
+  </div>
+  <div class="cleaner"></div>
+</div>  <script type="text/javascript">
+    Event.observe(window, 'scroll', check_positions);
+   
+    function uncollapse(){
+      if ($('additional_business_disclosure')) {$('additional_business_disclosure').show();}
+      if ($('business_disclosure')) {$('business_disclosure').show();}
+      if ($('more_button')) {$('more_button').hide();}
+      Mone.event('article','more_button_clicked');
+    }
+
+    function alphaOpen(){
+      AlphaBox.Loading();
+      AlphaBox.LoadingHide();
+      $('related_promo_container_rel').addClassName('overAlpha');
+      $('content_follow_up').removeClassName("underbar");
+      $('content_follow_up').addClassName("overAlpha");
+      $('more_by_auth').hide();
+      $$('.share_this_page_article_bottom')[0].hide();
+      $$('.comments_with_more')[0].hide();
+      $$('.article_submit_an_article_big')[0].hide()
+      AlphaBox.onAfterClose = function(){
+      	revertAlphaboxGambiarra();
+      	try{SA.Promotion.RegPopup.close();}catch(e){}
+      	try{SA.Promotion.Quote.close();}catch(e){}
+       }
+    }
+    
+    function alphaClose(){
+      revertAlphaboxGambiarra();
+      if ($('alphabox-modal-overlay') && $('alphabox-modal-overlay').style.display == "") AlphaBox.Close();
+    }
+    
+    function revertAlphaboxGambiarra(){
+    	$('related_promo_container_rel').removeClassName('overAlpha');
+    	$('content_follow_up').addClassName("underbar");
+    	$('content_follow_up').removeClassName("overAlpha");
+    	$('more_by_auth').show();
+        $$('.share_this_page_article_bottom')[0].show();
+        $$('.comments_with_more')[0].show();
+        $$('.article_submit_an_article_big')[0].show();
+    }
+
+    NEW_AD_DELTA = typeof(CHANGE_AD_DELTA) != "undefined" ? CHANGE_AD_DELTA : 0;
+    SA.Utils.Ads.add({el:$('fixed_banner160x600'), HadCreated:false, size:'160x600', delta:NEW_AD_DELTA, info:'http://a.collective-media.net/adj/sek.investing-ideas/long-ideas;sz=160x600;x=x;tile=3;d=investing-ideas;t=long-ideas;aid=859691;d=investing-ideas;d=sectors;t=long-ideas;t=us;t=biotechnology;t=sa-exclusive;t=healthcare;t=article;a=dana-blankenhorn;s=fslr;s=cdxs;'+dart_my_vocation_and_profiles()+'ord='+ord+'?'});
+  </script>
+<script>
+  SeekingAlpha.Initializer.onDOMLoad(function(){ SA.Pages.Article.init(); });
+    SeekingAlpha.Initializer.AddAfterLoad(function(){ 
+      SA.Pages.Article.articlePromo({"allSlugs":["fslr","cdxs"],"primarySlug":"cdxs","dashboard_id":10727,"dashboard_title":"Investing Ideas"});
+    });
+</script>
+    <script src="http://static1.cdn-seekingalpha.com/javascripts/jspell_packaged.js?1346947050" type="text/javascript"></script>
+
+<script type="text/javascript">
+  if(typeof (authors) == "undefined" || typeof (symbols) == "undefined")
+    load_remote_script("http://static.cdn-seekingalpha.com/javascripts/sa.js");
+  if(is_users_cookie_exists() && !cookieExists('tops') && typeof(tops) == "undefined")
+    load_remote_script("http://static.cdn-seekingalpha.com/javascripts/tops.js");
+  var mone_params = {};
+</script>
+<script src="http://static.cdn-seekingalpha.com/javascripts/footer_packaged.js?1346947047" type="text/javascript"></script>
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-36Zq38JCUmc3w.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+<div id="symbol_data_script_container"></div>
+
+<script type="text/javascript">
+  if (window.Portfolio && Portfolio.handleFunc) Portfolio.handleFunc=function(symbol,data){
+    var d = new Date();
+    d.setTime(d.getTime()-4*3600000);
+    Portfolio.lastUpdateTime = d;
+    CurrentData[symbol]=data;
+    Portfolio.render_table_delayed();
+  }
+
+SeekingAlpha.Initializer.onDOMLoad(function(){
+  if(SA.Pages && SA.Pages.Account && SA.Pages.Account.Portfolios){
+    var a = SA.Pages.Account.Portfolios.alertsTab;
+    SA.Pages.Account.Portfolios.alertsTab = function(b){if ($('ziignight_submit')) a(b);}
+if (getURLParam("pu")=="all_holdings") $("tab_"+Portfolio.current_tab).click();  
+}
+});
+</script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","c0370b1d43",334927,"cldeEUAJWgldEBsASkVRUwlXFRkWUA1D",0,134,new Date().getTime(),"","","","",""])</script>    <div class="cleaner"></div>
+  </body>
+</html>

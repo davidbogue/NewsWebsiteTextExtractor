@@ -1,0 +1,784 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="The Street has developed a warmer, fuzzier good feeling about makers of semiconductors stocks this afternoon, helped, perhaps, in part by AT&amp;amp;T&amp;#8216;s (T) announcement earlier today that it plans to dramatically increase capital spending on infrastructure over the next several years, especially wireless infrastructure. The AT&amp;amp;T announcement is the focus today of Raymond James&amp;#8216;s Hans [...]" />
+    <meta NAME="ROBOTS" content="index, follow" /> 
+
+    <title>  Semis: UBS Cheers Inventory Reduction; Raymond James Cheers AT&amp;T Spend - Tech Trader Daily - Barrons.com</title>
+
+    <link rel="shortcut icon" href="http://barrons.wsj.net/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="Tech Trader Daily RSS Feed" href="http://blogs.barrons.com/techtraderdaily/feed/" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.barrons.com/techtraderdaily/xmlrpc.php?rsd" />
+
+    <link rel="canonical" href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/"/>    <meta name="msapplication-task" content="name=WSJ;action-uri=http://online.wsj.com/;icon-uri=http://si.wsj.net/favicon.ico"/>
+<meta name="msapplication-task" content="name=MarketWatch;action-uri=http://www.marketwatch.com/;icon-uri=http://www.marketwatch.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=Barron's;action-uri=http://online.barrons.com/;icon-uri=http://online.barrons.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=All Things Digital;action-uri=http://allthingsd.com/;icon-uri=http://allthingsd.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico"/>
+
+<meta name="application-name" content="Barrons.com" />
+<meta name="msapplication-tooltip" content="Barron's" />
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_2.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_static.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog.css" type="text/css" />
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie6.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie6.css" type="text/css" />
+<![endif]-->
+ 
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie7.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie8.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie8.css" type="text/css" />
+<![endif]-->
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/standalone_partner_hat.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/cssDependencies/hat-icons.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/hat-barrons-overrides.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/headerSearchbox.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/blogsShareTools.css" type="text/css" />
+
+<style type="text/css"> 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a, 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a:visited { 
+        color: #E36627; 
+    }
+    //.maintenance { display: none; }
+</style>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+    var _wpdq                   = 1;
+    var globalHeaderPageTitle   = "Blogs"; 
+    var gcDomain                = "online.barrons.com";
+    var nSP                     = "http://" + gcDomain;
+    var cdnDomain               = "http://s.wsj.net"; 
+    var serverTime              = new Date(); 
+    var wpDomain                = "blogs.barrons.com";
+    if (typeof dj == "undefined") { dj = {}; }
+    if (typeof dj.context == "undefined") { dj.context = {}; }
+    dj.context.djHeaderEnabled = false;
+</script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><!--
+	generated in 0.274 seconds
+	60639 bytes batcached for 3600 seconds
+-->
+</head>
+
+<body>
+<a name="top"></a>
+<div class="fullwide subType-subscribed wsjblog_post bBlogPost wsjblog bBlog">
+        <div class="reallywide"><div id="hat_div" class="hat_wsjdn">
+  <div class="hat_logo"></div>
+    
+  <ul  id="hattabs" class="hat_tabs">
+            <li class="hat_tab" id="hat_tab_wsj">
+            <a class="hat_site_title" href="http://online.wsj.com">WSJ</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://online.wsj.com">WSJ</a></li>
+              </ul>  
+          </li>    
+            <li class="hat_tab" id="hat_tab_live">
+            <a class="hat_site_title" href="http://live.wsj.com">WSJ Live</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://live.wsj.com">WSJ Live</a></li>
+              </ul>  
+          </li>    
+            <li class="hat_tab" id="hat_tab_mw">
+            <a class="hat_site_title" href="http://www.marketwatch.com">MarketWatch</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://www.marketwatch.com">MarketWatch</a></li>
+              </ul>  
+          </li>    
+            <li class="hat_tab current" id="hat_tab_bol">
+            <a class="hat_site_title" href="http://online.barrons.com/home">Barron's</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://online.barrons.com/home">Barron's</a></li>
+							  <li class="hat_social_tab"><a id="hat_fb_button" class="hat_fb_link" href="#" title="Follow Barron's on Facebook">Facebook</a></li>
+							  <li class="hat_social_tab"><a id="hat_twt_button" class="hat_twitter_link" href="#" title="Follow Barron's on Twitter">Twitter</a></li>
+              </ul>  
+                <div id="fb_like_overlay" class="hat_overlay hat_overlay_fb hidden"></div>
+                <div id="twitter_overlay" class="hat_overlay hat_overlay_twitter hidden"></div>          
+          </li>    
+            <li class="hat_tab" id="hat_tab_atd">
+            <a class="hat_site_title" href="http://allthingsd.com">AllThingsDigital</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://allthingsd.com">AllThingsDigital</a></li>
+              </ul>  
+          </li>    
+            <li class="hat_tab" id="hat_tab_fact">
+            <a class="hat_site_title" href="http://global.factiva.com/du/factiva.aspx">Factiva</a>            
+              <ul>
+                <li><a class="hat_site_link" href="http://global.factiva.com/du/factiva.aspx">Factiva</a></li>
+              </ul>  
+          </li>    
+            <li class="hat_tab" id="hat_tab_risk">
+            <a class="hat_site_title" href="https://djrc.portal.dowjones.com/">Risk</a>            
+              <ul>
+                <li><a class="hat_site_link" href="https://djrc.portal.dowjones.com/">Risk</a></li>
+              </ul>  
+          </li>    
+              <li id="hat_tab_dropdown" class="hat_tab_dropdown">      
+              <a id="partyhat_more_dropdown" class="moreTarget" href="#">More</a>                             
+              <ul class="hat_dd_list">  
+            <li class="hat_dd_item">
+            <a href="http://online.wsj.com/public/page/wsj-x-marketing.html">WSJ X - Invitation Only</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="https://portfolio.wsj.com">New Portfolio</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://bigcharts.marketwatch.com/">BigCharts</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://www.efinancialnews.com/">Financial News</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://professor.wsj.com/">Professor Journal</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://www.smartmoney.com/">SmartMoney</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://wsjstudent.com/">Student Journal</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://www.marketwatch.com/Game/">Virtual Stock Exchange</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="https://classifieds.wsj.com/">WSJ Classifieds</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://classroom.wsj.com/">WSJ Classroom</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://www.wsjradio.com/">WSJ Radio</a>
+            </li>      
+            <li class="hat_dd_item">
+            <a href="http://www.wsjwine.com/">WSJ Wine</a>
+            </li>      
+                </ul></li>
+  </ul>
+  
+<script type="text/javascript"> 
+<!--
+    searchBoxID = 'QuoteSearchBox';
+    resultContainerID = 'symbolCompleteResults';
+    searchGoButtonID = 'SearchQuoteGoButton';
+//--></script>
+<script type='text/javascript' src='http://s.wsj.net/javascript/yui-2.5.2.js'></script>
+<script type='text/javascript' src='http://barrons.wsj.net/barrons-media/barrons_infocomplete.js'></script>
+<script type='text/javascript' src='http://barrons.wsj.net/barrons-media/barrons_autocomplete.js'></script>
+
+<script type="text/javascript">
+<!--
+if (typeof(initInfoComplete) != 'undefined' && YAHOO.util.Event){YAHOO.util.Event.onAvailable('QuoteSearchBox', initInfoComplete); }
+//-->
+</script>
+
+    <div class="hat_search" id="hat_search_autocomplete">
+	<form name = "autocompleteHeaderForm">
+
+		<table border="0" cellpadding="0" cellspacing="0" class="autocompleteContainer">
+			<tr>
+			<td>
+				<div class="symbolCompleteContainer"><div><input type="text" name="QuoteSearchBox" id="QuoteSearchBox" value="Enter Symbols or Keywords" maxlength = "80" class="unUsed" onfocus="searchFieldOnFocus(this);setFocused(this);" onblur="setFocused(null);" autocomplete="off" /></div></div>
+				<div id="SearchQuoteGoButton" class="hat_button">
+					<span class="hat_button_text">SEARCH</span>
+				</div>
+				<div id="hat_sponsor"></div>
+
+				<div>
+				<div id="symbolCompleteResults" class="subSymbolCompleteResults"></div>
+</div>
+			</td>
+			</tr>
+		</table>
+	</form>
+	</div>
+	
+</div><div class="pageHeader"><div class="headerMain">
+<ul>
+  <li class="mainLogo"><a href="http://online.barrons.com/home-page"></a></li>
+  <li class="mainPromo hidden"><div class="adSummary" id="headerPromoContainer"></div></li>
+  <li class="mainLogin hidden"><!-- UNHIDE WHEN USER IS NOT LOGGED IN -->
+	<ul class="loginLinks">
+		<li><a href="https://buy.barrons.com/shopandbuy/order/subscribe.jsp?trackCode=aap19tey">Subscribe</a></li>
+		<li><a href="#" class="loginClass">Log In</a></li>
+	</ul>
+  </li>
+  <li class="mainSub hidden"><!-- UNHIDE WHEN USER IS LOGGED IN -->
+	<ul>
+	 <li class="timestamp"><!--Wednesday, December 16, 2008 --></li>
+	  <li class="subName">Welcome, <strong><span id="userName"></span></strong></li>
+	  <li class="subAccount"><a href="https://customercenter.barrons.com/view/home.html?mod=BOL_header_MyAcct">Customer Center</a></li>
+	  <li class="subLogout"><a href="http://online.barrons.com/logout?mod=BOL_header_logout">Logout</a></li>
+	</ul>
+  </li>
+</ul>
+</div>
+
+<div class="headerNav">
+  <ul id="bolNav">
+	<li class="navHome"><h2><a href="http://online.barrons.com/home-page">Home</a></h2></li>
+	<li class="navZine">
+		<h2><a href="http://online.barrons.com/this_week?mod=BOL_Nav_MAG_other">Magazine</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/this_week?mod=BOL_Nav_MAG_other">This Week's Edition</a></li>
+			<li><a href="http://online.barrons.com/page/pastedition.html?mod=BOL_Nav_MAG_other">Past Editions</a></li>
+		</ul>
+	</li>
+	<li class="navAnalysis">
+		<h2><a href="http://online.barrons.com/online_exclusives?mod=BOL_Nav_DAA_other">Daily Analysis</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/online_exclusives?mod=BOL_Nav_DAA_other">All Coverage</a></li>
+			<li><a href="http://online.barrons.com/public/page/barrons-take.html?mod=BOL_Nav_DAA_other">Barron's Take</a></li>
+			<li><a href="http://online.barrons.com/public/page/weekday-trader.html?mod=BOL_Nav_DAA_other">Weekday Trader</a></li>
+			<li><a href="http://online.barrons.com/public/page/up-and-down-wall-street-daily.html?mod=BOL_Nav_DAA_other">Up & Down Wall St. Daily</a></li>
+			<li><a href="http://online.barrons.com/public/page/getting-technical.html?mod=BOL_Nav_DAA_other">Getting Technical</a></li>
+			<li><a href="http://online.barrons.com/public/page/striking-price-daily.html?mod=BOL_Nav_DAA_other">Striking Price Daily</a></li>
+			<li><a href="http://blogs.barrons.com/stockstowatchtoday?mod=BOL_Nav_DAA_other">Stocks to Watch Today</a></li>
+			<li><a href="http://blogs.barrons.com/incomeinvesting?mod=BOL_Nav_DAA_other">Income Investing</a></li>
+			<li><a href="http://blogs.barrons.com/techtraderdaily?mod=BOL_Nav_DAA_other">Tech Trader Daily</a></li>
+			<li><a href="http://blogs.barrons.com/focusonfunds?mod=BOL_Nav_DAA_other">Focus on Funds</a></li>
+			<li><a href="http://blogs.barrons.com/emergingmarketsdaily?mod=BOL_Nav_DAA_other">Emerging Markets</a></li>
+			<li><a href="http://online.barrons.com/public/page/inside-scoop.html?mod=BOL_Nav_DAA_other">Inside Scoop</a></li>
+		</ul>
+	</li>
+	<li class="navInvesting">
+		<h2><a href="http://online.barrons.com/public/page/investing-ideas.html?mod=BOL_Nav_INV_other">Investing Ideas</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/public/page/investing-ideas.html?mod=BOL_Nav_INV_other">Overview</a></li>
+			<li><a href="http://online.barrons.com/stockpicks?mod=BOL_Nav_INV_other">Barron's Picks &amp; Pans</a></li>
+			<li><a href="http://online.barrons.com/funds?mod=BOL_Nav_INV_other">Mutual Funds / ETFs</a></li>
+			<li><a href="http://online.barrons.com/public/page/stocks.html?mod=BOL_Nav_INV_other">Stocks Center</a></li>
+			<li><a href="http://online.barrons.com/public/page/commodities.html?mod=BOL_Nav_INV_other">Commodities Center</a></li>
+			<li><a href="http://online.barrons.com/public/page/bonds.html?mod=BOL_Nav_INV_other">Bonds Center</a></li>
+			<li><a href="http://online.barrons.com/public/page/options.html?mod=BOL_Nav_INV_other">Options Center</a></li>
+			<li><a href="http://online.barrons.com/public/page/barrons-take.html?mod=BOL_Nav_INV_other">Barron's Take</a></li>
+			<li><a href="http://online.barrons.com/public/page/weekday-trader.html?mod=BOL_Nav_INV_other">Weekday Trader</a></li>
+			<li><a href="http://online.barrons.com/public/page/stock-alert.html?mod=BOL_Nav_INV_other">Stock Alert</a></li>
+			<li><a href="http://online.barrons.com/public/page/inside-scoop.html?mod=BOL_Nav_INV_other">Inside Scoop</a></li>			
+			<li><a href="http://online.barrons.com/public/page/ahead-of-the-crowd.html?mod=BOL_Nav_INV_other">Ahead of the Crowd</a></li>
+			<li><a href="http://blogs.barrons.com/focusonfunds?mod=BOL_Nav_INV_other">Focus on Funds</a></li>
+			<li><a href="http://blogs.barrons.com/stockstowatchtoday?mod=BOL_Nav_INV_other">Stocks to Watch Today</a></li>
+			<li><a href="http://online.barrons.com/roundtable?mod=BOL_Nav_INV_other">Barron's Roundtable</a></li>
+		</ul>
+	</li>
+	<li class="navRanks">
+		<h2><a href="http://online.barrons.com/report/top-financial-advisors?mod=BOL_Nav_TAD_other">Top Advisors</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/report/top-financial-advisors?mod=BOL_Nav_TAD_other">Overview</a></li>
+			<li><a href="http://online.barrons.com/article/SB50001424053111904857404577335732680851316.html?mod=BOL_Nav_TAD_other">Top 100 Advisors</a></li>
+			<li><a href="http://online.barrons.com/article/SB50001424053111904081004577434721333334012.html?mod=BOL_Nav_TAD_other">Top 100 Women Advisors</a></li>
+			<li><a href="http://online.barrons.com/article/SB50001424053111904881404577601463917592328.html?mod=BOL_Nav_TAD_other">Top 100 Independent Advisors</a></li>
+			<li><a href="http://online.barrons.com/article/SB50001424052748704625304577229250785038274.html?mod=BOL_Nav_TAD_other">Top 1,000 Advisors</a></li>
+			<li><a href="http://online.barrons.com/public/page/advisor-profiles.html?mod=BOL_Nav_TAD_other">Advisor Profiles</a></li>
+		</ul>
+	</li>
+	<li class="navTools">
+		<h2><a href="http://online.barrons.com/data?mod=BOL_Nav_MAR_other">Market Data</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/data?mod=BOL_Nav_MAR_other">Market Data Center</a></li>
+			<li><a href="http://online.barrons.com/mktlab?mod=BOL_Nav_MAR_other">Market Lab</a></li>
+			<li><a href="http://online.barrons.com/mdc/public/page/9_3063-economicCalendar.html?mod=BOL_Nav_MAR_other">Economic Calendar</a></li>
+			<li><a href="http://online.barrons.com/page/portfolio.html?mod=BOL_Nav_MAR_other">Portfolio</a></li>
+			<li><a href="http://online.barrons.com/public/page/stock_grader_public.html?mod=BOL_Nav_MAR_other">Stock Grader</a></li>
+			<li><a href="http://online.barrons.com/listings-stock-funds?mod=BOL_Nav_MAR_other">Stock &amp; Fund Tables</a></li>
+		</ul>						
+	</li>
+	<li class="navPenta">
+		<h2><a href="http://online.barrons.com/public/page/penta.html?mod=BOL_Nav_PEN_other">PENTA</a></h2>
+		<ul>
+			<li><a href="http://online.barrons.com/public/page/penta.html?mod=BOL_Nav_PEN_other">Penta Magazine</a></li>
+			<li><a href="http://blogs.barrons.com/penta?mod=BOL_Nav_PEN_other">Penta Daily</a></li>
+			<li><a href="http://online.barrons.com/public/page/penta-pastedition-2012.html?mod=BOL_Nav_PEN_other">Penta Archives</a></li>
+		</ul>
+	</li>
+  </ul>
+</div>
+</div><!-- fastdynapage - sbkj2kapachep02 - Sat 11/24/12 - 09:03:42 EST -->
+<div id="ad_17181" class="adSummary wideAd" > </div></div>
+<div class="col10wide margin-left-big">
+		<div class="blogheaderbar blogheader_logo  barronsheader techtraderdailyBlog">   
+       	<div class="col6wide">
+			<h3 class="blogauthor">
+				<a href="#"><span style="background-image: url(http://s.wsj.net/img/blogs/Tiernan_Ray.gif);"></span></a>
+			</h3>
+            		<h5 class="blogtitle">
+                		<a href="http://blogs.barrons.com/techtraderdaily/">Tech Trader Daily</a>
+            		</h5>
+            		<small>News, analysis, and actionable investing ideas.</small>
+        	</div>
+        	<div class="col4wide margin-left">
+			            <div class="searchform">
+                <form action="http://blogs.barrons.com/techtraderdaily/index.php" method="get" id="blgSearchFrm">
+                    <label for="s">Search Tech Trader Daily2</label>
+                    <input type="text" id="blog_search_query" class="formtext unUsed" name="s" value="Search Tech Trader Daily" size="30"/>
+                                    <input type="submit" value="SEARCH" class="searchsubmit"/>
+                            </form>
+            </div>
+	 	</div>
+    	</div>
+</div>
+<div class="reallywide">
+      	<div class="mastertextCenter">
+		<div class="padding-left-big">
+             		<div class="col6wide colOverflowTruncated">
+             		       <div class="articleHeadlineBox headlineType-newswire">
+       	<ul class="cMetadata metadataType-articleStamp">
+             		<li class="dateStamp first"><small>November 7, 2012, 6:03 P.M. ET</small></li>
+       	</ul>                
+       	<h1>Semis: UBS Cheers Inventory Reduction; Raymond James Cheers AT&amp;T Spend</h1>
+       </div>
+	<div id="abtt.at.containers" class="sTools sTools-t">
+ 		<ul class="stList stList-action">
+    			<li class="stList-i stList-email"><a href="javascript:void(0);" rel="nofollow" class="tipTarget stBtn stBtn-email" name="clickability" id="abtt.at.emailthis">Email</a></li>
+    			<li class="stList-i stList-print"><a href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/tab/print/" rel="nofollow" class="tipTarget stBtn stBtn-print" name="print" id="abtt.at.print">Print</a></li>
+  		</ul>
+		<ul class="stList stList-media">
+			<li class="stList-i stI-fb" id="aFbLikeTop">
+          			<fb:like layout="button_count" width="80" height="21" show_faces="false" href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/?fb_ref=wsj_share_FB"></fb:like>
+          		</li>
+			<li class="stList-i stI-g">
+				<g:plusone href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/" size="medium"></g:plusone>
+             		</li>
+			<li class="stList-i stI-tw">
+              		<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html" style="width:130px; height:20px;"></iframe>
+              	</li>
+		</ul>
+ 		<ul class="stList stList-sq">
+            		<li class="stList-i stI-smaller">
+              		<a id="abtt.at.tbs" class="stSq stLtr-smaller" href="#">smaller</a>
+              	</li>
+              	<li class="stList-i stI-larger">
+              		<a id="abtt.at.tbl" class="stSq stLtr-larger" href="#">Larger</a>
+              	</li>
+       	</ul>
+	</div>
+<div class="article story">
+            <div class="articlePage">
+                <!-- article start --><h3 class="byline">By Tiernan Ray</h3><p>The Street has developed a warmer, fuzzier good feeling about makers of <strong>semiconductors</strong> stocks this afternoon, helped, perhaps, in part by <strong>AT&amp;T</strong>&#8216;s (<a href="http://online.barrons.com/public/quotes/main.html?symbol=T">T</a>) <a href="http://www.att.com/gen/press-room?pid=23506&amp;cdvn=news&amp;newsarticleid=35661&amp;mapcode=corporate|consumer">announcement earlier today</a> that it plans to dramatically increase capital spending on infrastructure over the next several years, especially <strong>wireless</strong> infrastructure.</p>
+<p>The AT&amp;T announcement is the focus today of <strong>Raymond James</strong>&#8216;s <strong>Hans Mosesmann</strong>, who writes that <strong>Altera </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=ALTR">ALTR</a>) and <strong>Xilinx </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=XLNX">XLNX</a>) could benefit, along with <strong>Cavium </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=CAVM">CAVM</a>) and <strong>LSI </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=LSI">LSI</a>).</p>
+<p>Raymond James&#8217;s estimate for AT&amp;T&#8217;s spending prior to today had been $19.5 billion, writes Mosesmann, less than the $22 billion in total capital spending AT&amp;T plans in each of the next three years.</p>
+<p style="padding-left: 30px"><em>From a silicon perspective, this should bode well for a number of  communications-exposed names which we have highlighted below, who have undergone an inventory correction in CY12 with results largely lagging estimates. We expect this trend may reverse course in 2013 if cap ex trends from other carriers mirror AT&amp;T’s recent update.</em></p>
+<p>Mosesmann notes that Altera and Xilinx get 45% of their revenue from telecom and wireless equipment sales. Cavium gets 70% of revenue from enterprise and service provider. And LSI gets 15% of revenue from networking products.</p>
+<p>UBS&#8217;s semiconductor analysts, including <strong>Steven Eliscu</strong>, <strong>Nicolas Gaudois</strong>, <strong>Jonah Cheng</strong>, <strong>Gareth Jenkins</strong>, <strong>Kenji Yasui</strong>, <strong>Steven Chin</strong>, and <strong>Amitabh Passi</strong> this evening report that they are &#8220;modestly more positive on semis,&#8221; given that there has been some capitulation from the Street with respect to the stocks, and that inventory levels have been coming down sharply.</p>
+<p style="padding-left: 30px"><em>Consensus NTM semis net earnings revised down 6% since July, and 27% since peaking in March ‘11. Semis stock are trading at 13.2 ‘13E PE, back in line with MSCI global ex Financials. Sept inventory days have come down across the board to average 91.2 for non-memory semis cos (-5.2 QoQ/-4.3 YoY), 43.1 days for distributors (-2.0 QoQ/-1.5 YoY) and 52.0 for OEMs (-1.2 QoQ/-1.0 YoY). Capacity utilisation rates are coming down sharply in 4Q: Intel 60-65% av., STM 65%, UMC est. 76% &amp; TSMC 90%. We believe this reflects marked destocking.</em> <em><strong>As a result, we estimate that semis industry revenues are under-shipping end consumption by 7% in 4Q12.</strong></em><strong></strong></p>
+<p>The team did, however, cut their 2012 semiconductor revenue growth estimate to a decline of 4%, year over year, from a prior 3% decline.</p>
+<p>The group raised their ratings on <strong>Taiwan Semiconductor Manufacturing </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=TSM">TSM</a>), <strong>Linear Technology</strong> (<a href="http://online.barrons.com/public/quotes/main.html?symbol=LLTC">LLTC</a>) to Buy from Neutral, while raising their rating on British chip design house <strong>Imagination Technologies Group PLC</strong> (<a href="http://quotes.barrons.com/UK/IMG">IMGUK</a>) to Neutral from Sell. The team&#8217;s most-preferred names are TSM, Linear, <strong>AMS AG</strong> (<a href="http://markets.ft.com/research/Markets/Tearsheets/Summary?s=AMS:SWX">AMS</a>), <strong>ARM</strong> <strong>Holdings</strong> (<a href="http://online.barrons.com/public/quotes/main.html?symbol=ARMH">ARMH</a>), <strong>Infineon Technologies</strong> <strong>AG</strong> (<a href="http://markets.ft.com/research/Markets/Tearsheets/Summary?s=IFX:BER">IFX</a>), <strong>Mediatek</strong> (<a href="http://quotes.barrons.com/TW/2454">2454TW</a>), <strong>Qualcomm</strong> (<a href="http://online.barrons.com/public/quotes/main.html?symbol=QCOM">QCOM</a>), <strong>Realtek</strong> (<a href="http://quotes.barrons.com/TW/2379">2379TW</a>), <strong>Sandisk </strong>(<a href="http://online.barrons.com/public/quotes/main.html?symbol=SNDK">SNDK</a>), <strong>Samsung Electronics</strong> (<a href="http://finance.yahoo.com/q?s=005930.KS&amp;ql=0">005930KS</a>), and <strong>SK Hynix</strong> (<a href="http://finance.yahoo.com/q?s=000660.KS&amp;ql=0">000660KS</a>).</p>
+      <!-- article end -->
+            </div>
+          </div><div class="postcats"><ul><li><a href="http://blogs.barrons.com/techtraderdaily/tag/chips/" rel="tag">chips</a>, </li><li><a href="http://blogs.barrons.com/techtraderdaily/tag/networking/" rel="tag">networking</a>, </li><li><a href="http://blogs.barrons.com/techtraderdaily/tag/semiconductors/" rel="tag">semiconductors</a>, </li><li><a href="http://blogs.barrons.com/techtraderdaily/tag/telecom/" rel="tag">telecom</a>, </li><li><a href="http://blogs.barrons.com/techtraderdaily/tag/wireless/" rel="tag">wireless</a></li></ul></div>
+    <ul class="blognav blogpostnav">
+        <li class="blognav_prev">
+            <a href="http://blogs.barrons.com/techtraderdaily/2012/11/07/activision-rising-q3-beats-raises-year-outlook-above-consensus/" rel="prev"><strong>&laquo; Previous</strong> <br /> Activision Rising: Q3 Beats, Raises Year Outlook Above Consensus</a>        </li>
+        <li class="blognav_next">
+            <a href="http://blogs.barrons.com/techtraderdaily/2012/11/08/this-morning-panl-plunges-qcom-rising-oppenheimer-to-apples-defense/" rel="next"><strong>Next &raquo;</strong><br/> This Morning: PANL Plunges, QCOM Rising, Oppenheimer to Apple&#8217;s Defense</a>       	</li>
+    </ul>
+
+<div class="bottomRow"><div class="more"><a href="http://blogs.barrons.com/techtraderdaily/">Tech Trader Daily HOME PAGE</a></div></div>	<div class="sTools sTools-b">
+		<div class="stRow-full stRow-fb">
+			<fb:like layout="standard" width="450" show_faces="true" send="true" href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/?fb_ref=wsj_share_FB"></fb:like>
+		</div>
+		<div class="stRow-full">
+			<ul class="stList stList-media">
+				<li class="stList-i stI-tw">
+              			<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html" style="width:130px; height:20px;"></iframe>
+              		</li>
+				<li class="stList-i stI-ln">
+					<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+					<script type="IN/Share" data-counter="right"></script>
+				</li>
+				<li class="stList-i stI-g">
+              			<g:plusone href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/" size="medium"></g:plusone>
+              		</li>
+			</ul>
+			<ul class="stList stList-action">
+    				<li class="stList-i"><a href="javascript:void(0);" rel="nofollow" class="tipTarget stBtn stBtn-email" name="clickability" id="abtt.at.emailthis">Email</a></li>
+    				<li class="stList-i"><a href="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/tab/print/" rel="nofollow" class="tipTarget stBtn stBtn-print" name="print" id="abtt.at.print">Print</a></li>
+  			</ul>
+		</div>
+	</div>            		
+<div class="adSummary msnlinks">
+                    <script type="text/javascript">
+                        <!--
+                        microsoft_adunitid="10165";
+                        microsoft_adunit_width="571";
+                        microsoft_adunit_height="164";
+                        microsoft_adunit_legacy="false";
+                        microsoft_adunit_keywordhints="";
+                        document.write('<script type="text/javascript" src="https://adsyndication.msn.com/delivery/getads.js?'+Math.random()*1000+'"></'+'script>');
+                        //-->
+                    </script>
+                  </div>   
+    <script type="text/JavaScript">
+        var OB_permalink= 'http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/';
+        var OB_Template="barrons";
+        var OB_widgetId= 'AR_1';
+        var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+        if( typeof( OB_Script ) != 'undefined' )
+            OutbrainStart();
+        else
+        {
+            var OB_Script = true;
+            var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>";
+            document.write(str);
+        }
+    </script>
+<a name="commentform"></a><div class="commentform">  <h4>Add a Comment</h4>  <div class="alertMessage" style="display:none;" id="alertdiv" >    <p id="alertp">Error message</p>  </div>  <form method="post" action="http://blogs.barrons.com/techtraderdaily/wp-comments-post.php" id="comment_form">    <input type=hidden name="comment_post_ID" value="38117" />    <input type=hidden name="redirect_to" rel="nofollow" value="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/" />    <fieldset>      <div class="formBlock">        <div class="col3wide">          <label for="author">Name</label>          <input type="text" name="author" class="formtext" id="comment_name" maxlength=100 />        </div>        <span class="formnote">We welcome thoughtful comments from readers. Please comply with our <a href="http://online.barrons.com/public/page/9_1008.html">guidelines</a>. Our blogs do not require the use of your real name.</span>      </div>      <div class="formBlock">        <label for="comment">Comment</label>        <textarea name="comment" id="comment_text"></textarea>      </div>      <div class="formBlock blockType-buttons">        <input type="reset" class="formbtn" value="CLEAR" />        <input type="submit" class="formbtn" value="POST" />      </div>    </fieldset>  </form></div><div class="postcomments"><div class="messageBox boxType-noactivity"><p>Be the first to leave a comment on this blog.</p></div></div>             		</div>
+             		<div class="col4wide margin-left colOverFlowTruncated">
+             			<div id="rightRail" class="rightRail">
+                    			<div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/techtraderdaily">Most Recent Posts</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/28/infoblox-jumps-on-q1-beat-rosy-full-year-forecast/?mod=BOLBlog">Infoblox Jumps On Q1 Beat, Rosy Full Year Forecast</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/28/improved-iphone-5-availability-bodes-well-for-apples-q1-citi/?mod=BOLBlog">Improved iPhone 5 Availability Bodes Well For Apple&#8217;s Q1: Citi</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/28/evercore-cautious-on-bb10-potential/?mod=BOLBlog">Evercore: Cautious On BB10 Potential</a></h2>        </li><li class="more"><h2><a href="http://blogs.barrons.com/techtraderdaily/?recent=1">More Posts</a></h2></li>    </ul></div><div id="ad_54547" class="adSummary advertisement" > </div>
+	<div class="headlineSummary about">  
+	<div class="headerBox">    
+		<h3>About Tech Trader Daily</h3>
+
+		<ul class="tools">      
+			<li class="listLbl"></li><li class="rssIcon"><a href="http://blogs.barrons.com/techtraderdaily/feed/"><span>RSS</span></a></li><li class="twitterIcon"><a rel="nofollow" href="http://twitter.com/barronstechblog" class="aptureNoEnhance"><span>twitter</span></a></li></ul>
+
+	</div>
+	<ul class="newsItem">    
+		<li>
+			<div class="newsImage"></div><p>Tech Trader Daily is a blog on technology investing written by Barron’s veteran Tiernan Ray. The blog provides news, analysis and original reporting on events important to investors in software, hardware, the Internet, telecommunications and related fields. Comments and tips can be sent to: <a href="mailto:techtraderdaily@barrons.com">techtraderdaily@barrons.com</a>.</p>
+<p><a href="https://twitter.com/barronstechblog" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @barronstechblog</a><br />
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+
+		</li>
+	</ul>
+</div><div class="headlineSummary mostPopular">  <h3><a href="">Most Popular Posts</a></h3>  <div class="tabContainer">    <ul class="tabHeaderMulti">      <li id="mostRecentTab_41782_tab_viewed" class="tab selected"><a class="viewedHeader">Viewed</a></li>      <li id="mostRecentTab_41782_tab_emailed" class="tab"><a class="emailedHeader">Emailed</a></li>      <li id="mostRecentTab_41782_tab_commented" class="tab"><a class="commentedHeader">Commented</a></li>    </ul>  </div> <!-- end .tabContainer -->  <div class="tabContent">    <ul id="mostRecentTab_41782_panel_viewed" class="popularItem viewed"><li class="featuredHeadline"><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/21/nok-surges-12-initial-lumia-stock-outs-drive-short-covering-says-source/">NOK Surges as Lumia Stock-Outs Drive Short Covering; Times Lauds New Phone</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/aapl-lack-of-ipad-mini-discounting-presages-strong-demand-says-wells/">AAPL: Lack of iPad mini Discounting Presages Strong Demand, Says Wells</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/nokia-jumps-6-danske-sees-better-supply-demand-for-lumia/">Nokia Jumps 6%: Danske Ups to Buy on Better Supply, Demand Outlook for Lumia</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/rimm-target-18m-bb10-units-for-profit-in-14-says-raymond-james/">RIMM: Target 18M BB10 Units for Profit in FY14, Says Raymond James</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/intel-emcs-gelsinger-or-motos-jha-would-be-decent-ceo-picks-says-argus/">Intel: VMW's Gelsinger or Moto's Jha Would be Decent CEO Picks, Says Argus</a></h2></li>    </ul> <!-- end .popularItem.viewed -->    <ul id="mostRecentTab_41782_panel_emailed" class="popularItem emailed hidden"><li class="featuredHeadline"><h2><a href="http://blogs.barrons.com/penta/2012/11/23/the-jazz-behind-treme/">The Jazz Behind Treme</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/rimm-target-18m-bb10-units-for-profit-in-14-says-raymond-james/">RIMM: Target 18M BB10 Units for Profit in FY14, Says Raymond James</a></h2></li><li><h2><a href="http://blogs.barrons.com/incomeinvesting/2012/11/23/junk-bond-exodus-continues-another-1-1b-in-weekly-outflows/">Junk-Bond Exodus Continues, Another $1.1B in Weekly Outflows</a></h2></li><li><h2><a href="http://blogs.barrons.com/penta/2012/11/27/philanthropy-in-bite-size-bits/">Philanthropy in Bite-Size Bits </a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/27/vodafone-offers-20-upside-via-verizon-wireless-emerging-markets-growth-baird/">Vodafone Offers 20% Upside Via Verizon Wireless, Emerging Markets Growth: Baird</a></h2></li>    </ul> <!-- end .popularItem.emailed -->    <ul id="mostRecentTab_41782_panel_commented" class="popularItem commented hidden"><li class="featuredHeadline"><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/27/issues-abound-at-nokia-sustainable-profitability-unlikely-says-raymond-james/">'Issues Abound' At Nokia, Sustainable Profitability Unlikely, Says Raymond James</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/rimm-target-18m-bb10-units-for-profit-in-14-says-raymond-james/">RIMM: Target 18M BB10 Units for Profit in FY14, Says Raymond James</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/26/rimm-rally-not-so-fast-say-analysts/">RIMM Rally? Not So Fast, Say Analysts</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/23/aapl-lack-of-ipad-mini-discounting-presages-strong-demand-says-wells/">AAPL: Lack of iPad mini Discounting Presages Strong Demand, Says Wells</a></h2></li><li><h2><a href="http://blogs.barrons.com/techtraderdaily/2012/11/21/nok-surges-12-initial-lumia-stock-outs-drive-short-covering-says-source/">NOK Surges as Lumia Stock-Outs Drive Short Covering; Times Lauds New Phone</a></h2></li>    </ul> <!-- end .popularItem.commented -->  </div> <!-- end .tabContent --></div>
+<!-- fastdynapage - sbkj2kapachep01 - Wed 11/28/12 - 01:37:15 EST -->
+<div class="headlineSummary relatedCollection">    <h3><a href="http://allthingsd.com">From All Things Digital</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://allthingsd.com/20121128/microsoft-says-dont-get-scroogled-this-holiday-season-but-bing-is-not-so-scot-free/">Microsoft Says Don't Get Scroogled This Holiday Season, but Bing is Not So Scot-Free</a></h2>        </li>        <li class="" >            <h2><a href="http://allthingsd.com/20121128/kickstarter-panhandling-comic/">Kickstarter Panhandling (Comic)</a></h2>        </li>        <li class="" >            <h2><a href="http://allthingsd.com/20121128/wall-street-loves-workday-but-doesnt-understand-subscription-businesses/">Wall Street Loves Workday, but Doesn&#8217;t Understand Subscription Businesses</a></h2>        </li>    </ul></div><div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/stockstowatchtoday">Barron's Stocks to Watch</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2012/11/28/stocks-up-on-fiscal-cliff-hopes-but-maybe-thats-knee-jerk/?mod=BOLBlog">Stocks Up on Fiscal Cliff Hopes&#8230;But Maybe That&#8217;s Knee-Jerk</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2012/11/28/is-krawcheck-the-best-the-sec-can-do/?mod=BOLBlog">Is Krawcheck the Best the SEC Can Do?</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2012/11/28/the-day-in-gold/?mod=BOLBlog">The Day in Gold</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2012/11/28/skullcandy-up-7-is-a-short-squeeze-on/?mod=BOLBlog">Skullcandy Up 7%; Is a Short-Squeeze On?</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2012/11/28/costco-j-c-penney-and-nordstrom-on-the-rise/?mod=BOLBlog">Costco, J.C. Penney and Nordstrom on the Rise</a></h2>        </li>    </ul></div><div>
+
+<div id="ctl00_pnlStyle">
+	
+<link rel="stylesheet" type="text/css" href="http://www.fins.com/Finance/css/FINS_Widget.css"/>
+
+</div>
+
+<div id="ctl00_pnlScript">
+	
+<script language="javascript" type="text/javascript" src="http://www.fins.com/Finance/JScripts/FINS_Widget.js"></script>
+
+</div>
+
+<!--source = barttd ;TimeStamp= 11/28/2012 8:41:00 PM; -->
+
+
+
+
+
+    <div id="FINSW_News" class="FINSW">
+           
+        <div class="FINSW_header">
+                <a id="ctl00_DefaultContent_lnkHeader" class="tech" href="http://it-jobs.fins.com/?reflink=djm_modulewsj_widgetnews_barttd" target="_blank">Technology Career News &amp; Advice</a>       
+               <a class="FINSW_finsLogo logo1" href="http://www.fins.com/?reflink=djm_modulewsj_widgetnews_barttd" target="_blank">
+                 <span>&nbsp;</span>
+               </a>
+        </div> 
+           
+        <div class="FINSW_main">
+            <ul>
+                
+                        
+                       <li><a target="_blank" href='http://it-jobs.fins.com/Articles/SBB0000872396390443618604577623280662075846/Winners-and-Losers-in-Tech?Type=43&reflink=djm_modulewsj_widgetnewsbarttd'>Winners and Losers in Tech</a></li>
+                    
+                       <li><a target="_blank" href='http://it-jobs.fins.com/Articles/SBB0000872396390443618604577621262550973928/Crowdfunding-to-Take-Off?Type=43&reflink=djm_modulewsj_widgetnewsbarttd'>Crowdfunding to Take Off</a></li>
+                    
+                       <li><a target="_blank" href='http://it-jobs.fins.com/Articles/SBB0000872396390443409904577619220721140492/Microsoft-s-Mobile-Success-Depends-on-YOU?Type=43&reflink=djm_modulewsj_widgetnewsbarttd'>Microsoft's Mobile Success Depends on YOU!</a></li>
+                    
+                       <li><a target="_blank" href='http://it-jobs.fins.com/Articles/SBB0000872396390444772404577589320692320412/How-to-Spin-Your-Career-Story-and-Get-the-Job?Type=37&reflink=djm_modulewsj_widgetnewsbarttd'>How to Spin Your Career Story and Get the Job</a></li>
+                    
+                                    
+           </ul>
+        </div>
+        
+        <div class="FINSW_footer">
+            <div class="FINSW_section">
+              
+                        
+               <form action="http://it-jobs.fins.com/Technology-Job-Results.aspx" method="get" target="_blank">
+                <input class="kwd" name="FINSW_txtFindFINSJobs" id="FINSW_txtFindFINSJobs" type="text" value="keyword"
+                    maxlength="35" onfocus="FINSW.FINSWatermarkFocus(this,'keyword')" onblur="FINSW.FINSWatermarkBlur(this, 'keyword')" />
+                <input name="FINSW_txtLocationFINSJobs" id="FINSW_txtLocationFINSJobs" type="text"
+                    value="city, state, zip" onfocus="FINSW.FINSWatermarkFocus(this,'city, state, zip')"
+                    onblur="FINSW.FINSWatermarkBlur(this, 'city, state, zip')" />
+                <input type="button" name="back" value="FIND JOBS" class="FINSW_button" onclick="javascript:FINSW.findjobs('djm_modulewsj_widgetnews_searchbarttd', '', 'http://it-jobs.fins.com/Technology-Job-Results.aspx');" />
+                </form>
+               <span class="findJobs">MORE JOBS AND CAREER NEWS</span>
+            
+            
+            <div id="ctl00_DefaultContent_pnlTech">
+	
+            <ul>
+                <li><a target="_blank" href="http://www.fins.com/Finance/?reflink=djm_modulewsj_widgetnews_barttd">Finance Jobs</a>&nbsp;|&nbsp;</li>
+                <li><a target="_blank" href="http://www.fins.com/Finance/?reflink=djm_modulewsj_widgetnews_barttd">Accounting Jobs</a>&nbsp;|&nbsp;</li>
+                <li><a target="_blank" href="http://sales-jobs.fins.com/?reflink=djm_modulewsj_widgetnews_barttd">Sales Jobs</a>&nbsp;|&nbsp;</li>
+                <li><a target="_blank" href="http://sales-jobs.fins.com/?reflink=djm_modulewsj_widgetnews_barttd">Marketing Jobs</a></li>
+            </ul>
+            
+</div>
+            
+            </div>
+            <span id="ctl00_DefaultContent_lblPrmoText" class="FINSW_earnMoreNew"><a href='http://ad.doubleclick.net/clk;260268097;84594947;d?http://careers.edwardjones.com/us/fa/StartingYourFinancialSalesCareer/index.html' target='_blank'>Become an Edward Jones Financial Advisor today!</a></span>            
+        </div>
+    </div>
+
+
+
+
+
+<br/></div>             			</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--
+WSJ: 0.26.25M
+ 
+-->
+        <div class="reallywide clear-left"><div id="footer" class="pageFooter">        <div id="slice" class="hslice">
+
+                <div class="entry-title" style="display:none">Barrons.com: Headlines</div>
+
+                <a rel="entry-content" href="http://ie8.smoothfusion.com/Barrons/view.aspx" style="display: none;">Link to Barron's Slice.</a>
+
+                <a rel="bookmark" target="_blank" href="http://www.barrons.com" style="display: none;"></a>
+
+                <span class="ttl" style="display: none;">15</span>
+
+        </div>
+
+ <!-- START: barrons_footer.html -->
+ <ul class="footerColumns">
+        <li class="footerLogo">
+          <ul>
+            <li class="logo"><a href="http://online.barrons.com/home-page"></a></li>          
+            <li class="backup"><a rel="nofollow" href="#top">return to top</a></li>
+          </ul>
+        </li>
+        <li class="footerLinks">
+          <h4>Customer Center</h4>
+		  <ul>
+			<li><a href="https://customercenter.barrons.com/view/my_account.html?mod=BOL_footer_MyAcct">My Account</a></li>
+			 <li><a href="https://customercenter.barrons.com/view/my_subscriptions.html?BOL_footer_MySub">My Subscriptions</a></li> 
+		  </ul>
+		  <h4>Create an Account</h4>
+          <ul>            
+			<li><a href="https://buy.barrons.com/shopandbuy/order/subscribe.jsp?trackCode=aap19te3" rel="nofollow">Subscribe to Barron's</a></li>
+			<li><a href="https://buy.barrons.com/shopandbuy/order/subscribe.jsp?trackCode=aap2u86m" rel="nofollow">Subscribe to Barron's iPad Edition</a></li>
+          </ul>
+          
+          <h4>Help &amp; Info</h4>
+          <ul>
+            <li><a rel="nofollow" href="http://online.barrons.com/contact">Contact Us</a></li>
+            <li><a rel="nofollow" href="https://customercenter.barrons.com/view/home.html?mod=BOL_Footer_PrintServ">Print Subscriber Services</a></li>
+            <li class="acapLogo"><a rel="nofollow" target="_blank" href="http://the-acap.org/acap-enabled.php">ACAP enabled</a></li>
+          </ul>
+        </li>
+        <li class="footerLinks">
+          <h4>About Barrons.com</h4>
+          <ul>        
+            <li><a rel="nofollow" href="http://www.barronsmag.com/advertise.html">Advertising</a></li>
+            <li><a rel="nofollow" href="http://www.wsjlocal.com/">Advertise Locally</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/editorial-staff.html">Editorial Staff</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/privacy_policy.html">Privacy Policy - Updated 10/18/2011</a></li>
+			<li><a href="http://online.barrons.com/public/page/privacy_policy.html#ad_choices">Your Ad Choices</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/subscriber-agreement.html">Subscriber Agreement<br>&amp; Terms of Use - NEW</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/copyright_policy.html">Copyright Policy</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/community-guidelines.html">Community Guidelines</a></li>
+          </ul>
+        </li>
+        <li class="footerLinks">
+          <h4>Also From Barron's</h4>
+          <ul>
+            <li><a rel="nofollow" href="http://barronsmag.com/conferences/">Conferences</a></li>
+            <li><a rel="nofollow" href="http://www.djreprints.com/">Reprints</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/classified_ads.html">Classifieds</a></li>
+			<li><a rel="nofollow" href="http://www.barronsmag.com/college.html">College Program</a></li>
+			<li><a rel="nofollow" href="http://online.barrons.com/public/page/brokercenter.html?reflink=djm_bolbrokercenter_footerlink">Find a Broker</a></li>
+          </ul>
+        </li>
+         <li class="footerLinks">
+          <h4>Tools &amp; Services</h4>
+          <ul>
+            <li><a rel="nofollow" href="http://online.barrons.com/email">Email Newsletters</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/mobile.html">Mobile/E-Readers</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/ipad.html">Barron's iPad</a></li>
+            <li class="feedMe"><a rel="nofollow" href="http://www.facebook.com/barronsonline" class="facebook">Barron's on Facebook</a></li>
+            <li class="feedMe"><a rel="nofollow" href="http://twitter.com/barronsonline" class="twitter">Barron's on Twitter</a></li>
+            <li class="feedMe"><a rel="nofollow" href="http://online.barrons.com/public/page/rssfeed.html" class="rss">RSS Feeds</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/public/page/bolpodcast.html">Podcasts</a></li>
+            <li><a rel="nofollow" href="http://online.barrons.com/page/portfolio.html">Portfolio</a></li>
+            <li><a rel="nofollow" href="http://live.wsj.com">Video</a></li>
+            <li><a href="http://barronsonline.ar.wilink.com">Annual Reports</a></li>
+            <li><a href="http://online.barrons.com/public/page/stock_grader_public.html">StockGrader</a></li>
+            <li><a href="http://online.barrons.com/public/page/barrons_econoday.html">Economic Calendar</a></li>
+            <li><a href="http://online.barrons.com/listings-stock-funds">Stock &amp; Mutual Fund Listings</a></li>
+            <li><a href="http://online.barrons.com/listings-commodities-options-annuities">Commodities, Options &amp; Annuities Listings</a></li>
+            <li><a href="http://online.barrons.com/public/page/barrons_400.html">Barron's 400</a></li>
+            <li><a href="http://online.barrons.com/public/page/fund-screener.html">Fund Screener</a></li>
+            <li><a href="http://online.barrons.com/public/page/market_gauge.html">MarketGauge</a></li>
+            <li><a href="http://barronsonline.fundinfo.wilink.com">Fund Prospectuses</a></li>
+
+          </ul>
+        </li>
+        <li class="wsjDigital">
+		  <h4><strong></strong><span>Digital Network</span></h4>
+          <ul>
+            <li><a href="http://online.barrons.com">Barrons.com</a></li>
+            <li><a href="http://online.wsj.com">WSJ.com</a></li>
+            <li><a href="http://www.marketwatch.com">MarketWatch.com</a></li>
+            <li><a href="http://www.smartmoney.com">SmartMoney.com</a></li>
+            <li><a href="http://allthingsd.com">AllThingsD.com</a></li>
+            
+            <li><a href="http://bigcharts.marketwatch.com">BigCharts.com</a></li>
+            <li><a href="http://vse.marketwatch.com/Game/Homepage.aspx">Virtual Stock Exchange</a></li>          
+            <li><a href="http://online.wsj.com">WSJ U.S. Edition</a></li>
+            <li><a href="http://asia.wsj.com">WSJ Asia Edition</a></li>
+            <li><a href="http://europe.wsj.com">WSJ Europe Edition</a></li>
+            <li>Foreign Language Editions:</li>
+            <li><a href="http://chinese.wsj.com/gb/index.asp">WSJ Chinese</a></li>
+            <li><a href="http://online.wsj.com/portuguese">WSJ Portuguese</a></li>
+            <li><a href="http://online.wsj.com/americas">WSJ Spanish</a></li>
+          </ul>
+        </li>
+ </ul>
+ <small>Copyright &copy; 2012 Dow Jones &amp; Company, Inc. All Rights Reserved.</small>    
+<!-- END: barrons_footer.html -->
+</div><!-- fastdynapage - sbkj2kapachep01 - Sat 11/24/12 - 09:03:52 EST -->
+</div>
+    </div>
+    <div id="fb-root"></div>
+</body>
+<script type="text/javascript" src="http://barrons.wsj.net/djscript/require/bolGlobal,bolGlobalHat,accountscrim_loader/version/20120717000001.js"></script>
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/wsj_blogs_omniture.js?20120117"></script>
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/wsj_blogs.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!--[if IE 6]> 
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/ie6Hoverfix.js"></script> 
+<![endif]-->
+
+<script type="text/javascript">
+var d = new Image(1, 1);
+d.onerror = d.onload = function (){ d.onerror = d.onload = null; };
+d.src = [ "http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-403743h&cg=0&cc=1&si=", 
+          escape(window.location.href), 
+          "&rp=", 
+          escape(document.referrer), 
+          "&ts=compact&rnd=", 
+          (new Date()).getTime() ].join('');
+</script>
+
+<script type="text/javascript">
+
+var current_path = document.location.pathname;
+
+if (typeof current_path == "undefined") {
+    var current_path = "/";
+}
+
+var wsj_section = document.location.toString().split( "/", 4 )[3];
+
+var _sf_async_config={uid:8900,domain:"online.barrons.com",path:current_path, sections:wsj_section};
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute("src",
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script language="javascript1.2">clickURL="http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/?blog_id=27&post_id=38117";clickTitle="Semis: UBS Cheers Inventory Reduction; Raymond James Cheers AT&amp;T Spend";</script><script language="javascript1.2" src="http://btn.clickability.com/156116/button_1/button.js"></script> 
+<script type="text/javascript">
+    new dj.blogs.FacebookConnect( "" );
+
+    var tracking = new dj.blogs.Tracking(); 
+        tracking.site     = 'BOL';
+        tracking.channel  = 'Barrons Online';
+        tracking.showGeography = false;
+        tracking.blogName    = 'Techtraderdailyblog';
+        tracking.title       = 'Semis UBS Cheers Inventory Reduction Raymond James Cheers ATT Spend';
+        tracking.section     = 'Blog';
+        tracking.subsection  = 'Techtraderdailyblog';
+        tracking.ad_zone     = 'blog_techtraderdaily';
+        tracking.publishTime = '2012-11-07 18:03';
+        tracking.pageType    = 'post';
+        tracking.articlePrivilege = '';
+        tracking.blogPrivilege    = 'free';
+
+        tracking.firePixel();
+
+dj.blogs.AdManager.createAd(
+                                    'banner',
+                                    'ad_17181',
+                                    'iframe',
+                                    { width: 728,
+                                      height: 90,
+                                      size:'728x90',
+                                      site:'barrons.com',
+                                      zone:'blog_techtraderdaily',
+                                      adClass:'A',
+                                      title: 17181,
+                                      meta:'',
+                                      category:'',
+                                      frequency:'',
+                                      cacheId:'',
+                                      classEnabled:'true',
+                                      classValue:'adSummary ad_728',
+                                      styleValue:'',
+                                      conditionType:'',
+                                      conditionValue:'',
+                                      conditionalString:''});
+new dj.blogs.ArticleTools( "http://blogs.barrons.com/techtraderdaily/2012/11/07/semis-ubs-cheers-inventory-reduction-raymond-james/","Semis: UBS Cheers Inventory Reduction; Raymond James Cheers AT&amp;amp;T Spend","The Street has developed a warmer, fuzzier good feeling about makers of semiconductors stocks this afternoon, helped, perhaps, in part by AT&amp;amp;T&amp;#8216;s (T) announcement earlier today that it plans to dramatically increase capital spending on infrastructure over the next several years, especially wireless infrastructure. The AT&amp;amp;T announcement is the focus today of Raymond James&amp;#8216;s Hans [...]","156116","27","38117" );
+new dj.blogs.CommentForm(); 
+dj.blogs.AdManager.createAd(
+                                    'standard_top',
+                                    'ad_54547',
+                                    'js',
+                                    { width: 300,
+                                      height: 250,
+                                      size:'300x250,336x280,300x600,336x850,300x1050',
+                                      site:'barrons.com',
+                                      zone:'blog_techtraderdaily',
+                                      adClass:'A',
+                                      title: 54547,
+                                      meta:'',
+                                      category:'',
+                                      frequency:'',
+                                      cacheId:'',
+                                      classEnabled:'true',
+                                      classValue:'adSummary advertisement',
+                                      styleValue:'',
+                                      conditionType:'',
+                                      conditionValue:'',
+                                      conditionalString:''});
+new dj.blogs.MostRecentTab( '41782', 'viewed', new Array('viewed', 'emailed', 'commented') );
+</script>
+</html>

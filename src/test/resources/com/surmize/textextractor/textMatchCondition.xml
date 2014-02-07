@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_02" class="java.beans.XMLDecoder">
+ <object class="com.stockpredictor.htmlcleaner.TextMatchingRule">
+  <void property="matchingConditions">
+   <void method="add">
+    <object class="com.stockpredictor.htmlcleaner.TextMatchingCondition">
+     <void property="matchCriteria">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>com.stockpredictor.htmlcleaner.StringMatchCriteria</class>
+       <string>CONTAINS</string>
+      </object>
+     </void>
+     <void property="matcherString">
+      <string>someText</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

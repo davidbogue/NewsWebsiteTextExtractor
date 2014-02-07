@@ -1,0 +1,2383 @@
+
+<!DOCTYPE html> <!--needWrap true --> <html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"> <!-- Vader always loves you and the Chad among others --> <head> <!-- NR header --> <title>Midday Glance: Biotechnology companies - CBS News</title> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <meta name="" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <link type="text/css" rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/global/base.css"/> <!--[if gte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie9.css"/>
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie8.css"/>
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie7.css"/>
+<![endif]-->
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie6.css"/>
+<![endif]--> <link type="text/css" rel="stylesheet" rev="stylesheet" media="print" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnews/global/print.css"/> <!-- UGC Maintenance Mode --> <!-- ugcFlags Comments mmode value: false -->
+<!-- ugcFlags Forums mmode value: false -->
+<!-- ugcFlags Toolbar mmode value: false -->
+<!-- ugcFlags AssetRating mmode value: false -->
+<!-- ugcFlags UFO mmode value: false -->
+<!-- ugcFlags DlUFO mmode value: false -->
+<!-- ugcFlags Login mmode value: false -->
+<!-- ugcFlags UserLists mmode value: false -->
+<!-- ugcFlags UserDB mmode value: false -->
+<!-- ugcFlags RPS mmode value: false -->
+<!-- ugcFlags Global mmode value: false --> <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cbsnews.com/feeds/rss/main.rss" /> <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cbsnews.com/2003-505245_162-0.xml" /> <style type="text/css" id="fontSizeStyles"></style> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/Build/Filelists/global/loader.162.0.js"></script> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/Build/Filelists/global/base.162.0.js"></script> <script type="text/javascript" src="//fonts.cbsnews.com/jjs5hem.js"></script> <script type="text/javascript">try{Typekit.load();}catch(e){}</script> <!--[if IE 6]> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/FixPNG.js"></script> <![endif]--> <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]--> <script type="text/javascript">
+        
+                (function() {
+                    var uvars = Cookie.read('cbs_urs');
+                    UserVars = new LocalVars.UserVars((uvars) ? JSON.decode(uvars) : {});
+                })();
+            
+        PageVars = new LocalVars.PageVars({
+            pageType: '8301',
+            nodeId: '505245',
+            siteId: '162',
+            assetId: '57554910',
+            pageNumber: '',
+            channelId: '500395',
+            editionId: '3',
+            brandId: '55',
+            breadcrumb: '500395:505123:505245',
+            userIP: '166.147.104.17, 157.238.74.166, 166.147.104.17, 166.147.104.17',
+            sectionId: '505245',
+	    guid: window.cbsiGUID
+        });
+
+        var cbsVar_sectId = '505245';
+
+    	
+    </script> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/Ads/common/manta/adFunctionsD-cbsnews.js"></script>
+<script type="text/javascript">
+    var cbsiAdGlobal = {
+        'SITE' : '162',
+        'BRAND' : '55',
+        'DVAR_CID' : '57554910',
+        'CNET-PAGE-GUID' : window.cbsiGUID,
+    
+        
+        
+                'NCAT' : '500395:505123:505245:',
+            
+    
+        'NODE' : '505245',
+        'PTYPE' : '8301',
+        'STAGING' : '0',
+        'DVAR_EXCLUDE' : ''          //ad refresh
+        
+      };
+    cbsiRegisterAdGlobals(cbsiAdGlobal);
+    cbsiSetDeferredLocalPage("/html/Ads/common/MantaRay4_5Local_cbsnews.html");    //ad refresh
+</script> <script type="text/javascript" src="http://dw.com.com/js/dw.js"></script> <script type="text/javascript">
+        DW.pageParams = {
+            siteid: '162',
+            edid:   '3',
+            prtnr:  'CNET Networks, Inc.',
+            ptid:   '8301',
+            onid:   '505245',
+            asid:   '57554910',
+            pgnbr:  '',
+            astId:  '28',
+	    pguid:  window.cbsiGUID
+        };
+
+        DW.regSilo = '1';
+        
+
+    
+    </script> <script type="text/JavaScript">
+    <!--
+       var cbsiAd80_100 = {
+           'SP': '80',
+           'POS': '100'
+       };
+       cbsiGetAd(cbsiAd80_100);
+    //-->
+    </script> <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['nT._setAccount', 'UA-27653683-1']);
+  _gaq.push(['nT._setDomainName', 'www.cbsnews.com']);
+  _gaq.push(['nT._setAllowLinker', true]);
+  _gaq.push(['nT._setSampleRate', '1']);
+  _gaq.push(['nT._trackPageview']);
+
+  
+  
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> <!-- Sec: 505245 --> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/Build/Filelists/8301/8301.162.0.js"></script> <script type="text/javascript">
+        PageVars.set('title', escape("Midday Glance: Biotechnology companies - CBSNews"));
+        PageVars.set('description', escape("Midday Glance: Biotechnology companies"));
+        PageVars.set('href', escape("http://www.cbsnews.com/8301-505245_162-57554910/midday-glance-biotechnology-companies/"));
+
+
+    </script> <link type="text/css" rel="stylesheet" rev="stylesheet" media="screen" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/post/post.css"/> <link rel="canonical" href="http://www.cbsnews.com/8301-505245_162-57554910/midday-glance-biotechnology-companies/"/> <link type="text/css" rel="stylesheet" rev="stylesheet" media="screen" href="http://i.i.com.com/cnwk.1d/css/rb/Build/cbsnewsless/shows/moneyWatch.css"/> <meta http-equiv="Content-Language" content="en-US"/> <meta name="keywords" content="Biotechnology, Midday Glance"/> <meta name="description" content=" Midday Glance: Biotechnology companies"/> <meta name="author" content="CBSNews.com" /> <meta name="robots" content="index, follow" /> <meta name="published" content="Tue Nov 27 10:20:55 PST 2012" /> <meta name="channelId" content="500395" />
+<meta name="channelName" content="CBS MoneyWatch" />
+<meta name="nodeId" content="505245" />
+<meta name="nodeName" content="Markets & Investing - AP" /> <meta name="twitter:card" value="summary">
+<meta name="twitter:site" value="@cbsNews">
+<meta name="twitter:creator" value="@CBSNews">
+<meta name="twitter:url" value="http://www.cbsnews.com/8301-505245_162-57554910/midday-glance-biotechnology-companies/">
+<meta name="twitter:title" value="Midday Glance: Biotechnology companies">
+<meta name="twitter:description" value="Midday Glance: Biotechnology companies">
+<meta name="twitter:image" value=""> <meta property="fb:app_id" content="79439656165" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.cbsnews.com/8301-505245_162-57554910/midday-glance-biotechnology-companies/" />
+<meta property="og:site_name" content="CBS News" />
+<meta property="og:image" content="" />
+<meta property="og:title" content="Midday Glance: Biotechnology companies" />
+<meta property="og:description" content="Midday Glance: Biotechnology companies" />
+<meta property="article:section" content="CBS MoneyWatch" />
+<meta property="article:tag" content="Biotechnology, Midday Glance" /> </head> <body class="siteId162 pageType8301 nodeId505245 channelId500395 postStory isGeneric"> <a name="top"></a> <!-- ClickTale top -->
+<script type="text/javascript">
+    var WRInitTime = (new Date()).getTime();
+</script>
+<!-- /ClickTale top --> <div id="rb_shell"> <header id="rbHeader"> <!-- BREAKING NEWS WILDCARD --> <div id="breakingNewsBanner" section="breakingnews"><!-- --></div> <script type="text/javascript"> var breakingNewsTicker = new Ticker('breakingNewsBanner', {dataUrl: '/feedfiles/breakingnews.xml'}); </script> <div id="wc25" section="breakingnews"></div> <div id="wc26" section="breakingnews"></div> <!-- END BREAKING NEWS WILDCARD --> <div class="showNav"> <ul> <li class="active"><a href="/">CBSNews.com</a></li> <li class="showNavSplit">/</li> <li><a href="/evening-news/">CBS Evening News</a></li> <li class="showNavSplit">/</li> <li><a href="/cbsthismorning/">CBS This Morning</a></li> <li class="showNavSplit">/</li> <li><a href="/sections/48hours/main3410.shtml">48 Hours</a></li> <li class="showNavSplit">/</li> <li><a href="/sections/60minutes/main3415.shtml">60 Minutes</a></li> <li class="showNavSplit">/</li> <li><a href="/sunday-morning/">Sunday Morning</a></li> <li class="showNavSplit">/</li> <li><a href="/face-the-nation/">Face the Nation</a></li> </ul> </div> <div class="int"> <div class="headerSearch"> <div class="loginSearch" section="loginSearch"> <form method="get" action="/1770-5_162-0.html" class="universalSearch" name="tsearch" section="srch"> <div class="searchBoxWrap"> <span> <input type="text" name="query" size="20" maxlength="255" class="searchBox"/> </span> </div> <input type="hidden" name="tag" value="srch" /> <input type="hidden" name="searchtype" value="cbsSearch" /> <input type="submit" class="searchGo" value="Go" /> </form> </div> </div> <nav id="categoryNav"> <ul class="catNavBar catNavChannel500395"> <li class="moneyWatchLogo"><a href="/moneywatch"></a></li> <li class="first"><span class="catLinkWrap"><a href="/moneywatch/markets-investing/" class="catLink markets ">Markets</a></span></li> <li><span class="catLinkWrap"><a href="/1801-34227_162.html" class="catLink investing ">Investing</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/technology/" class="catLink tech ">Tech</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/management/" class="catLink leadership ">Leadership</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/small-business/" class="catLink smallbusiness ">Small Business</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/saving-money/" class="catLink saving ">Saving</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/spending-money/" class="catLink spending ">Spending</a></span></li> <li><span class="catLinkWrap"><a href="/moneywatch/retirement-planning/" class="catLink retirement ">Retirement</a></span></li> <li><span class="catLinkWrap"><a href="/2718-500395_162-1669.html" class="catLink video ">Video</a></span></li> <li id="loginAction" class="loginAction"> <div class="loggedOut"> <span class="catLinkWrap"> <a id="openLogIn" class="catLink login">Log In</a> </span> <div id="loginWrapper" class="cbsNewsFlyout" style="display: none;"> <ul> <li class="first"><a id="openLogIn" onclick="CURS.Manager.checkLogin({ursForm: 'login', appId: 189})">Log In</a></li> <li><a onclick="CURS.Manager.checkLogin({ursForm: 'register', appId: 189})">Join CBSNews.com</a></li> <li class="last socialConnect">Sign in with <span id="gigyaHeader" class="small gigyaWidget"></span></li> </ul> </div> </div> </li> <li id="logoutAction" class="loginAction"> <div class="loggedIn" style="display: none;"> <span class="catLinkWrap"> <a class="welcome">Profile</a> </span> <div id="logoutWrapper" class="cbsNewsFlyout" style="display: none;"> <ul> <li class="first socialConnect"><span id="gigyaHeaderConnections" class="gigyaWidget connections"></span></li> <li><a href="/8721-4_162-0.html">Manage my newsletter subscriptions</a></li> <li><a href="/1341-4_162-189.html">Update my e-mail address</a></li> <li><a href="/1343-4_162-189.html">Change my password</a></li> <li class="last"><a class="logOut" href="/1331-4_162-189.html">Log Out</a></li> </ul> </div> </div> </li> <div id="mwHeaderTicker"> <script src="http://markets.cbsnews.com/cbsnews?Module=tickerbar2&Output=JS"></script> <div id="stock-quote" section="stock-quote"> <form section="srch" name="tsearch" class="universalSearch" action="http://markets.cbsnews.com/cbsnews/quote" method="get"> <div class="searchBoxWrap"> <span><input class="input top-input-ticker placeholder" id="search-stock-query" type="text" name="Symbol" value="" placeholder="Quote"></span> </div> <input type="hidden" value="Symbol"> <button id="search-stock-submit" class="top-search-ticker" type="submit">Get</button> </form> </div> </div> </ul> </nav> <!--isShow: false --> </div> </header> <div id="rb_skin" class="rb_skin"> <script type="text/JavaScript">
+    var mantleSkinExists = false;
+</script> <div id="mantle_skin"> <script type="text/JavaScript">
+                        <!--
+                            var cbsiAd119_100 = {
+                              'SP' : '119',
+                              'POS' : '100',
+                              'WIDTH' : '1600',
+                              'HEIGHT' : '1000',
+                              'CALLBACK' : {onload: mantleOnLoadCallback2},
+                              'REFRESH' : '1'
+                              };
+                            cbsiSetupAdDiv("cbsiAd119_100", cbsiAd119_100);
+                            cbsiGetDeferredAds(["cbsiAd119_100"]);
+
+                        function mantleOnLoadCallback2(callbackArr){
+                            if(callbackArr.isBlank == 0) {
+                                $$('#dashboard').setStyles({
+                                    width: '1020px',
+                                    marginLeft: 'auto',
+                                    marginRight: 'auto'
+                                });
+                                mantleSkinExists = true;
+                            }
+                        }
+                        //-->
+                </script> </div> <div id="leaderboard" class="advertisement"> <script type="text/JavaScript">
+    <!--
+            var cbsiAd264_100 = {
+             'SP' : '264',
+             'POS' : '100',
+              'CALLBACK' : {onload: leaderboardOnLoadCallback},
+             'REFRESH' : '1'
+            };
+           cbsiSetupAdDiv("cbsiAd264_100", cbsiAd264_100);
+           cbsiGetDeferredAds(["cbsiAd264_100"]);
+
+            function leaderboardOnLoadCallback(callbackArr){
+                if(callbackArr.isBlank == 0) {
+                        if(mantleSkinExists){
+                            $$('#leaderboard').setStyles({
+                                'padding' : '10px 0'
+                            });
+                        }
+                        else{
+                            
+                                
+                                        $$('#leaderboard').setStyles({
+                                            'position' : 'relative',
+                                            'background-color' : 'white',
+                                            'background' : 'none,-khtml-gradient(linear,left top,left bottom,from(#E0E0E0),to(#F2F2F2))',
+                                            'background' : 'none,-moz-linear-gradient(top,#E0E0E0 0,#F2F2F2 100%)',
+                                            'background' : 'none,-webkit-gradient(linear,left top,left bottom,color-stop(0,#E0E0E0),color-stop(100%,#F2F2F2))',
+                                            'border-top' : '1px solid white',
+                                            '-webkit-box-shadow' : '0 -6px 10px #E7E7E7 inset',
+                                            '-moz-box-shadow' : '0 -6px 10px #e7e7e7 inset',
+                                            'box-shadow' : '0 -6px 10px #E7E7E7 inset',
+                                            'padding' : '10px 0',
+                                            'text-align' : 'center',
+                                            'clear' : 'both'
+                                        });
+                                        $$('.pageType2718 #leaderboard, .pageType2302 #leaderboard').setStyles({
+                                            'background' : '#000',
+                                            'border-top': '1px solid #202022',
+                                            '-webkit-box-shadow': 'none',
+                                            '-moz-box-shadow': 'none; ',
+                                            'box-shadow': 'none'
+                                        });
+                                    
+
+
+                            
+                        }
+                }
+            }
+    //-->
+    </script> </div> <div id="rb_wrap"> <div id="rb_content"> <!-- oreo-gender false --> <!--alone 505245--> <!-- altBlogCatNcat: false --> <!-- decorator false--> <!-- paggieGender: --> <!-- gender: t=blog, f=story false--> <!-- cat id: 505245 --> <div id="cbsContentWrap" class="contentWrap"> <div id="cbsContent"> <div class="cbsInnerWrap"> <div id="contentMain"> <div id="contentBody"> <div class="storyBlogByline"> <span class="source"> AP<span>/</span> </span> <span class="time"> November 27, 2012, 1:20 PM </span> </div> <h1>Midday Glance: Biotechnology companies</h1> <!-- has video: --> <!-- has Images: --> <!-- has feature: --> <!-- is show: false --> <!-- module channel: 500395 --> <div id="inlineSocialBarTopPlaceholder"></div> <div class="storyText"> NEW YORK &#8212 Shares of some top biotechnology companies are mixed at 1 p.m.:<br><br>Amgen Inc. rose $.22 or .2 percent, to $87.50.<br><br>Biogen Idec fell $.38 or .3 percent, to $148.73.<br><br>Celgene Corp. rose $.03 or percent, to $78.81.<br><br>Gilead Sciences Inc. fell $.22 or .3 percent, to $75.26.<br><br> <!-- 1 pageNum--> </div> <span class="dateStamp copyRightText">&copy; 2012 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.</span> <br style="clear:both"/> <div id="inlineSocialBarBottomPlaceholder"></div> <div class="nrelateRedesign" id="nrelate_related_placeholder"></div> <div class="postREM"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<h2>Popular on MoneyWatch</h2>
+<div id="twoColContent" class="twoColContent">
+<div class="cbsnewsPostREMLargePromos" id="postREMLargePromos">
+    <ul>
+    
+        <li >
+            <a href="http://www.cbsnews.com/8301-18563_162-57556315/how-taxing-the-wealthy-affects-small-businesses/" class="image300" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/121129-Kevin_Green_300x225.jpg');" alt="How taxing the wealthy affects small businesses"></a>
+            <div class="textLink">
+                <a class="hed" alt="How taxing the wealthy affects small businesses" href="http://www.cbsnews.com/8301-18563_162-57556315/how-taxing-the-wealthy-affects-small-businesses/">How taxing the wealthy affects small businesses</a>
+                <a href="http://www.cbsnews.com/8301-18563_162-57556315/how-taxing-the-wealthy-affects-small-businesses/"><span class="dek">Republicans argue that President Obama's plan of raising taxes on the wealthy will mean slow growth and hurt small businesses</span>   </a>
+            </div>
+        </li>
+    
+        <li class="last">
+            <a href="http://www.cbsnews.com/8301-34227_162-57556309/zynga-slides-after-updated-agreement-with-facebook/" class="image300" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/Zynga_300x225.jpg');" alt="Zynga slides after updated agreement with Facebook"></a>
+            <div class="textLink">
+                <a class="hed" alt="Zynga slides after updated agreement with Facebook" href="http://www.cbsnews.com/8301-34227_162-57556309/zynga-slides-after-updated-agreement-with-facebook/">Zynga slides after updated agreement with Facebook</a>
+                <a href="http://www.cbsnews.com/8301-34227_162-57556309/zynga-slides-after-updated-agreement-with-facebook/"><span class="dek">Facebook will be able to develop its own games after the end of March</span>   </a>
+            </div>
+        </li>
+    
+    </ul>
+ </div> <!-- cbsnewsPostREMLargePromos -->
+
+ <!-- /2309-500395_162-0.html?nomesh 505245 nodeChannel= 500395--> 
+
+
+
+
+ 
+
+
+
+
+	
+	<!-- blockList 57442916,
+		
+			57434363,
+		
+			20032070,
+		
+			42745034,
+		
+			4459966,
+		
+			543377,
+		
+			57432816,
+		
+			57443456,
+		
+			908623,
+		
+			57444722,
+		
+			1250,
+		
+			50086775,
+		
+			542708,
+		
+			57405523,
+		
+			57552336,
+		
+			50042216,
+		
+			57525673,
+		
+			50119653,
+		
+			57327827,
+		
+			57442713,
+		
+			57442502,
+		
+			57383415,
+		
+			5601480,
+		
+			57411010, -->
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<div class="twoColContentRight" section="re1.channel">
+	<ul>
+        <!-- 500395 channel -->
+        
+
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 49 promoImage:  -->
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 49 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/11/28/Mercedes-Benz-SLS-AMG-GT_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="/2300-500395_162-10014700.html" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/28/Mercedes-Benz-SLS-AMG-GT_60x60.jpg');" class="image60" alt="Cool cars at the L.A. Auto Show"  ></a>
+                                <a href="/2300-500395_162-10014700.html" class="twoColContentLink" alt="Cool cars at the L.A. Auto Show"  >Cool cars at the L.A. Auto Show</a>
+                                <a href="/2300-500395_162-10014700.html" ><span class="grayMeta">15</span> <span class="redMeta">Photos</span> </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/11/14/headache_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505143_162-57550026/10-things-you-should-never-say-at-the-office/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/14/headache_60x60.jpg');" class="image60" alt="10 things you should never say at the office"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505143_162-57550026/10-things-you-should-never-say-at-the-office/" class="twoColContentLink" alt="10 things you should never say at the office"  >10 things you should never say at the office</a>
+                                <a href="http://www.cbsnews.com/8301-505143_162-57550026/10-things-you-should-never-say-at-the-office/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/10/07/phone-interview_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505143_162-28648080/reverse-cell-phone-lookup-service-is-free-and-simple/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/10/07/phone-interview_60x60.jpg');" class="image60" alt="Reverse cell phone lookup service is free and simple"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505143_162-28648080/reverse-cell-phone-lookup-service-is-free-and-simple/" class="twoColContentLink" alt="Reverse cell phone lookup service is free and simple"  >Reverse cell phone lookup service is free and simple</a>
+                                <a href="http://www.cbsnews.com/8301-505143_162-28648080/reverse-cell-phone-lookup-service-is-free-and-simple/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/11/27/AP390575268775_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505145_162-57554815/powerball-what-to-do-if-you-won/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/27/AP390575268775_60x60.jpg');" class="image60" alt="Powerball: What to do if you won"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505145_162-57554815/powerball-what-to-do-if-you-won/" class="twoColContentLink" alt="Powerball: What to do if you won"  >Powerball: What to do if you won</a>
+                                <a href="http://www.cbsnews.com/8301-505145_162-57554815/powerball-what-to-do-if-you-won/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2011/11/23/Wintery-Decorations_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505125_162-57554005/should-parents-get-time-off-preference-for-holidays/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2011/11/23/Wintery-Decorations_60x60.jpg');" class="image60" alt="Should parents get time off preference for holidays?"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505125_162-57554005/should-parents-get-time-off-preference-for-holidays/" class="twoColContentLink" alt="Should parents get time off preference for holidays?"  >Should parents get time off preference for holidays?</a>
+                                <a href="http://www.cbsnews.com/8301-505125_162-57554005/should-parents-get-time-off-preference-for-holidays/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/07/27/graph-with-USA-flag_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505123_162-57556104/u.s-economy-growing-faster-than-forecast/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/07/27/graph-with-USA-flag_60x60.jpg');" class="image60" alt="U.S. economy growing faster than forecast"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505123_162-57556104/u.s-economy-growing-faster-than-forecast/" class="twoColContentLink" alt="U.S. economy growing faster than forecast"  >U.S. economy growing faster than forecast</a>
+                                <a href="http://www.cbsnews.com/8301-505123_162-57556104/u.s-economy-growing-faster-than-forecast/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 49 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/11/28/Lincoln-Heritage-on-Display_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="/2300-500395_162-10014680.html" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/28/Lincoln-Heritage-on-Display_60x60.jpg');" class="image60" alt="Classic cars at the L.A. Auto Show"  ></a>
+                                <a href="/2300-500395_162-10014680.html" class="twoColContentLink" alt="Classic cars at the L.A. Auto Show"  >Classic cars at the L.A. Auto Show</a>
+                                <a href="/2300-500395_162-10014680.html" ><span class="grayMeta">15</span> <span class="redMeta">Photos</span> </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+
+                        
+                        
+                        
+                        	
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+
+                       
+                       <!-- assetType: 41 promoImage: http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/2013_Honda_Civic_60x60.jpg -->
+                       
+                           
+                            <li >
+                                <a href="http://www.cbsnews.com/8301-505145_162-57556136/honda-introducing-a-new-civic-at-the-l.a-auto-show/" style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/2013_Honda_Civic_60x60.jpg');" class="image60" alt="Honda introducing a new Civic at the L.A. Auto Show"  ></a>
+                                <a href="http://www.cbsnews.com/8301-505145_162-57556136/honda-introducing-a-new-civic-at-the-l.a-auto-show/" class="twoColContentLink" alt="Honda introducing a new Civic at the L.A. Auto Show"  >Honda introducing a new Civic at the L.A. Auto Show</a>
+                                <a href="http://www.cbsnews.com/8301-505145_162-57556136/honda-introducing-a-new-civic-at-the-l.a-auto-show/" > </a>
+                            </li>
+                       
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+           
+                   
+            
+        
+
+	</ul>
+</div>
+
+ 
+     </div> <!-- 2colcontent --> </div> <!-- /postREM --> <!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --> <script language="JavaScript" type="text/javascript">
+
+
+	
+			var omniName = "Story - Midday Glance- Biotechnology companies - 57554910 p ";
+		
+
+	if (typeof(window['pageName']) != 'undefined') omniName = pageName;
+
+	var omniPath = "//";
+	if (typeof(window['pagePath']) != 'undefined') omniPath = pagePath;
+
+	var omniType = "Stories";
+	if (typeof(window['pageType']) != 'undefined') omniType = pageType;
+
+	var omniProps = new Array();
+
+	if (typeof(window['pageProps']) != 'undefined') omniProps = pageProps;
+
+	/* You may give each page an identifying name, server, and channel on
+	the next lines. */
+	
+	var date = new Date("30 Nov 2012 03:05:55 +0000");
+	var days = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+	s.pageName=omniName;
+	s.server="www.cbsnews.com";
+	s.pageType="8301";
+	s.prop8="";
+	/*500395:505123:505245*/
+	
+	     
+        
+         
+        
+		   		s.prop1 = "CBS MoneyWatch";
+		   	
+
+	     
+        
+         
+        
+		   		
+		   	
+
+	     
+        
+         
+        
+		   		
+		   			s.prop2 = "Markets & Investing - AP";
+		   		
+		   	
+s.prop3 = s.pageType;
+	s.prop8 += s.pageName;
+	s.prop18 = date.getHours() + ":00";
+	s.prop19 = days[date.getDay()];
+	s.prop21 = "57554910";
+	s.prop22 = "Midday Glance- Biotechnology companies";
+	s.channel=s.prop1;
+	s.hier1 = s.prop8;
+	/* Conversion Variables */
+	s.campaign=""
+	s.state=""
+	s.zip=""
+	s.events=""
+	s.products=""
+	s.purchaseID=""
+	s.eVar1=""
+	s.eVar2=""
+	s.eVar3=""
+	s.eVar4=""
+	s.eVar5=""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://cbsdigitalmedia.112.2o7.net/b/ss/cbscbsnewscomatlantisuat/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. --> <a name="comments"></a> <div id="postComments"> <div class="userComments"> <a name="comments"></a> <div id="commentWrapper"> <div class="commentPaginationPlaceholder"></div> <div class="commentsWrap"> </div> </div> <a name="addcomm" class="addCommentTag"></a> <div id="fixedCommentBox"> <dl class="addcommentform" style="display:none"> <dt class="hed">Add a Comment</dt> <dd> <div id="addContainer"> <form name="newCommentForm" id="newCommentForm" action="/8625-505245_162-0.html" method="post" class="comment"> <textarea name="body" id="new-body" class="minLength maxLength ta reg" validatorProps="{minLength:2,maxLength:4999}"></textarea> <div class="submitCancel"> <span class="submit addcomment"><a id="subComment" class="button reg">Submit Comment</a> </span> </div> <input type="hidden" name="communityId" value="3000"/> <input type="hidden" name="targetCommunityId" value="3000"/> <textarea name="title" style="display:none"></textarea> <input type="hidden" name="assetId" value="57554910" /> <input type="hidden" name="assetTypeId" value="41" /> </form> </div> <div id="newCommentStatus" class="thanks"></div><div id="newCommentNotify" class="thanks" style="display: none;"><a href="#" onclick="$('newCommentStatus').empty();$('newCommentNotify').hide();$('addContainer').smoothShow();$('new-body').value='';return false;">Click here to add another comment.</a></div> </dd> <dd class="terms"> The posting of advertisements, profanity, or personal attacks is prohibited. By using this Web site you agree to accept our <a href="http://www.cbsinteractive.com/info/tou">Terms of Service</a>. Click here to read the <a href="http://www.cbsnews.com/stories/2005/10/20/utility/main959709.shtml">Rules of Engagement</a>. </dd> </dl> </div> <!-- /fixedCommentBox --> </div><!-- /userComments --> <!-- posted recently:   --> <div id="formzzz" style="display:block"> <div id="replyArea" style="display:none"> <span class="reply"><b>Reply to Comment</b></span> <form name="replyForm" id="replyForm" action="/8625-505245_162-57554910.html" method="post"> <textarea name="body" class="minLength maxLength ta" validatorProps="{minLength:2,maxLength:4999}"></textarea><br /> <input type="hidden" name="communityId" value="3000"/> <input type="hidden" name="targetCommunityId" value="3000"/> <input type="hidden" name="parentCommentId" local="true" value=""/> <input type="hidden" name="feedbackId" local="true" value=""/> <input type="hidden" name="assetId" value="57554910"/> <input type="hidden" name="assetTypeId" value="41"/> <div class="submitCancel"> <span class="submit addcomment"><a class="button">Submit Comment</a></span> <span class="submit cancel"><a class="button">Cancel</a></span> </div> </form> <span class="terms"> The posting of advertisements, profanity, or personal attacks is prohibited. By using this Web site you agree to accept our <a href="http://www.cbsinteractive.com/info/tou">Terms of Service</a>. Click here to read the <a href="http://www.cbsnews.com/stories/2005/10/20/utility/main959709.shtml">Rules of Engagement</a>. </span> </div> <div id="offensiveArea" style="display:none"> <form name="offensiveForm" id="offensiveForm" action="/8629-505245_162-57554910.html" method='post'> <h6>Report offensive content:</h6> <p>If you believe this comment is offensive or violates the CBSNews.com <a href="http://www.cbsinteractive.com/info/tou">Terms of Use</a>, you can report it below (this will not automatically remove the comment). Once reported, our staff will be notified and the comment will be reviewed.</p> <p><b class="dispb">Select type of offense:</b> </p><p class="radio"><input type="radio" name="offensiveCategory" value="offensive" checked="checked"/> <b>Offensive:</b> Sexually explicit or offensive language</p> <p class="radio"><input type="radio" name="offensiveCategory" value="spam"/> <b>Spam:</b> Advertisements, commercial links, or repetitive posts</p> <p class="radio"><input type="radio" name="offensiveCategory" value="disruptive post"/> <b>Disruptive posting:</b> Flaming or offending other users</p> <p class="radio"><input type="radio" name="offensiveCategory" value="Illegal activities"/> <b>Illegal activities:</b> Promote cracked software, or other illegal content</p> <p class="radio"><input type="radio" name="offensiveCategory" value="off topic"/> <b>Off-topic:</b> Commentary unrelated to the storyline</p> <p class="msg"><b>Comments</b> (optional):</p> <textarea name="userComment" wrap="physical" class="txt-area"></textarea> <input type="hidden" name="communityId" value="3000"/> <input type="hidden" name="targetCommunityId" value="3000"/> <input type="hidden" name="permalink" value="/8618-505245_162-57554910.html?assetTypeId=41"/> <input type="hidden" name="messageId" local="true" value=""/> <input type="hidden" name="senderName" value=""/> <span class="submit send"><a id="subOffensive" class="button">Report</a></span> <span class="submit cancel"><a class="button">Cancel</a></span> </form> </div> <div id="emailAFriendArea" style="display:none"> <form name="emailAFriendForm" id="emailAFriendForm" action="/8628-505245_162-57554910.html" method=post> <h6>E-mail this comment to a friend.</h6> <p><b>E-mail this to:</b></p> <input class="txt required validate-email" name="toEmail" value="" type="text"> <p><b>Your e-mail address:</b> </p> <input name="copyMe" type="checkbox"> Send me a copy of this message <p class="note"><b>Note:</b> Your e-mail address is used only to let the recipient know who sent the e-mail and in case of transmission error. Neither your address nor the recipients's address will be used for any other purpose.</p> <p><b>Add your own personal message:</b> (Optional)</p> <textarea name="userComment" id="emailBody">Hi, I found this user's comment on CBSNews.com and thought you might be interested in reading it.</textarea> <input type="hidden" name="communityId" value="3000"/> <input type="hidden" name="targetCommunityId" value="3000"/> <input type="hidden" name="permalink" value="/8618-505245_162-57554910.html?assetTypeId=41"/> <input type="hidden" name="messageId" local="true" value=""> <input type="hidden" name="senderName" value=""> <span class="submit send"><a id="subEmail" class="button">Send e-mail</a></span> <span class="submit cancel"><a class="button close">Cancel</a></span> </form> </div> </div><!-- /formzzz --> </div> </div><!-- /contentBody --> <div id="contentAux" class="contentAux genericRight"> <div id="topMPU" class="mpu"> <script type="text/JavaScript">
+    <!--
+        var cbsiAd16_100 = {
+          'SP' : '16',
+          'POS' : '100',
+          'WIDTH' : '300',
+          'HEIGHT' : '250',
+          'REFRESH' : '1'
+          };
+        cbsiSetupAdDiv("cbsiAd16_100", cbsiAd16_100);
+        cbsiGetDeferredAds(["cbsiAd16_100"]);
+    //-->
+    </script> </div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+<div id="mostPopular" class="rightRail mostPopular">
+    <h4 class="labelText">
+         Most Popular
+	</h4>
+	<ul>
+    
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li class="first">
+            			<div class="backgroundSlash numbers">01</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556189/winning-tickets-sought-in-$588m-powerball-jackpot/" class="headline">Winning tickets sought in $588M Powerball jackpot</a>
+            				<span class="countNumber">139717</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">02</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-504083_162-57556121-504083/fugitive-couple-arrested-at-universal-studios-for-allegedly-beating-burning-boy-in-n.h/" class="headline">Fugitive couple arrested at Universal Studios</a>
+            				<span class="countNumber">28053</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">03</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556106/powerball-officials-record-jackpot-has-been-won/" class="headline">Powerball officials: Record jackpot has been won</a>
+            				<span class="countNumber">19624</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">04</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556166/nypd-officers-act-of-kindness-becomes-viral-hit/" class="headline">NYPD officer's act of kindness becomes viral hit</a>
+            				<span class="countNumber">18753</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li class="last">
+            			<div class="backgroundSlash numbers">05</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-34222_162-57556271-10391739/obama-romney-eat-chili-talk-leadership/" class="headline">Obama, Romney eat chili, talk leadership</a>
+            				<span class="countNumber">18182</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+	</ul>
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="photoMPWrapper" section="cbsPostCarousel">
+    <div class="photoMediaPost">
+        
+        <div style="background-image:url('http://i.i.com.com/cnwk.1d/i/tim/2012/09/20/Zeus_-_Tallest_Dog_0639_300x225.jpg');" class="galleryImage300">
+        </div>
+        <div class="overlayBg">
+            
+                <span class="countNumber">21</span>
+                <span class="countIncrement">Photos</span>
+            
+            
+            <h3 class="headline"><a href="/2300-504784_162-10013872.html">Latest Guinness world records</a></h3>
+        </div>
+        <a href="/2300-504784_162-10013872.html" title="Latest Guinness world records" class="galleryImageOverlay300"></a>
+    </div>
+</div>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="rightRail mostShared" id="mostShared">
+
+	<h4 class="labelText">Most Shared</h4>
+	<ul>
+    
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+
+                   
+               
+
+                   
+               
+
+                   
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li class="first">
+            			<a href="http://www.cbsnews.com/8301-201_162-57556166/nypd-officers-act-of-kindness-becomes-viral-hit/" class="image60" alt="NYPD officer's act of kindness becomes viral hit"><img src="http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/nypd_good_samaritan_60x60.jpg" alt="NYPD officer's act of kindness becomes viral hit"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556166/nypd-officers-act-of-kindness-becomes-viral-hit/" class="headline" alt="NYPD officer's act of kindness becomes viral hit">NYPD officer's act of kindness becomes viral hit</a>
+                            <a href="http://www.cbsnews.com/8301-201_162-57556166/nypd-officers-act-of-kindness-becomes-viral-hit/"><span class="countNumber">2204</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+
+                   
+               
+
+                   
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="http://www.cbsnews.com/8301-505269_162-57505149/modern-wheat-a-perfect-chronic-poison-doctor-says/" class="image60" alt="Modern wheat a "perfect, chronic poison," doctor says"><img src="http://i.i.com.com/cnwk.1d/i/tim/2011/07/19/wheatfield_60x60.jpg" alt="Modern wheat a _perfect, chronic poison,_ doctor says"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-505269_162-57505149/modern-wheat-a-perfect-chronic-poison-doctor-says/" class="headline" alt="Modern wheat a "perfect, chronic poison," doctor says">Modern wheat a "perfect, chronic poison," doctor says</a>
+                            <a href="http://www.cbsnews.com/8301-505269_162-57505149/modern-wheat-a-perfect-chronic-poison-doctor-says/"><span class="countNumber">1286</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+                 
+                    
+                        
+                        
+                        
+                        
+                    
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="/video/watch/?id=50136034n" class="image60" alt="Capturing extreme sports in action"><img src="http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/ctm_1129_GLOR_60x60.jpg" alt="Capturing extreme sports in action"></a>
+            			<div class="text">
+            				<a href="/video/watch/?id=50136034n" class="headline" alt="Capturing extreme sports in action">Capturing extreme sports in action</a>
+                            <a href="/video/watch/?id=50136034n"><span class="countNumber">1164</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+               
+
+                   
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+
+                   
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="http://www.cbsnews.com/8301-201_162-57556305/nypd-officer-grandfather-inspired-act-of-kindness/" class="image60" alt="NYPD officer: Grandfather inspired act of kindness"><img src="http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/deprimo_60x60.jpg" alt="NYPD officer: Grandfather inspired act of kindness"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556305/nypd-officer-grandfather-inspired-act-of-kindness/" class="headline" alt="NYPD officer: Grandfather inspired act of kindness">NYPD officer: Grandfather inspired act of kindness</a>
+                            <a href="http://www.cbsnews.com/8301-201_162-57556305/nypd-officer-grandfather-inspired-act-of-kindness/"><span class="countNumber">1043</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+               
+
+                   
+               
+
+                   
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li class="last">
+            			<a href="http://www.cbsnews.com/8301-201_162-57556106/powerball-officials-record-jackpot-has-been-won/" class="image60" alt="Powerball officials: Record jackpot has been won"><img src="http://i.i.com.com/cnwk.1d/i/tim/2012/11/29/powerball_AP217876383063_fullwidth_60x60.jpg" alt="Powerball officials: Record jackpot has been won"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57556106/powerball-officials-record-jackpot-has-been-won/" class="headline" alt="Powerball officials: Record jackpot has been won">Powerball officials: Record jackpot has been won</a>
+                            <a href="http://www.cbsnews.com/8301-201_162-57556106/powerball-officials-record-jackpot-has-been-won/"><span class="countNumber">937</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+    </ul>
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+		
+
+
+
+<div id="mostDiscussed" class="rightRail mostDiscussed">
+	<h4 class="labelText">Most Discussed</h4>
+    <ul>
+    
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li class="first">
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57555193/for-many-republicans-no-good-options-on-fiscal-cliff/" class="commentCount">606</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57555193/for-many-republicans-no-good-options-on-fiscal-cliff/" class="headline">For many Republicans, no good options on "fiscal cliff"</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-34222_162-57555983-10391739/obama-urges-public-to-press-congress-on-tax-cuts/" class="commentCount">408</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-34222_162-57555983-10391739/obama-urges-public-to-press-congress-on-tax-cuts/" class="headline">Obama urges public to press Congress on tax cuts</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57555984/who-changed-the-benghazi-talking-points/" class="commentCount">359</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57555984/who-changed-the-benghazi-talking-points/" class="headline">Who changed the Benghazi talking points?</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57556075/fiscal-cliff-its-more-than-just-taxes/" class="commentCount">303</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57556075/fiscal-cliff-its-more-than-just-taxes/" class="headline">"Fiscal cliff": It's more than just taxes</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li class="last">
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-34222_162-57556316-10391739/gop-white-house-fiscal-cliff-idea-a-joke/" class="commentCount">255</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-34222_162-57556316-10391739/gop-white-house-fiscal-cliff-idea-a-joke/" class="headline">GOP: White House "fiscal cliff" idea "a joke"</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    </ul>
+</div> <div id="yourStream" class="rightRail yourStream"></div> <script type="text/JavaScript">
+        <!--
+            var cbsiAd104_100 = {
+                'SP' : '104',
+                'POS' : '100',
+                'REFRESH' : '1'
+            };
+            cbsiSetupAdDiv("cbsiAd104_100", cbsiAd104_100);
+            cbsiGetDeferredAds(["cbsiAd104_100"]);
+        //-->
+    </script> <iframe src="http://bwp.cbsnews.com/search?section=CBS MoneyWatch&style=light&width=300&domain=cbsnews.com" scrolling="no" width="300" height="300" marginheight="0" marginwidth="0" frameborder="0" target="_top" style="margin: 0;border-width:0px;float:left;"></iframe> <div id="bottomMPU" class="mpu"> <script type="text/JavaScript">
+    <!--
+        var cbsiAd16_200 = {
+            'SP': '16',
+            'POS': '200',
+            'WIDTH': '300',
+            'HEIGHT': '250',
+            'REFRESH': '1'
+        };
+        cbsiSetupAdDiv("cbsiAd16_200", cbsiAd16_200);
+        cbsiGetDeferredAds(["cbsiAd16_200"]);
+    //-->
+    </script> </div> <script type="text/JavaScript">
+	
+</script> </div><!-- /contentAux --> </div><!-- /contentMain --> </div><!-- /cbsInnerWrap --> </div><!-- /cbsContent --> </div><!-- /cbsContentWrap --> </div> <!-- rb_content --> </div> <!-- rb_wrap --> </div> <!-- rb_skin --> <!-- showTest false --> <footer id="rbFooter"> <div class="cbsFooterBackground"> <div id="cbsFooter" section="ftr"> <div class="footerColumns"> <ul class="footerLinks cbsnews"> <li class="title">CBSNews.com</li> <li><a href="http://www.cbsnews.com/stories/2005/12/08/utility/main1108861.shtml">Site Map</a></li> <li><a href="http://www.cbsnews.com/stories/2006/03/31/utility/main1459753.shtml">Video Site Map</a></li> <li><a href="https://cbsnews.custhelp.com" onclick="open(this.href,'CBS Help','width=670,height=632,scrollbars=yes,resizable=no',false); return false">Help</a></li> <li><a href="http://www.cbsnews.com/htdocs/feedback/fb_news_form.shtml" onclick="new cbsPopup('feedback').open(this.href); return false;">Contact Us</a></li> <li><a href="http://www.cbsnews.com/stories/2002/10/17/utility/main525997.shtml">CBS Bios</a></li> <li><a href="http://www.cbsnews.com/Careers">Careers</a></li> <li><a href="http://www.cbsnews.com/stories/2004/04/26/broadcasts/main613839.shtml">Internships</a></li> <li class="last"><a href="http://www.cbsnews.com/stories/2004/08/03/broadcasts/main633770.shtml">Development Programs</a></li> </ul> <ul class="footerLinks cbsnews"> <li class="title">CBS Interactive</li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a></li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a></li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/eula/">Mobile User Agreement</a></li> <li><a href="http://www.cbscorporation.com/" title="About CBS">About CBS</a></li> <li><a href="http://www.cbsinteractive.com/advertise/" title="Advertise">Advertise</a></li> <li><a href="http://cbsimedia.cbs.com/captioning/info.html" title="Advertise">Closed Captioning</a></li> </ul> <ul class="footerLinks followus"> <li class="title">Follow Us</li> <li class="footerFacebook"><a href="https://www.facebook.com/CBSNews">Facebook</a></li> <li class="footerTwitter"><a href="http://twitter.com/#!/CBSNews">Twitter</a></li> <li class="footerRSS"><a href="http://www.cbsnews.com/stories/2005/01/12/utility/main666437.shtml?tag=contentMain;contentAux">RSS</a></li> <li class="footerNewsletters"><a href="http://www.cbsnews.com/8721-4_162-0.html">Email Newsletters</a></li> <li class="footerYouTube"><a href="http://www.youtube.com/user/CBSNewsOnline">YouTube</a></li> <li class="footerMobile"><a href="http://wap.cbsnews.com/">CBS Mobile</a></li> <li class="footerRadio"><a href="http://www.cbsnews.com/2718-18565_162-1663/cbs-radio-news/">CBS Radio News</a></li> <li class="footerLocal"><a href="http://www.cbsnews.com/2718-18565_162-1672.html">CBS Local</a></li> </ul> <div class="brandLogo"> <a href="/" class="logoCBSnews">CBS News</a> <p class="footerCopyright"> Copyright &#169; 2012 CBS Interactive Inc.<br/> All rights reserved. </p></div> <div class="search"> <div class="loginSearch" section="loginSearch"> <form method="get" action="/1770-5_162-0.html" class="universalSearch" name="tsearch" section="srch"> <div class="searchBoxWrap"> <span> <input type="text" name="query" size="20" maxlength="255" class="searchBox"/> </span> </div> <input type="hidden" name="tag" value="srch" /> <input type="hidden" name="searchtype" value="cbsSearch" /> <input type="submit" class="searchGo" value="Go" /> </form> </div> </div> </div> <!-- /footerColumns --> </div><!-- /cbsFooter --> </div><!-- /cbsFooterBackground -->
+</footer> <!-- ClearGiff DW JS --> <script type="text/javascript">
+        if ($defined(cbsVar_sectId)) PageVars.set('sectionId', cbsVar_sectId);
+        PageVars.set('assetTypeId', 28);
+        DW.pageParams = {
+            siteId: '162',
+            ptid: '8301',
+            onid: PageVars.get('sectionId') || PageVars.get('nodeId'),
+            asId: PageVars.get('assetId'),
+            
+            
+            astId: PageVars.get('assetTypeId'),
+            x_breadcrumb: PageVars.get('breadcrumb'),
+            pguid:  window.cbsiGUID,
+            ldc_domain: '.cbsnews.com'
+        };
+
+        DW.clear();
+        DW.trackClicks(DW.noTagClickHandler);
+    </script> <script type="text/javascript">
+        cbsiAdBehavioralSetup();
+        cbsiAdBehavioral();
+    </script> <noscript> <img src="http://dw.com.com/clear/c.gif?sid=162&amp;im=img" border="0" height="1" width="1" alt="" /> </noscript> <!-- CrowdScience --> <script type="text/javascript">
+(function() {
+	var xclgfbrowser = Cookie.read("XCLGFbrowser");
+	if (xclgfbrowser == null) {
+		xclgfbrowser = "";
+	}
+	var cs = document.createElement('script'); cs.type = 'text/javascript';
+	cs.async = true;
+	cs.src = ('https:' == document.location.protocol ?  'https://' : 'http://') +
+	'static.crowdscience.com/start-c2e7cdddce.js?cp0=' + encodeURIComponent(xclgfbrowser) + '&cp1='
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(cs,s);
+})();
+</script> <!-- /CrowdScience --> <!-- ClickTale bottom -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript" src="http://s.clicktale.net/WRc5.js"></script>
+<script type="text/javascript">
+    ClickTaleFetchFrom = location.href;
+    ClickTaleFetchFrom += "#" +
+encodeURIComponent("CTFetchUserAgent=VisitorUserAgent");
+    if (typeof ClickTale == 'function') ClickTale(676, 0.02, "www08");
+
+    var ClickTaleTagBuffer = [];
+    function BufferedClickTaleTag(tag) {
+        if (typeof ClickTaleTag == "function") {
+            ClickTaleTag(tag);
+        } else {
+            ClickTaleTagBuffer.push(tag);
+        }
+    }
+    setTimeout(function () {
+        if (typeof ClickTaleTag == "function") {
+            for (var i = 0; i < ClickTaleTagBuffer.length; i++) {
+                ClickTaleTag(ClickTaleTagBuffer[i]);
+            }
+        } else {
+            setTimeout(arguments.callee, 100);
+        }
+    }, 100);
+
+    //Event for top 5 products based on "Best 5" in the title
+    if (document.title.search("Best 5") != -1) {
+        BufferedClickTaleTag("Top 5 products");
+        BufferedClickTaleTag(document.title);
+    }
+
+    //Event for comparison chart type 1 based on the class of the compare submenu
+    if ($$("ul.subnavLight > li").hasClass("active")[2]) {
+        BufferedClickTaleTag("Comparison type 1");
+    }
+
+    //Event for comparison chart type 2 based on comparison type in the title
+    if (document.title.search(/comparison chart/i) != -1) {
+        BufferedClickTaleTag("Comparison type 2");
+    }
+
+    //Events for search results by breadcrumbs
+    if ($$("ul.breadcrumb > li").get('text')[1] == "Search Results") {
+        BufferedClickTaleTag("Search Results");
+    }
+
+    //Event for product page based on the class of the review submenu
+    if ($$("ul.subnavLight > li").hasClass("active")[0]) {
+        BufferedClickTaleTag("Product Page");
+    }
+
+    //Event for Category page based on breadcrumbs
+    var CTallcats = $$("ul#primaryNavBar > li > div > nav > ul > li > a").get('text');
+    var CTbreadone = $$("ul.breadcrumb > li").get('text')[1];
+    var CTbreadtwo = $$("ul.breadcrumb > li").get('text')[2];
+    for (i = 0; i < CTallcats.length; i++) {
+        if (CTallcats[i] == CTbreadone || CTallcats[i] == CTbreadtwo) {
+            BufferedClickTaleTag(CTallcats[i]);
+            BufferedClickTaleTag("Category Page");
+        }
+    }
+</script>
+<!-- /ClickTale bottom --> <!-- NR footer --> </div> <!-- rb_shell --> </body> </html>
